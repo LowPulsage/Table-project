@@ -1,0 +1,44 @@
+.mainStyle {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    height: 95vh;
+    grid-gap: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 14px;
+}
+
+.leftHeader {
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.rightHeader {
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.leftSide {
+    border: 1px solid black;
+    overflow-y: scroll;
+    height: 84vh;
+}
+
+.rightSide {
+    border: 1px dashed black;
+    display: grid;
+    grid-template-rows: 10fr 1.2fr;
+    height: 84vh;
+}
+
+.pagination {
+    border: 5px double black;
+    text-align: center;
+    margin: 20px 20px 0 20px
+}

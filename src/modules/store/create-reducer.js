@@ -6,7 +6,7 @@ import { sessionReducer } from 'modules/session/session-reducers'
 const createReducer = asyncReducers =>
   combineReducers({
     ...asyncReducers,
-    [SESSION_STATE]: sessionReducer,
+    source: sessionReducer,
   })
 
 export default createReducer

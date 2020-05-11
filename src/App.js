@@ -3,7 +3,8 @@ import React from 'react'
 // import { Route, Switch } from 'react-router-dom'
 // import { authorized, unauthorized } from 'modules/router/routes'
 import { Layout } from 'components'
-import MainPage from './components/MainPage/MainPage'
+import MainPage from './pages/MainPage/MainPage'
+import { Provider } from 'react-redux'
 
 // const RouteWithSubRoutes = route => (
 //   <Route path={route.path} render={props => <route.component {...props} routes={route.routes} />} />
@@ -23,6 +24,7 @@ const App = () => {
       <MainPage />
       {/* {renderContent(user ? authorized : unauthorized)} */}
     </Layout>
+
   )
 }
 

@@ -4,7 +4,7 @@ import './index.styl'
 const HeaderLeft = () => {
   return (
     <div className='HeaderLeft-root'>
-      Here will be some text 1
+      ФЗ: о государственном контроле (надзоре) и о муниципальном контроле в Российской федерации
     </div>
   )
 }

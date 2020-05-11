@@ -1,3 +1,4 @@
-import { SESSION_STATE } from './session-constants'
+import { SESSION_STATE, UPDATE_TEXT } from './session-constants'
 
-export const sessionSelector = state => state[SESSION_STATE]
+export const sessionSelector = state => state.source.sourceData
+console.log(alert(sessionSelector()))

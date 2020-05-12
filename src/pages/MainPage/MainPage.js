@@ -8,12 +8,12 @@ import './index.styl'
 const MainPage = () => {
   return (
     <div className='MainPage-root'>
-      <div>
+      <div className='mainPage-header'>
         <HeaderLeft />
-        <Paragraphs />
-      </div>
-      <div>
         <HeaderRight />
+      </div>
+      <div className='mainPage-leftSide'>
+        <Paragraphs />
         <SourceContainer />
       </div>
     </div>

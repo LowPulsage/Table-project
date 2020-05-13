@@ -1,26 +1,22 @@
 import { } from './session-constants'
 import { UPDATE_TEXT } from './session-actions'
+import sourceData from './file'
 
 export const sessionInitialState = {
-  sourceData: [
-    { id: 1, message: 'Настоящий Порядок устанавливает правила создания и ведения Федерального информационного фонда по обеспечению единства измерений (далее - Фонд), передачи сведений в него. 1' },
-    { id: 2, message: 'Настоящий Порядок устанавливает правила создания и ведения Федерального информационного фонда по обеспечению единства измерений (далее - Фонд), передачи сведений в него. 2' },
-    { id: 3, message: 'Настоящий Порядок устанавливает правила создания и ведения Федерального информационного фонда по обеспечению единства измерений (далее - Фонд), передачи сведений в него. 3' },
-    { id: 4, message: 'Настоящий Порядок устанавливает правила создания и ведения Федерального информационного фонда по обеспечению единства измерений (далее - Фонд), передачи сведений в него. 4' },
-    // { id: 5, message: 'Настоящий Порядок устанавливает правила создания и ведения Федерального информационного фонда по обеспечению единства измерений (далее - Фонд), передачи сведений в него. 5' },
-  ],
+  sourceData,
+  selected: sourceData[0],
 }
-
+/* eslint-disable */
 export const sessionReducer = (state = sessionInitialState, action = {}) => {
   // const { type } = action
   switch (action.type) {
-  // case UPDATE_TEXT:
-  //   return {
-  //     ...state,
-  //     sourceData: [...state, action.textData],
-  //   }
-  default:
-    return state
+    // case UPDATE_TEXT:
+    //   return {
+    //     ...state,
+    //     sourceData: [...state, action.textData],
+    //   }
+    default:
+      return state
   }
 }
 

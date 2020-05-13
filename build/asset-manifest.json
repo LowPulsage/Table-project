@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/Table-project/static/js/main.bf5299f7.chunk.js",
+    "main.js.map": "/Table-project/static/js/main.bf5299f7.chunk.js.map",
+    "runtime-main.js": "/Table-project/static/js/runtime-main.ed53e01f.js",
+    "runtime-main.js.map": "/Table-project/static/js/runtime-main.ed53e01f.js.map",
+    "static/css/2.05318b80.chunk.css": "/Table-project/static/css/2.05318b80.chunk.css",
+    "static/js/2.4954c780.chunk.js": "/Table-project/static/js/2.4954c780.chunk.js",
+    "static/js/2.4954c780.chunk.js.map": "/Table-project/static/js/2.4954c780.chunk.js.map",
+    "index.html": "/Table-project/index.html",
+    "precache-manifest.40d4c0e60ddfc14c038b56c07bd90e67.js": "/Table-project/precache-manifest.40d4c0e60ddfc14c038b56c07bd90e67.js",
+    "service-worker.js": "/Table-project/service-worker.js",
+    "static/css/2.05318b80.chunk.css.map": "/Table-project/static/css/2.05318b80.chunk.css.map",
+    "static/js/2.4954c780.chunk.js.LICENSE.txt": "/Table-project/static/js/2.4954c780.chunk.js.LICENSE.txt",
+    "static/media/Адм.регламент_Росстандарт_2173_20092019.pdf": "/Table-project/static/media/Адм.регламент_Росстандарт_2173_20092019.5a3a1a8a.pdf",
+    "static/media/Порядок_Минпромторг_1328_20082013.pdf": "/Table-project/static/media/Порядок_Минпромторг_1328_20082013.dfdf8f93.pdf",
+    "static/media/Порядок_РК_ЕЭК_161_06122016.pdf": "/Table-project/static/media/Порядок_РК_ЕЭК_161_06122016.2e4fa04f.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed53e01f.js",
+    "static/css/2.05318b80.chunk.css",
+    "static/js/2.4954c780.chunk.js",
+    "static/js/main.bf5299f7.chunk.js"
+  ]
+}

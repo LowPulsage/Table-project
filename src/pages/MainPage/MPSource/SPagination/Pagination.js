@@ -2,10 +2,10 @@ import React from 'react'
 import './index.styl'
 import { Pagination } from 'antd'
 
-const PaginationFunc = () => {
+const PaginationFunc = ({ currentPage, setCurrentPage }) => {
   return (
     <div className='Pagination-root'>
-      <Pagination defaultCurrent={1} total={25} defaultPageSize={5} />
+      <Pagination defaultCurrent={currentPage} onChange={setCurrentPage} total={20} defaultPageSize={4} />
     </div>
   )
 }

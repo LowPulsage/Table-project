@@ -14,7 +14,7 @@ const MainPage = () => {
         <HeaderLeft />
         <HeaderRight />
       </div>
-      <div className='mainPage-leftSide'>
+      <div className='mainPage-content'>
         <Paragraphs currentSelectedId={currentSelectedId}/>
         <Source setCurrentSelectedId={setCurrentSelectedId}/>
       </div>

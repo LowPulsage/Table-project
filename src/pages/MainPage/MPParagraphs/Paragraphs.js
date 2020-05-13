@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react'
 import './index.styl'
 import { Skeleton } from 'antd'
 // import test from './Порядок_РК_ЕЭК_161_06122016.pdf'
-import mammoth from 'mammoth'
+// import mammoth from 'mammoth'
 import __html from './Порядок_РК_ЕЭК_161_06122016.js'
 var template = { __html };
 
@@ -14,7 +14,7 @@ const Paragraphs = (props) => {
   debugger
   return (
     <div className='Paragraphs-root'>
-      <div dangerouslySetInnerHTML={template} />
+      <div dangerouslySetInnerHTML={template} className='testText'/>
       {/* {
         props.currentSelectedId ?
           (props.currentSelectedId === 1 || props.currentSelectedId === 3) ?

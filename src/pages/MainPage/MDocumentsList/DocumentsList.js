@@ -9,14 +9,30 @@ import './index.styl'
 const DocumentsList = (props) => {
   console.log(props, 'doc')
   let value = useSelector(state => state.source)
-  console.log(value, 'value')
+
+  
+  debugger
+  const [source, initialState] = React.useReducer(
+    
+    source,
+    sessionInitialState
+  );
+ 
+  const handleChange = source => {
+    dispatch({
+      type: OVERWRITE_DOC_FILE_TEXT,
+      id: source.fileName,
+    });
+  };
+
+
   return (
     <div className='MainPage-documentList'>
       <List size="small"
         className="list"
         bordered
         dataSource={value.docxFileNames}
-        renderItem={item => <List.Item onClick={() => props.setSelectedWordFileId(item.fileName)}>
+        renderItem={item => <List.Item onClick={() => handleChange(item.fileName)}>
           <List.Item.Meta className={`documentList-fileName ${props.selectedWordFileId === item.fileName ? 'selected' : ''}`}
             avatar={<Avatar src={docxIcon} />}
             title={<div>{item.fileName}</div>}

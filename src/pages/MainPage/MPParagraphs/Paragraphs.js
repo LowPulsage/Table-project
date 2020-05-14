@@ -22,16 +22,13 @@ import __html from './Documents/Адм.регламент_Росстандарт
 
 const Paragraphs = (props) => {
   console.log(props)
-
   // const [documentOne, setDocument] = useState()
   // debugger
   // useEffect(() => {
-  let documentName = props.selectedWordFileId;
   // })
   // }, [])
   const documentOne = require(`./Documents/${props.selectedWordFileId}.js`)
   const document = { __html: documentOne?.default };
-  // console.log('sssssss')
 
   return (
     <div className='Paragraphs-root'>

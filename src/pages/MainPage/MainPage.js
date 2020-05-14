@@ -7,11 +7,12 @@ import HeaderRight from './MPHeaders/HeaderRight'
 import './index.styl'
 import DocumentsList from './MDocumentsList/DocumentsList'
 
+
 const MainPage = () => {
-  const [currentSelectedId, setCurrentSelectedId] = useState()
+  // const [currentSelectedId, setCurrentSelectedId] = useState()
   const [selectedWordFileId, setSelectedWordFileId] = useState()
   const [selectedExcelFileId, setSelectedExcelFileId] = useState()
-  const [selectedItemName, setSelectedItemName] = useState()
+
   return (
     <div className='MainPage-root'>
       {!selectedWordFileId || !selectedExcelFileId ?
@@ -27,10 +28,9 @@ const MainPage = () => {
             <HeaderRight />
           </div>
           <div className='mainPage-content'>
-            <Paragraphs currentSelectedId={currentSelectedId}
-              selectedItemName={selectedItemName} setSelectedItemName={setSelectedItemName}
-              selectedWordFileId={selectedWordFileId}/>
-            <Source setCurrentSelectedId={setCurrentSelectedId} />
+            <Paragraphs 
+              selectedWordFileId={selectedWordFileId} />
+            <Source />
           </div>
         </div>
       }
@@ -39,3 +39,6 @@ const MainPage = () => {
 }
 
 export default MainPage
+
+// currentSelectedId={currentSelectedId} Paragraph
+//setCurrentSelectedId={setCurrentSelectedId} Source

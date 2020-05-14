@@ -1,10 +1,14 @@
 import { } from './session-constants'
 import { UPDATE_TEXT } from './session-actions'
 import sourceData from './file'
+import excelFileNames from './excel-file-names'
+import docxFileNames from './docx-file-names'
 
 export const sessionInitialState = {
   sourceData,
-  selected: sourceData[0],
+  // selected: sourceData[0],
+  docxFileNames,
+  excelFileNames,
 }
 /* eslint-disable */
 export const sessionReducer = (state = sessionInitialState, action = {}) => {

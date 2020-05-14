@@ -7,15 +7,17 @@ import exelIcon from './exel.png'
 import './index.styl'
 
 const DocumentsList = (props) => {
+  console.log(props, 'doc')
   let value = useSelector(state => state.source)
+  console.log(value, 'value')
   return (
     <div className='MainPage-documentList'>
       <List size="small"
         className="list"
         bordered
         dataSource={value.docxFileNames}
-        renderItem={item => <List.Item onClick={() => props.setSelectedWordFileId(item.id)}>
-          <List.Item.Meta className={`documentList-fileName ${props.selectedWordFileId === item.id ? 'selected' : ''}`}
+        renderItem={item => <List.Item onClick={() => props.setSelectedWordFileId(item.fileName)}>
+          <List.Item.Meta className={`documentList-fileName ${props.selectedWordFileId === item.fileName ? 'selected' : ''}`}
             avatar={<Avatar src={docxIcon} />}
             title={<div>{item.fileName}</div>}
           />

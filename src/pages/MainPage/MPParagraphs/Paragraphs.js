@@ -37,7 +37,7 @@ const Paragraphs = (props) => {
     setText(document.querySelector('.testText').innerText.replace(/\s{2,}/g, ' '))
   }, [])
   return (
-    <div className='Paragraphs-root' onClick={() => dipatch(setIsClick(true))}>
+    <div className='Paragraphs-root' onClick={(e) => { dipatch(setIsClick(e.target.id)) }}>
       <div dangerouslySetInnerHTML={documents} className='testText' />
       {/* <div>{text}</div> */}
     </div>

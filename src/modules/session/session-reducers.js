@@ -18,7 +18,7 @@ export const sessionInitialState = {
   excelFileNames,
   selectedWordFileName: null,
   selectedExcelFileName: null,
-  isClick: false
+  isClick: undefined
 }
 
 export const sessionReducer = (state = sessionInitialState, action) => {

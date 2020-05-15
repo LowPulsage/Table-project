@@ -45,7 +45,8 @@ export default `
 <P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
 &nbsp;</P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><SPAN STYLE="background: #ffff00">1.
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><SPAN>1.
+<span CLASS="green" id='id1'>
 Настоящий Порядок разработан в
 соответствии с подпунктом 3 пункта 3 и
 подпунктом 4 пункта 9 Протокола о
@@ -62,17 +63,20 @@ export default `
 - государства-члены, Союз), и содержит
 перечень предоставляемых в рамках
 настоящего Порядка сведений в области
-обеспечения единства измерений.</SPAN></FONT></FONT></FONT></FONT></P>
+обеспечения единства измерений.</span></SPAN></FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>2.
-</FONT></FONT><FONT FACE="Times New Roman, serif"><FONT SIZE=3><SPAN STYLE="background: #ffff00">Для
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>
+2.
+</FONT></FONT><FONT FACE="Times New Roman, serif"><FONT SIZE=3><SPAN STYLE="background: #ffff00">
+<span CLASS="green" id='id2'>
+Для
 целей настоящего Порядка используется
 понятие &quot;сведения&quot;, которое означает
 информацию из электронных баз данных
 и документы в электронном виде,
 содержащиеся в информационных фондах
 государств-членов в области обеспечения
-единства измерений.</SPAN></FONT></FONT></FONT></FONT></P>
+единства измерений.</span></SPAN></FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>3.
 Организация взаимного предоставления
@@ -84,13 +88,13 @@ export default `
 (далее - уполномоченные органы
 государств-членов).</FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%"><A NAME="_GoBack"></A>
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>4.
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><span CLASS="green" id='id3'>4.
 Предоставление сведений осуществляется
 организациями, уполномоченными в
 соответствии с законодательством
 государства-члена на предоставление
 сведений (далее - уполномоченные
-организации).</FONT></FONT></FONT></FONT></P>
+организации).</span</FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>5.
 Предоставление сведений осуществляется
@@ -125,7 +129,7 @@ export default `
 определяются Евразийской экономической
 комиссией (далее - Комиссия).</FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%"><A NAME="p44"></A>
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>6.
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><span CLASS="green" id='id4'>6.
 Предоставление сведений осуществляется
 по запросу уполномоченных органов
 государств-членов, Комиссии, уполномоченных
@@ -134,7 +138,7 @@ export default `
 индивидуальных предпринимателей, и
 физических лиц (далее - заявители). Запрос
 формируется в зависимости от способа
-предоставления сведений и содержит:</FONT></FONT></FONT></FONT></P>
+предоставления сведений и содержит:</span></FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>а)
 сведения о заявителе: наименование

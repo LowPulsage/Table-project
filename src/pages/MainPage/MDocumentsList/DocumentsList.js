@@ -1,39 +1,24 @@
 /*eslint-disable */
 import React from 'react'
 import { List, Avatar } from 'antd'
-import { useSelector } from 'react-redux'
+import { useSelector, useDispatch } from 'react-redux'
 import docxIcon from './hotpng.com.png'
 import exelIcon from './exel.png'
 import './index.styl'
+import { setSelectedWordName, setSelectedExelName } from '../../../modules/session/session-reducers'
 
 const DocumentsList = (props) => {
-  console.log(props, 'doc')
-  let value = useSelector(state => state.source)
-
-  
-  debugger
-  const [source, initialState] = React.useReducer(
-    
-    source,
-    sessionInitialState
-  );
- 
-  const handleChange = source => {
-    dispatch({
-      type: OVERWRITE_DOC_FILE_TEXT,
-      id: source.fileName,
-    });
-  };
-
+  const dispatch = useDispatch()
+  const source = useSelector(state => state.source)
 
   return (
     <div className='MainPage-documentList'>
       <List size="small"
         className="list"
         bordered
-        dataSource={value.docxFileNames}
-        renderItem={item => <List.Item onClick={() => handleChange(item.fileName)}>
-          <List.Item.Meta className={`documentList-fileName ${props.selectedWordFileId === item.fileName ? 'selected' : ''}`}
+        dataSource={source.docxFileNames}
+        renderItem={item => <List.Item onClick={() => dispatch(setSelectedWordName(item.fileName))}>
+          <List.Item.Meta className={`documentList-fileName ${source.selectedWordFileName === item.fileName ? 'selected' : ''}`}
             avatar={<Avatar src={docxIcon} />}
             title={<div>{item.fileName}</div>}
           />
@@ -41,9 +26,9 @@ const DocumentsList = (props) => {
       <List size="small"
         className="list"
         bordered
-        dataSource={value.excelFileNames}
-        renderItem={item => <List.Item onClick={() => props.setSelectedExcelFileId(item.id)}>
-          <List.Item.Meta className={`documentList-fileName ${props.selectedExcelFileId === item.id ? 'selected' : ''}`}
+        dataSource={source.excelFileNames}
+        renderItem={item => <List.Item onClick={() => dispatch(setSelectedExelName(item.fileName))}>
+          <List.Item.Meta className={`documentList-fileName ${source.selectedExcelFileName === item.fileName ? 'selected' : ''}`}
             avatar={<Avatar src={exelIcon} />}
             title={<div>{item.fileName}</div>}
           />

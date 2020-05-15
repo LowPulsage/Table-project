@@ -871,8 +871,8 @@ export default `
 средств измерений должны соблюдаться
 обязательные требования к условиям их
 эксплуатации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
+<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #11418f;line-height: 100%" onmouseover="this.style.cursor='pointer';" >
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#fff"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
 Конструкция средств измерений должна
 обеспечивать ограничение доступа к
 определенным частям средств измерений

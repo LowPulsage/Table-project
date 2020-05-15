@@ -2,6 +2,8 @@
 import React, { useState, useEffect } from 'react'
 import './index.styl'
 import __html from './Documents/Адм.регламент_Росстандарт_2346_12112018.js'
+import { useSelector, useDispatch } from 'react-redux'
+import { setIsClick } from '../../../modules/session/session-reducers'
 
 // import fz_102 from './Documents/ФЗ_102_26062008.js'
 // import prot_10 from './Documents/Протокол_10_ЕЭС_29052014.js'
@@ -17,22 +19,27 @@ import __html from './Documents/Адм.регламент_Росстандарт
 // import pol_879 from './Documents/Положение_879_31102009.js'
 // import per_24 from './Documents/Перечень_РК_ЕЭК_24_21042015.js'
 // import adm_2173 from './Documents/Адм.регламент_Росстандарт_2173_20092019.js'
+// import excelDoc from './ExcelDocumentList/Близкие-фрагменты-разный-размер.js
 
 
 
 const Paragraphs = (props) => {
-  console.log(props)
-  // const [documentOne, setDocument] = useState()
-  // debugger
-  // useEffect(() => {
-  // })
-  // }, [])
-  const documentOne = require(`./Documents/${props.selectedWordFileId}.js`)
-  const document = { __html: documentOne?.default };
+  const [text, setText] = useState()
+  const selectedWordFileName = useSelector(state => state.source.selectedWordFileName)
 
+  const documentOne = require(`./Documents/${selectedWordFileName}.js`)
+  const documents = { __html: documentOne?.default };
+
+  const dipatch = useDispatch()
+  //let textFormater = document.querySelector('text').innerText
+  // console.log(textFormater)
+  useEffect(() => {
+    setText(document.querySelector('.testText').innerText.replace(/\s{2,}/g, ' '))
+  }, [])
   return (
-    <div className='Paragraphs-root'>
-      <div dangerouslySetInnerHTML={document} className='testText' />
+    <div className='Paragraphs-root' onClick={() => dipatch(setIsClick(true))}>
+      <div dangerouslySetInnerHTML={documents} className='testText' />
+      {/* <div>{text}</div> */}
     </div>
   )
 }

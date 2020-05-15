@@ -79,9 +79,8 @@ export default `
 единства измерений.</span></SPAN></FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>3.
-Организация взаимного предоставления
-предусмотренных в </FONT></FONT><A HREF="#p56"><FONT COLOR="#0000ff"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><U>пункте
-12</U></FONT></FONT></FONT></A><FONT FACE="Times New Roman, serif"><FONT SIZE=3>
+<span CLASS="green" id='id5'>Организация взаимного предоставления
+предусмотренных в пункте 12
 настоящего Порядка сведений осуществляется
 уполномоченными органами государств-членов
 в области обеспечения единства измерений
@@ -94,7 +93,7 @@ export default `
 соответствии с законодательством
 государства-члена на предоставление
 сведений (далее - уполномоченные
-организации).</span</FONT></FONT></FONT></FONT></P>
+организации).</span></FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>5.
 Предоставление сведений осуществляется
@@ -129,7 +128,7 @@ export default `
 определяются Евразийской экономической
 комиссией (далее - Комиссия).</FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%"><A NAME="p44"></A>
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><span CLASS="green" id='id4'>6.
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><span CLASS="" id='id4'>6.
 Предоставление сведений осуществляется
 по запросу уполномоченных органов
 государств-членов, Комиссии, уполномоченных

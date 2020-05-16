@@ -1,7 +1,7 @@
 import currentFile from './../../../modules/session/some_info'
 import { useSelector } from 'react-redux'
-import React, { useState } from 'react'
 import { List } from 'antd'
+import React from 'react'
 import './index.styl'
 
 const Source = () => {
@@ -10,10 +10,10 @@ const Source = () => {
 
   return (
     <div className='Source-root'>
-	  <div className='sourse-all-text'>
+      <div className='sourse-all-text'>
         <List
-          itemLayout="horizontal"
           dataSource={documentOne}
+          itemLayout='horizontal'
           renderItem={item => (
             <List.Item>
               <List.Item.Meta

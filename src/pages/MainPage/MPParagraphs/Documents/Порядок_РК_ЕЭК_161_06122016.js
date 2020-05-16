@@ -8,9 +8,9 @@ export default `
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
 	<META NAME="CREATED" CONTENT="20200505;131200000000000">
-	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
-	<META NAME="CHANGED" CONTENT="20200505;131200000000000">
-	<META NAME="AppVersion" CONTENT="16.0000">
+	<META NAME="CHANGEDBY" CONTENT="Impulse Impulse">
+	<META NAME="CHANGED" CONTENT="20200516;104600000000000">
+	<META NAME="AppVersion" CONTENT="15.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
 	<META NAME="LinksUpToDate" CONTENT="false">
@@ -28,23 +28,23 @@ export default `
 	</STYLE>
 </HEAD>
 <BODY LANG="ru-RU" LINK="#0563c1" DIR="LTR">
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПОРЯДОК</B></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ВЗАИМНОГО
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; line-height: 150%"><A NAME="_GoBack"></A>
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><B>ПОРЯДОК</B></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><B>ВЗАИМНОГО
 ПРЕДОСТАВЛЕНИЯ СВЕДЕНИЙ В ОБЛАСТИ
 ОБЕСПЕЧЕНИЯ</B></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ЕДИНСТВА
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><B>ЕДИНСТВА
 ИЗМЕРЕНИЙ, СОДЕРЖАЩИХСЯ В ИНФОРМАЦИОННЫХ
 ФОНДАХ</B></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ГОСУДАРСТВ
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><B>ГОСУДАРСТВ
 - ЧЛЕНОВ ЕВРАЗИЙСКОГО ЭКОНОМИЧЕСКОГО
 СОЮЗА</B></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 150%">
 &nbsp;</P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>1.
 Настоящий Порядок разработан в
 соответствии с подпунктом 3 пункта 3 и
@@ -63,7 +63,7 @@ export default `
 перечень предоставляемых в рамках
 настоящего Порядка сведений в области
 обеспечения единства измерений.</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>2.
 Для целей настоящего Порядка используется
 понятие &quot;сведения&quot;, которое означает
@@ -72,7 +72,7 @@ export default `
 содержащиеся в информационных фондах
 государств-членов в области обеспечения
 единства измерений.</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>3.
 Организация взаимного предоставления
 предусмотренных в </FONT></FONT><A HREF="#p56"><FONT COLOR="#0000ff"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><U>пункте
@@ -82,7 +82,7 @@ export default `
 в области обеспечения единства измерений
 (далее - уполномоченные органы
 государств-членов).</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>4.
 Предоставление сведений осуществляется
 организациями, уполномоченными в
@@ -90,14 +90,14 @@ export default `
 государства-члена на предоставление
 сведений (далее - уполномоченные
 организации).</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>5.
 Предоставление сведений осуществляется
 следующими способами:</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>а)
 в письменной форме на бумажном носителе;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>б)
 в электронном виде с использованием
 средств информационных порталов
@@ -108,13 +108,13 @@ export default `
 адресах указанных информационных
 порталов размещается на официальном
 сайте Союза в сети Интернет;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #f4f3f8; line-height: 100%">
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #f4f3f8; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#392c69"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>КонсультантПлюс:
 примечание.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #f4f3f8; line-height: 100%">
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #f4f3f8; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#392c69"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>Пп.
 &quot;в&quot; п. 5 вступает в силу с 30.01.2020.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%"><A NAME="p43"></A>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%"><A NAME="p43"></A>
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>в)
 в электронном виде с использованием
 средств интегрированной информационной
@@ -123,7 +123,7 @@ export default `
 Требования к реализации общего процесса
 определяются Евразийской экономической
 комиссией (далее - Комиссия).</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%"><A NAME="p44"></A>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%"><A NAME="p44"></A>
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>6.
 Предоставление сведений осуществляется
 по запросу уполномоченных органов
@@ -134,7 +134,7 @@ export default `
 физических лиц (далее - заявители). Запрос
 формируется в зависимости от способа
 предоставления сведений и содержит:</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>а)
 сведения о заявителе: наименование
 заявителя или фамилия, имя и отчество
@@ -142,7 +142,7 @@ export default `
 зарегистрированного в качестве
 индивидуального предпринимателя, и
 физического лица;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>б)
 подпись руководителя либо полномочного
 представителя руководителя заявителя
@@ -150,7 +150,7 @@ export default `
 лица, зарегистрированного в качестве
 индивидуального предпринимателя, и
 физического лица;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>в)
 адрес местонахождения (адрес юридического
 лица) - для уполномоченных органов
@@ -161,13 +161,13 @@ export default `
 индивидуального предпринимателя, и
 физического лица, а также адрес электронной
 почты;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>г)
 предмет и цель запроса;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>д)
 дата направления запроса.</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>7.
 Предоставление сведений осуществляется
 в течение 20 рабочих дней с даты получения
@@ -178,7 +178,7 @@ export default `
 &quot;в&quot; пункта 5</U></FONT></FONT></FONT></A><FONT FACE="Times New Roman, serif"><FONT SIZE=3>
 настоящего Порядка - в течение 3 рабочих
 дней с даты получения указанного запроса.</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%"><A NAME="p51"></A>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%"><A NAME="p51"></A>
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>8.
 В случае если запрашиваемые сведения
 отнесены в соответствии с законодательством
@@ -188,7 +188,7 @@ export default `
 предоставление таких сведений в
 соответствии с законодательством своего
 государства-члена.</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>Перечень
 сведений ограниченного распространения
 (доступа) публикуется на информационном
@@ -196,28 +196,28 @@ export default `
 государства-члена в сети Интернет в
 соответствии с законодательством его
 государства.</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>9.
 Уполномоченные органы государств-членов
 обеспечивают предоставление полных и
 достоверных сведений.</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>10.
 Комиссия вправе запрашивать у
 уполномоченных органов государств-членов
 сведения в целях осуществления полномочий,
 предусмотренных правом Союза.</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>11.
 Государства-члены осуществляют
 урегулирование спорных вопросов,
 возникающих в процессе взаимного
 предоставления сведений, посредством
 проведения взаимных консультаций.</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%"><A NAME="p56"></A>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%"><A NAME="p56"></A>
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>12.
 К предоставляемым сведениям относятся:</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>а)
 реквизиты и источники официального
 опубликования нормативных правовых
@@ -225,34 +225,34 @@ export default `
 государства-члена, международных
 документов в области обеспечения
 единства измерений;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>б)
 реквизиты и источники официального
 опубликования международных договоров
 государств-членов в области обеспечения
 единства измерений;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>в)
 сведения об эталонах единиц величин и
 шкалах величин:</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>наименование
 эталона единицы величины (далее - эталон)
 или шкалы величины;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>статус,
 разряд эталона по поверочной (иерархической)
 схеме (при наличии);</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>метрологические
 характеристики эталона;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>регистрационный
 номер эталона (при наличии);</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>год
 утверждения эталона (при наличии);</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>место
 хранения и применения эталона (сведения
 о держателе эталона: наименование
@@ -266,11 +266,11 @@ export default `
 индивидуального предпринимателя, номера
 телефона и факса, а также адрес электронной
 почты (при наличии));</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>сведения
 о метрологической прослеживаемости
 эталона;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>г)
 сведения о средствах измерений
 утвержденных типов и о выданных
@@ -281,18 +281,18 @@ export default `
 результатов работ по обеспечению
 единства измерений, утверждаемыми
 Комиссией:</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>наименование
 типа средств измерений;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>регистрационный
 номер сертификата об утверждении типа
 средств измерений и дата его выдачи;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>срок
 действия сертификата об утверждении
 типа средств измерений;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>сведения
 об изготовителе средств измерений:
 наименование юридического лица или
@@ -303,10 +303,10 @@ export default `
 лица) или место жительства - для физического
 лица, зарегистрированного в качестве
 индивидуального предпринимателя;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>интервал
 между поверками средств измерений;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>методика
 поверки средств измерений, разработанная
 и утвержденная в соответствии с
@@ -315,18 +315,18 @@ export default `
 или межгосударственный стандарт,
 определяющий методику поверки средств
 измерений;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>сведения
 о признании утверждения типа средств
 измерений государствами-членами;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>копия
 сертификата об утверждении типа средств
 измерений или его дубликата (при наличии);</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>копия
 описания типа средств измерений;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>д)
 сведения о стандартных образцах
 утвержденных типов и о выданных
@@ -337,18 +337,18 @@ export default `
 взаимного признания результатов работ
 по обеспечению единства измерений,
 утверждаемыми Комиссией:</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>наименование
 типа стандартного образца;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>регистрационный
 номер сертификата об утверждении типа
 стандартного образца и дата его выдачи;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>срок
 действия сертификата об утверждении
 типа стандартного образца;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>сведения
 об изготовителе стандартного образца:
 наименование юридического лица или
@@ -359,19 +359,19 @@ export default `
 лица) или место жительства - для физического
 лица, зарегистрированного в качестве
 индивидуального предпринимателя;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>сведения
 о признании утверждения типа стандартного
 образца государствами-членами;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>копия
 сертификата об утверждении типа
 стандартного образца или его дубликата
 (при наличии);</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>копия
 описания типа стандартного образца;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>е)
 сведения о результатах поверки средств
 измерений утвержденных типов, в том
@@ -380,42 +380,42 @@ export default `
 признания результатов работ по обеспечению
 единства измерений, утверждаемыми
 Комиссией:</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>наименование
 типа средств измерений;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>заводской
 номер средства измерений;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>полное
 наименование организации, проводившей
 поверку средства измерений;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>наименование
 и номер документа, подтверждающего
 полномочия организации, проводившей
 поверку средства измерений;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>изображение
 знака поверки (оттиска поверительного
 клейма) или номер знака поверки в виде
 наклейки;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>номер
 и срок действия свидетельства о поверке
 средства измерений;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>наименование,
 обозначение методики поверки средства
 измерений или наименование нормативного
 документа, в соответствии с которым
 осуществлена поверка средства измерений;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>сведения
 о признании государствами-членами
 поверки средства измерений утвержденного
 типа;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>ж)
 сведения об аттестованных методиках
 (методах) измерений, в том числе методиках
@@ -430,7 +430,7 @@ export default `
 взаимного признания результатов работ
 по обеспечению единства измерений,
 утверждаемыми Комиссией:</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>наименование
 и обозначение документа, регламентирующего
 методику (метода) измерений (далее -
@@ -438,21 +438,21 @@ export default `
 случая, предусмотренного </FONT></FONT><A HREF="#p51"><FONT COLOR="#0000ff"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><U>пунктом
 8</U></FONT></FONT></FONT></A><FONT FACE="Times New Roman, serif"><FONT SIZE=3>
 настоящего Порядка;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>наименование
 измеряемой величины и шкалы величины
 (шкалы измерений или единицы измерений);</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>диапазон
 измерений;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>показатели
 точности измерений;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>номер
 и дата выдачи свидетельства, выданного
 по итогам проведения аттестации методики;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>сведения
 о разработчике (владельце) методики:
 наименование юридического лица или
@@ -463,57 +463,57 @@ export default `
 лица) или место жительства - для физического
 лица, зарегистрированного в качестве
 индивидуального предпринимателя;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>наименование,
 адрес местонахождения организации,
 проводившей аттестацию методики;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>наименование
 и номер документа, подтверждающего
 полномочия организации, проводившей
 аттестацию методики;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>наименование
 организации, утвердившей методику в
 качестве референтной методики;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>сведения
 о признании результатов аттестации
 методики государствами-членами;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>копии
 свидетельства, выданного по итогам
 проведения аттестации методики, и (или)
 его дубликата (при наличии);</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>з)
 сведения о таблицах стандартных
 справочных данных о физических константах
 и свойствах веществ и материалов (далее
 соответственно - таблица, данные) (при
 наличии):</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>наименование
 и регистрационный номер таблицы;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>краткое
 описание данных, включая интервалы
 параметров, погрешность и область
 применения;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>сведения
 об организации - разработчике таблицы:
 наименование юридического лица, адрес
 местонахождения (адрес юридического
 лица), номера телефона и факса, а также
 адрес электронной почты (при наличии);</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>информация
 о размещении таблицы на информационном
 портале организации - разработчика
 таблицы в сети Интернет или о ее
 опубликовании.</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.11in; line-height: 107%"><BR><BR>
+<P CLASS="western" STYLE="margin-bottom: 0.11in; line-height: 150%"><BR><BR>
 </P>
 </BODY>
 </HTML>

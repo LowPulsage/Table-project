@@ -13,8 +13,21 @@ const Paragraphs = () => {
 
   useEffect(() => {
     const documentOne = require(`./Documents/${selectedWordFileName}.js`)
-    const __html = formatDoc(documentOne?.default, selectedWordFileName, allDocsFragments)
-    setHtml({ __html })
+    const { formatted, ids } = formatDoc(documentOne?.default, selectedWordFileName, allDocsFragments)
+    setHtml({ __html: formatted })
+    setTimeout(() => {
+      ids.forEach(i => {
+        const name = i.replace(/ /g, '_')
+        const node = document.querySelector(`span[name='${name}']`)
+        if (node) {
+          const parent = node.closest('.western')
+          if (parent) {
+            parent.classList.add('new-green')
+            parent.id = name
+          }
+        }
+      })
+    }, 0)
   }, [])
 
   const selectFragment = e => {

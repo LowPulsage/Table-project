@@ -10,15 +10,19 @@ const getFragments = r => r.reduce((acc, i) => {
 export default (docHtml, docName) => {
   // стиснув, щоб по ньому можна було шукати
   let formatted = docHtml.replace(/(?:\r\n|\r|\n)/g, ' ')
+  const pushed = []
 
   const wrapElement = fr => { // side effect function
     const pos = formatted.indexOf(fr)
 
-    // якщо індекс не знайдено, тоді робимо нічого
-    if (pos < 1) return
+    if (pushed.includes(fr)) return // щоб не врапити фрагмент, який уже заврапили
+    if (pos < 1) return // якщо індекс не знайдено, тоді робимо нічого
+    pushed.push(fr)
+
     const symbolsBeforeWrapperFr = formatted.slice(0, pos)
-    const newWrappedFr = `<span class="new-green">${fr}</span>`
+    const newWrappedFr = `<span class="new-green" id=${fr.replace(/ /g, '_')}>${fr}</span>`
     const symbolsAfterWrapperFr = formatted.slice(pos + fr.length)
+
     formatted = `${symbolsBeforeWrapperFr}${newWrappedFr}${symbolsAfterWrapperFr}`
   }
 

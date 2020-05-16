@@ -8,9 +8,9 @@ export default `
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
 	<META NAME="CREATED" CONTENT="20200505;131200000000000">
-	<META NAME="CHANGEDBY" CONTENT="Учетная запись Майкрософт">
-	<META NAME="CHANGED" CONTENT="20200515;141100000000000">
-	<META NAME="AppVersion" CONTENT="15.0000">
+	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
+	<META NAME="CHANGED" CONTENT="20200505;131200000000000">
+	<META NAME="AppVersion" CONTENT="16.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
 	<META NAME="LinksUpToDate" CONTENT="false">
@@ -45,8 +45,7 @@ export default `
 <P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
 &nbsp;</P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><SPAN>1.
-<span CLASS="green" id='id1'>
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>1.
 Настоящий Порядок разработан в
 соответствии с подпунктом 3 пункта 3 и
 подпунктом 4 пункта 9 Протокола о
@@ -63,37 +62,34 @@ export default `
 - государства-члены, Союз), и содержит
 перечень предоставляемых в рамках
 настоящего Порядка сведений в области
-обеспечения единства измерений.</span></SPAN></FONT></FONT></FONT></FONT></P>
+обеспечения единства измерений.</FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>
-2.
-</FONT></FONT><FONT FACE="Times New Roman, serif"><FONT SIZE=3><SPAN STYLE="background: #ffff00">
-<span CLASS="green" id='id2'>
-Для
-целей настоящего Порядка используется
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>2.
+Для целей настоящего Порядка используется
 понятие &quot;сведения&quot;, которое означает
 информацию из электронных баз данных
 и документы в электронном виде,
 содержащиеся в информационных фондах
 государств-членов в области обеспечения
-единства измерений.</span></SPAN></FONT></FONT></FONT></FONT></P>
+единства измерений.</FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>3.
-<span CLASS="green" id='id5'>Организация взаимного предоставления
-предусмотренных в пункте 12
+Организация взаимного предоставления
+предусмотренных в </FONT></FONT><A HREF="#p56"><FONT COLOR="#0000ff"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><U>пункте
+12</U></FONT></FONT></FONT></A><FONT FACE="Times New Roman, serif"><FONT SIZE=3>
 настоящего Порядка сведений осуществляется
 уполномоченными органами государств-членов
 в области обеспечения единства измерений
 (далее - уполномоченные органы
 государств-членов).</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%"><A NAME="_GoBack"></A>
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><span CLASS="green" id='id3'>4.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>4.
 Предоставление сведений осуществляется
 организациями, уполномоченными в
 соответствии с законодательством
 государства-члена на предоставление
 сведений (далее - уполномоченные
-организации).</span></FONT></FONT></FONT></FONT></P>
+организации).</FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>5.
 Предоставление сведений осуществляется
@@ -128,7 +124,7 @@ export default `
 определяются Евразийской экономической
 комиссией (далее - Комиссия).</FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%"><A NAME="p44"></A>
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><span CLASS="" id='id4'>6.
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>6.
 Предоставление сведений осуществляется
 по запросу уполномоченных органов
 государств-членов, Комиссии, уполномоченных
@@ -137,7 +133,7 @@ export default `
 индивидуальных предпринимателей, и
 физических лиц (далее - заявители). Запрос
 формируется в зависимости от способа
-предоставления сведений и содержит:</span></FONT></FONT></FONT></FONT></P>
+предоставления сведений и содержит:</FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 100%">
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>а)
 сведения о заявителе: наименование

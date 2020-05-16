@@ -31,8 +31,10 @@ const Paragraphs = () => {
   }, [])
 
   const selectFragment = e => {
-    if (e.target.id) {
-      dipatch(setFragmentForSearching(e.target.id))
+    const parentNode = e.target.closest('p[id]') || {}
+    const newId = parentNode.id
+    if (newId) {
+      dipatch(setFragmentForSearching(newId))
 
       if (fragmentForSearching) {
         const oldId = fragmentForSearching.replace(/ /g, '_')
@@ -40,7 +42,7 @@ const Paragraphs = () => {
         if (node) node.classList.remove('active-fragment')
       }
 
-      const node = document.getElementById(e.target.id)
+      const node = document.getElementById(newId)
       if (node) node.classList.add('active-fragment')
     }
   }

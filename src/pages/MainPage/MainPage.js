@@ -23,12 +23,16 @@ const MainPage = () => {
         <DocumentsList /> :
         <div className='MainPage-root-allCont'>
           <div className='mainPage-content'>
-          <Card title="ФЗ: о государственном контроле (надзоре) и о муниципальном контроле в Российской федерации" bordered={false}>
+            <div className='Mainpage-paragraphs'>
+          <Card title="ФЗ: о государственном контроле (надзоре) и о муниципальном контроле в Российской федерации">
             <Paragraphs />
-          </Card>
-          <Card title="Сходные положения" bordered={false} >
+            </Card>
+            </div>
+            <div className='Mainpage-source'>
+          <Card title="Сходные положения">
             <Source />
           </Card>
+          </div>
           </div>
         </div>
       }

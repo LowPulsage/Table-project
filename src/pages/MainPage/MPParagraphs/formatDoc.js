@@ -1,13 +1,4 @@
-import { allRows } from './bigExcel'
-
-const getFragments = r => r.reduce((acc, i) => {
-  const fileName = i['Файл 1']
-  if (!acc[fileName]) acc[fileName] = []
-  acc[fileName].push(i)
-  return acc
-}, {})
-
-export default (docHtml, docName) => {
+export default (docHtml, docName, allDocsFragments) => {
   // стиснув, щоб по ньому можна було шукати
   let formatted = docHtml.replace(/(?:\r\n|\r|\n)/g, ' ')
   const pushed = []
@@ -25,8 +16,6 @@ export default (docHtml, docName) => {
 
     formatted = `${symbolsBeforeWrapperFr}${newWrappedFr}${symbolsAfterWrapperFr}`
   }
-
-  const allDocsFragments = getFragments(allRows)
 
   const fragments = allDocsFragments[docName] || []
 

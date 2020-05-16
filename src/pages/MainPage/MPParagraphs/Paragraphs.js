@@ -25,9 +25,11 @@ const Paragraphs = (props) => {
   const [htmlObj, setHtml] = useState({ __html: '' })
   const dipatch = useDispatch()
   const selectedWordFileName = useSelector(state => state.source.selectedWordFileName)
+  const allDocsFragments = useSelector(state => state.source.allDocsFragments)
+
   useEffect(() => {
     const documentOne = require(`./Documents/${selectedWordFileName}.js`)
-    const __html = formatDoc(documentOne?.default, selectedWordFileName)
+    const __html = formatDoc(documentOne?.default, selectedWordFileName, allDocsFragments)
     setHtml({ __html })
   }, [])
 

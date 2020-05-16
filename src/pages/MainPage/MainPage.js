@@ -2,11 +2,12 @@
 import React, { useState } from 'react'
 import Source from './MPSource/Source'
 import Paragraphs from './MPParagraphs/Paragraphs'
-import HeaderLeft from './MPHeaders/HeaderLeft'
-import HeaderRight from './MPHeaders/HeaderRight'
+// import HeaderLeft from './MPHeaders/HeaderLeft'
+// import HeaderRight from './MPHeaders/HeaderRight'
 import './index.styl'
 import DocumentsList from './MDocumentsList/DocumentsList'
 import { useSelector } from 'react-redux'
+import { Card } from 'antd'
 
 
 const MainPage = () => {
@@ -21,13 +22,13 @@ const MainPage = () => {
       {!selectedExelName || !selectedWordName ?
         <DocumentsList /> :
         <div className='MainPage-root-allCont'>
-          <div className='mainPage-header'>
-            <HeaderLeft />
-            <HeaderRight />
-          </div>
           <div className='mainPage-content'>
+          <Card title="ФЗ: о государственном контроле (надзоре) и о муниципальном контроле в Российской федерации" bordered={false}>
             <Paragraphs />
+          </Card>
+          <Card title="Сходные положения" bordered={false} >
             <Source />
+          </Card>
           </div>
         </div>
       }

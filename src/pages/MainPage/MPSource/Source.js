@@ -1,21 +1,16 @@
-/* eslint-disable */
-import React, { useState } from 'react'
-import './index.styl'
-import { useSelector } from 'react-redux'
-import { List } from 'antd'
 import currentFile from './../../../modules/session/some_info'
+import { useSelector } from 'react-redux'
+import React, { useState } from 'react'
+import { List } from 'antd'
+import './index.styl'
 
-const Source = (props) => {
+const Source = () => {
+  const fragmentForSearching = useSelector(state => state.source.fragmentForSearching)
+  const documentOne = currentFile[fragmentForSearching] || []
 
-  // let value = useSelector(state => state.source)
-  const [currentPage, setCurrentPage] = useState(1)
-
-  const selectedWordFileName = useSelector(state => state.source.selectedWordFileName)
-  const isClick = useSelector(state => state.source.isClick)
-  const documentOne = currentFile[isClick] || []
   return (
     <div className='Source-root'>
-      <div className='sourse-all-text'>
+	  <div className='sourse-all-text'>
         <List
           itemLayout="horizontal"
           dataSource={documentOne}

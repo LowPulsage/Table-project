@@ -5,8 +5,10 @@ static/*bundle*
 static/meta.json
 static/index.html
 package-lock.json
+static/
 
 ### macOS ###
 *.DS_Store
 .AppleDouble
 .LSOverride
+static/

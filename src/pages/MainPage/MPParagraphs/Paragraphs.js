@@ -1,5 +1,5 @@
 /*eslint-disable*/
-import { setIsClick } from '../../../modules/session/session-reducers'
+import { setFragmentForSearching } from '../../../modules/session/session-reducers'
 import React, { useState, useEffect, useCallback } from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 import formatDoc from './formatDoc'
@@ -32,10 +32,11 @@ const Paragraphs = (props) => {
   }, [])
 
   return (
-    <div className='Paragraphs-root' onClick={(e) => { dipatch(setIsClick(e.target.id)) }}>
-      <div dangerouslySetInnerHTML={htmlObj} className='testText' />
-      {/* <div>{text}</div> */}
-    </div>
+    <div 
+      onClick={e => { dipatch(setFragmentForSearching(e.target.id)) }}
+      dangerouslySetInnerHTML={htmlObj}
+      className='Paragraphs-root'
+    />
   )
 }
 

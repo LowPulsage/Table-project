@@ -30,7 +30,7 @@ export default (docHtml, docName) => {
 
   const fragments = allDocsFragments[docName] || []
 
-  fragments.forEach(fr => {
+  fragments.forEach(fr => { // Переписати на .reduce, щоб позбутись side-effect function
     const frToCut = 40
     const frCutted = fr['Фрагмент 1'].slice(0, frToCut) // "Настоящий Порядок разработан в соответствии с подп"
     wrapElement(frCutted)

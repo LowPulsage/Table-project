@@ -18,7 +18,6 @@ export const sessionInitialState = {
   excelFileNames,
   selectedWordFileName: null,
   selectedExcelFileName: null,
-  isClick: undefined
 }
 
 export const sessionReducer = (state = sessionInitialState, action) => {
@@ -44,7 +43,7 @@ export const sessionReducer = (state = sessionInitialState, action) => {
     case SET_IS_CLICK: {
       return {
         ...state,
-        isClick: action.payload
+        fragmentForSearching: action.payload.replace(/_/g, ' ')
       }
     }
     default:
@@ -54,4 +53,4 @@ export const sessionReducer = (state = sessionInitialState, action) => {
 
 export const setSelectedWordName = payload => ({ type: SET_SELECTED_WORD, payload })
 export const setSelectedExelName = payload => ({ type: SET_SELECECTED_EXEL, payload })
-export const setIsClick = payload => ({ type: SET_IS_CLICK, payload })
+export const setFragmentForSearching = payload => ({ type: SET_IS_CLICK, payload })

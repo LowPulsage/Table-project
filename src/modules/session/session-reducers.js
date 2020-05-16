@@ -5,7 +5,6 @@ import { UPDATE_TEXT } from './session-actions'
 import sourceData from './file'
 import excelFileNames from './excel-file-names'
 import docxFileNames from './docx-file-names'
-import { allRows } from './bigExcel'
 
 export const OVERWRITE_DOC_FILE_TEXT = 'OVERWRITE_DOC_FILE_TEXT'
 export const SET_SELECTED_WORD = 'SET_SELECTED_WORD'
@@ -31,8 +30,6 @@ export const sessionInitialState = {
 }
 
 export const sessionReducer = (state = sessionInitialState, action) => {
-
-
   switch (action.type) {
     // case OVERWRITE_DOC_FILE_TEXT:
     //   return {
@@ -47,7 +44,8 @@ export const sessionReducer = (state = sessionInitialState, action) => {
     } case SET_SELECECTED_EXEL: {
       return {
         ...state,
-        selectedExcelFileName: action.payload
+        selectedExcelFileName: action.payload.selectedExcelFileName,
+        allDocsFragments: action.payload.allDocsFragments,
       }
     }
     case SET_IS_CLICK: {
@@ -61,7 +59,11 @@ export const sessionReducer = (state = sessionInitialState, action) => {
   }
 }
 
-// should be moved to session-selectors
+// should be moved to session-actions
 export const setSelectedWordName = payload => ({ type: SET_SELECTED_WORD, payload })
-export const setSelectedExelName = payload => ({ type: SET_SELECECTED_EXEL, payload })
+export const setSelectedExelName = selectedExcelFileName => {
+  const doc = require(`./${selectedExcelFileName}.js`) || {}
+  const allDocsFragments = getFragments(doc.allRows || [])
+  return ({ type: SET_SELECECTED_EXEL, payload: { selectedExcelFileName, allDocsFragments } })
+}
 export const setFragmentForSearching = payload => ({ type: SET_IS_CLICK, payload })

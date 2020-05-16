@@ -11,8 +11,8 @@ import { Card } from 'antd'
 
 
 const MainPage = () => {
-  const selectedExelName = useSelector(state => state.source.selectedWordFileName)
-  const selectedWordName = useSelector(state => state.source.selectedExcelFileName)
+  const selectedExelName = useSelector(state => state.source.selectedExcelFileName)
+  const selectedWordName = useSelector(state => state.source.selectedWordFileName)
   // const [currentSelectedId, setCurrentSelectedId] = useState()
   // const [selectedWordFileId, setSelectedWordFileId] = useState()
   // const [selectedExcelFileId, setSelectedExcelFileId] = useState()
@@ -24,12 +24,12 @@ const MainPage = () => {
         <div className='MainPage-root-allCont'>
           <div className='mainPage-content'>
             <div className='Mainpage-paragraphs'>
-          <Card title="ФЗ: о государственном контроле (надзоре) и о муниципальном контроле в Российской федерации">
+          <Card title={selectedWordName}>
             <Paragraphs />
             </Card>
             </div>
             <div className='Mainpage-source'>
-          <Card title="Сходные положения">
+          <Card title={<div><b>Сходные положения</b> - {selectedExelName}</div>}>
             <Source />
           </Card>
           </div>

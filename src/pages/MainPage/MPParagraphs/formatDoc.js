@@ -27,8 +27,9 @@ export default (docHtml, docName) => {
   const fragments = allDocsFragments[docName] || []
 
   fragments.forEach(fr => {
-    const fr50 = fr['Фрагмент 1'].slice(0, 50) // "Настоящий Порядок разработан в соответствии с подп"
-    wrapElement(fr50)
+    const frToCut = 40
+    const frCutted = fr['Фрагмент 1'].slice(0, frToCut) // "Настоящий Порядок разработан в соответствии с подп"
+    wrapElement(frCutted)
   })
 
   return formatted

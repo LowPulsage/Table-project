@@ -1,12 +1,10 @@
 /* eslint-disable */
 import React, { useState } from 'react'
-import Pagination from './SPagination/Pagination'
 import './index.styl'
 import { useSelector } from 'react-redux'
-
+import { List } from 'antd'
 import currentFile from './../../../modules/session/some_info'
 
-// import tr from '../../../modules/session'
 const Source = (props) => {
 
   // let value = useSelector(state => state.source)
@@ -15,20 +13,24 @@ const Source = (props) => {
   const selectedWordFileName = useSelector(state => state.source.selectedWordFileName)
   const isClick = useSelector(state => state.source.isClick)
   const documentOne = currentFile[isClick] || []
-  // console.log('documentOne', documentOne)
   return (
     <div className='Source-root'>
-      <div className='sourse-all-text'>{documentOne.map(el =>
-        <div className='source-header-and-text' key={el.id}>
-          <div key={el.id} className='sourse-header'>{el.fileName}</div>
-          <div className='sourse-single-text'>{el.fileText.slice(0, 500)} </div>
-        </div>)}
+      <div className='sourse-all-text'>
+        <List
+          itemLayout="horizontal"
+          dataSource={documentOne}
+          renderItem={item => (
+            <List.Item>
+              <List.Item.Meta
+                title={<div>{item.fileName}</div>}
+                description={item.fileText}
+              />
+            </List.Item>
+          )}
+        />
       </div>
-      <Pagination currentPage={currentPage} setCurrentPage={setCurrentPage} />
     </div>
   )
 }
 
 export default Source
-
-//onClick={() => props.setCurrentSelectedId(el.id) } className='source-header-and-text'

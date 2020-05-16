@@ -1,9 +1,9 @@
 /*eslint-disable*/
-import React, { useState, useEffect } from 'react'
-import './index.styl'
-import __html from './Documents/Адм.регламент_Росстандарт_2346_12112018.js'
-import { useSelector, useDispatch } from 'react-redux'
 import { setIsClick } from '../../../modules/session/session-reducers'
+import React, { useState, useEffect, useCallback } from 'react'
+import { useSelector, useDispatch } from 'react-redux'
+import formatDoc from './formatDoc'
+import './index.styl'
 
 // import fz_102 from './Documents/ФЗ_102_26062008.js'
 // import prot_10 from './Documents/Протокол_10_ЕЭС_29052014.js'
@@ -21,24 +21,19 @@ import { setIsClick } from '../../../modules/session/session-reducers'
 // import adm_2173 from './Documents/Адм.регламент_Росстандарт_2173_20092019.js'
 // import excelDoc from './ExcelDocumentList/Близкие-фрагменты-разный-размер.js
 
-
-
 const Paragraphs = (props) => {
-  const [text, setText] = useState()
-  const selectedWordFileName = useSelector(state => state.source.selectedWordFileName)
-
-  const documentOne = require(`./Documents/${selectedWordFileName}.js`)
-  const documents = { __html: documentOne?.default };
-
+  const [htmlObj, setHtml] = useState({ __html: '' })
   const dipatch = useDispatch()
-  //let textFormater = document.querySelector('text').innerText
-  // console.log(textFormater)
+  const selectedWordFileName = useSelector(state => state.source.selectedWordFileName)
   useEffect(() => {
-    setText(document.querySelector('.testText').innerText.replace(/\s{2,}/g, ' '))
+    const documentOne = require(`./Documents/${selectedWordFileName}.js`)
+    const __html = formatDoc(documentOne?.default, selectedWordFileName)
+    setHtml({ __html })
   }, [])
+
   return (
     <div className='Paragraphs-root' onClick={(e) => { dipatch(setIsClick(e.target.id)) }}>
-      <div dangerouslySetInnerHTML={documents} className='testText' />
+      <div dangerouslySetInnerHTML={htmlObj} className='testText' />
       {/* <div>{text}</div> */}
     </div>
   )

@@ -22,7 +22,7 @@ const getFragments = r => r.reduce((acc, i) => {
 }, {})
 
 export const sessionInitialState = {
-  allDocsFragments: getFragments(allRows),
+  allDocsFragments: [],
   sourceData,
   docxFileNames,
   excelFileNames,

@@ -8,8 +8,8 @@ export default `
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
 	<META NAME="CREATED" CONTENT="20200505;130100000000000">
-	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
-	<META NAME="CHANGED" CONTENT="20200505;130100000000000">
+	<META NAME="CHANGEDBY" CONTENT="Александр">
+	<META NAME="CHANGED" CONTENT="20200517;170100000000000">
 	<META NAME="AppVersion" CONTENT="16.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
@@ -29,7 +29,7 @@ export default `
 </HEAD>
 <BODY LANG="ru-RU" LINK="#0563c1" DIR="LTR">
 <P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#3c3c3c">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt; line-height: 1.1;"><BR>Порядок
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Порядок
 проведения метрологической экспертизы
 проекта технического регламента
 Евразийского экономического союза,
@@ -45,43 +45,42 @@ export default `
 и исполнения требований технического
 регламента Евразийского экономического
 союза и осуществления оценки соответствия
-объектов технического регулирования</FONT></FONT></FONT></FONT></FONT></P>
+объектов технического регулирования</FONT></FONT></FONT></FONT></P>
 <P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><BR></FONT></FONT></FONT></FONT></FONT><BR>
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Настоящий Порядок разработан в
-соответствии с&nbsp;</FONT></FONT></FONT><A HREF="http://docs.cntd.ru/document/420205962"><FONT COLOR="#00466e"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><U>подпунктом
-3 пункта 9 Протокола о проведении
-согласованной политики в области
-обеспечения единства измерений</U></FONT></FONT></FONT></A><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&nbsp;(</FONT></FONT></FONT><A HREF="http://docs.cntd.ru/document/420205962"><FONT COLOR="#00466e"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><U>приложение
-N 10 к Договору о Евразийском экономическом
-союзе от 29 мая 2014 года</U></FONT></FONT></FONT></A><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">),
-с учетом положений Порядка разработки,
-принятия, изменения и отмены технических
-регламентов Евразийского экономического
-союза, утверждаемого Евразийской
-экономической комиссией (далее -
-Комиссия), и Порядка разработки и принятия
-перечней международных и региональных
-(межгосударственных) стандартов, а в
-случае их отсутствия - национальных
-(государственных) стандартов, в результате
-применения которых на добровольной
-основе обеспечивается соблюдение
-требований технического регламента
-Евразийского экономического союза, и
-перечней международных и региональных
-(межгосударственных) стандартов, а в
-случае их отсутствия - национальных
-(государственных) стандартов, содержащих
-правила и методы исследований (испытаний)
-и измерений, в том числе правила отбора
-образцов, необходимые для применения
-и исполнения требований технического
-регламента и осуществления оценки
-соответствия объектов технического
+соответствии с&nbsp;подпунктом 3 пункта
+9 Протокола о проведении согласованной
+политики в области обеспечения единства
+измерений&nbsp;(приложение N 10 к Договору
+о Евразийском экономическом союзе от
+29 мая 2014 года), с учетом положений Порядка
+разработки, принятия, изменения и отмены
+технических регламентов Евразийского
+экономического союза, утверждаемого
+Евразийской экономической комиссией
+(далее - Комиссия), и Порядка разработки
+и принятия перечней международных и
+региональных (межгосударственных)
+стандартов, а в случае их отсутствия -
+национальных (государственных) стандартов,
+в результате применения которых на
+добровольной основе обеспечивается
+соблюдение требований технического
+регламента Евразийского экономического
+союза, и перечней международных и
+региональных (межгосударственных)
+стандартов, а в случае их отсутствия -
+национальных (государственных) стандартов,
+содержащих правила и методы исследований
+(испытаний) и измерений, в том числе
+правила отбора образцов, необходимые
+для применения и исполнения требований
+технического регламента и осуществления
+оценки соответствия объектов технического
 регулирования, утверждаемого Комиссией
 (далее соответственно - Порядок разработки
 технических регламентов, Порядок
@@ -98,17 +97,21 @@ N 10 к Договору о Евразийском экономическом
 или проекта акта о внесении изменений
 в перечни стандартов (далее соответственно
 - актуализированная редакция перечней
-стандартов, метрологическая экспертиза).<BR></FONT></FONT></FONT></FONT></FONT><BR>
+стандартов, метрологическая экспертиза).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Для целей настоящего Порядка используются
-понятия в значениях, определенных&nbsp;</FONT></FONT></FONT><A HREF="http://docs.cntd.ru/document/420205962"><FONT COLOR="#00466e"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><U>Договором
+понятия в значениях, определенных&nbsp;Договором
 о Евразийском экономическом союзе от
-29 мая 2014 года</U></FONT></FONT></FONT></A><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">.<BR></FONT></FONT></FONT></FONT></FONT><BR>
+29 мая 2014 года.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Проведение метрологической экспертизы
 организуется органами государственной
 власти государства - члена Евразийского
@@ -119,10 +122,12 @@ N 10 к Договору о Евразийском экономическом
 уполномоченными (нотифицированными)
 на ее проведение в соответствии с
 законодательством своего государства
-(далее - уполномоченный орган).<BR></FONT></FONT></FONT></FONT></FONT><BR>
+(далее - уполномоченный орган).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Метрологическая экспертиза проводится
 по обращению в уполномоченный орган
 своего государства разработчика проекта
@@ -141,25 +146,38 @@ N 10 к Договору о Евразийском экономическом
 регламент и (при наличии) проекта акта
 о внесении изменений в перечни стандартов)
 или актуализированной редакции перечней
-стандартов (далее - разработчик).<BR><BR>Для
+стандартов (далее - разработчик).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Для
 проведения метрологической экспертизы
 проекта актуализированной редакции
 перечней стандартов Комиссия обращается
 в уполномоченный орган государства-члена,
 являющегося ответственным за разработку
-соответствующего технического
-регламента.<BR><BR>Метрологическая
+соответствующего технического регламента.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Метрологическая
 экспертиза проводится в согласованный
 с уполномоченным органом срок, не
-превышающий 20 рабочих дней.<BR></FONT></FONT></FONT></FONT></FONT><BR>
+превышающий 20 рабочих дней.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
 Метрологическая экспертиза проводится
-в целях осуществления:<BR></FONT></FONT></FONT></FONT></FONT><BR>
+в целях осуществления:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 анализа и оценивания правильности
 применения метрологических терминов,
 определений и наименований величин и
@@ -169,94 +187,121 @@ N 10 к Договору о Евразийском экономическом
 погрешностей измерений при изложении
 требований, связанных с единством
 измерений, к объектам технического
-регулирования;<BR></FONT></FONT></FONT></FONT></FONT><BR>
+регулирования;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 анализа наличия и правильности выбора
 методов (методик) исследований (испытаний)
 и измерений, обеспечивающих получение
 результатов исследований (испытаний)
 и измерений с точностью, установленной
 для параметров (показателей) объектов
-технического регулирования;<BR></FONT></FONT></FONT></FONT></FONT><BR>
+технического регулирования; </FONT></FONT></FONT></FONT>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 анализа правильности выбора правил
 отбора образцов для проведения
 исследований (испытаний) и измерений,
 содержащих требования к объектам
 метрологической экспертизы, указанным
-в пункте 6 настоящего Порядка.<BR></FONT></FONT></FONT></FONT></FONT><BR>
+в пункте 6 настоящего Порядка.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 Объектами метрологической экспертизы
-являются:<BR></FONT></FONT></FONT></FONT></FONT><BR>
+являются:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 требования к измеряемым параметрам
-(показателям);<BR></FONT></FONT></FONT></FONT></FONT><BR>
+(показателям);</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 наименование измеряемых величин,
 диапазонов измерений значений измеряемых
-величин;<BR></FONT></FONT></FONT></FONT></FONT><BR>
+величин;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 требования к показателям точности
 измерений, которые могут быть выражены
 через характеристики погрешности
 измерений или показатели неопределенности
-измерений;<BR></FONT></FONT></FONT></FONT></FONT><BR>
+измерений;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 требования к методам (методикам)
 исследований (испытаний) и измерений и
-(или) средствам измерений;<BR></FONT></FONT></FONT></FONT></FONT><BR>
+(или) средствам измерений;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 требования к отбору образцов при наличии
 в них объектов метрологической экспертизы,
 указанных в подпунктах &quot;а&quot; - &quot;г&quot;
-настоящего пункта.<BR></FONT></FONT></FONT></FONT></FONT><BR>
+настоящего пункта.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
 На метрологическую экспертизу
-представляются:<BR></FONT></FONT></FONT></FONT></FONT><BR>
+представляются:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 проект технического регламента или
 проект акта о внесении изменений в
 технический регламент и (при наличии)
 проект акта о внесении изменений в
 перечни стандартов, оформленные в
 соответствии с Порядком разработки
-технических регламентов;<BR></FONT></FONT></FONT></FONT></FONT><BR>
+технических регламентов;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 проекты перечней стандартов или
 актуализированная редакция перечней
 стандартов, оформленные в соответствии
 с приложением N 1 к Порядку разработки
-перечней стандартов.<BR></FONT></FONT></FONT></FONT></FONT><BR>
+перечней стандартов.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
 Для проведения метрологической экспертизы
-разработчик:<BR></FONT></FONT></FONT></FONT></FONT><BR>
+разработчик:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 направляет в уполномоченный орган
 обращение в письменной форме с приложением
 к нему проекта технического регламента
@@ -265,23 +310,35 @@ N 10 к Договору о Евразийском экономическом
 регламент и (при наличии) проекта акта
 о внесении изменений в перечни стандартов)
 или актуализированной редакции перечней
-стандартов с указанием:<BR><BR>наименования
+стандартов с указанием:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">наименования
 проекта технического регламента и
 проектов перечней стандартов (проекта
 акта о внесении изменений в технический
 регламент и (при наличии) проекта акта
 о внесении изменений в перечни стандартов)
 или проекта актуализированной редакции
-перечней стандартов;<BR><BR>сведений о
-разработчике (наименование и адрес), а
-также фамилия, имя и отчество (при
+перечней стандартов;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">сведений
+о разработчике (наименование и адрес),
+а также фамилия, имя и отчество (при
 наличии), номер телефона и адрес
 электронной почты (при наличии)
 уполномоченного разработчиком
-компетентного лица;<BR></FONT></FONT></FONT></FONT></FONT><BR>
+компетентного лица;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 представляет тексты национальных
 (государственных) стандартов и (или)
 методик исследований (испытаний) и
@@ -291,51 +348,77 @@ N 10 к Договору о Евразийском экономическом
 изменений в перечни стандартов) или в
 актуализированную редакцию перечней
 стандартов, в порядке, установленном
-законодательством государств-членов.<BR></FONT></FONT></FONT></FONT></FONT><BR>
+законодательством государств-членов.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
 Уполномоченный орган после получения
 от разработчика обращения о проведении
-метрологической экспертизы:<BR></FONT></FONT></FONT></FONT></FONT><BR>
+метрологической экспертизы:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 организует проведение метрологической
-экспертизы;<BR></FONT></FONT></FONT></FONT></FONT><BR>
+экспертизы;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 оформляет и выдает разработчику
 заключение по результатам метрологической
 экспертизы или заключение о том, что
 проведение метрологической экспертизы
-не требуется.<BR></FONT></FONT></FONT></FONT></FONT><BR>
+не требуется.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.
 В процессе метрологической экспертизы
-проводится:<BR></FONT></FONT></FONT></FONT></FONT><BR>
+проводится:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 анализ и оценивание правильности
 применения метрологических терминов,
 определений и наименований величин и
 обозначений единиц величин при изложении
 требований к объекту технического
 регулирования с учетом следующих
-положений:<BR><BR>требования к объектам
-технического регулирования, связанные
-с единством измерений, должны
+положений:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">требования
+к объектам технического регулирования,
+связанные с единством измерений, должны
 соответствовать актам в области
 обеспечении единства измерений, входящими
 в право Евразийского экономического
-союза;<BR><BR>при изложении требований к
-объектам технического регулирования,
-связанным с единством измерений, должны
-применяться стандартизированные
-метрологические термины;<BR><BR>измеряемые
+союза;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">при
+изложении требований к объектам
+технического регулирования, связанным
+с единством измерений, должны применяться
+стандартизированные метрологические
+термины;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">измеряемые
 параметры (показатели), относящиеся к
 объекту технического регулирования,
 должны устанавливаться с указанием
@@ -343,8 +426,13 @@ N 10 к Договору о Евразийском экономическом
 номинальных значений, допускаемых
 отклонений от этих значений и диапазонов
 изменений значений измеряемых величин
-в рабочих условиях;<BR><BR>форма записи
-измеряемых параметров (показателей),
+в рабочих условиях;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">форма
+записи измеряемых параметров (показателей),
 относящихся к объекту технического
 регулирования, должна содержать
 номинальное значение параметра
@@ -352,7 +440,12 @@ N 10 к Договору о Евразийском экономическом
 или значения параметра (показателя) в
 виде предельных или максимальных
 значений с учетом погрешности
-(неопределенности) измерений;<BR><BR>требования
+(неопределенности) измерений;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">требования
 к погрешностям (неопределенности)
 измерений параметров (показателей),
 относящихся к объекту технического
@@ -360,21 +453,27 @@ N 10 к Договору о Евразийском экономическом
 в виде предела допускаемых значений
 погрешности (неопределенности) измерений
 или в виде предела допускаемых значений
-среднего квадратичного отклонения;<BR><BR>наименование
+среднего квадратичного отклонения;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">наименование
 и обозначение единиц величин должно
 соответствовать Международной системе
-единиц (СИ) и&nbsp;</FONT></FONT></FONT><A HREF="http://docs.cntd.ru/document/420269553"><FONT COLOR="#00466e"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><U>перечню
-внесистемных единиц величин, применяемых
-при разработке технических регламентов
-Евразийского экономического союза,
-включая их соотношения с Международной
-системой единиц (СИ)</U></FONT></FONT></FONT></A><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">,
-утвержденному&nbsp;</FONT></FONT></FONT><A HREF="http://docs.cntd.ru/document/420269553"><FONT COLOR="#00466e"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><U>Решением
+единиц (СИ) и&nbsp;перечню внесистемных
+единиц величин, применяемых при разработке
+технических регламентов Евразийского
+экономического союза, включая их
+соотношения с Международной системой
+единиц (СИ), утвержденному&nbsp;Решением
 Коллегии Евразийской экономической
-комиссии от 21 апреля 2015 г. N 34</U></FONT></FONT></FONT></A><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">;<BR></FONT></FONT></FONT></FONT></FONT><BR>
+комиссии от 21 апреля 2015 г. N 34;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 анализ правильности выбора методов
 (методик) исследований (испытаний) и
 измерений, обеспечивающих получение
@@ -390,52 +489,86 @@ N 10 к Договору о Евразийском экономическом
 величины получают непосредственно от
 средства измерений) или методики
 исследований (испытаний) и измерений с
-целью установления:<BR><BR>принадлежности
+целью установления:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">принадлежности
 метода (методики) исследований (испытаний)
 и измерений к объекту технического
 регулирования по назначению, наименованию
 измеряемой величины, условиям применения,
-измеряемому диапазону величины;<BR><BR>соответствия
+измеряемому диапазону величины;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">соответствия
 показателей точности методов (методик)
 исследований (испытаний) и измерений
 требованиям, установленным в отношении
-объектов технического регулирования;<BR><BR>полноты
+объектов технического регулирования;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">полноты
 приведенных сведений о средстве измерений
 с учетом возможности метрологического
-обслуживания этого средства измерений;<BR></FONT></FONT></FONT></FONT></FONT><BR>
+обслуживания этого средства измерений;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 оценивание соответствия точности
 измерений, обеспечиваемой методом
 (методикой) исследований (испытаний) и
 измерений или средством измерений,
 требованиям, установленным в отношении
-объектов технического регулирования;<BR></FONT></FONT></FONT></FONT></FONT><BR>
+объектов технического регулирования;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 анализ обеспеченности каждого из
 параметров (показателей) объектов
 технического регулирования правилами
 и методами (методиками) исследований
-(испытаний) и измерений;<BR></FONT></FONT></FONT></FONT></FONT><BR>
+(испытаний) и измерений;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 анализ обеспеченности параметров
 (показателей) объектов технического
 регулирования правилами отбора образцов
-и правильности выбора этих правил.<BR></FONT></FONT></FONT></FONT></FONT><BR>
+и правильности выбора этих правил.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
 По результатам метрологической экспертизы
 составляется заключение по форме
-согласно приложению.<BR></FONT></FONT></FONT></FONT></FONT><BR>
+согласно приложению.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
 В случае если проект технического
 регламента и проекты перечней стандартов
 (проект акта о внесении изменений в
@@ -447,37 +580,57 @@ N 10 к Договору о Евразийском экономическом
 указанные в пункте 6 настоящего Порядка,
 уполномоченным органом оформляется
 заключение о том, что метрологическая
-экспертиза не требуется.<BR><BR>Заключение
+экспертиза не требуется.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Заключение
 о том, что метрологическая экспертиза
 не требуется, оформляется на бланке
 уполномоченного органа в произвольной
-форме.<BR></FONT></FONT></FONT></FONT></FONT><BR>
+форме.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.
 Заключение метрологической экспертизы
 или заключение о том, что метрологическая
 экспертиза не требуется, выдается
 уполномоченным органом разработчику
 (уполномоченному им лицу) или направляется
 заказным почтовым отправлением с
-уведомлением о вручении.<BR></FONT></FONT></FONT></FONT></FONT><BR>
+уведомлением о вручении.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14.
 Финансирование метрологической
 экспертизы осуществляется в соответствии
 с законодательством государства-члена
 с учетом положений Порядка разработки
 технических регламентов и Порядка
-разработки перечней стандартов.<BR><BR></FONT></FONT></FONT></FONT></FONT><BR>
+разработки перечней стандартов.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
 </P>
 <P CLASS="western" ALIGN=CENTER STYLE="margin-top: 0.26in; margin-bottom: 0.16in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#4c4c4c"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 19pt">Приложение.
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 19pt">Приложение.
 Форма заключения по результатам
-метрологической экспертизы</FONT></FONT></FONT></FONT></FONT></P>
+метрологической экспертизы</FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Приложение<BR>к
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Приложение<BR>к
 Порядку проведения метрологической<BR>экспертизы
 проекта технического регламента<BR>Евразийского
 экономического союза, проекта<BR>перечня
@@ -492,12 +645,19 @@ N 10 к Договору о Евразийском экономическом
 технического регламента<BR>Евразийского
 экономического союза и<BR>осуществления
 оценки соответствия объектов<BR>технического
-регулирования</FONT></FONT></FONT></FONT></FONT></P>
+регулирования</FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.2in">
-<FONT COLOR="#3c3c3c">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>ФОРМА<BR>заключения
-по результатам метрологической экспертизы</FONT></FONT></FONT></FONT></FONT></P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.2in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.2in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">ФОРМА</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.2in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">заключения
+по результатам метрологической экспертизы</FONT></FONT></FONT></FONT></P>
 <P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><BR></FONT></FONT></FONT></FONT></FONT><BR>
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><BR></FONT></FONT></FONT></FONT><BR>
 </P>
 <TABLE WIDTH=752 CELLPADDING=10 CELLSPACING=0>
 	<COL WIDTH=332>
@@ -518,7 +678,7 @@ N 10 к Договору о Евразийском экономическом
 			</P>
 		</TD>
 		<TD WIDTH=380 STYLE="border: none; padding: 0in">
-			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">УТВЕРЖДАЮ</FONT></FONT></FONT></FONT></FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">УТВЕРЖДАЮ</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
@@ -547,8 +707,8 @@ N 10 к Договору о Евразийском экономическом
 			</P>
 		</TD>
 		<TD WIDTH=380 STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(должность
-			руководителя (уполномоченного лица)</FONT></FONT></FONT></FONT></FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(должность
+			руководителя (уполномоченного лица)</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
@@ -577,8 +737,8 @@ N 10 к Договору о Евразийском экономическом
 			</P>
 		</TD>
 		<TD WIDTH=380 STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">уполномоченного
-			органа государства - члена</FONT></FONT></FONT></FONT></FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">уполномоченного
+			органа государства - члена</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
@@ -607,8 +767,8 @@ N 10 к Договору о Евразийском экономическом
 			</P>
 		</TD>
 		<TD WIDTH=380 STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Евразийского
-			экономического союза)</FONT></FONT></FONT></FONT></FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Евразийского
+			экономического союза)</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
@@ -637,8 +797,8 @@ N 10 к Договору о Евразийском экономическом
 			</P>
 		</TD>
 		<TD WIDTH=380 STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(подпись,
-			Ф. И. О.)</FONT></FONT></FONT></FONT></FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(подпись,
+			Ф. И. О.)</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
@@ -657,8 +817,8 @@ N 10 к Договору о Евразийском экономическом
 			</P>
 		</TD>
 		<TD WIDTH=380 STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;______&quot;
-			_____________20___г.</FONT></FONT></FONT></FONT></FONT></P>
+			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;______&quot;
+			_____________20___г.</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
@@ -677,16 +837,23 @@ N 10 к Договору о Евразийском экономическом
 			</P>
 		</TD>
 		<TD WIDTH=380 STYLE="border: none; padding: 0in">
-			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">М.
-			П.</FONT></FONT></FONT></FONT></FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">М.
+			П.</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 </TABLE>
 <P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.2in">
-<FONT COLOR="#3c3c3c">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>ЗАКЛЮЧЕНИЕ<BR>по
-результатам метрологической экспертизы</FONT></FONT></FONT></FONT></FONT></P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.2in">
+<BR>
+</P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.2in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">ЗАКЛЮЧЕНИЕ</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.2in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">по
+результатам метрологической экспертизы</FONT></FONT></FONT></FONT></P>
 <P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><BR></FONT></FONT></FONT></FONT></FONT><BR>
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><BR></FONT></FONT></FONT></FONT><BR>
 </P>
 <TABLE WIDTH=752 CELLPADDING=10 CELLSPACING=0>
 	<COL WIDTH=99>
@@ -719,8 +886,8 @@ N 10 к Договору о Евразийском экономическом
 		</TR>
 		<TR VALIGN=TOP>
 			<TD COLSPAN=3 WIDTH=233 STYLE="border: none; padding: 0in">
-				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Метрологическая
-				экспертиза</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Метрологическая
+				экспертиза</FONT></FONT></FONT></FONT></P>
 			</TD>
 			<TD COLSPAN=2 WIDTH=479 STYLE="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
 				<P CLASS="western"><BR>
@@ -733,8 +900,8 @@ N 10 к Договору о Евразийском экономическом
 				</P>
 			</TD>
 			<TD COLSPAN=2 WIDTH=479 STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(наименование
-				проекта технического регламента</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(наименование
+				проекта технического регламента</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -753,10 +920,10 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR>
 			<TD COLSPAN=5 WIDTH=732 VALIGN=TOP STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Евразийского
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Евразийского
 				экономического союза и проектов
 				перечней стандартов (проекта акта о
-				внесении изменений</FONT></FONT></FONT></FONT></FONT></P>
+				внесении изменений</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -775,10 +942,10 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR>
 			<TD COLSPAN=5 WIDTH=732 VALIGN=TOP STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 				технический регламент и (при наличии)
 				проекта акта о внесении изменений в
-				перечни стандартов) или</FONT></FONT></FONT></FONT></FONT></P>
+				перечни стандартов) или</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -793,15 +960,15 @@ N 10 к Договору о Евразийском экономическом
 				</P>
 			</TD>
 			<TD WIDTH=10 STYLE="border: none; padding: 0in">
-				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">,</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">,</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR VALIGN=TOP>
 			<TD COLSPAN=4 WIDTH=702 STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">проекта
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">проекта
 				акта о внесении изменений в перечни
 				стандартов, представленных на
-				метрологическую экспертизу)</FONT></FONT></FONT></FONT></FONT></P>
+				метрологическую экспертизу)</FONT></FONT></FONT></FONT></P>
 			</TD>
 			<TD WIDTH=10 STYLE="border: none; padding: 0in">
 				<P CLASS="western"><BR>
@@ -816,7 +983,7 @@ N 10 к Договору о Евразийском экономическом
 		</TR>
 		<TR VALIGN=TOP>
 			<TD COLSPAN=2 WIDTH=186 STYLE="border: none; padding: 0in">
-				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">представленного(-ых)</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">представленного(-ых)</FONT></FONT></FONT></FONT></P>
 			</TD>
 			<TD COLSPAN=3 WIDTH=526 STYLE="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
 				<P CLASS="western"><BR>
@@ -829,9 +996,9 @@ N 10 к Договору о Евразийском экономическом
 				</P>
 			</TD>
 			<TD COLSPAN=3 WIDTH=526 STYLE="border: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(наименование
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(наименование
 				разработчика проекта технического
-				регламента</FONT></FONT></FONT></FONT></FONT></P>
+				регламента</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -850,10 +1017,10 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR>
 			<TD COLSPAN=5 WIDTH=732 VALIGN=TOP STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Евразийского
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Евразийского
 				экономического союза и проектов
 				перечней стандартов (проекта акта о
-				внесении изменений</FONT></FONT></FONT></FONT></FONT></P>
+				внесении изменений</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -872,10 +1039,10 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR>
 			<TD COLSPAN=5 WIDTH=732 VALIGN=TOP STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 				технический регламент и (при наличии)
 				проекта акта о внесении изменений в
-				перечни стандартов)</FONT></FONT></FONT></FONT></FONT></P>
+				перечни стандартов)</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -890,14 +1057,14 @@ N 10 к Договору о Евразийском экономическом
 				</P>
 			</TD>
 			<TD WIDTH=10 STYLE="border: none; padding: 0in">
-				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">,</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">,</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR VALIGN=TOP>
 			<TD COLSPAN=4 WIDTH=702 STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или
 				проекта акта о внесении изменений в
-				перечни стандартов)</FONT></FONT></FONT></FONT></FONT></P>
+				перечни стандартов)</FONT></FONT></FONT></FONT></P>
 			</TD>
 			<TD WIDTH=10 STYLE="border: none; padding: 0in">
 				<P CLASS="western"><BR>
@@ -912,7 +1079,7 @@ N 10 к Договору о Евразийском экономическом
 		</TR>
 		<TR VALIGN=TOP>
 			<TD WIDTH=99 STYLE="border: none; padding: 0in">
-				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">проведена</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">проведена</FONT></FONT></FONT></FONT></P>
 			</TD>
 			<TD COLSPAN=4 WIDTH=613 STYLE="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
 				<P CLASS="western"><BR>
@@ -925,9 +1092,9 @@ N 10 к Договору о Евразийском экономическом
 				</P>
 			</TD>
 			<TD COLSPAN=4 WIDTH=613 STYLE="border: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(наименование
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(наименование
 				юридического лица, проводившего
-				метрологическую экспертизу,</FONT></FONT></FONT></FONT></FONT></P>
+				метрологическую экспертизу,</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -942,13 +1109,13 @@ N 10 к Договору о Евразийском экономическом
 				</P>
 			</TD>
 			<TD WIDTH=10 STYLE="border: none; padding: 0in">
-				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">.</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">.</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR VALIGN=TOP>
 			<TD COLSPAN=4 WIDTH=702 STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">сроки
-				проведения метрологической экспертизы)</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">сроки
+				проведения метрологической экспертизы)</FONT></FONT></FONT></FONT></P>
 			</TD>
 			<TD WIDTH=10 STYLE="border: none; padding: 0in">
 				<P CLASS="western"><BR>
@@ -958,14 +1125,14 @@ N 10 к Договору о Евразийском экономическом
 	</TBODY>
 </TABLE>
 <P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><BR><BR>Результаты
-метрологической экспертизы:</FONT></FONT></FONT></FONT></FONT></P>
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><BR><BR>Результаты
+метрологической экспертизы:</FONT></FONT></FONT></FONT></P>
 <TABLE WIDTH=752 CELLPADDING=10 CELLSPACING=0>
 	<COL WIDTH=44>
 	<COL WIDTH=4364>
-	<COL WIDTH=243>
+	<COL WIDTH=242>
 	<COL WIDTH=176>
-	<COL WIDTH=164>
+	<COL WIDTH=165>
 	<COL WIDTH=10>
 	<TBODY>
 		<TR VALIGN=TOP>
@@ -973,7 +1140,7 @@ N 10 к Договору о Евразийском экономическом
 				<P CLASS="western"><BR>
 				</P>
 			</TD>
-			<TD COLSPAN=2 WIDTH=258 STYLE="border: none; padding: 0in">
+			<TD COLSPAN=2 WIDTH=257 STYLE="border: none; padding: 0in">
 				<P CLASS="western"><BR>
 				</P>
 			</TD>
@@ -981,7 +1148,7 @@ N 10 к Договору о Евразийском экономическом
 				<P CLASS="western"><BR>
 				</P>
 			</TD>
-			<TD COLSPAN=2 WIDTH=194 STYLE="border: none; padding: 0in">
+			<TD COLSPAN=2 WIDTH=195 STYLE="border: none; padding: 0in">
 				<P CLASS="western"><BR>
 				</P>
 			</TD>
@@ -990,70 +1157,50 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR VALIGN=TOP>
 			<TD WIDTH=44 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">N<BR>п/п</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">N<BR>п/п</FONT></FONT></FONT></FONT></P>
 			</TD>
-			<TD COLSPAN=2 WIDTH=258 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Структурный
+			<TD COLSPAN=2 WIDTH=257 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Структурный
 				элемент технического регламента
 				Евразийского экономического союза
 				и наименование требования (показателя),
 				относящегося к объекту технического
-				регулирования*</FONT></FONT></FONT></FONT></FONT></P>
+				регулирования*</FONT></FONT></FONT></FONT></P>
 			</TD>
 			<TD WIDTH=176 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Обозначение
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Обозначение
 				и наименование стандарта (методики)
-				исследований (испытаний) и измерений**</FONT></FONT></FONT></FONT></FONT></P>
+				исследований (испытаний) и измерений**</FONT></FONT></FONT></FONT></P>
 			</TD>
-			<TD COLSPAN=2 WIDTH=194 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Результат
+			<TD COLSPAN=2 WIDTH=195 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Результат
 				метрологической экспертизы по
-				требованию (показателю)***<BR></FONT></FONT></FONT></FONT></FONT><BR>
-				</P>
+				требованию (показателю)***¶</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 	</TBODY>
 	<TBODY>
 		<TR VALIGN=TOP>
 			<TD WIDTH=44 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1</FONT></FONT></FONT></FONT></P>
 			</TD>
-			<TD COLSPAN=2 WIDTH=258 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2</FONT></FONT></FONT></FONT></FONT></P>
+			<TD COLSPAN=2 WIDTH=257 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2</FONT></FONT></FONT></FONT></P>
 			</TD>
 			<TD WIDTH=176 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3</FONT></FONT></FONT></FONT></P>
 			</TD>
-			<TD COLSPAN=2 WIDTH=194 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4</FONT></FONT></FONT></FONT></FONT></P>
-			</TD>
-		</TR>
-	</TBODY>
-	<TBODY>
-		<TR VALIGN=TOP>
-			<TD WIDTH=44 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1</FONT></FONT></FONT></FONT></FONT></P>
-			</TD>
-			<TD COLSPAN=2 WIDTH=258 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
-				<P CLASS="western"><BR>
-				</P>
-			</TD>
-			<TD WIDTH=176 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
-				<P CLASS="western"><BR>
-				</P>
-			</TD>
-			<TD COLSPAN=2 WIDTH=194 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
-				<P CLASS="western"><BR>
-				</P>
+			<TD COLSPAN=2 WIDTH=195 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 	</TBODY>
 	<TBODY>
 		<TR VALIGN=TOP>
 			<TD WIDTH=44 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1</FONT></FONT></FONT></FONT></P>
 			</TD>
-			<TD COLSPAN=2 WIDTH=258 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
+			<TD COLSPAN=2 WIDTH=257 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
 				<P CLASS="western"><BR>
 				</P>
 			</TD>
@@ -1061,7 +1208,7 @@ N 10 к Договору о Евразийском экономическом
 				<P CLASS="western"><BR>
 				</P>
 			</TD>
-			<TD COLSPAN=2 WIDTH=194 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
+			<TD COLSPAN=2 WIDTH=195 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
 				<P CLASS="western"><BR>
 				</P>
 			</TD>
@@ -1070,9 +1217,9 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR VALIGN=TOP>
 			<TD WIDTH=44 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
-				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">п…</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2</FONT></FONT></FONT></FONT></P>
 			</TD>
-			<TD COLSPAN=2 WIDTH=258 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
+			<TD COLSPAN=2 WIDTH=257 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
 				<P CLASS="western"><BR>
 				</P>
 			</TD>
@@ -1080,7 +1227,26 @@ N 10 к Договору о Евразийском экономическом
 				<P CLASS="western"><BR>
 				</P>
 			</TD>
-			<TD COLSPAN=2 WIDTH=194 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
+			<TD COLSPAN=2 WIDTH=195 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
+				<P CLASS="western"><BR>
+				</P>
+			</TD>
+		</TR>
+	</TBODY>
+	<TBODY>
+		<TR VALIGN=TOP>
+			<TD WIDTH=44 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
+				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">п…</FONT></FONT></FONT></FONT></P>
+			</TD>
+			<TD COLSPAN=2 WIDTH=257 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
+				<P CLASS="western"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=176 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
+				<P CLASS="western"><BR>
+				</P>
+			</TD>
+			<TD COLSPAN=2 WIDTH=195 STYLE="border: 1px solid #000001; padding: 0in 0.1in">
 				<P CLASS="western"><BR>
 				</P>
 			</TD>
@@ -1103,7 +1269,7 @@ N 10 к Договору о Евразийском экономическом
 		</TR>
 		<TR VALIGN=TOP>
 			<TD COLSPAN=2 WIDTH=59 STYLE="border: none; padding: 0in">
-				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)****</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)****</FONT></FONT></FONT></FONT></P>
 			</TD>
 			<TD COLSPAN=4 WIDTH=653 STYLE="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
 				<P CLASS="western"><BR>
@@ -1116,9 +1282,9 @@ N 10 к Договору о Евразийском экономическом
 				</P>
 			</TD>
 			<TD COLSPAN=4 WIDTH=653 STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(заключение
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(заключение
 				о правильности применения метрологических
-				терминов, наименований</FONT></FONT></FONT></FONT></FONT></P>
+				терминов, наименований</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1137,10 +1303,10 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR>
 			<TD COLSPAN=6 WIDTH=732 VALIGN=TOP STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">и
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">и
 				обозначений единиц измеряемых величин
 				с указанием структурного элемента
-				технического регламента</FONT></FONT></FONT></FONT></FONT></P>
+				технического регламента</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1159,9 +1325,9 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR>
 			<TD COLSPAN=6 WIDTH=732 VALIGN=TOP STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Евразийского
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Евразийского
 				экономического союза (абзац, подпункт,
-				пункт, статья, приложение),</FONT></FONT></FONT></FONT></FONT></P>
+				пункт, статья, приложение),</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1180,8 +1346,8 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR>
 			<TD COLSPAN=6 WIDTH=732 VALIGN=TOP STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">по
-				которому имеются замечания)</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">по
+				которому имеются замечания)</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1196,7 +1362,7 @@ N 10 к Договору о Евразийском экономическом
 				</P>
 			</TD>
 			<TD WIDTH=10 STYLE="border: none; padding: 0in">
-				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">;</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">;</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1207,7 +1373,7 @@ N 10 к Договору о Евразийском экономическом
 		</TR>
 		<TR VALIGN=TOP>
 			<TD COLSPAN=2 WIDTH=59 STYLE="border: none; padding: 0in">
-				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)</FONT></FONT></FONT></FONT></P>
 			</TD>
 			<TD COLSPAN=4 WIDTH=653 STYLE="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
 				<P CLASS="western"><BR>
@@ -1220,9 +1386,9 @@ N 10 к Договору о Евразийском экономическом
 				</P>
 			</TD>
 			<TD COLSPAN=4 WIDTH=653 STYLE="border: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(заключение
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(заключение
 				о правильности выбора методов (методик)
-				исследований (испытаний) и измерений</FONT></FONT></FONT></FONT></FONT></P>
+				исследований (испытаний) и измерений</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1241,10 +1407,10 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR>
 			<TD COLSPAN=6 WIDTH=732 VALIGN=TOP STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">с
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">с
 				указанием обозначения разделов
 				(пунктов, подпунктов) и наименования
-				стандарта</FONT></FONT></FONT></FONT></FONT></P>
+				стандарта</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1263,9 +1429,9 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR>
 			<TD COLSPAN=6 WIDTH=732 VALIGN=TOP STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или
 				методики исследований (испытаний) и
-				измерений, по которым имеются замечания)</FONT></FONT></FONT></FONT></FONT></P>
+				измерений, по которым имеются замечания)</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1280,7 +1446,7 @@ N 10 к Договору о Евразийском экономическом
 				</P>
 			</TD>
 			<TD WIDTH=10 STYLE="border: none; padding: 0in">
-				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">;</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">;</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1291,7 +1457,7 @@ N 10 к Договору о Евразийском экономическом
 		</TR>
 		<TR VALIGN=TOP>
 			<TD COLSPAN=2 WIDTH=59 STYLE="border: none; padding: 0in">
-				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)</FONT></FONT></FONT></FONT></P>
 			</TD>
 			<TD COLSPAN=4 WIDTH=653 STYLE="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
 				<P CLASS="western"><BR>
@@ -1304,10 +1470,10 @@ N 10 к Договору о Евразийском экономическом
 				</P>
 			</TD>
 			<TD COLSPAN=4 WIDTH=653 STYLE="border: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(заключение
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(заключение
 				о соответствии показателей точности
 				методов (методик) измерений или
-				средства</FONT></FONT></FONT></FONT></FONT></P>
+				средства</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1326,10 +1492,10 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR>
 			<TD COLSPAN=6 WIDTH=732 VALIGN=TOP STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">измерений
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">измерений
 				требованиям, установленным в техническом
 				регламенте Евразийского экономического
-				союза</FONT></FONT></FONT></FONT></FONT></P>
+				союза</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1348,10 +1514,10 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR>
 			<TD COLSPAN=6 WIDTH=732 VALIGN=TOP STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 				отношении соответствующих объектов
 				технического регулирования, с указанием
-				обозначения</FONT></FONT></FONT></FONT></FONT></P>
+				обозначения</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1370,9 +1536,9 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR>
 			<TD COLSPAN=6 WIDTH=732 VALIGN=TOP STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">разделов
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">разделов
 				(пунктов, подпунктов) и наименования
-				стандарта или методики исследований</FONT></FONT></FONT></FONT></FONT></P>
+				стандарта или методики исследований</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1391,9 +1557,9 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR>
 			<TD COLSPAN=6 WIDTH=732 VALIGN=TOP STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(испытаний)
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(испытаний)
 				и измерений, по которым имеются
-				замечания)</FONT></FONT></FONT></FONT></FONT></P>
+				замечания)</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1408,7 +1574,7 @@ N 10 к Договору о Евразийском экономическом
 				</P>
 			</TD>
 			<TD WIDTH=10 STYLE="border: none; padding: 0in">
-				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">;</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">;</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1419,7 +1585,7 @@ N 10 к Договору о Евразийском экономическом
 		</TR>
 		<TR VALIGN=TOP>
 			<TD COLSPAN=2 WIDTH=59 STYLE="border: none; padding: 0in">
-				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)*****</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)*****</FONT></FONT></FONT></FONT></P>
 			</TD>
 			<TD COLSPAN=4 WIDTH=653 STYLE="border-top: none; border-bottom: 1px solid #000001; border-left: none; border-right: none; padding: 0in">
 				<P CLASS="western"><BR>
@@ -1432,9 +1598,9 @@ N 10 к Договору о Евразийском экономическом
 				</P>
 			</TD>
 			<TD COLSPAN=4 WIDTH=653 STYLE="border: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(заключение
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(заключение
 				о правильности выбора правил отбора
-				образцов с указанием</FONT></FONT></FONT></FONT></FONT></P>
+				образцов с указанием</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1453,9 +1619,9 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR>
 			<TD COLSPAN=6 WIDTH=732 VALIGN=TOP STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">обозначения
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">обозначения
 				разделов (пунктов, подпунктов) и
-				наименования стандарта</FONT></FONT></FONT></FONT></FONT></P>
+				наименования стандарта</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1474,9 +1640,9 @@ N 10 к Договору о Евразийском экономическом
 	<TBODY>
 		<TR>
 			<TD COLSPAN=6 WIDTH=732 VALIGN=TOP STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или
+				<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или
 				методики отбора образцов, по которым
-				имеются замечания)</FONT></FONT></FONT></FONT></FONT></P>
+				имеются замечания)</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 		<TR>
@@ -1491,13 +1657,18 @@ N 10 к Договору о Евразийском экономическом
 				</P>
 			</TD>
 			<TD WIDTH=10 STYLE="border: none; padding: 0in">
-				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">.</FONT></FONT></FONT></FONT></FONT></P>
+				<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">.</FONT></FONT></FONT></FONT></P>
 			</TD>
 		</TR>
 	</TBODY>
 </TABLE>
 <P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">________________<BR>*
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">________________</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">*
 Указывается структурный элемент
 технического регламента Евразийского
 экономического союза (абзац, подпункт,
@@ -1510,47 +1681,76 @@ N 10 к Договору о Евразийском экономическом
 (испытаний) и измерений, в том числе
 правил отбора образцов, установленных
 в стандарте (методике) исследований
-(испытаний) и измерений.<BR><BR>** Указываются
-наименование и обозначение стандарта
-или методики исследований (испытаний)
-и измерений, а также разделы (пункты,
-подпункты) стандарта, если для осуществления
-оценки соответствия объектов технического
-регулирования требованиям технического
-регламента Евразийского экономического
-союза должны применяться отдельные
-разделы (пункты, подпункты) этого
-стандарта, а не стандарт в целом.<BR><BR>***
+(испытаний) и измерений.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">**
+Указываются наименование и обозначение
+стандарта или методики исследований
+(испытаний) и измерений, а также разделы
+(пункты, подпункты) стандарта, если для
+осуществления оценки соответствия
+объектов технического регулирования
+требованиям технического регламента
+Евразийского экономического союза
+должны применяться отдельные разделы
+(пункты, подпункты) этого стандарта, а
+не стандарт в целом.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">***
 Указывается результат метрологической
 экспертизы по требованию (показателю)
 и вывод о соответствии (несоответствии)
 метода (методики) исследований (испытаний)
 и измерений требованиям, установленным
 в техническом регламенте Евразийского
-экономического союза.<BR><BR>**** Не заполняется
-при проведении метрологической экспертизы
-проекта акта о внесении изменений в
-перечни стандартов.<BR><BR>***** Заполняется
-при наличии в соответствующих правилах
-требований к объектам метрологической
-экспертизы, указанным в пункте 6 Порядка
-проведения метрологической экспертизы
-проекта технического регламента
-Евразийского экономического союза,
-проекта перечня стандартов, в результате
-применения которых на добровольной
-основе обеспечивается соблюдение
-требований технического регламента
-Евразийского экономического союза,
-проекта перечня стандартов, содержащих
-правила и методы исследований (испытаний)
-и измерений, в том числе правила отбора
-образцов, необходимые для применения
-и исполнения требований технического
+экономического союза.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">****
+Не заполняется при проведении
+метрологической экспертизы проекта
+акта о внесении изменений в перечни
+стандартов.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">*****
+Заполняется при наличии в соответствующих
+правилах требований к объектам
+метрологической экспертизы, указанным
+в пункте 6 Порядка проведения метрологической
+экспертизы проекта технического
 регламента Евразийского экономического
-союза и осуществления оценки соответствия
-объектов технического
-регулирования.<BR><BR>Исполнители:<BR></FONT></FONT></FONT></FONT></FONT><BR>
+союза, проекта перечня стандартов, в
+результате применения которых на
+добровольной основе обеспечивается
+соблюдение требований технического
+регламента Евразийского экономического
+союза, проекта перечня стандартов,
+содержащих правила и методы исследований
+(испытаний) и измерений, в том числе
+правила отбора образцов, необходимые
+для применения и исполнения требований
+технического регламента Евразийского
+экономического союза и осуществления
+оценки соответствия объектов технического
+регулирования.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Исполнители:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.22in"><A NAME="_GoBack"></A>
+<BR>
 </P>
 <TABLE WIDTH=752 CELLPADDING=10 CELLSPACING=0>
 	<COL WIDTH=271>
@@ -1604,25 +1804,25 @@ N 10 к Договору о Евразийском экономическом
 	</TR>
 	<TR VALIGN=TOP>
 		<TD WIDTH=271 STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(должность
+			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(должность
 			руководителя (уполномоченного лица)
 			юридического лица, проводившего
-			экспертизу)</FONT></FONT></FONT></FONT></FONT></P>
+			экспертизу)</FONT></FONT></FONT></FONT></P>
 		</TD>
 		<TD WIDTH=30 STYLE="border: none; padding: 0in">
 			<P CLASS="western"><BR>
 			</P>
 		</TD>
 		<TD WIDTH=124 STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(подпись)</FONT></FONT></FONT></FONT></FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(подпись)</FONT></FONT></FONT></FONT></P>
 		</TD>
 		<TD WIDTH=8 STYLE="border: none; padding: 0in">
 			<P CLASS="western"><BR>
 			</P>
 		</TD>
 		<TD WIDTH=219 STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(Ф.
-			И. О.)</FONT></FONT></FONT></FONT></FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(Ф.
+			И. О.)</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
@@ -1671,28 +1871,29 @@ N 10 к Договору о Евразийском экономическом
 	</TR>
 	<TR VALIGN=TOP>
 		<TD WIDTH=271 STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(должность
+			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(должность
 			сотрудника юридического лица,
-			проводившего экспертизу)</FONT></FONT></FONT></FONT></FONT></P>
+			проводившего экспертизу)</FONT></FONT></FONT></FONT></P>
 		</TD>
 		<TD WIDTH=30 STYLE="border: none; padding: 0in">
 			<P CLASS="western"><BR>
 			</P>
 		</TD>
 		<TD WIDTH=124 STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(подпись)</FONT></FONT></FONT></FONT></FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(подпись)</FONT></FONT></FONT></FONT></P>
 		</TD>
 		<TD WIDTH=8 STYLE="border: none; padding: 0in">
 			<P CLASS="western"><BR>
 			</P>
 		</TD>
 		<TD WIDTH=219 STYLE="border-top: 1px solid #000001; border-bottom: none; border-left: none; border-right: none; padding: 0in">
-			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#2d2d2d"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(Ф.
-			И. О.)</FONT></FONT></FONT></FONT></FONT></P>
+			<P CLASS="western" ALIGN=CENTER><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">(Ф.
+			И. О.)</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 </TABLE>
 <P CLASS="western" STYLE="margin-bottom: 0.11in; line-height: 107%"><BR><BR>
 </P>
 </BODY>
-</HTML>`
+</HTML>
+`

@@ -1,4 +1,4 @@
-import { FolderSelection, MainPage } from 'pages'
+import { FolderSelection, FilesSelection, MainPage } from 'pages'
 
 export const authorized = [
   {
@@ -7,6 +7,10 @@ export const authorized = [
   },
   {
     path: '/:type',
+    component: FilesSelection,
+  },
+  {
+    path: '/:type/view?word=:word&excel=:excel',
     component: MainPage,
   },
 ]

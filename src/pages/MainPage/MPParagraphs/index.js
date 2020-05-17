@@ -14,7 +14,7 @@ const MPParagraphs = () => {
 
   useEffect(() => {
     if (selectedWordFileName) {
-      const documentOne = require(`./Documents/${selectedWordFileName}.js`)
+      const documentOne = require(`./../../../modules/session/metrologiya-docs/${selectedWordFileName}.js`)
       const { formatted, ids } = formatDoc(documentOne?.default, selectedWordFileName, allDocsFragments)
       setHtml({ __html: formatted })
       setTimeout(() => {

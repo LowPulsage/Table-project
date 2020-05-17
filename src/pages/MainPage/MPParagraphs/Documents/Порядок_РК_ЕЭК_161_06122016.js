@@ -109,11 +109,6 @@ export default `
 порталов размещается на официальном
 сайте Союза в сети Интернет;</FONT></FONT></FONT></FONT></P>
 <P CLASS="western" STYLE="margin-bottom: 0in; background: #f4f3f8; line-height: 150%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#392c69"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>КонсультантПлюс:
-примечание.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #f4f3f8; line-height: 150%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#392c69"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>Пп.
-&quot;в&quot; п. 5 вступает в силу с 30.01.2020.</FONT></FONT></FONT></FONT></FONT></P>
 <P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0.38in; margin-bottom: 0in; line-height: 150%"><A NAME="p43"></A>
 <FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>в)
 в электронном виде с использованием

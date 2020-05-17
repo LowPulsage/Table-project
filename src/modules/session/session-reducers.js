@@ -1,10 +1,9 @@
 /* eslint-disable */
 
 import { } from './session-constants'
-import { UPDATE_TEXT } from './session-actions'
-import sourceData from './file'
-import excelFileNames from './excel-file-names'
-import docxFileNames from './docx-file-names'
+// import { UPDATE_TEXT } from './session-actions'
+import excelFileNames from './excel-file-metrologiya'
+import docxFileNames from './metrologiya-files'
 
 export const OVERWRITE_DOC_FILE_TEXT = 'OVERWRITE_DOC_FILE_TEXT'
 export const SET_SELECTED_WORD = 'SET_SELECTED_WORD'
@@ -22,7 +21,6 @@ const getFragments = r => r.reduce((acc, i) => {
 
 export const sessionInitialState = {
   allDocsFragments: [],
-  sourceData,
   docxFileNames,
   excelFileNames,
   selectedWordFileName: null,
@@ -62,7 +60,7 @@ export const sessionReducer = (state = sessionInitialState, action) => {
 // should be moved to session-actions
 export const setSelectedWordName = payload => ({ type: SET_SELECTED_WORD, payload })
 export const setSelectedExelName = selectedExcelFileName => {
-  const doc = require(`./${selectedExcelFileName}.js`) || {}
+  const doc = require(`./metrologiya-files/${selectedExcelFileName}.js`) || {}
   const allDocsFragments = getFragments(doc.allRows || [])
   return ({ type: SET_SELECECTED_EXEL, payload: { selectedExcelFileName, allDocsFragments } })
 }

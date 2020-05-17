@@ -1,4 +1,4 @@
-import { setSelectedWordName, setSelectedExelName } from 'modules/session/session-reducers'
+import { setSelectedWordName, setSelectedExcelName } from 'modules/session/session-reducers'
 import { useSelector, useDispatch } from 'react-redux'
 import docxIcon from './hotpng.com.png'
 import { List, Avatar } from 'antd'
@@ -29,7 +29,7 @@ const FSDocumentsList = () => {
       />
       <List
         renderItem={item => (
-          <List.Item onClick={() => dispatch(setSelectedExelName(item.fileName))}>
+          <List.Item onClick={() => dispatch(setSelectedExcelName(item.fileName))}>
             <List.Item.Meta
               className={`documentList-fileName ${source.selectedExcelFileName === item.fileName ? 'selected' : ''}`}
               avatar={<Avatar src={exelIcon} />}

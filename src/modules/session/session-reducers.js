@@ -1,7 +1,5 @@
 /* eslint-disable */
 
-import { } from './session-constants'
-// import { UPDATE_TEXT } from './session-actions'
 import excelFileNames from './excel-file-metrologiya'
 import docxFileNames from './metrologiya-files'
 
@@ -12,6 +10,7 @@ export const SET_IS_CLICK = 'SET_IS_CLICK'
 
 
 // bad place for this transformation
+// in actions
 const getFragments = r => r.reduce((acc, i) => {
   const fileName = i['Файл 1']
   if (!acc[fileName]) acc[fileName] = []
@@ -20,11 +19,11 @@ const getFragments = r => r.reduce((acc, i) => {
 }, {})
 
 export const sessionInitialState = {
+  selectedExcelFileName: '',
+  selectedWordFileName: '',
   allDocsFragments: [],
-  docxFileNames,
   excelFileNames,
-  selectedWordFileName: null,
-  selectedExcelFileName: null,
+  docxFileNames,
 }
 
 export const sessionReducer = (state = sessionInitialState, action) => {
@@ -59,7 +58,7 @@ export const sessionReducer = (state = sessionInitialState, action) => {
 
 // should be moved to session-actions
 export const setSelectedWordName = payload => ({ type: SET_SELECTED_WORD, payload })
-export const setSelectedExelName = selectedExcelFileName => {
+export const setSelectedExcelName = selectedExcelFileName => {
   const doc = require(`./metrologiya-files/${selectedExcelFileName}.js`) || {}
   const allDocsFragments = getFragments(doc.allRows || [])
   return ({ type: SET_SELECECTED_EXEL, payload: { selectedExcelFileName, allDocsFragments } })

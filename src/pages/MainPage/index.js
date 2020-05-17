@@ -1,5 +1,5 @@
 /* eslint-disable */
-import { setSelectedWordName, setSelectedExcelName } from 'modules/session/session-reducers'
+import { setSelectedWordName, setSelectedExcelName } from 'modules/session/session-actions'
 import { useSelector, useDispatch } from 'react-redux'
 import { Link, useParams } from 'react-router-dom'
 import { HomeOutlined } from '@ant-design/icons'

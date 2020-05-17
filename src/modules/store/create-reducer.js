@@ -1,7 +1,5 @@
-import { combineReducers } from 'redux'
-// import { updateTextAction } from '../session/session-reducers'
-// import { SESSION_STATE } from 'modules/session/session-constants'
 import { sessionReducer } from 'modules/session/session-reducers'
+import { combineReducers } from 'redux'
 
 const createReducer = asyncReducers =>
   combineReducers({

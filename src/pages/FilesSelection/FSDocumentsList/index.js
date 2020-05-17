@@ -1,4 +1,4 @@
-import { setSelectedWordName, setSelectedExcelName, selectFolder } from 'modules/session/session-reducers'
+import { setSelectedWordName, setSelectedExcelName, selectFolder } from 'modules/session/session-actions'
 import { useHistory, useParams } from 'react-router-dom'
 import { useSelector, useDispatch } from 'react-redux'
 import React, { useEffect } from 'react'
@@ -17,9 +17,9 @@ const FSDocumentsList = () => {
   const params = useParams()
 
   useEffect(() => {
+    dispatch(selectFolder(params.type))
     dispatch(setSelectedExcelName(''))
     dispatch(setSelectedWordName(''))
-    dispatch(selectFolder(params.type))
   }, [])
 
   const goto = (word, excel) => {

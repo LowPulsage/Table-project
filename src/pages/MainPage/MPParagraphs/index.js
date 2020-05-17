@@ -9,12 +9,14 @@ const MPParagraphs = () => {
   const selectedWordFileName = useSelector(state => state.source.selectedWordFileName)
   const fragmentForSearching = useSelector(state => state.source.fragmentForSearching)
   const allDocsFragments = useSelector(state => state.source.allDocsFragments)
+  const type = useSelector(state => state.source.type)
   const [htmlObj, setHtml] = useState({ __html: '' })
   const dipatch = useDispatch()
 
   useEffect(() => {
     if (selectedWordFileName) {
-      const documentOne = require(`./../../../modules/session/metrologiya-docs/${selectedWordFileName}.js`)
+      // todo: recheck place. Maybe move some logic to actions?
+      const documentOne = require(`modules/session/${type}-docs/${selectedWordFileName}.js`)
       const { formatted, ids } = formatDoc(documentOne?.default, selectedWordFileName, allDocsFragments)
       setHtml({ __html: formatted })
       setTimeout(() => {

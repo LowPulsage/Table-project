@@ -5,8 +5,6 @@ import { Breadcrumb } from 'antd'
 import React from 'react'
 import './index.styl'
 
-// {!selectedExelName || !selectedWordName
-
 const FilesSelection = () => {
   return (
     <div>

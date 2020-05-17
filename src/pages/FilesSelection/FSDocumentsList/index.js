@@ -1,43 +1,69 @@
 import { setSelectedWordName, setSelectedExcelName } from 'modules/session/session-reducers'
+import { useHistory, useParams } from 'react-router-dom'
 import { useSelector, useDispatch } from 'react-redux'
+import React, { useEffect } from 'react'
 import docxIcon from './hotpng.com.png'
 import { List, Avatar } from 'antd'
 import exelIcon from './exel.png'
-import React from 'react'
 import './index.styl'
 
 const FSDocumentsList = () => {
+  const selectedExcelFileName = useSelector(state => state.source.selectedExcelFileName)
+  const selectedWordFileName = useSelector(state => state.source.selectedWordFileName)
+  const excelFileNames = useSelector(state => state.source.excelFileNames)
+  const docxFileNames = useSelector(state => state.source.docxFileNames)
   const dispatch = useDispatch()
-  const source = useSelector(state => state.source)
+  const history = useHistory()
+  const params = useParams()
+
+  useEffect(() => {
+    dispatch(setSelectedExcelName(''))
+  }, [])
+
+  const goto = (word, excel) => {
+    if (word && excel) {
+      history.push(`/${params.type}/view?word=${word}&excel=${excel}`)
+    }
+  }
+
+  const selectWord = item => {
+    dispatch(setSelectedWordName(item.fileName))
+    goto(item.fileName, selectedExcelFileName)
+  }
+
+  const selectExcel = item => {
+    dispatch(setSelectedExcelName(item.fileName))
+    goto(selectedWordFileName, item.fileName)
+  }
 
   return (
     <div className='MainPage-documentList'>
       <List
         renderItem={item => (
-          <List.Item onClick={() => dispatch(setSelectedWordName(item.fileName))}>
+          <List.Item onClick={() => selectWord(item)}>
             <List.Item.Meta
-              className={`documentList-fileName ${source.selectedWordFileName === item.fileName ? 'selected' : ''}`}
+              className={`documentList-fileName ${selectedWordFileName === item.fileName ? 'selected' : ''}`}
               avatar={<Avatar src={docxIcon} />}
               title={<div>{item.fileName}</div>}
             />
           </List.Item>
         )}
-        dataSource={source.docxFileNames}
+        dataSource={docxFileNames}
         className='list'
         size='small'
         bordered
       />
       <List
         renderItem={item => (
-          <List.Item onClick={() => dispatch(setSelectedExcelName(item.fileName))}>
+          <List.Item onClick={() => selectExcel(item)}>
             <List.Item.Meta
-              className={`documentList-fileName ${source.selectedExcelFileName === item.fileName ? 'selected' : ''}`}
+              className={`documentList-fileName ${selectedExcelFileName === item.fileName ? 'selected' : ''}`}
               avatar={<Avatar src={exelIcon} />}
               title={<div>{item.fileName}</div>}
             />
           </List.Item>
         )}
-        dataSource={source.excelFileNames}
+        dataSource={excelFileNames}
         className='list'
         size='small'
         bordered

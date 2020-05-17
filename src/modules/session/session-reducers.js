@@ -59,7 +59,9 @@ export const sessionReducer = (state = sessionInitialState, action) => {
 // should be moved to session-actions
 export const setSelectedWordName = payload => ({ type: SET_SELECTED_WORD, payload })
 export const setSelectedExcelName = selectedExcelFileName => {
-  const doc = require(`./metrologiya-files/${selectedExcelFileName}.js`) || {}
+  const doc = selectedExcelFileName
+    ? require(`./metrologiya-files/${selectedExcelFileName}.js`) || {}
+    : {}
   const allDocsFragments = getFragments(doc.allRows || [])
   return ({ type: SET_SELECECTED_EXEL, payload: { selectedExcelFileName, allDocsFragments } })
 }

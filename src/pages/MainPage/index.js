@@ -10,13 +10,13 @@ import Source from './MPSource/Source'
 import './index.styl'
 
 const MainPage = () => {
-  const selectedExelName = useSelector(state => state.source.selectedExcelFileName)
+  const selectedExcelName = useSelector(state => state.source.selectedExcelFileName)
   const selectedWordName = useSelector(state => state.source.selectedWordFileName)
   const dispatch = useDispatch()
 
   useEffect(() => {
     const res = new URLSearchParams(location.search)
-    if (!selectedExelName) {
+    if (!selectedExcelName) {
       dispatch(setSelectedExcelName(res.get('excel')))
     }
     if (!selectedWordName) {
@@ -31,7 +31,7 @@ const MainPage = () => {
           <Breadcrumb.Item><Link to='/'><HomeOutlined /></Link></Breadcrumb.Item>
           <Breadcrumb.Item><Link to={`/${useParams().type}`}>Cходные положения</Link></Breadcrumb.Item>
           <Breadcrumb.Item>{selectedWordName}</Breadcrumb.Item>
-          <Breadcrumb.Item>{selectedExelName}</Breadcrumb.Item>
+          <Breadcrumb.Item>{selectedExcelName}</Breadcrumb.Item>
         </Breadcrumb>
       </div>
 

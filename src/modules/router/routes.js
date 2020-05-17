@@ -1,18 +1,10 @@
-import { Home, Unauthorized } from 'pages'
+import { MainPage } from 'pages'
 
 export const authorized = [
   {
     path: '/',
-    component: Home,
+    component: MainPage,
   },
 ]
 
-export const unauthorized = [
-  {
-    path: '/',
-    component: Unauthorized,
-  },
-]
-
-export const unauthorizedPathNames = unauthorized.map(route => route.path)
 export const authorizedPathNames = authorized.map(route => route.path)

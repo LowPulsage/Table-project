@@ -1,11 +1,8 @@
 /* eslint-disable */
-
-import excelFileNames from './excel-file-metrologiya'
-import docxFileNames from './metrologiya-files'
-
 export const OVERWRITE_DOC_FILE_TEXT = 'OVERWRITE_DOC_FILE_TEXT'
-export const SET_SELECTED_WORD = 'SET_SELECTED_WORD'
 export const SET_SELECECTED_EXEL = 'SET_SELECECTED_EXEL'
+export const SET_SELECTED_WORD = 'SET_SELECTED_WORD'
+export const SELECT_FOLDER = 'SELECT_FOLDER'
 export const SET_IS_CLICK = 'SET_IS_CLICK'
 
 
@@ -22,23 +19,26 @@ export const sessionInitialState = {
   selectedExcelFileName: '',
   selectedWordFileName: '',
   allDocsFragments: [],
-  excelFileNames,
-  docxFileNames,
+  excelFileNames: [],
+  docxFileNames: [],
 }
 
 export const sessionReducer = (state = sessionInitialState, action) => {
   switch (action.type) {
-    // case OVERWRITE_DOC_FILE_TEXT:
-    //   return {
-    //     ...state,
-    //     docxFileNames: [...state.docxFileNames, action.docFileText],
-    //   }
+    case SELECT_FOLDER: {
+      return {
+        ...state,
+        excelFileNames: action.payload.excelFileNames,
+        docxFileNames: action.payload.docxFileNames,
+      }
+    }
     case SET_SELECTED_WORD: {
       return {
         ...state,
         selectedWordFileName: action.payload
       }
-    } case SET_SELECECTED_EXEL: {
+    } 
+    case SET_SELECECTED_EXEL: {
       return {
         ...state,
         selectedExcelFileName: action.payload.selectedExcelFileName,
@@ -66,3 +66,14 @@ export const setSelectedExcelName = selectedExcelFileName => {
   return ({ type: SET_SELECECTED_EXEL, payload: { selectedExcelFileName, allDocsFragments } })
 }
 export const setFragmentForSearching = payload => ({ type: SET_IS_CLICK, payload })
+export const selectFolder = type => {
+  if (type === 'metrologiya' || type === 'roskomnadzor') {
+    const excel = require(`./excel-file-${type}.js`) || {}
+    const doc = require(`./${type}-files.js`) || {}
+
+    return ({ type: SELECT_FOLDER, payload: {
+      excelFileNames: excel.default || [],
+      docxFileNames: doc.default || [],
+    } })
+  }
+}

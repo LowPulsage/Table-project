@@ -1,8 +1,12 @@
-import { MainPage } from 'pages'
+import { FolderSelection, MainPage } from 'pages'
 
 export const authorized = [
   {
     path: '/',
+    component: FolderSelection,
+  },
+  {
+    path: '/:type',
     component: MainPage,
   },
 ]

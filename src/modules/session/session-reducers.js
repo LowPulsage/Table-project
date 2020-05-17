@@ -12,6 +12,7 @@ export const SET_IS_CLICK = 'SET_IS_CLICK'
 
 
 // bad place for this transformation
+// in actions
 const getFragments = r => r.reduce((acc, i) => {
   const fileName = i['Файл 1']
   if (!acc[fileName]) acc[fileName] = []
@@ -20,11 +21,11 @@ const getFragments = r => r.reduce((acc, i) => {
 }, {})
 
 export const sessionInitialState = {
+  selectedExcelFileName: 'Близкие_фрагменты_15_05_1_предложение',
+  selectedWordFileName: 'Протокол_10_ЕЭС_29052015',
   allDocsFragments: [],
-  docxFileNames,
   excelFileNames,
-  selectedWordFileName: null,
-  selectedExcelFileName: null,
+  docxFileNames,
 }
 
 export const sessionReducer = (state = sessionInitialState, action) => {

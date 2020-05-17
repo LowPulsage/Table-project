@@ -24,12 +24,12 @@ const MainPage = () => {
         <div className='MainPage-root-allCont'>
           <div className='mainPage-content'>
             <div className='Mainpage-paragraphs'>
-          <Card title={selectedWordName}>
+              <Card title={<div><b>Исходный файл</b><br/>{selectedWordName}</div>}>
             <Paragraphs />
             </Card>
             </div>
             <div className='Mainpage-source'>
-          <Card title={<div><b>Сходные положения</b> - {selectedExelName}</div>}>
+          <Card title={<div><b>Сходные положения</b> <br/> {selectedExelName}</div>}>
             <Source />
           </Card>
           </div>

@@ -29,7 +29,7 @@ export default `
 </HEAD>
 <BODY LANG="ru-RU" LINK="#0563c1" DIR="LTR">
 <P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#3c3c3c">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt"><BR>Порядок
+<FONT COLOR="#3c3c3c">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt; line-height: 1.1;"><BR>Порядок
 проведения метрологической экспертизы
 проекта технического регламента
 Евразийского экономического союза,

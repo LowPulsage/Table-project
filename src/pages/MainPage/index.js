@@ -1,15 +1,28 @@
-import Paragraphs from './MPParagraphs/Paragraphs'
+/* eslint-disable */
+import { setSelectedWordName, setSelectedExcelName } from 'modules/session/session-reducers'
+import { useSelector, useDispatch } from 'react-redux'
 import { Link, useParams } from 'react-router-dom'
 import { HomeOutlined } from '@ant-design/icons'
-import { useSelector } from 'react-redux'
+import MPParagraphs from './MPParagraphs'
+import React, { useEffect } from 'react'
 import { Breadcrumb, Card } from 'antd'
 import Source from './MPSource/Source'
-import React from 'react'
 import './index.styl'
 
 const MainPage = () => {
   const selectedExelName = useSelector(state => state.source.selectedExcelFileName)
   const selectedWordName = useSelector(state => state.source.selectedWordFileName)
+  const dispatch = useDispatch()
+
+  useEffect(() => {
+    const res = new URLSearchParams(location.search)
+    if (!selectedExelName) {
+      dispatch(setSelectedExcelName(res.get('excel')))
+    }
+    if (!selectedWordName) {
+      dispatch(setSelectedWordName(res.get('word')))
+    }
+  }, [])
 
   return (
     <div className='MainPage-root'>
@@ -21,10 +34,11 @@ const MainPage = () => {
           <Breadcrumb.Item>{selectedExelName}</Breadcrumb.Item>
         </Breadcrumb>
       </div>
+
       <div className='content'>
         <div className='Mainpage-paragraphs'>
           <Card title='Исходный файл'>
-            <Paragraphs />
+            <MPParagraphs />
           </Card>
         </div>
         <div className='Mainpage-source'>

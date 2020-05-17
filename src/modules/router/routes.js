@@ -10,7 +10,6 @@ export const authorized = [
     component: FilesSelection,
   },
   {
-    // ?word=:word&excel=:excel
     path: '/:type/view',
     component: MainPage,
   },

@@ -14,7 +14,7 @@ const MPParagraphs = () => {
   const dipatch = useDispatch()
 
   useEffect(() => {
-    if (selectedWordFileName) {
+    if (selectedWordFileName && type) {
       // todo: recheck place. Maybe move some logic to actions?
       const documentOne = require(`modules/session/${type}-docs/${selectedWordFileName}.js`)
       const { formatted, ids } = formatDoc(documentOne?.default, selectedWordFileName, allDocsFragments)
@@ -33,7 +33,7 @@ const MPParagraphs = () => {
         })
       }, 0)
     }
-  }, [selectedWordFileName])
+  }, [selectedWordFileName, type])
 
   const selectFragment = e => {
     const parentNode = e.target.closest('p[id]') || {}

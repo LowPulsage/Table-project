@@ -1,5 +1,4 @@
-/* eslint-disable */
-import { setSelectedWordName, setSelectedExcelName } from 'modules/session/session-actions'
+import { setSelectedWordName, setSelectedExcelName, selectFolder } from 'modules/session/session-actions'
 import { useSelector, useDispatch } from 'react-redux'
 import { Link, useParams } from 'react-router-dom'
 import { HomeOutlined } from '@ant-design/icons'
@@ -12,9 +11,14 @@ import './index.styl'
 const MainPage = () => {
   const selectedExcelName = useSelector(state => state.source.selectedExcelFileName)
   const selectedWordName = useSelector(state => state.source.selectedWordFileName)
+  const type = useSelector(state => state.source.type)
   const dispatch = useDispatch()
+  const params = useParams()
 
   useEffect(() => {
+    if (!type) {
+      dispatch(selectFolder(params.type))
+    }
     const res = new URLSearchParams(location.search)
     if (!selectedExcelName) {
       dispatch(setSelectedExcelName(res.get('excel')))
@@ -29,7 +33,7 @@ const MainPage = () => {
       <div className='header'>
         <Breadcrumb>
           <Breadcrumb.Item><Link to='/'><HomeOutlined /></Link></Breadcrumb.Item>
-          <Breadcrumb.Item><Link to={`/${useParams().type}`}>Cходные положения</Link></Breadcrumb.Item>
+          <Breadcrumb.Item><Link to={`/${params.type}`}>Cходные положения</Link></Breadcrumb.Item>
           <Breadcrumb.Item>{selectedWordName}</Breadcrumb.Item>
           <Breadcrumb.Item>{selectedExcelName}</Breadcrumb.Item>
         </Breadcrumb>

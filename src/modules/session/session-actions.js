@@ -1,9 +1,11 @@
+import React from 'react'
 import {
   SET_SELECECTED_EXEL,
   SET_SELECTED_WORD,
   SELECT_FOLDER,
   SET_IS_CLICK,
 } from 'modules/session/session-constants'
+import { notification } from 'antd'
 
 const getFragments = r => r.reduce((acc, i) => {
   const fileName = i['Файл 1']
@@ -30,17 +32,28 @@ export const setSelectedExcelName = selectedExcelFileName => {
 export const setFragmentForSearching = payload => ({ type: SET_IS_CLICK, payload })
 
 export const selectFolder = type => {
-  if (type === 'metrologiya' || type === 'roskomnadzor') {
-    const excel = require(`./excel-file-${type}.js`) || {}
-    const doc = require(`./${type}-files.js`) || {}
+  return dispatch => {
+    if (type === 'metrologiya' || type === 'roskomnadzor') {
+      const excel = require(`./excel-file-${type}.js`) || {}
+      const doc = require(`./${type}-files.js`) || {}
 
-    return ({
-      type: SELECT_FOLDER,
-      payload: {
-        excelFileNames: excel.default || [],
-        docxFileNames: doc.default || [],
-        type,
-      },
-    })
+      dispatch({
+        type: SELECT_FOLDER,
+        payload: {
+          excelFileNames: excel.default || [],
+          docxFileNames: doc.default || [],
+          type,
+        },
+      })
+    } else {
+      notification.error({
+        message: (
+          <div>Не верный тип "{type}". Тип должен существовать и быть metrologiya или roskomnadzor.
+            <br />
+            <a href='/'>Перейти на главную</a>
+          </div>
+        ),
+      })
+    }
   }
 }

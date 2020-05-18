@@ -1,6 +1,6 @@
 /*eslint-disable*/
 export default `
-< !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
@@ -8,9 +8,9 @@ export default `
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
 	<META NAME="CREATED" CONTENT="20200505;145600000000000">
-	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
-	<META NAME="CHANGED" CONTENT="20200505;145600000000000">
-	<META NAME="AppVersion" CONTENT="16.0000">
+	<META NAME="CHANGEDBY" CONTENT="Учетная запись Майкрософт">
+	<META NAME="CHANGED" CONTENT="20200518;112200000000000">
+	<META NAME="AppVersion" CONTENT="15.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
 	<META NAME="LinksUpToDate" CONTENT="false">
@@ -28,41 +28,54 @@ export default `
 	</STYLE>
 </HEAD>
 <BODY LANG="ru-RU" LINK="#0563c1" DIR="LTR">
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПРАВИТЕЛЬСТВО
-РОССИЙСКОЙ ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПОСТАНОВЛЕНИЕ<BR>от
-13 июля 2004 г. N 350</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ОБ
-УТВЕРЖДЕНИИ ПРАВИЛ<BR>РАСПРЕДЕЛЕНИЯ И
-ИСПОЛЬЗОВАНИЯ РЕСУРСОВ НУМЕРАЦИИ<BR>ЕДИНОЙ
-СЕТИ ЭЛЕКТРОСВЯЗИ РОССИЙСКОЙ ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>На
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Правительство
+Российской Федерации</FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Постановление<BR>От
+13 Июля 2004 Г. N 350</FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%"><A NAME="_GoBack"></A>
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Об
+Утверждении Правил<BR>Распределения И
+Использования Ресурсов Нумерации<BR>Единой
+Сети Электросвязи Российской Федерации</FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">На
 основании статьи 26 Федерального закона
 &quot;О связи&quot; Правительство Российской
 Федерации постановляет:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Утвердить
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утвердить
 прилагаемые Правила распределения и
 использования ресурсов нумерации единой
 сети электросвязи Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Председатель
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Председатель
 Правительства<BR>Российской
 Федерации<BR>М.ФРАДКОВ</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Утверждены<BR>Постановлением
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утверждены<BR>Постановлением
 Правительства<BR>Российской Федерации<BR>от
 13 июля 2004 г. N 350</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПРАВИЛА<BR>РАСПРЕДЕЛЕНИЯ
-И ИСПОЛЬЗОВАНИЯ РЕСУРСОВ НУМЕРАЦИИ<BR>ЕДИНОЙ
-СЕТИ ЭЛЕКТРОСВЯЗИ РОССИЙСКОЙ ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ПРАВИЛА
+РАСПРЕДЕЛЕНИЯ И ИСПОЛЬЗОВАНИЯ РЕСУРСОВ
+НУМЕРАЦИИ<BR>ЕДИНОЙ СЕТИ ЭЛЕКТРОСВЯЗИ
+РОССИЙСКОЙ ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Настоящие Правила, разработанные в
 соответствии с законодательством
 Российской Федерации в области связи,
@@ -78,14 +91,14 @@ export default `
 сетей связи единой сети электросвязи
 Российской Федерации (далее - российская
 система и план нумерации).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Регулирование ресурсов нумерации единой
 сети электросвязи Российской Федерации
 является исключительным правом
 государства.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Ресурсы нумерации единой сети электросвязи
 Российской Федерации являются частью
 ресурса нумерации международной сети
@@ -96,8 +109,8 @@ export default `
 а также служебных кодов идентификации
 сетей связи, их элементов и оконечного
 оборудования.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>4.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Настоящие Правила не распространяются
 на порядок выделения и распределения
 ресурса нумерации российского сегмента
@@ -107,8 +120,8 @@ export default `
 общепринятой международной практики
 деятельности саморегулируемых организаций
 в этой области.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 случае если органы глобальной координации
 сети Интернет выделяют ресурсы нумерации
 по согласованию с национальными
@@ -116,8 +129,8 @@ export default `
 осуществляет Министерство цифрового
 развития, связи и массовых коммуникаций
 Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>5.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
 Федеральное агентство связи выделяет
 ресурс нумерации для сетей электросвязи,
 определяет наличие ограниченности
@@ -127,16 +140,16 @@ export default `
 или частично выделенный ресурс нумерации,
 переоформляет решения о выделении
 ресурса нумерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>6.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 Формы решений Федерального агентства
 связи о выделении, изменении и изъятии
 ресурса нумерации утверждаются
 Министерством цифрового развития, связи
 и массовых коммуникаций Российской
 Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>7.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
 Выделение ресурса нумерации для сетей
 электросвязи осуществляется Федеральным
 агентством связи по заявлению заявителя
@@ -146,8 +159,8 @@ export default `
 на оказание услуг в области связи),
 владельца сети связи специального
 назначения.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>8.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
 Коды географически определяемых зон
 нумерации, коды географически не
 определяемых зон нумерации, а также
@@ -159,13 +172,13 @@ export default `
 и массовых коммуникаций Российской
 Федерации в соответствии с российской
 системой и планом нумерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>9.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
 Для получения ресурса нумерации заявитель
 подает в Федеральное агентство связи
 заявление, в котором указывается:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 полное и сокращенное (в случае, если
 имеется) наименование, организационно-правовая
 форма юридического лица, его место
@@ -178,8 +191,8 @@ export default `
 нахождения органа, осуществившего
 государственную регистрацию - для
 юридического лица;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 фамилия, имя и отчество (в случае, если
 имеется) индивидуального предпринимателя,
 его место жительства, реквизиты документа,
@@ -195,44 +208,44 @@ export default `
 осуществившего государственную
 регистрацию - для индивидуального
 предпринимателя;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 идентификационный номер налогоплательщика
 заявителя;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 номер лицензии на оказание услуг в
 области связи, в соответствии с которой
 оператором связи оказываются
 (предполагается оказывать) услуги связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 объем ресурса нумерации (количество
 номеров) с указанием кода зоны нумерации,
 или кода доступа к услугам связи, или
 индикатора сети;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 территория, на которой предполагается
 использовать (используется) ресурс
 нумерации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>ж)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ж)
 номер телефона, факса организации или
 индивидуального предпринимателя и
 адрес электронной почты (в случае, если
 имеется);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>з)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">з)
 полное и сокращенное (в случае, если
 имеется) наименование владельца сети
 связи специального назначения.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>10.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.
 К заявлению, указанному в пункте 9
 настоящих Правил, прилагаются:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 копия платежного документа, подтверждающего
 оплату государственной пошлины за
 выделение ресурса нумерации (в случае,
@@ -244,13 +257,13 @@ export default `
 форме или квитанции установленной
 формы, выдаваемой банком, - при оплате
 в наличной форме;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 фрагмент схемы построения сети связи
 в части использования выделяемого
 ресурса нумерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>10(1).
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10(1).
 Заявление, указанное в пункте 9 настоящих
 Правил, направляется в электронной
 форме с использованием федеральной
@@ -261,21 +274,21 @@ export default `
 или иными способами, позволяющими
 подтвердить факт направления заявления
 и его содержание.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>При
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">При
 направлении заявления в электронной
 форме с использованием указанной
 информационной системы заявитель к
 заявлению прилагает сканированное
 изображение документов, предусмотренных
 пунктом 10 настоящих Правил.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>11.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
 Требовать от заявителя документы, не
 указанные в пункте 10 настоящих Правил,
 не допускается.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>12.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
 Федеральное агентство связи проверяет
 представленные заявителем документы,
 проводит анализ ресурса нумерации на
@@ -286,16 +299,16 @@ export default `
 соответствие размера оплаченной
 государственной пошлины заявленному
 ресурсу нумерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Решение
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Решение
 о выделении ресурса нумерации принимается
 не позднее 40 дней со дня регистрации
 Федеральным агентством связи заявления,
 указанного в пункте 9 настоящих Правил,
 и документов, указанных в пункте 10
 настоящих Правил.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Решения
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Решения
 о выделении ресурса нумерации в объеме
 не более 1000 номеров по заявлениям
 операторов связи, включенных в реестр
@@ -303,8 +316,8 @@ export default `
 предпринимательства, принимаются
 Федеральным агентством связи не позднее
 30 дней со дня регистрации заявления.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>13.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.
 Ресурс нумерации считается ограниченным,
 если в соответствии с российской системой
 и планом нумерации объем нумерации,
@@ -313,8 +326,8 @@ export default `
 о выделении ресурса нумерации на
 конкретной территории, составляет более
 90 процентов доступного ресурса.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Федеральным
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Федеральным
 агентством связи информация об
 ограниченности ресурса нумерации
 направляется в течение 10 дней со дня
@@ -328,78 +341,78 @@ export default `
 Федерального агентства связи в
 информационно-телекоммуникационной
 сети &quot;Интернет&quot;.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14.
 Федеральное агентство связи не вправе
 принимать решение о выделении ресурса
 нумерации при наличии следующих
 оснований:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 несоответствие заявления о выделении
 ресурса нумерации и прилагаемых к нему
 документов требованиям настоящих
 Правил;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 непредставление документов, указанных
 в пункте 10 настоящих Правил;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 наличие в документах, представленных
 заявителем, недостоверной или искаженной
 информации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 несоответствие заявленной потребности
 в ресурсе нумерации представленной
 оператором связи копии лицензии на
 оказание услуг в области связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 несоответствие представленной вместе
 с заявлением копии схемы построения
 сети связи установленным требованиям
 и запрашиваемому ресурсу нумерации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 ограниченность ресурса нумерации на
 данной территории Российской Федерации,
 выделение которого осуществляется на
 основании результатов торгов (аукциона,
 конкурса) на получение лицензии на
 оказание услуг в области связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>ж)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ж)
 несоответствие запрашиваемого ресурса
 нумерации российской системе и плану
 нумерации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>з)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">з)
 несоответствие размера оплаченной
 государственной пошлины заявленному
 ресурсу нумерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 случае наличия одного из указанных
 оснований Федеральное агентство связи
 в течение 30 дней со дня получения
 документов возвращает их заявителю с
 указанием причин возврата.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>15.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">15.
 Использование ресурса нумерации, не
 выделенного в установленном порядке,
 не допускается.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Органы
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Органы
 Федеральной службы по надзору в сфере
 связи и массовых коммуникаций обязаны
 принять меры по незамедлительному
 прекращению такого использования
 ресурса нумерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Указанные
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Указанные
 требования не распространяются на
 использование оператором подвижной
 радиотелефонной связи ресурса нумерации,
@@ -412,8 +425,8 @@ export default `
 номера, выделенного ему для оказания
 услуг связи другим оператором подвижной
 радиотелефонной связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>16.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">16.
 Федеральное агентство связи взаимодействует
 с оператором базы данных перенесенных
 абонентских номеров и обеспечивает
@@ -422,15 +435,15 @@ export default `
 подвижной радиотелефонной связи ресурса
 нумерации с присвоением маршрутного
 номера.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>17.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">17.
 Оператор связи вправе передать выделенный
 ему ресурс нумерации другому оператору
 связи, владельцу сети связи специального
 назначения только с согласия Федерального
 агентства связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Операторы
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Операторы
 связи, владельцы сетей связи специального
 назначения для получения согласия на
 передачу ресурса нумерации подают в
@@ -443,8 +456,8 @@ export default `
 обязано возвратить заявителям
 представленные ими документы с указанием
 причин возврата.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Федеральное
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Федеральное
 агентство связи не вправе давать согласие
 на передачу выделенного ранее ресурса
 нумерации или его части, если на день
@@ -455,8 +468,8 @@ export default `
 ограниченным. В этом случае Федеральное
 агентство связи направляет заявителям
 мотивированные уведомления.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Федеральное
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Федеральное
 агентство связи не вправе отказать в
 даче согласия на передачу полностью
 или частично использованного ресурса
@@ -467,8 +480,8 @@ export default `
 российской системой и планом нумерации,
 и от оператора связи владельцу сети
 связи специального назначения.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 случае если абонент при заключении
 договора об оказании услуг связи с
 оператором подвижной радиотелефонной
@@ -483,8 +496,8 @@ export default `
 оказании услуг связи с оператором
 подвижной радиотелефонной связи не
 требуется.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>18.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">18.
 Оператор связи, владелец сети связи
 специального назначения, получившие
 ресурс нумерации, самостоятельно
@@ -494,17 +507,17 @@ export default `
 коды доступа к услугам связи на своих
 сетях связи из выделенного им ресурса
 нумерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>19.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">19.
 Оператор связи, получивший ресурс
 нумерации, обязан:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 иметь план нумерации, определяющий
 распределение полученного ресурса
 нумерации по обслуживаемой территории;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 не допускать использование выделенного
 ему ресурса нумерации в целях оказания
 услуг телефонной связи другими операторами
@@ -516,87 +529,87 @@ export default `
 номера, выделенного ему для оказания
 услуг связи другим оператором подвижной
 радиотелефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 использовать в течение 2 лет со дня
 принятия Федеральным агентством связи
 решения о выделении ресурса нумерации
 не менее 75 процентов выделенного ресурса
 нумерации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 представлять в Федеральное агентство
 связи информацию об изменении своего
 места нахождения (места государственной
 регистрации или почтового адреса) в
 срок не позднее 30 дней со дня такого
 изменения;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 сообщать в Федеральное агентство связи
 в порядке и в сроки, которые определяются
 указанным Агентством, сведения об
 использовании на своей сети связи
 ресурса нумерации по состоянию на 31
 декабря и 30 июня текущего года.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>19(1).
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">19(1).
 Владелец сети связи специального
 назначения, получивший ресурс нумерации,
 обязан:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 иметь план нумерации, определяющий
 распределение полученного ресурса
 нумерации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 не допускать использование выделенного
 ему ресурса нумерации для возмездного
 оказания услуг связи, услуг присоединения
 и услуг по пропуску трафика;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 представлять в Федеральное агентство
 связи информацию об изменении своего
 места нахождения в срок не позднее 30
 дней со дня такого изменения.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>20.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">20.
 Федеральное агентство связи осуществляет
 переоформление решения о выделении
 ресурса нумерации в случае:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>получения
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">получения
 заявления от владельца сети связи
 специального назначения;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>реорганизации
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">реорганизации
 юридического лица в форме слияния,
 присоединения, преобразования - по
 заявлению правопреемника;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>реорганизации
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">реорганизации
 юридического лица в форме разделения
 или выделения - по заявлениям
 правопреемников;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>продления
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">продления
 срока действия лицензии на оказание
 услуг в области связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>переоформления
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">переоформления
 лицензии на оказание услуг в области
 связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>При
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">При
 оспаривании другими правопреемниками
 прав заинтересованного правопреемника
 на использование ресурса нумерации
 спор между сторонами разрешается в
 судебном порядке.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Операторы
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Операторы
 связи, владельцы сетей связи специального
 назначения для переоформления решения
 о выделении ресурса нумерации подают
@@ -611,62 +624,62 @@ export default `
 Правил, Федеральное агентство связи не
 вправе осуществлять переоформление
 решения о выделении ресурса нумерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Переоформление
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Переоформление
 решения о выделении ресурса нумерации
 осуществляется в течение 30 дней со дня
 подачи оператором связи, владельцем
 сети связи специального назначения в
 Федеральное агентство связи соответствующего
 заявления.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>21.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">21.
 Решение об изъятии выделенного ресурса
 нумерации принимается Федеральным
 агентством связи в следующих случаях:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 обращение оператора связи, владельца
 сети связи специального назначения,
 которому выделен ресурс нумерации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 получение от Федеральной службы по
 надзору в сфере связи, информационных
 технологий и массовых коммуникаций
 информации:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>о
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">о
 неиспользовании оператором связи,
 владельцем сети связи специального
 назначения выделенного ресурса нумерации
 в течение 2 лет со дня принятия Федеральным
 агентством связи решения о его выделении;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>об
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">об
 использовании ресурса нумерации
 оператором связи, владельцем сети связи
 специального назначения с нарушением
 российской системы и плана нумерации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>о
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">о
 прекращении действия лицензии на
 оказание услуг в области связи, выданной
 оператору связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 невыполнение оператором связи
 обязательств, содержащихся в условиях
 торгов (аукциона, конкурса), победителем
 которых он был признан.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>21(1).
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">21(1).
 Выделенный в установленном порядке
 ресурс нумерации считается неиспользованным,
 в случае если он в течение 2 лет
 использовался менее чем на 75 процентов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>22.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">22.
 Оператор связи, владелец сети связи
 специального назначения о принятом
 решении об изъятии ресурса нумерации
@@ -674,41 +687,41 @@ export default `
 связи в письменной форме за 30 дней до
 наступления срока изъятия с указанием
 причин принятия такого решения.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>23.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">23.
 Министерство цифрового развития, связи
 и массовых коммуникаций Российской
 Федерации в случае изменения российского
 плана нумерации принимает решение об
 изменении нумерации сетей связи единой
 сети электросвязи Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Информация
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Информация
 о предстоящем изменении российского
 плана нумерации, причинах и сроках его
 осуществления подлежит опубликованию.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Порядок
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Порядок
 и срок изменения нумерации на сети связи
 оператора устанавливаются Федеральным
 агентством связи отдельно в каждом
 конкретном случае.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>24.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">24.
 Федеральное агентство связи организует
 работу по учету ресурса нумерации,
 формирует и ведет реестр российской
 системы и плана нумерации, содержащий:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 сведения о выделенных ресурсах нумерации
 российского плана нумерации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 сведения о свободных ресурсах нумерации
 российского плана нумерации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 сведения о заявителях, в отношении
 которых принято решение о выделении,
 изменении, изъятии ресурса нумерации
@@ -716,14 +729,14 @@ export default `
 ресурса нумерации, включающие информацию,
 указанную в заявлении в соответствии
 с пунктом 9 настоящих Правил;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 сведения о дате принятия решения о
 выделении, изменении или изъятии ресурса
 нумерации, дате переоформления решения
 о выделении ресурса нумерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>24(1).
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">24(1).
 Основанием для внесения сведений в
 реестр российской системы и плана
 нумерации являются решения о выделении,
@@ -733,8 +746,8 @@ export default `
 Федерального агентства связи, а также
 факт переоформления решения о выделении
 ресурса нумерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>25.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 10pt">25.
 Информация по операторам связи,
 содержащаяся в реестре российской
 системы и плана нумерации, подлежит
@@ -744,7 +757,7 @@ export default `
 сети &quot;Интернет&quot; в объеме, по форме
 и в порядке, которые определяются
 Федеральным агентством связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.11in; line-height: 107%"><BR><BR>
+<P CLASS="western" STYLE="margin-bottom: 0.11in; line-height: 115%"><BR><BR>
 </P>
 </BODY>
 </HTML>`

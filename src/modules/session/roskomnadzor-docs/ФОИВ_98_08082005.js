@@ -1,6 +1,6 @@
 /*eslint-disable*/
 export default `
-< !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
@@ -8,9 +8,9 @@ export default `
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
 	<META NAME="CREATED" CONTENT="20200430;154700000000000">
-	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
-	<META NAME="CHANGED" CONTENT="20200430;154700000000000">
-	<META NAME="AppVersion" CONTENT="14.0000">
+	<META NAME="CHANGEDBY" CONTENT="Учетная запись Майкрософт">
+	<META NAME="CHANGED" CONTENT="20200518;113900000000000">
+	<META NAME="AppVersion" CONTENT="15.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
 	<META NAME="LinksUpToDate" CONTENT="false">
@@ -25,39 +25,45 @@ export default `
 	</STYLE>
 </HEAD>
 <BODY LANG="ru-RU" LINK="#0000ff" DIR="LTR">
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>МИНИСТЕРСТВО
-ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ И СВЯЗИ<BR>РОССИЙСКОЙ
-ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ПРИКАЗ<BR>от
-8 августа 2005 г. N 98</B></FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ОБ
-УТВЕРЖДЕНИИ ТРЕБОВАНИЙ<BR>К ПОРЯДКУ
-ПРОПУСКА ТРАФИКА В ТЕЛЕФОННОЙ СЕТИ<BR>СВЯЗИ
-ОБЩЕГО ПОЛЬЗОВАНИЯ</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">В
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Министерство
+Информационных Технологий И Связи<BR>Российской
+Федерации</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%"><A NAME="_GoBack"></A>
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Приказ<BR>От
+8 Августа 2005 Г. N 98</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Об
+Утверждении Требований<BR>К Порядку
+Пропуска Трафика В Телефонной Сети<BR>Связи
+Общего Пользования</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 целях реализации требований пункта 3
-статьи 26 Федерального&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><SPAN STYLE="text-decoration: none">закона
-от 07.07.2003 N 126-ФЗ</SPAN></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif">&nbsp;&quot;О
+статьи 26 Федерального&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN STYLE="text-decoration: none">закона
+от 07.07.2003 N 126-ФЗ</SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&nbsp;&quot;О
 связи&quot; (Собрание законодательства
 Российской Федерации, 2003, N 28, ст. 2895)
-приказываю:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1.
+приказываю:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Утвердить прилагаемые требования к
 порядку пропуска трафика в телефонной
-сети связи общего пользования.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2.
+сети связи общего пользования.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Ввести в действие прилагаемые требования
 к порядку пропуска трафика в телефонной
 сети связи общего пользования с 1 января
-2006 года.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Установить,
+2006 года.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Установить,
 что до 1 июля 2007 года для пропуска
 исходящего трафика от пользовательского
 (оконечного) оборудования, подключенного
@@ -73,62 +79,71 @@ export default `
 Требований к порядку пропуска трафика
 в телефонной сети связи общего пользования,
 за исключением подпунктов &quot;в&quot;
-вышеуказанного подпункта.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">3.
+вышеуказанного подпункта.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Направить настоящий Приказ на
 государственную регистрацию в Минюст
-России.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">4.
+России.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Контроль за исполнением настоящего
 Приказа возложить на заместителя
 Министра информационных технологий и
-связи Российской Федерации Б.Д. Антонюка.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Министр<BR>Л.Д.РЕЙМАН</FONT></FONT></FONT></FONT></P>
-<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Приложение<BR>к
+связи Российской Федерации Б.Д. Антонюка.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Министр<BR>Л.Д.РЕЙМАН</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Приложение<BR>к
 Приказу<BR>Мининформсвязи России<BR>от
-08.08.2005 N 98</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ТРЕБОВАНИЯ<BR>К
-ПОРЯДКУ ПРОПУСКА ТРАФИКА В ТЕЛЕФОННОЙ
-СЕТИ<BR>СВЯЗИ ОБЩЕГО ПОЛЬЗОВАНИЯ</B></FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>I.
+08.08.2005 N 98</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ТРЕБОВАНИЯ
+К ПОРЯДКУ ПРОПУСКА ТРАФИКА В ТЕЛЕФОННОЙ
+СЕТИ СВЯЗИ ОБЩЕГО ПОЛЬЗОВАНИЯ</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>I.
 Порядок пропуска трафика при оказании
-услуг<BR>местной, внутризоновой,
-междугородной и международной<BR>телефонной
-связи, подвижной радиосвязи,
-подвижной<BR>радиотелефонной связи,
-подвижной спутниковой радиосвязи</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1.
+услуг местной, внутризоновой, междугородной
+и международной телефонной связи,
+подвижной радиосвязи, подвижной
+радиотелефонной связи, подвижной
+спутниковой радиосвязи</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Пропуск трафика при оказании услуг
 местной телефонной связи осуществляется
-в следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1)
+в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1)
 между пользовательским (оконечным)
 оборудованием, подключенным к сети
-(сетям) местной телефонной связи:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+(сетям) местной телефонной связи:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узлы связи сети (сетей) местной телефонной
 связи, функционирующие в пределах
 территории муниципального образования,
 являющегося городским или сельским
 поселением, муниципальным районом, либо
-города федерального значения;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
-пользовательское оконечное оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2)
+города федерального значения;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
+пользовательское оконечное оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2)
 между оконечным элементом сети местной
 телефонной связи и абонентской станцией
 (абонентским устройством), подключенной
@@ -141,50 +156,50 @@ export default `
 географически определяемой и географически
 не определяемой зон нумерации, закрепленный
 за одним и тем же субъектом Российской
-Федерации:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+Федерации:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 оконечный элемент сети местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
-узлы связи сети подвижной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+узлы связи сети подвижной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 абонентская станция (абонентское
-устройство).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2.
+устройство).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Пропуск трафика при оказании услуг
 внутризоновой телефонной связи
-осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1)
+осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1)
 между пользовательским (оконечным)
 оборудованием, подключенным к сети
-фиксированной телефонной связи:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+фиксированной телефонной связи:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети (сетей) фиксированной
 зоновой телефонной связи, функционирующие
 в пределах территории субъекта Российской
-Федерации;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+Федерации;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2)
 между пользовательским (оконечным)
 оборудованием, подключенным к сети
 фиксированной телефонной связи, и
@@ -197,28 +212,28 @@ export default `
 географически определяемой и географически
 не определяемой зон нумерации, закрепленный
 за одним и тем же субъектом Российской
-Федерации:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+Федерации:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети (сетей) фиксированной
 зоновой телефонной связи, функционирующие
 в пределах территории субъекта Российской
-Федерации;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+Федерации;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 узлы связи сети (сетей &lt;*&gt;) подвижной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">--------------------------------</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">&lt;*&gt;
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">--------------------------------</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&lt;*&gt;
 Когда в качестве вызываемого абонентского
 номера используется абонентский номер
 из ресурса нумерации, выделенного
@@ -229,34 +244,34 @@ export default `
 абонентского номера при заключении
 договора об оказании услуг связи с
 другим оператором подвижной радиотелефонной
-связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
+связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">или</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети (сетей) фиксированной
-зоновой телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+зоновой телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 узлы связи сети (сетей &lt;*&gt;) подвижной
 связи, функционирующие в пределах
 территории одного субъекта Российской
-Федерации;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">--------------------------------</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">&lt;*&gt;
+Федерации;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">--------------------------------</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&lt;*&gt;
 Когда в качестве вызываемого абонентского
 номера используется абонентский номер
 из ресурса нумерации, выделенного
@@ -267,44 +282,44 @@ export default `
 абонентского номера при заключении
 договора об оказании услуг связи с
 другим оператором подвижной радиотелефонной
-связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
+связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 транзитные междугородные узлы связи
 сети (сетей) междугородной и международной
-телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">е)
+телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 узлы связи сети подвижной связи,
 функционирующие в пределах территории
-другого субъекта Российской Федерации;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">ж)
+другого субъекта Российской Федерации;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ж)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">или</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети (сетей) фиксированной
-зоновой телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+зоновой телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 узлы связи сети (сетей &lt;*&gt;) подвижной
 связи, функционирующие в пределах
 территории одного субъекта Российской
-Федерации;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">--------------------------------</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">&lt;*&gt;
+Федерации;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">--------------------------------</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&lt;*&gt;
 Когда в качестве вызываемого абонентского
 номера используется абонентский номер
 из ресурса нумерации, выделенного
@@ -315,63 +330,63 @@ export default `
 абонентского номера при заключении
 договора об оказании услуг связи с
 другим оператором подвижной радиотелефонной
-связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
+связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 транзитные междугородные узлы связи
 сети (сетей) междугородной и международной
-телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">е)
+телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 узлы связи сети (сетей) иностранного
-государства;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">ж)
+государства;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ж)
 абонентская станция (абонентское
-устройство).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">3.
+устройство).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Пропуск трафика при оказании услуг
 междугородной телефонной связи
-осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1)
+осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1)
 между пользовательским (оконечным)
 оборудованием, подключенным к сети
-фиксированной телефонной связи:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+фиксированной телефонной связи:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети фиксированной зоновой
 телефонной связи, функционирующие в
 пределах территории одного субъекта
-Российской Федерации;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+Российской Федерации;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 транзитные междугородные узлы связи
 сети (сетей) междугородной и международной
-телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
+телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 узлы связи сети фиксированной зоновой
 телефонной связи, функционирующие в
 пределах территории другого субъекта
-Российской Федерации;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">е)
+Российской Федерации;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">ж)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ж)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2)
 между пользовательским (оконечным)
 оборудованием, подключенным к сети
 фиксированной телефонной связи, и
@@ -384,34 +399,34 @@ export default `
 географически определяемой и географически
 не определяемой зон нумерации, закрепленный
 за различными субъектами Российской
-Федерации:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+Федерации:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети фиксированной зоновой
 телефонной связи, функционирующие в
 пределах территории субъекта Российской
-Федерации;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+Федерации;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 транзитные междугородные узлы связи
 сети (сетей) междугородной и международной
-телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
+телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 узлы связи сети (сетей &lt;*&gt;) подвижной
 связи, функционирующие на территории
-того же субъекта Российской Федерации;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">--------------------------------</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">&lt;*&gt;
+того же субъекта Российской Федерации;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">--------------------------------</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&lt;*&gt;
 Когда в качестве вызываемого абонентского
 номера используется абонентский номер
 из ресурса нумерации, выделенного
@@ -422,37 +437,37 @@ export default `
 абонентского номера при заключении
 договора об оказании услуг связи с
 другим оператором подвижной радиотелефонной
-связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">е)
+связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">или</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узлы связи сети местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети фиксированной зоновой
-телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 транзитные междугородные узлы связи
 сети (сетей) междугородной и международной
-телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
+телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 узлы связи сети (сетей &lt;*&gt;) подвижной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">--------------------------------</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">&lt;*&gt;
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">--------------------------------</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&lt;*&gt;
 Когда в качестве вызываемого абонентского
 номера используется абонентский номер
 из ресурса нумерации, выделенного
@@ -463,465 +478,465 @@ export default `
 абонентского номера при заключении
 договора об оказании услуг связи с
 другим оператором подвижной радиотелефонной
-связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">е)
+связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">или</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети фиксированной зоновой
-телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 транзитные междугородные узлы связи
 сети (сетей) междугородной и международной
-телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
+телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 узлы связи сети (сетей) иностранного
-государства;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">е)
+государства;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 абонентская станция (абонентское
-устройство).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">4.
+устройство).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Пропуск трафика при оказании услуг
 международной телефонной связи
-осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1)
+осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1)
 между пользовательским (оконечным)
 оборудованием, подключенным к сети
-фиксированной телефонной связи:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+фиксированной телефонной связи:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети фиксированной зоновой
 телефонной связи, функционирующие в
 пределах территории субъекта Российской
 Федерации, в котором размещается
 пользовательское (оконечное) оборудование
-вызывающего абонента и (или) пользователя;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+вызывающего абонента и (или) пользователя;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 транзитные междугородные и (или)
 международные узлы связи сети (сетей)
 междугородной и международной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 узлы связи сети фиксированной телефонной
-связи иностранного государства;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">е)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2)
+связи иностранного государства;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2)
 между пользовательским (оконечным)
 оборудованием, подключенным к сети
 фиксированной телефонной связи и
 абонентской станцией (абонентским
 устройством), подключенной к сети
-подвижной связи:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+подвижной связи:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети фиксированной зоновой
 телефонной связи, функционирующие в
 пределах территории субъекта Российской
 Федерации, в котором размещается
 пользовательское (оконечное) оборудование
-вызывающего абонента и (или) пользователя;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+вызывающего абонента и (или) пользователя;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 транзитные междугородные и (или)
 международные узлы связи сети (сетей)
 междугородной и международной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 узлы связи сети подвижной связи
-иностранного государства;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">е)
+иностранного государства;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 абонентская станция (абонентское
-устройство).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">5.
+устройство).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
 Пропуск трафика при оказании услуг
 подвижной радиотелефонной связи,
 подвижной радиосвязи или подвижной
 спутниковой радиосвязи, осуществляется
-в следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1)
+в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1)
 между абонентскими станциями (абонентскими
 устройствами), подключенными к сети
-(сетям) подвижной связи:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+(сетям) подвижной связи:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
-узлы связи одной сети подвижной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+узлы связи одной сети подвижной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">или</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узлы связи различных сетей подвижной
 связи, функционирующие в пределах
 территории одного субъекта Российской
-Федерации;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+Федерации;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">или</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
-узлы связи одной сети подвижной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+узлы связи одной сети подвижной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети (сетей) междугородной
-и международной телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
-узлы связи другой сети подвижной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
+и международной телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
+узлы связи другой сети подвижной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">или</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
-узлы связи сети подвижной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+узлы связи сети подвижной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети (сетей) междугородной
-и международной телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+и международной телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 узлы связи сети (сетей) иностранного
-государства;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
+государства;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2)
 между абонентской станцией (абонентским
 устройством), подключенной к сети
 подвижной связи, и пользовательским
 оконечным оборудованием, подключенным
-к сети фиксированной телефонной связи:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+к сети фиксированной телефонной связи:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
-узлы связи сети подвижной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+узлы связи сети подвижной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети (сетей) фиксированной
-зоновой телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+зоновой телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">или</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
-узлы связи сети подвижной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+узлы связи сети подвижной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 транзитные междугородные узлы связи
 сети (сетей) междугородной и международной
-телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 узлы связи сети фиксированной зоновой
-телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
+телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">е)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">или</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узлы связи сети (сетей) связи иностранного
-государства;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+государства;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети (сетей) междугородной
-и международной телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+и международной телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 узлы связи сети фиксированной зоновой
-телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
+телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">е)
-пользовательское (оконечное) оборудование.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>II.
-Порядок пропуска трафика при оказании<BR>услуг
-по пропуску трафика</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">6.
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
+пользовательское (оконечное) оборудование.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>II.
+Порядок пропуска трафика при оказании
+услуг по пропуску трафика</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 Пропуск трафика для оказания услуг
 международного завершения вызова
-осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 точка присоединения сети междугородной
-и международной телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+и международной телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 транзитный международный узел (узлы)
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 точка присоединения сети междугородной
-и международной телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+и международной телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 узел (узлы) связи, входящий в состав сети
 связи общего пользования иностранного
-государства.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">7.
+государства.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
 Пропуск трафика для оказания услуги
 междугородного завершения вызова на
 сеть фиксированной телефонной связи
-осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 точка присоединения сети междугородной
-и международной телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+и международной телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 транзитный международный узел (узлы)
 связи, либо транзитный междугородный
 узел (узлы) связи, либо транзитный
 междугородный узел (узлы) связи и
 транзитный междугородный узел (узлы)
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узел (узлы) связи сети фиксированной
-зоновой телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+зоновой телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 узел (узлы) связи сети (сетей) местной
-телефонной связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">8.
+телефонной связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
 Пропуск трафика для оказания услуги
 междугородного завершения вызова на
 сеть подвижной связи осуществляется в
-следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 точка присоединения сети междугородной
-и международной телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+и международной телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 транзитный международный узел (узлы)
 связи, либо транзитный междугородный
 узел (узлы) связи, либо транзитный
 междугородный узел (узлы) связи и
 транзитный междугородный узел (узлы)
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
-узел (узлы) связи сети подвижной связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">9.
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
+узел (узлы) связи сети подвижной связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
 Пропуск трафика для оказания услуги
 зонового завершения вызова на сеть
 фиксированной телефонной связи
-осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 точка присоединения сети фиксированной
-зоновой телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+зоновой телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узел (узлы) связи сети фиксированной
-зоновой телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+зоновой телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узел (узлы) связи сети (сетей) местной
-телефонной связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">10.
+телефонной связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.
 Пропуск трафика для оказания услуги
 зонового завершения вызова на сеть
 подвижной связи осуществляется в
-следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 точка присоединения сети подвижной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
-узел (узлы) связи сети подвижной связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">11.
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+узел (узлы) связи сети подвижной связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
 Пропуск трафика для оказания услуги
 местного завершения вызова осуществляется
-в следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 точка присоединения сети местной
-телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узел (узлы) связи сети (сетей) местной
-телефонной связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">12.
+телефонной связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
 Пропуск трафика для оказания услуг
 международного транзита вызова, не
 предназначенного для завершения на
 территории Российской Федерации,
-осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 точка присоединения сети междугородной
-и международной телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+и международной телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 транзитный международный узел (узлы)
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 точка присоединения сети междугородной
-и международной телефонной связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">13.
+и международной телефонной связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.
 Пропуск трафика для оказания услуг
 международного транзита вызова,
 предназначенного для завершения на
 территории Российской Федерации,
-осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 точка присоединения сети междугородной
-и международной телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+и международной телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 транзитный международный узел (узлы)
 связи и транзитный междугородный узел
 (узлы) связи либо транзитный международный
-узел (узлы) связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+узел (узлы) связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 точка присоединения сети междугородной
-и международной телефонной связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">14.
+и международной телефонной связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14.
 Пропуск трафика для оказания услуг
 междугородного транзита вызова
-осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 точка присоединения сети междугородной
-и международной телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+и международной телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 транзитный междугородный узел (узлы)
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 точка присоединения сети междугородной
-и международной телефонной связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">15.
+и международной телефонной связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">15.
 Пропуск трафика для оказания услуг
 зонового транзита вызова осуществляется
-в следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 точка присоединения сети фиксированной
-зоновой телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+зоновой телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узел (узлы) связи сети фиксированной
-зоновой телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+зоновой телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 точка присоединения сети фиксированной
-зоновой телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">или
-&lt;*&gt;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">--------------------------------</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">&lt;*&gt;
+зоновой телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или
+&lt;*&gt;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">--------------------------------</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&lt;*&gt;
 Когда в качестве вызываемого абонентского
 номера используется абонентский номер
 из ресурса нумерации, выделенного
@@ -932,37 +947,37 @@ export default `
 абонентского номера при заключении
 договора об оказании услуг связи с
 другим оператором подвижной радиотелефонной
-связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 точка присоединения сети подвижной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
-узел (узлы) связи сети подвижной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+узел (узлы) связи сети подвижной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 точка присоединения сети подвижной
-связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">16.
+связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">16.
 Пропуск трафика для оказания услуг
 местного транзита вызова осуществляется
-в следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 точка присоединения сети местной
-телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узел (узлы) связи сети местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 точка присоединения сети местной
-телефонной связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">17.
+телефонной связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">17.
 При оказании услуги инициирования
 вызова, за исключением оказания такой
 услуги в целях предоставления доступа
@@ -970,94 +985,94 @@ export default `
 доступа к услугам электросвязи, пропуск
 трафика осуществляется в порядке,
 обратном указанному в пунктах 6 - 11
-настоящих требований.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">При
+настоящих требований.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">При
 оказании услуги инициирования вызова
 в целях предоставления доступа к услугам
 связи с использованием кодов доступа
 к услугам электросвязи пропуск трафика
-осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+осуществляется в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 точка присоединения к сети фиксированной
 зоновой телефонной связи оператора
 связи, оказывающего услуги связи с
 использованием кодов доступа к услугам
-электросвязи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">или</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
-пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+электросвязи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+пользовательское (оконечное) оборудование;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 узлы связи сети (сетей) местной телефонной
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети фиксированной зоновой
 телефонной связи, функционирующие в
 пределах территории одного и того же
-субъекта Российской Федерации;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+субъекта Российской Федерации;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 точка присоединения к сети телефонной
 связи оператора связи, оказывающего
 услуги связи с использованием кодов
-доступа к услугам электросвязи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">или</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+доступа к услугам электросвязи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
-узлы связи сети подвижной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+узлы связи сети подвижной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 точка присоединения к сети телефонной
 связи оператора связи, оказывающего
 услуги связи с использованием кодов
-доступа к услугам электросвязи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">или</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+доступа к услугам электросвязи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">или</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 абонентская станция (абонентское
-устройство);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
-узлы связи сети подвижной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+устройство);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+узлы связи сети подвижной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 узлы связи сети фиксированной зоновой
 телефонной связи, функционирующие в
 пределах территории одного и того же
-субъекта Российской Федерации;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+субъекта Российской Федерации;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 точка присоединения к сети телефонной
 связи оператора связи, оказывающего
 услуги связи с использованием кодов
-доступа к услугам электросвязи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">18.
+доступа к услугам электросвязи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">18.
 При оказании услуги зонового завершения
 вызова на сеть другого оператора
 подвижной радиотелефонной связи пропуск
 трафика осуществляется в порядке,
 определенном пунктом 15 и пунктом 10
-настоящих требований.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in"><BR><BR>
+настоящих требований.</FONT></FONT></FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in; line-height: 150%"><BR><BR>
 </P>
 </BODY>
 </HTML>`

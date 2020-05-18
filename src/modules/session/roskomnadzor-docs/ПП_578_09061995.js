@@ -1,6 +1,6 @@
 /*eslint-disable*/
 export default `
-< !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
@@ -8,9 +8,9 @@ export default `
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
 	<META NAME="CREATED" CONTENT="20200505;145900000000000">
-	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
-	<META NAME="CHANGED" CONTENT="20200505;145900000000000">
-	<META NAME="AppVersion" CONTENT="16.0000">
+	<META NAME="CHANGEDBY" CONTENT="Учетная запись Майкрософт">
+	<META NAME="CHANGED" CONTENT="20200518;112600000000000">
+	<META NAME="AppVersion" CONTENT="15.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
 	<META NAME="LinksUpToDate" CONTENT="false">
@@ -28,26 +28,29 @@ export default `
 	</STYLE>
 </HEAD>
 <BODY LANG="ru-RU" LINK="#0563c1" DIR="LTR">
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПРАВИТЕЛЬСТВО
-РОССИЙСКОЙ ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПОСТАНОВЛЕНИЕ<BR>от
-9 июня 1995 г. N 578</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ОБ
-УТВЕРЖДЕНИИ ПРАВИЛ ОХРАНЫ ЛИНИЙ И
-СООРУЖЕНИЙ СВЯЗИ<BR>РОССИЙСКОЙ ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Правительство
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.11in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Правительство
+Российской Федерации</FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.11in; background: #ffffff; line-height: 150%"><A NAME="_GoBack"></A>
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Постановление<BR>От
+9 Июня 1995 Г. N 578</FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.11in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Об
+Утверждении Правил Охраны Линий И
+Сооружений Связи<BR>Российской Федерации</FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.11in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Правительство
 Российской Федерации постановляет:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Утвердить прилагаемые Правила охраны
 линий и сооружений связи Российской
 Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Рекомендовать органам исполнительной
 власти субъектов Российской Федерации
 и органам местного самоуправления, а
@@ -63,31 +66,40 @@ export default `
 требований Правил охраны линий и
 сооружений связи Российской Федерации,
 утвержденных настоящим Постановлением.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Признать не действующими на территории
 Российской Федерации Правила охраны
 линий связи, утвержденные Постановлением
 Совета Министров СССР от 22 июля 1969 г. N
 567 &quot;Об усилении охраны линий связи&quot;
 (СП СССР, 1969, N 18, ст. 104).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Председатель
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Председатель
 Правительства<BR>Российской
 Федерации<BR>В.ЧЕРНОМЫРДИН</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Утверждены<BR>Постановлением
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утверждены<BR>Постановлением
 Правительства<BR>Российской Федерации<BR>от
 9 июня 1995 г. N 578</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПРАВИЛА<BR>ОХРАНЫ
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ПРАВИЛА<BR>ОХРАНЫ
 ЛИНИЙ И СООРУЖЕНИЙ СВЯЗИ РОССИЙСКОЙ
 ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>I.
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>I.
 Общие положения</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Правила охраны линий и сооружений связи
 Российской Федерации вводятся для
 обеспечения сохранности действующих
@@ -100,15 +112,15 @@ export default `
 граждан, производственной деятельности
 хозяйствующих субъектов, обороноспособности
 и безопасности Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Настоящие Правила являются обязательными
 для всех физических и юридических лиц
 независимо от их местонахождения,
 ведомственной принадлежности и форм
 собственности.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Предприятия, учреждения и организации
 (далее именуются - предприятия), владельцы
 ведомственных и иных сетей связи,
@@ -119,20 +131,20 @@ export default `
 связи общего пользования, разрабатывают
 порядок эксплуатации, охраны, ремонта
 линий и сооружений связи на своих сетях.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>II.
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>II.
 Охранные зоны линий и сооружений связи
-и линий<BR>и сооружений радиофикации</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>4.
+и линий и сооружений радиофикации</B></FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 На трассах кабельных и воздушных линий
 связи и линий радиофикации:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 устанавливаются охранные зоны с особыми
 условиями использования:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 подземных кабельных и для воздушных
 линий связи и линий радиофикации,
 расположенных вне населенных пунктов
@@ -143,8 +155,8 @@ export default `
 крайних проводов воздушных линий связи
 и линий радиофикации не менее чем на 2
 метра с каждой стороны;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 морских кабельных линий связи и для
 кабелей связи при переходах через
 судоходные и сплавные реки, озера,
@@ -157,8 +169,8 @@ export default `
 от трассы кабеля при переходах через
 реки, озера, водохранилища и каналы
 (арыки) на 100 метров с каждой стороны;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 наземных и подземных необслуживаемых
 усилительных и регенерационных пунктов
 на кабельных линиях связи - в виде
@@ -168,40 +180,40 @@ export default `
 или от границы их обвалования не менее
 чем на 3 метра и от контуров заземления
 не менее чем на 2 метра;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 создаются просеки в лесных массивах и
 зеленых насаждениях:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>при
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">при
 высоте насаждений менее 4 метров - шириной
 не менее расстояния между крайними
 проводами воздушных линий связи и линий
 радиофикации плюс 4 метра (по 2 метра с
 каждой стороны от крайних проводов до
 ветвей деревьев);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>при
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">при
 высоте насаждений более 4 метров - шириной
 не менее расстояния между крайними
 проводами воздушных линий связи и линий
 радиофикации плюс 6 метров (по 3 метра с
 каждой стороны от крайних проводов до
 ветвей деревьев);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>вдоль
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">вдоль
 трассы кабеля связи - шириной не менее
 6 метров (по 3 метра с каждой стороны от
 кабеля связи);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 все работы в охранных зонах линий и
 сооружений связи, линий и сооружений
 радиофикации выполняются с соблюдением
 действующих нормативных документов по
 правилам производства и приемки работ.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>5.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
 На трассах радиорелейных линий связи
 в целях предупреждения экранирующего
 действия распространению радиоволн
@@ -213,8 +225,8 @@ export default `
 проектах строительства радиорелейных
 линий связи и согласовываются с органами
 местного самоуправления.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>6.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 Трассы линий связи должны периодически
 расчищаться от кустарников и деревьев,
 содержаться в безопасном в пожарном
@@ -224,8 +236,8 @@ export default `
 и опорам линий связи, должны быть
 вырублены с оформлением в установленном
 порядке лесорубочных билетов (ордеров).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Просеки
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Просеки
 для кабельных и воздушных линий связи
 и линий радиофикации, проходящие по
 лесным массивам и зеленым насаждениям,
@@ -233,8 +245,8 @@ export default `
 пожарном отношении состоянии силами
 предприятий, в ведении которых находятся
 линии связи и линии радиофикации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>7.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
 В случае если трассы действующих
 кабельных и воздушных линий связи и
 линий радиофикации проходят по территориям
@@ -246,8 +258,8 @@ export default `
 (места кормежки редких и исчезающих
 видов животных, нерестилища ценных
 пород рыб и т.д.).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>8.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
 В парках, садах, заповедниках, зеленых
 зонах вокруг городов и населенных
 пунктов, ценных лесных массивах,
@@ -265,8 +277,8 @@ export default `
 корчеваться пни на рыхлых почвах, крутых
 (свыше 15 градусов) склонах и в местах,
 подверженных размыву.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>9.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
 На трассах кабельных линий связи вне
 городской черты устанавливаются
 информационные знаки, являющиеся
@@ -278,8 +290,8 @@ export default `
 либо нормативам и правилам, установленным
 для сетей связи общего пользования
 Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>10.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.
 В городах и других населенных пунктах
 прохождение трасс подземных кабельных
 линий связи определяется по табличкам
@@ -290,8 +302,8 @@ export default `
 кабельных линий связи определяются
 владельцами или предприятиями,
 эксплуатирующими эти линии.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>11.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
 В местах установки необслуживаемых
 усилительных и регенерационных пунктов
 на линиях связи, оборудование которых
@@ -300,8 +312,8 @@ export default `
 должны устанавливаться опознавательные
 знаки как для зимнего времени года
 (снежные заносы), так и для летнего.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>12.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
 Границы охранных зон на трассах морских
 кабельных линий связи и на трассах
 кабелей связи при переходах через
@@ -316,8 +328,8 @@ export default `
 линий связи указываются в &quot;Извещениях
 мореплавателям&quot; и наносятся на морские
 карты.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>13.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.
 Минимально допустимые расстояния
 (разрывы) между сооружениями связи и
 радиофикации и другими сооружениями
@@ -325,8 +337,8 @@ export default `
 соответствующих сооружений и не должны
 допускать механическое и электрическое
 воздействие на сооружения связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14.
 Охранные зоны на трассах кабельных и
 воздушных линий связи и линий радиофикации
 в полосе отвода автомобильных и железных
@@ -340,15 +352,15 @@ export default `
 при условии обязательного обеспечения
 сохранности линий связи и линий
 радиофикации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>15.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">15.
 Порядок использования земельных
 участков, расположенных в охранных
 зонах сооружений связи и радиофикации,
 регулируется земельным законодательством
 Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>16.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">16.
 При предоставлении земель, расположенных
 в охранных зонах сооружений связи и
 радиофикации, под сельскохозяйственные
@@ -362,8 +374,8 @@ export default `
 обязательном порядке делается отметка
 о наличии на участках зон с особыми
 условиями использования.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Предприятие,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Предприятие,
 эксплуатирующее сооружения связи и
 радиофикации, письменно информирует
 собственника земли (землевладельца,
@@ -372,8 +384,8 @@ export default `
 компенсационные мероприятия по возмещению
 ущерба в соответствии с законодательством
 Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>17.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">17.
 При реконструкции (модернизации)
 автомобильных и железных дорог и других
 сооружений промышленного и непромышленного
@@ -382,8 +394,8 @@ export default `
 сооружения связи и радиофикации,
 попадающие в зону отчуждения этих
 объектов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Переустройство
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Переустройство
 и перенос сооружений связи и радиофикации,
 связанные с новым строительством,
 расширением или реконструкцией
@@ -396,13 +408,13 @@ export default `
 стандартами и техническими условиями,
 устанавливаемыми владельцами сетей и
 средств связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>III.
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>III.
 Особенности производства работ в
-пределах<BR>охранных зон линий связи и
+пределах охранных зон линий связи и
 линий радиофикации</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>18.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">18.
 На производство всех видов работ,
 связанных с вскрытием грунта в охранной
 зоне линии связи или линии радиофикации
@@ -414,8 +426,8 @@ export default `
 письменное согласие от предприятия, в
 ведении которого находится эта линия
 связи или линия радиофикации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Письменное
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Письменное
 согласие должно быть получено также на
 строительные, ремонтные и другие работы,
 которые выполняются в этих зонах без
@@ -426,16 +438,16 @@ export default `
 проводами грузов, габариты которых
 равны или превышают высоту подвески
 опор и т.д.).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Для
 выявления места расположения подземных
 сооружений связи в зоне производства
 указанных работ должно быть получено
 письменное разрешение в специально
 уполномоченных на то органах контроля
 и надзора.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>19.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">19.
 Заказчик (застройщик), производящий
 работы в охранной зоне кабельной линии
 связи, не позднее чем за 3 суток (исключая
@@ -451,8 +463,8 @@ export default `
 канализации со смотровыми устройствами,
 контуров заземления) и определения
 глубины их залегания.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>20.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">20.
 Место расположения подземных сооружений
 связи уточняется по всей длине действующего
 подземного кабеля связи в зоне производства
@@ -473,14 +485,14 @@ export default `
 эксплуатирующего кабельную линию связи,
 либо силами этого предприятия за счет
 средств заказчика (застройщика).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>До
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">До
 обозначения трассы вешками и прибытия
 представителя предприятия, эксплуатирующего
 кабельную линию связи, проведение
 земляных работ не допускается.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Помимо
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Помимо
 вешек может устанавливаться
 предупредительный знак, который
 представляет собой окрашенный в светлый
@@ -492,12 +504,12 @@ export default `
 (названия населенного пункта) и номера
 телефона (черным цветом) предприятия,
 эксплуатирующего кабельную линию связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Знак
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Знак
 устанавливается на столбе на высоте
 1,7 метра над поверхностью земли.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>21.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">21.
 По результатам работы по уточнению
 трассы кабельной линии связи или линии
 радиофикации составляется акт с участием
@@ -517,8 +529,8 @@ export default `
 установленных вешек и предупредительных
 знаков несет заказчик (застройщик) или
 подрядчик.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>22.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">22.
 Производители работ (мастера, бригадиры,
 машинисты землеройных, сваебойных и
 других строительных механизмов и машин)
@@ -539,8 +551,8 @@ export default `
 опасного для жизни людей напряжения и
 о возможности повреждения указанных
 линий связи и линий радиофикации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 нарядах на производство соответствующих
 работ в этих зонах указывается наличие
 в месте работ линий связи и линий
@@ -550,8 +562,8 @@ export default `
 или мастера и только в присутствии
 представителя предприятия, эксплуатирующего
 линию связи или линию радиофикации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>23.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">23.
 Заказчики (застройщики), производящие
 работы в охранной зоне, не позднее чем
 за 3 суток (исключая выходные и праздничные
@@ -561,8 +573,8 @@ export default `
 часе начала производства работ, при
 выполнении которых необходимо присутствие
 его представителя.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Руководитель
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Руководитель
 предприятия, эксплуатирующего линию
 связи или линию радиофикации, обязан
 обеспечивать в согласованные с заказчиком
@@ -572,16 +584,16 @@ export default `
 соблюдением мер по обеспечению сохранности
 указанных линий, а также сооружений
 связи и радиофикации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>24.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">24.
 В случае неявки на место работ представителя
 предприятия, эксплуатирующего линию
 связи или линию радиофикации, заказчик
 (застройщик) обязан в течение суток
 сообщить об этом телефонограммой
 руководителю данного предприятия.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Производить
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Производить
 земляные работы в охранной зоне кабельной
 линии связи до прибытия указанного
 представителя запрещается. Расходы,
@@ -592,8 +604,8 @@ export default `
 возмещаются этим предприятием по
 обоюдной договоренности либо в судебном
 порядке.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>25.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">25.
 В случае отсутствия письменного согласия
 на проведение работ в охранной зоне
 линии связи или линии радиофикации либо
@@ -603,8 +615,8 @@ export default `
 имеет право потребовать прекращения
 работ с составлением соответствующего
 акта.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>26.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">26.
 В аварийных случаях, требующих
 безотлагательных ремонтно - восстановительных
 работ в охранных зонах линий связи и
@@ -616,16 +628,16 @@ export default `
 радиофикации, или владельцами линий
 связи и линий радиофикации при условии
 выполнения следующих требований:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 одновременно с направлением рабочих
 на место аварии независимо от времени
 суток сообщается телефонограммой
 предприятиям, эксплуатирующим линии
 связи и линии радиофикации, о необходимости
 явки их представителей;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 на месте производства ремонтно-восстановительных
 работ обязано неотлучно находиться
 ответственное за эти работы лицо, которое
@@ -633,8 +645,8 @@ export default `
 работ (мастеров, бригадиров, машинистов
 землеройных, сваебойных и других
 строительных механизмов и машин);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 до прибытия к месту аварии представителя
 предприятия, эксплуатирующего линию
 связи или линию радиофикации, либо
@@ -644,8 +656,8 @@ export default `
 ручным способом. При обнаружении
 подземного кабеля связи должна быть
 обеспечена его сохранность от повреждения;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 прибывший на место аварии представитель
 предприятия, эксплуатирующего линию
 связи или линию радиофикации, обязан
@@ -653,16 +665,16 @@ export default `
 сооружений связи, определить меры по
 обеспечению их сохранности и присутствовать
 до полного окончания работ.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>27.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">27.
 Производство работ в местах, где проектом
 предусмотрен перенос линий связи и
 линий радиофикации (на время работ или
 на постоянный срок), может быть начато
 только после переключения действующих
 линий связи и линий радиофикации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Работы
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Работы
 по переключению действующих линий связи
 и линий радиофикации на вновь построенные
 линии осуществляются предприятием,
@@ -672,8 +684,8 @@ export default `
 простоем телефонных каналов, не позднее
 чем через 5 суток после окончания работ
 по переносу указанных линий.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>28.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">28.
 При необходимости устройства временных
 проездов для движения строительных
 механизмов, лесовозов и гусеничного
@@ -688,8 +700,8 @@ export default `
 сооружений от механических повреждений
 (укладку деревянных настилов и бетонных
 плит, подсыпку щебня и гравия).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>При
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">При
 провозе под проводами воздушных линий
 связи и линий радиофикации негабаритных
 грузов для предупреждения обрыва
@@ -705,14 +717,14 @@ export default `
 заказчика (застройщика), которые
 оплачиваются по соответствующей статье
 сметы расходов на производство работ.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>29.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">29.
 Работы в охранной зоне линии связи или
 линии радиофикации должны выполняться
 с соблюдением действующих строительных
 норм, правил и государственных стандартов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>30.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">30.
 Раскопка грунта в пределах охранной
 зоны подземной кабельной линии связи
 или линии радиофикации допускается
@@ -720,23 +732,23 @@ export default `
 ударов. Пользоваться ударными инструментами
 (ломами, кирками, клиньями и пневматическими
 инструментами) запрещается.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Земляные
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Земляные
 работы на трассе действующей подземной
 кабельной линии связи или линии
 радиофикации должны производиться в
 сроки, согласованные с предприятием,
 эксплуатирующим кабельную линию связи
 или линию радиофикации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>При
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">При
 разрытии траншей и котлованов на трассе
 подземной кабельной линии связи
 организация, осуществляющая строительные
 работы, производит защиту кабеля от
 повреждений в следующем порядке:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 кабель, проложенный непосредственно в
 грунте, полностью откапывается ручным
 способом и заключается в сплошной
@@ -747,8 +759,8 @@ export default `
 траншеи не менее чем на 0,5 метра. Подвеска
 короба осуществляется с помощью хомутов
 из проволоки;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 кабель, проложенный в трубах (блоках),
 раскапывается ручным способом только
 до верхнего края трубы (блока). Затем
@@ -758,34 +770,34 @@ export default `
 края трубы (блока), производится подвеска
 кабеля и затем дальнейшее разрытие
 грунта;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 при разработке траншеи или котлована
 ниже уровня залегания подземного кабеля
 связи или в непосредственной близости
 от него должны быть приняты меры к
 недопущению осадки и оползания грунта;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 защита кабеля связи или блоков телефонной
 канализации при оголении на большом
 протяжении должна быть предусмотрена
 на стадии разработки проекта производства
 работ.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>При
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">При
 отсутствии защиты оголенных кабелей
 телефонной связи заказчиком (застройщиком)
 должна быть организована их охрана.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>31.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">31.
 Условия производства работ в пределах
 охранной зоны радиорелейных станций
 или подводных кабелей связи определяются
 по согласованию с предприятием,
 эксплуатирующим эти сооружения.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>32.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">32.
 Отогревание мерзлого грунта в зоне
 расположения подземных кабелей связи
 должно производиться так, чтобы
@@ -793,21 +805,21 @@ export default `
 оболочки и изоляции жил кабеля связи.
 Разработка мерзлого грунта с применением
 ударных механизмов запрещается.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>33.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">33.
 Засыпка траншей в местах пересечения
 подземных кабелей связи и телефонной
 канализации производится слоями грунта
 толщиной не более 0,1 метра, с тщательным
 уплотнением. В зимних условиях засыпка
 производится песком или талым грунтом.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Траншея
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Траншея
 засыпается вместе с балками и коробами,
 в которых были уложены кабели связи, о
 чем составляется акт на скрытые работы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>34.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">34.
 При выполнении строительных работ
 запрещается заваливать землей или
 строительными материалами крышки люков
@@ -819,8 +831,8 @@ export default `
 связи и радиофикации без согласования
 с предприятием, эксплуатирующим эти
 сооружения.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>35.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">35.
 В случае обнаружения при выполнении
 земляных работ кабельных линий связи,
 не обозначенных в технической документации,
@@ -830,8 +842,8 @@ export default `
 от повреждений и вызвать на место работ
 представителя предприятия, эксплуатирующего
 эти линии связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>36.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">36.
 В случае повреждения кабельной линии
 связи или линии радиофикации организация,
 осуществляющая строительные работы,
@@ -842,20 +854,20 @@ export default `
 связи, а также оказать помощь в быстрейшей
 ликвидации аварии, включая выделение
 рабочей силы и механизмов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Предприятие
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Предприятие
 связи в этом случае обязано в кратчайший
 срок принять меры по определению
 владельца кабельной линии связи или
 линии радиофикации и передать ему
 информацию об аварии.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Непринятие
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Непринятие
 указанных в настоящем пункте мер является
 основанием для предъявления претензии
 владельцем поврежденной линии связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>37.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">37.
 Условия производства работ по ремонту
 и восстановлению кабельных линий связи
 и линий радиофикации, требующие снятия
@@ -873,8 +885,8 @@ export default `
 дни) со дня получения письменного
 извещения о необходимости производства
 работ.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Если
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Если
 при повреждении кабельной линии связи
 отсутствует возможность организации
 обходной линии связи, работы по снятию
@@ -890,15 +902,15 @@ export default `
 установкой необходимых предупредительных
 знаков для транспорта и пешеходов, а
 затем восстанавливает дорожное покрытие.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>IV.
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>IV.
 Права и обязанности юридических и
-физических лиц,<BR>ведущих хозяйственную
-деятельность в охранных зонах<BR>линий
-и сооружений связи и линий<BR>и сооружений
+физических лиц, ведущих хозяйственную
+деятельность в охранных зонах линий и
+сооружений связи и линий и сооружений
 радиофикации</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>38.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">38.
 Земельная площадь охранных зон на
 трассах линий связи и линий радиофикации
 используется юридическими и физическими
@@ -908,25 +920,25 @@ export default `
 настоящими Правилами и обеспечивающих
 сохранность линий связи и линий
 радиофикации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>39.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">39.
 Юридические и физические лица, ведущие
 хозяйственную деятельность на земельных
 участках, по которым проходят линии
 связи и линии радиофикации, обязаны:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 принимать все зависящие от них меры,
 способствующие обеспечению сохранности
 этих линий;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 обеспечивать техническому персоналу
 беспрепятственный доступ к этим линиям
 для ведения работ на них (при предъявлении
 документа о соответствующих полномочиях).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>40.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">40.
 Техническому персоналу предприятий,
 эксплуатирующих линии связи и линии
 радиофикации, предоставляется право
@@ -945,13 +957,13 @@ export default `
 проведения осмотров и работ в любое
 время суток без взимания платы за право
 прохода (проезда).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>41.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">41.
 Предприятиям, в ведении которых находятся
 линии связи и линии радиофикации, в
 охранных зонах разрешается:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 устройство за свой счет дорог, подъездов,
 мостов и других сооружений, необходимых
 для эксплуатационного обслуживания
@@ -962,13 +974,13 @@ export default `
 этим предприятиям в обеспечении условий
 для эксплуатационного обслуживания
 сооружений связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 разрытие ям, траншей и котлованов для
 ремонта линий связи и линий радиофикации
 с последующей их засыпкой;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 вырубка отдельных деревьев при авариях
 на линиях связи и линиях радиофикации,
 проходящих через лесные массивы, в
@@ -977,8 +989,8 @@ export default `
 порядке лесорубочных билетов (ордеров)
 и очисткой мест рубки от порубочных
 остатков.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>42.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">42.
 Работы по прокладке, докладке и ремонту
 кабельных линий связи и линий радиофикации,
 проходящих по сельскохозяйственным
@@ -989,8 +1001,8 @@ export default `
 ликвидации аварий и эксплуатационному
 обслуживанию линий связи и линий
 радиофикации - в любой период.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>После
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">После
 выполнения ремонтных работ предприятия,
 в ведении которых находятся линии связи
 и линии радиофикации, должны привести
@@ -1004,8 +1016,8 @@ export default `
 В случае аварии убытки должны возмещаться
 в соответствии с Гражданским кодексом
 Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>43.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">43.
 Порядок эксплуатации линий связи и
 линий радиофикации в местах пересечения
 ими шоссейных и железных дорог,
@@ -1021,8 +1033,8 @@ export default `
 предприятиями, а также собственниками
 земли (землевладельцами, землепользователями,
 арендаторами).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>44.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">44.
 В случае если по территориям строительных
 площадок проходят линии связи и линии
 радиофикации, в проектах и сметах
@@ -1032,8 +1044,8 @@ export default `
 необходимые мероприятия по обеспечению
 сохранности указанных линий или их
 перенос до окончания работ.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>45.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">45.
 Юридические и физические лица, проводящие
 вне охранных зон линий связи и линий
 радиофикации какие-либо работы, которые
@@ -1050,8 +1062,8 @@ export default `
 нахождения этих предприятий до места
 проведения работ составляет 5 и более
 километров.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Юридическим
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Юридическим
 и физическим лицам рекомендуется
 заключать с предприятиями, в ведении
 которых находятся линии связи и линии
@@ -1061,8 +1073,8 @@ export default `
 который оплачивается по соответствующей
 статье сметы расходов на производство
 работ.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>46.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">46.
 Юридические и физические лица, производящие
 земляные работы, при обнаружении
 подземных кабельных линий связи, не
@@ -1074,8 +1086,8 @@ export default `
 связи или в отдел архитектуры при
 соответствующем органе исполнительной
 власти.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Предприятие
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Предприятие
 связи или отдел архитектуры при органе
 исполнительной власти в 3-дневный срок
 обязаны установить предприятие,
@@ -1084,8 +1096,8 @@ export default `
 о нем юридическому или физическому
 лицу, производящему земляные работы на
 трассе линии связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Расходы,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Расходы,
 связанные с простоем механизмов и
 рабочих из-за необходимости установления
 владельца подземной кабельной линии
@@ -1096,8 +1108,8 @@ export default `
 документацию на производство работ по
 обоюдной договоренности, либо в судебном
 порядке.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>47.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">47.
 В случае подъема подводного кабеля
 связи якорем или рыболовной снастью
 капитаны судов (командиры кораблей)
@@ -1115,44 +1127,44 @@ export default `
 связи, которое обязано в течение 6 часов
 установить владельца подводной кабельной
 линии связи и сообщить ему о происшествии.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>48.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">48.
 В пределах охранных зон без письменного
 согласия и присутствия представителей
 предприятий, эксплуатирующих линии
 связи и линии радиофикации, юридическим
 и физическим лицам запрещается:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 осуществлять всякого рода строительные,
 монтажные и взрывные работы, планировку
 грунта землеройными механизмами (за
 исключением зон песчаных барханов) и
 земляные работы (за исключением вспашки
 на глубину не более 0,3 метра);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 производить геолого-съемочные, поисковые,
 геодезические и другие изыскательские
 работы, которые связаны с бурением
 скважин, шурфованием, взятием проб
 грунта, осуществлением взрывных работ;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 производить посадку деревьев, располагать
 полевые станы, содержать скот, складировать
 материалы, корма и удобрения, жечь
 костры, устраивать стрельбища;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 устраивать проезды и стоянки автотранспорта,
 тракторов и механизмов, провозить
 негабаритные грузы под проводами
 воздушных линий связи и линий радиофикации,
 строить каналы (арыки), устраивать
 заграждения и другие препятствия;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 устраивать причалы для стоянки судов,
 барж и плавучих кранов, производить
 погрузочно-разгрузочные, подводно-технические,
@@ -1166,27 +1178,27 @@ export default `
 запрещается бросать якоря, проходить
 с отданными якорями, цепями, лотами,
 волокушами и тралами;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 производить строительство и реконструкцию
 линий электропередач, радиостанций и
 других объектов, излучающих электромагнитную
 энергию и оказывающих опасное воздействие
 на линии связи и линии радиофикации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>ж)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ж)
 производить защиту подземных коммуникаций
 от коррозии без учета проходящих
 подземных кабельных линий связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>49.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">49.
 Юридическим и физическим лицам запрещается
 производить всякого рода действия,
 которые могут нарушить нормальную
 работу линий связи и линий радиофикации,
 в частности:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 производить снос и реконструкцию зданий
 и мостов, осуществлять переустройство
 коллекторов, туннелей метрополитена и
@@ -1202,8 +1214,8 @@ export default `
 по согласованию с предприятиями, в
 ведении которых находятся эти линии и
 сооружения;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 производить засыпку трасс подземных
 кабельных линий связи, устраивать на
 этих трассах временные склады, стоки
@@ -1212,8 +1224,8 @@ export default `
 ломать замерные, сигнальные,
 предупредительные знаки и телефонные
 колодцы;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 открывать двери и люки необслуживаемых
 усилительных и регенерационных пунктов
 (наземных и подземных) и радиорелейных
@@ -1222,31 +1234,31 @@ export default `
 и кабельных ящиков, а также подключаться
 к линиям связи (за исключением лиц,
 обслуживающих эти линии);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 огораживать трассы линий связи,
 препятствуя свободному доступу к ним
 технического персонала;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 самовольно подключаться к абонентской
 телефонной линии и линии радиофикации
 в целях пользования услугами связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 совершать иные действия, которые могут
 причинить повреждения сооружениям
 связи и радиофикации (повреждать опоры
 и арматуру воздушных линий связи,
 обрывать провода, набрасывать на них
 посторонние предметы и другое).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>V.
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>V.
 Ответственность за повреждения линий
-и сооружений<BR>связи, линий и сооружений
+и сооружений связи, линий и сооружений
 радиофикации</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>50.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">50.
 Юридические и физические лица, не
 выполняющие требования настоящих
 Правил, а также нарушающие работу линий
@@ -1254,8 +1266,8 @@ export default `
 радиофикации привлекаются к ответственности
 в соответствии с законодательством
 Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>51.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">51.
 В случае нарушения юридическими и
 физическими лицами настоящих Правил,
 повлекшего повреждение линий и сооружений
@@ -1272,8 +1284,8 @@ export default `
 виновного или фамилия и место жительства
 физического лица (виновника повреждения),
 характер, место и время происшествия.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>52.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">52.
 Материальный ущерб, причиненный
 предприятию, в ведении которого находится
 линия связи или линия радиофикации, в
@@ -1283,20 +1295,20 @@ export default `
 и с учетом потери тарифных доходов, не
 полученных этим предприятием за период
 прекращения действия связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>53.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">53.
 Материальный ущерб подлежит возмещению
 виновным лицом в добровольном порядке,
 а при наличии разногласий - в судебном
 порядке.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Материальный
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Материальный
 ущерб взыскивается в соответствии с
 действующим законодательством независимо
 от привлечения лица, виновного в нарушении
 настоящих Правил, к административной
 или уголовной ответственности.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.11in; line-height: 107%"><BR><BR>
+<P CLASS="western" STYLE="margin-bottom: 0.11in; line-height: 150%"><BR><BR>
 </P>
 </BODY>
 </HTML>`

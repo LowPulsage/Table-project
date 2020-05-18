@@ -1,6 +1,6 @@
 /*eslint-disable*/
 export default `
-< !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
@@ -8,9 +8,9 @@ export default `
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
 	<META NAME="CREATED" CONTENT="20200505;145500000000000">
-	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
-	<META NAME="CHANGED" CONTENT="20200505;145500000000000">
-	<META NAME="AppVersion" CONTENT="16.0000">
+	<META NAME="CHANGEDBY" CONTENT="Учетная запись Майкрософт">
+	<META NAME="CHANGED" CONTENT="20200518;112700000000000">
+	<META NAME="AppVersion" CONTENT="15.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
 	<META NAME="LinksUpToDate" CONTENT="false">
@@ -28,50 +28,53 @@ export default `
 	</STYLE>
 </HEAD>
 <BODY LANG="ru-RU" LINK="#0563c1" DIR="LTR">
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПРАВИТЕЛЬСТВО
-РОССИЙСКОЙ ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПОСТАНОВЛЕНИЕ<BR>от
-14 ноября 2014 г. N 1194</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>О
-МЕЖДУНАРОДНО-ПРАВОВОЙ ЗАЩИТЕ<BR>ПРИСВОЕНИЯ
-(НАЗНАЧЕНИЯ) РАДИОЧАСТОТ ИЛИ
-РАДИОЧАСТОТНЫХ<BR>КАНАЛОВ И ПОРЯДКЕ
-ИСПОЛЬЗОВАНИЯ НА ТЕРРИТОРИИ
-РОССИЙСКОЙ<BR>ФЕДЕРАЦИИ СПУТНИКОВЫХ
-СЕТЕЙ СВЯЗИ, НАХОДЯЩИХСЯ<BR>ПОД ЮРИСДИКЦИЕЙ
-ИНОСТРАННЫХ ГОСУДАРСТВ, А ТАКЖЕ<BR>О
-ВНЕСЕНИИ ИЗМЕНЕНИЙ В НЕКОТОРЫЕ
-АКТЫ<BR>ПРАВИТЕЛЬСТВА РОССИЙСКОЙ ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Правительство
+Российской Федерации</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%"><A NAME="_GoBack"></A>
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Постановление<BR>От
+14 Ноября 2014 Г. N 1194</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">О
+Международно-Правовой Защите<BR>Присвоения
+(Назначения) Радиочастот Или
+Радиочастотных<BR>Каналов И Порядке
+Использования На Территории
+Российской<BR>Федерации Спутниковых
+Сетей Связи, Находящихся<BR>Под Юрисдикцией
+Иностранных Государств, А Также<BR>О
+Внесении Изменений В Некоторые
+Акты<BR>Правительства Российской Федерации</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 соответствии с пунктом 3 статьи 69 и
 пунктом 4 статьи 70 Федерального закона
 &quot;О связи&quot; Правительство Российской
-Федерации постановляет:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
-Утвердить прилагаемые:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Правила
+Федерации постановляет:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
+Утвердить прилагаемые:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Правила
 проведения в Российской Федерации работ
 по международно-правовой защите
 присвоения (назначения) радиочастот
-или радиочастотных каналов;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Правила
+или радиочастотных каналов;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Правила
 использования на территории Российской
 Федерации спутниковых сетей связи,
 находящихся под юрисдикцией иностранных
-государств;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>изменения,
+государств;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">изменения,
 которые вносятся в акты Правительства
-Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
+Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Установить, что реализация полномочий,
 предусмотренных правилами, утвержденными
 настоящим постановлением, осуществляется
@@ -87,12 +90,12 @@ export default `
 указанным федеральным органам
 исполнительной власти в федеральном
 бюджете на руководство и управление в
-сфере установленных функций.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3.
-Признать утратившими силу:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>постановление
+сфере установленных функций.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
+Признать утратившими силу:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">постановление
 Правительства Российской Федерации от
 2 сентября 1998 г. N 1016 &quot;О мерах по
 обеспечению устойчивого функционирования
@@ -100,9 +103,9 @@ export default `
 сетей спутниковой связи и вещания
 Российской Федерации&quot; (Собрание
 законодательства Российской Федерации,
-1998, N 36, ст. 4516);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>постановление
+1998, N 36, ст. 4516);</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">постановление
 Правительства Российской Федерации от
 16 февраля 1999 г. N 180 &quot;О порядке
 регулирования допуска и использования
@@ -110,26 +113,35 @@ export default `
 глобальных систем подвижной персональной
 спутниковой связи&quot; (Собрание
 законодательства Российской Федерации,
-1999, N 8, ст. 1034).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Председатель
+1999, N 8, ст. 1034).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Председатель
 Правительства<BR>Российской
-Федерации<BR>Д.МЕДВЕДЕВ</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Утверждены<BR>постановлением
+Федерации<BR>Д.МЕДВЕДЕВ</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утверждены<BR>постановлением
 Правительства<BR>Российской Федерации<BR>от
-14 ноября 2014 г. N 1194</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПРАВИЛА<BR>ПРОВЕДЕНИЯ
-В РОССИЙСКОЙ ФЕДЕРАЦИИ РАБОТ<BR>ПО
-МЕЖДУНАРОДНО-ПРАВОВОЙ ЗАЩИТЕ ПРИСВОЕНИЯ
-(НАЗНАЧЕНИЯ)<BR>РАДИОЧАСТОТ ИЛИ
-РАДИОЧАСТОТНЫХ КАНАЛОВ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>I.
-Общие положения</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
+14 ноября 2014 г. N 1194</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ПРАВИЛА
+ПРОВЕДЕНИЯ В РОССИЙСКОЙ ФЕДЕРАЦИИ
+РАБОТ<BR>ПО МЕЖДУНАРОДНО-ПРАВОВОЙ ЗАЩИТЕ
+ПРИСВОЕНИЯ (НАЗНАЧЕНИЯ) РАДИОЧАСТОТ
+ИЛИ РАДИОЧАСТОТНЫХ КАНАЛОВ</B></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>I.
+Общие положения</B></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Настоящие Правила устанавливают порядок
 осуществления в Российской Федерации
 деятельности по международно-правовой
@@ -147,9 +159,9 @@ export default `
 союзе электросвязи, а также работ по
 координации частотных присвоений для
 радиоэлектронных средств с администрациями
-связи иностранных государств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
+связи иностранных государств.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Международно-правовая защита частотных
 присвоений для радиоэлектронных средств
 осуществляется в целях обеспечения
@@ -161,9 +173,9 @@ export default `
 а также в целях создания благоприятных
 условий для развития и использования
 радиоэлектронных средств различных
-радиослужб в Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3.
+радиослужб в Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Международно-правовая защита частотных
 присвоений для радиоэлектронных средств
 представляет собой комплекс правовых,
@@ -190,9 +202,9 @@ export default `
 регулированию использования радиочастотного
 спектра или координации частотных
 присвоений для радиоэлектронных средств
-(далее - организации Российской Федерации).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>4.
+(далее - организации Российской Федерации).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Международно-правовая защита частотных
 присвоений для радиоэлектронных средств
 осуществляется в соответствии с
@@ -205,9 +217,9 @@ export default `
 спектра, а также на основании научного
 анализа перспектив развития радиотехнологий
 и принципа взаимности при использовании
-радиочастотного спектра.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>5.
+радиочастотного спектра.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
 Требования настоящих Правил распространяются
 на федеральные органы исполнительной
 власти, Государственную комиссию по
@@ -222,9 +234,9 @@ export default `
 использование радиоэлектронных средств
 при проведении научно-исследовательских,
 опытно-конструкторских и экспериментальных
-работ (далее - пользователи).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>6.
+работ (далее - пользователи).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 Настоящие Правила не применяются в
 отношении радиоэлектронных средств,
 устанавливаемых на территории
@@ -236,22 +248,22 @@ export default `
 государств, а также в случаях, когда
 администрация связи Российской Федерации
 выступает от имени группы администраций
-связи иностранных государств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>II.
+связи иностранных государств.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>II.
 Организация и координация работ по
-вопросам<BR>международного распределения
-и регулирования использования<BR>радиочастотного
-спектра</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>7.
+вопросам международного распределения
+и регулирования использования
+радиочастотного спектра</B></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
 Организацию в Российской Федерации
 работ по международно-правовой защите
 частотных присвоений для радиоэлектронных
 средств осуществляет администрация
-связи Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>8.
+связи Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
 Координацию в Российской Федерации
 работ по международно-правовой защите
 частотных присвоений для радиоэлектронных
@@ -260,9 +272,9 @@ export default `
 власти и организациями Российской
 Федерации, а также организацию их
 взаимодействия осуществляет Государственная
-комиссия по радиочастотам.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>9.
+комиссия по радиочастотам.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
 В целях координации работ, проводимых
 заинтересованными федеральными органами
 исполнительной власти и организациями
@@ -293,16 +305,16 @@ export default `
 использования радиочастотного спектра
 при Государственной комиссии по
 радиочастотам (далее - подготовительная
-рабочая группа).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Государственная
+рабочая группа).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Государственная
 комиссия по радиочастотам утверждает
 порядок работы подготовительной рабочей
 группы и ее состав, а также назначает
 руководителя подготовительной рабочей
-группы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Для
+группы.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Для
 проработки и предварительного рассмотрения
 отдельных вопросов, касающихся
 международного распределения и
@@ -313,22 +325,22 @@ export default `
 состоящие из специалистов заинтересованных
 федеральных органов исполнительной
 власти и организаций Российской Федерации
-(далее - проектные группы).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Состав
+(далее - проектные группы).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Состав
 проектных групп утверждает руководитель
-подготовительной рабочей группы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Для
+подготовительной рабочей группы.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Для
 организации заседаний подготовительной
 рабочей группы, проектных групп и ведения
 протоколов заседаний подготовительной
 рабочей группы руководитель аппарата
 Государственной комиссии по радиочастотам
 назначает секретаря подготовительной
-рабочей группы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>10.
+рабочей группы.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.
 Подготовительная рабочая группа на
 основании предложений заинтересованных
 федеральных органов исполнительной
@@ -344,9 +356,9 @@ export default `
 направляется аппаратом Государственной
 комиссии по радиочастотам на утверждение
 в администрацию связи Российской
-Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>11.
+Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
 Для участия в работе международных
 организаций направляются делегации
 администрации связи Российской Федерации
@@ -354,9 +366,9 @@ export default `
 Российской Федерации, заинтересованных
 федеральных органов исполнительной
 власти и организаций Российской
-Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Делегации
+Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Делегации
 администрации связи Российской Федерации
 в своей работе на всемирных и региональных
 конференциях радиосвязи, ассамблеях
@@ -368,9 +380,9 @@ export default `
 которые формируются на основании позиции
 администрации связи Российской Федерации
 и определяют полномочия делегации
-администрации связи Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>12.
+администрации связи Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
 Проекты указаний для делегаций
 администрации связи Российской Федерации,
 участвующих в работе международных
@@ -380,9 +392,9 @@ export default `
 проектными группами и направляются в
 администрацию связи Российской Федерации
 для согласования и утверждения в
-установленном порядке.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>13.
+установленном порядке.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.
 Порядок формирования делегаций
 администрации связи Российской Федерации,
 согласования и утверждения указаний и
@@ -401,9 +413,9 @@ export default `
 по вопросам международного распределения
 и регулирования использования
 радиочастотного спектра (далее - проекты
-вкладов).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14.
+вкладов).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14.
 В целях продвижения и реализации позиции
 администрации связи Российской Федерации
 заинтересованными федеральными органами
@@ -412,14 +424,14 @@ export default `
 предложения по вопросам международного
 распределения и регулирования
 использования радиочастотного спектра
-(далее - проекты вкладов).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>15.
+(далее - проекты вкладов).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">15.
 Проекты вкладов направляются секретарю
 подготовительной рабочей группы для
-организации их рассмотрения и одобрения.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Проекты
+организации их рассмотрения и одобрения.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Проекты
 вкладов для всемирных и региональных
 конференций радиосвязи, ассамблей
 радиосвязи Международного союза
@@ -427,18 +439,18 @@ export default `
 подготовительной рабочей группой, а
 для других мероприятий, проводимых
 международными организациями, - проектными
-группами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>16.
+группами.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">16.
 В случае одобрения проекты вкладов
 направляются в администрацию связи
 Российской Федерации для принятия
 решения об их направлении в соответствующие
 международные организации для последующего
 представления от имени администрации
-связи Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>17.
+связи Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">17.
 Материалы по вопросам международного
 распределения и регулирования
 использования радиочастотного спектра,
@@ -449,14 +461,14 @@ export default `
 для рассмотрения подготовительной
 рабочей группой или проектными группами
 с целью подготовки предложений для
-администрации связи Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>III.
+администрации связи Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>III.
 Заявление, координация и регистрация
-частотных<BR>присвоений для радиоэлектронных
-средств</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>18.
+частотных присвоений для радиоэлектронных
+средств</B></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">18.
 Работы по заявлению, координации и
 регистрации в Международном союзе
 электросвязи частотных присвоений для
@@ -467,18 +479,18 @@ export default `
 Международного союза электросвязи
 (далее - Регламент радиосвязи), иными
 документами Международного союза
-электросвязи и настоящими Правилами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Работы
+электросвязи и настоящими Правилами.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Работы
 по координации частотных присвоений
 для радиоэлектронных средств Российской
 Федерации, используемых наземными
 радиослужбами, с администрациями связи
 иностранных государств осуществляются
 также с учетом международных договоров
-и соглашений.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>19.
+и соглашений.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">19.
 Государственная комиссия по радиочастотам
 осуществляет координацию работ,
 проводимых заинтересованными федеральными
@@ -494,9 +506,9 @@ export default `
 межправительственными спутниковыми
 организациями и не реже одного раза в
 год рассматривает результаты выполнения
-этих работ.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>20.
+этих работ.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">20.
 Федеральная служба по надзору в сфере
 связи, информационных технологий и
 массовых коммуникаций осуществляет
@@ -508,9 +520,9 @@ export default `
 радиослужбами, а также по координации
 частотных присвоений для радиоэлектронных
 средств с администрациями связи
-иностранных государств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>21.
+иностранных государств.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">21.
 Федеральная служба по надзору в сфере
 связи, информационных технологий и
 массовых коммуникаций с привлечением
@@ -527,9 +539,9 @@ export default `
 радиослужбами, в порядке, утверждаемом
 Министерством цифрового развития, связи
 и массовых коммуникаций Российской
-Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>22.
+Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">22.
 Радиочастотная служба выполняет работы
 по определению необходимости заявления,
 координации и регистрации в Международном
@@ -550,9 +562,9 @@ export default `
 государств в соответствии с Регламентом
 радиосвязи, иными документами
 Международного союза электросвязи,
-международными договорами и соглашениями.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>23.
+международными договорами и соглашениями.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">23.
 Определение необходимости заявления,
 координации и регистрации в Международном
 союзе электросвязи частотных присвоений
@@ -563,9 +575,9 @@ export default `
 по радиочастотам в соответствии с
 Регламентом радиосвязи, иными документами
 Международного союза электросвязи,
-международными договорами и соглашениями.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Определение
+международными договорами и соглашениями.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Определение
 необходимости заявления, координации
 и регистрации в Международном союзе
 электросвязи, а также координации с
@@ -580,9 +592,9 @@ export default `
 Министерством обороны Российской
 Федерации и Федеральной службой охраны
 Российской Федерации в пределах своих
-полномочий.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>24.
+полномочий.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">24.
 Материалы для заявления, координации
 и регистрации в Международном союзе
 электросвязи частотных присвоений для
@@ -592,9 +604,9 @@ export default `
 соответствии с требованиями Регламента
 радиосвязи, иными документами
 Международного союза электросвязи,
-международными договорами и соглашениями.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>25.
+международными договорами и соглашениями.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">25.
 Услуги по осуществлению работ по
 заявлению, координации и регистрации
 в Международном союзе электросвязи
@@ -618,9 +630,9 @@ export default `
 определяется на основании методики,
 утвержденной Министерством цифрового
 развития, связи и массовых коммуникаций
-Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>26.
+Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">26.
 Работы по заявлению, координации и
 регистрации в Международном союзе
 электросвязи частотных присвоений для
@@ -633,9 +645,9 @@ export default `
 спектра для различных радиослужб в
 долгосрочной перспективе осуществляются
 по решениям Государственной комиссии
-по радиочастотам.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>27.
+по радиочастотам.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">27.
 Радиочастотная служба при проведении
 работ, предусмотренных настоящим
 разделом, осуществляет учет и хранение
@@ -659,9 +671,9 @@ export default `
 спутниковыми организациями по координации
 частотных присвоений для радиоэлектронных
 средств, используемых различными
-радиослужбами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Порядок
+радиослужбами.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Порядок
 доступа заинтересованных лиц к данным
 о частотных присвоениях для радиоэлектронных
 средств Российской Федерации и иностранных
@@ -674,9 +686,9 @@ export default `
 развития, связи и массовых коммуникаций
 Российской Федерации с учетом требований
 законодательства Российской Федерации
-о защите информации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>28.
+о защите информации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">28.
 Работы по заявлению, координации и
 регистрации в Международном союзе
 электросвязи частотных присвоений для
@@ -697,9 +709,9 @@ export default `
 Государственной комиссией по радиочастотам
 по представлению Федеральной службы
 по надзору в сфере связи, информационных
-технологий и массовых коммуникаций.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>29.
+технологий и массовых коммуникаций.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">29.
 Проект плана работ разрабатывается
 Федеральной службой по надзору в сфере
 связи, информационных технологий и
@@ -712,17 +724,17 @@ export default `
 системами, полученных от администраций
 связи иностранных государств или
 межправительственных спутниковых
-организаций.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Результаты
+организаций.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Результаты
 выполнения плана работ рассматриваются
 на заседании Государственной комиссией
 по радиочастотам по представлению
 Федеральной службы по надзору в сфере
 связи, информационных технологий и
-массовых коммуникаций.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Проведение
+массовых коммуникаций.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Проведение
 работ по заявлению, координации и
 регистрации в Международном союзе
 электросвязи частотных присвоений для
@@ -732,9 +744,9 @@ export default `
 осуществляется при наличии решений
 Государственной комиссии по радиочастотам
 о выделении полос радиочастот для
-указанных систем.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>30.
+указанных систем.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">30.
 Материалы для заявления, координации
 и регистрации в Международном союзе
 электросвязи частотных присвоений для
@@ -749,9 +761,9 @@ export default `
 требованиям Регламента радиосвязи и
 другим документам Международного союза
 электросвязи. Результаты такой экспертизы
-оформляются в виде письменного заключения.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>31.
+оформляются в виде письменного заключения.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">31.
 При проведении экспертизы материалов
 для заявления, координации и регистрации
 частотных присвоений для радиоэлектронных
@@ -765,9 +777,9 @@ export default `
 материалов, представляет письменное
 заключение о возможности направления
 этих материалов в Международный союз
-электросвязи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>После
+электросвязи.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">После
 проведения экспертизы указанных
 материалов и их согласования, а также
 подтверждения пользователем внесения
@@ -793,9 +805,9 @@ export default `
 числе федеральных органов исполнительной
 власти, а также для нужд обороны страны,
 безопасности государства и обеспечения
-правопорядка.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Порядок
+правопорядка.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Порядок
 подтверждения внесения обеспечительного
 платежа в счет возмещения затрат
 Международного союза электросвязи на
@@ -810,9 +822,9 @@ export default `
 космическими системами Российской
 Федерации, устанавливается Министерством
 цифрового развития, связи и массовых
-коммуникаций Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>32.
+коммуникаций Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">32.
 Для подтверждения информации о дате
 ввода в действие частотных присвоений
 для радиоэлектронных средств гражданского
@@ -829,9 +841,9 @@ export default `
 информацию о запуске (перемещении из
 другой орбитальной позиции) или об
 аренде космической станции (космического
-аппарата).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>33.
+аппарата).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">33.
 Запросы и материалы, получаемые от
 администраций связи иностранных
 государств или межправительственных
@@ -860,9 +872,9 @@ export default `
 организациям в порядке, утверждаемом
 Министерством цифрового развития, связи
 и массовых коммуникаций Российской
-Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>34.
+Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">34.
 Материалы для заявления, координации
 и регистрации в Международном союзе
 электросвязи присвоения (назначения)
@@ -875,9 +887,9 @@ export default `
 станций гражданского назначения
 Российской Федерации, используемых
 спутниковыми радиослужбами, готовятся
-радиочастотной службой.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>35.
+радиочастотной службой.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">35.
 Материалы для заявления, координации
 и регистрации в Международном союзе
 электросвязи присвоения (назначения)
@@ -894,9 +906,9 @@ export default `
 Российской Федерации или Федеральной
 службой охраны Российской Федерации в
 пределах своих полномочий и направляются
-в радиочастотную службу.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>36.
+в радиочастотную службу.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">36.
 Федеральная служба по надзору в сфере
 связи, информационных технологий и
 массовых коммуникаций организует
@@ -910,9 +922,9 @@ export default `
 для земных станций Российской Федерации,
 используемых спутниковыми радиослужбами,
 в администрации связи иностранных
-государств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиочастотная
+государств.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиочастотная
 служба по согласованию с заинтересованными
 пользователями корректирует параметры
 присвоения (назначения) радиочастот
@@ -923,9 +935,9 @@ export default `
 радиочастот или радиочастотных каналов
 для земных станций Российской Федерации,
 используемых спутниковыми радиослужбами,
-с целью завершения координации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>37.
+с целью завершения координации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">37.
 После завершения координации присвоения
 (назначения) радиочастот или радиочастотных
 каналов для радиоэлектронных средств
@@ -941,9 +953,9 @@ export default `
 Регламентом радиосвязи, международными
 договорами и соглашениями, радиочастотная
 служба информирует об этом заинтересованных
-пользователей.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>38.
+пользователей.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">38.
 Организацию работ по рассмотрению
 материалов по частотным присвоениям
 для радиоэлектронных средств иностранных
@@ -954,9 +966,9 @@ export default `
 связи, информационных технологий и
 массовых коммуникаций, а работы по
 рассмотрению этих материалов осуществляет
-радиочастотная служба.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>39.
+радиочастотная служба.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">39.
 Радиочастотная служба при рассмотрении
 материалов для координации присвоения
 (назначения) радиочастот или радиочастотных
@@ -966,9 +978,9 @@ export default `
 (назначения) радиочастот или радиочастотных
 каналов для земных станций иностранных
 государств, используемых спутниковыми
-радиослужбами:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+радиослужбами:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 рассматривает указанные в настоящем
 пункте материалы и проводит расчет
 электромагнитной совместимости
@@ -983,9 +995,9 @@ export default `
 с частотными присвоениями для
 радиоэлектронных средств гражданского
 назначения Российской Федерации,
-используемых различными радиослужбами;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+используемых различными радиослужбами;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 направляет указанные в настоящем пункте
 материалы в Министерство обороны
 Российской Федерации и Федеральную
@@ -1004,9 +1016,9 @@ export default `
 радиослужбами, и присвоением (назначением)
 радиочастот или радиочастотных каналов
 для земных станций иностранных государств,
-используемых спутниковыми радиослужбами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>40.
+используемых спутниковыми радиослужбами.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">40.
 Расчет электромагнитной совместимости
 присвоения (назначения) радиочастот
 или радиочастотных каналов для
@@ -1024,9 +1036,9 @@ export default `
 осуществляют соответственно Министерство
 обороны Российской Федерации или
 Федеральная служба охраны Российской
-Федерации в пределах своих полномочий.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>41.
+Федерации в пределах своих полномочий.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">41.
 Радиочастотная служба при рассмотрении
 материалов Международного союза
 электросвязи по предварительной
@@ -1035,9 +1047,9 @@ export default `
 средств, используемых космическими
 системами иностранных государств и
 межправительственных спутниковых
-организаций:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+организаций:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 направляет указанные в настоящем пункте
 материалы в Министерство обороны
 Российской Федерации и Федеральную
@@ -1052,9 +1064,9 @@ export default `
 средств, используемых космическими
 системами иностранных государств или
 межправительственных спутниковых
-организаций;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+организаций;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 рассматривает указанные в настоящем
 пункте материалы и проводит их экспертизу
 в части возможности обеспечения
@@ -1065,9 +1077,9 @@ export default `
 межправительственных спутниковых
 организаций, с частотными присвоениями
 для радиоэлектронных средств гражданского
-назначения Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>42.
+назначения Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">42.
 Министерство обороны Российской
 Федерации, Федеральная служба охраны
 Российской Федерации и заинтересованные
@@ -1084,9 +1096,9 @@ export default `
 электросвязи и международными
 соглашениями, и направляют результаты
 рассмотрения или заключения в
-радиочастотную службу.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>43.
+радиочастотную службу.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">43.
 Проекты ответов о результатах рассмотрения
 материалов по частотным присвоениям
 для радиоэлектронных средств иностранных
@@ -1109,9 +1121,9 @@ export default `
 или заключений Министерства обороны
 Российской Федерации, Федеральной
 службы охраны Российской Федерации и
-заинтересованных пользователей.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Направление
+заинтересованных пользователей.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Направление
 ответов о результатах рассмотрения
 материалов по частотным присвоениям
 для радиоэлектронных средств иностранных
@@ -1123,9 +1135,9 @@ export default `
 спутниковые организации осуществляется
 в порядке, утверждаемом Министерством
 цифрового развития, связи и массовых
-коммуникаций Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>44.
+коммуникаций Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">44.
 Переговоры по координации частотных
 присвоений для радиоэлектронных средств,
 используемых различными радиослужбами,
@@ -1134,9 +1146,9 @@ export default `
 иностранных государств или
 межправительственными спутниковыми
 организациями (далее - переговоры)
-проводятся в следующих случаях:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+проводятся в следующих случаях:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 переписка по координации частотных
 присвоений для радиоэлектронных средств
 между администрацией связи Российской
@@ -1144,25 +1156,25 @@ export default `
 иностранных государств или
 межправительственными спутниковыми
 организациями не приводит к положительным
-результатам;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+результатам;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 требуется определить условия использования
-полос радиочастот;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+полос радиочастот;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 по предложению администраций связи
 иностранных государств или
 межправительственных спутниковых
-организаций.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>45.
+организаций.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">45.
 Переговоры проводятся в соответствии
 с ежегодным планом переговоров,
 утверждаемым Государственной комиссией
-по радиочастотам.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Внеплановые
+по радиочастотам.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Внеплановые
 переговоры проводятся на основании
 решения администрации связи Российской
 Федерации, принятого по результатам
@@ -1173,23 +1185,23 @@ export default `
 организации относительно таких
 переговоров, а также в случаях,
 предусмотренных подпунктами &quot;а&quot;
-и &quot;б&quot; пункта 44 настоящих Правил.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Проект
+и &quot;б&quot; пункта 44 настоящих Правил.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Проект
 плана переговоров разрабатывается
 Федеральной службой по надзору в сфере
 связи, информационных технологий и
 массовых коммуникаций в срок не позднее
 1 октября года, предшествующего
-планируемому году проведения переговоров.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Организация
+планируемому году проведения переговоров.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Организация
 проведения переговоров осуществляется
 Федеральной службой по надзору в сфере
 связи, информационных технологий и
-массовых коммуникаций.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Порядок
+массовых коммуникаций.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Порядок
 организации переговоров, в том числе
 порядок формирования делегации
 администрации связи Российской Федерации
@@ -1202,9 +1214,9 @@ export default `
 делегации на переговорах, определяется
 Министерством цифрового развития, связи
 и массовых коммуникаций Российской
-Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>46.
+Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">46.
 Федеральная служба по надзору в сфере
 связи, информационных технологий и
 массовых коммуникаций организует
@@ -1217,9 +1229,9 @@ export default `
 представляет отчет по итогам участия
 делегации администрации связи Российской
 Федерации в переговорах в администрацию
-связи Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>47.
+связи Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">47.
 На основе предложений федеральных
 органов исполнительной власти и
 заинтересованных пользователей
@@ -1229,9 +1241,9 @@ export default `
 на переговоры и согласовывает его с
 Министерством обороны Российской
 Федерации и Федеральной службой охраны
-Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Согласованный
+Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Согласованный
 проект технического задания делегации
 администрации связи Российской Федерации
 на переговоры направляется в Федеральную
@@ -1239,9 +1251,9 @@ export default `
 информационных технологий и массовых
 коммуникаций для представления его на
 утверждение администрации связи
-Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>48.
+Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">48.
 По вопросам координации частотных
 присвоений для радиоэлектронных средств,
 используемых космическими системами,
@@ -1258,18 +1270,18 @@ export default `
 Федерации в порядке, определенном
 Министерством цифрового развития, связи
 и массовых коммуникаций Российской
-Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>49.
+Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">49.
 Результаты выполнения плана переговоров,
 а также результаты внеплановых переговоров
 рассматриваются на заседании
 Государственной комиссией по радиочастотам
 по представлению Федеральной службы
 по надзору в сфере связи, информационных
-технологий и массовых коммуникаций.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>50.
+технологий и массовых коммуникаций.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">50.
 Копию протокола переговоров и его
 перевод на русский язык радиочастотная
 служба в срок не позднее 30 рабочих дней
@@ -1283,9 +1295,9 @@ export default `
 в части, их касающейся, для подготовки
 заключений о возможности одобрения
 протокола переговоров, а также в
-администрацию связи Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>51.
+администрацию связи Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">51.
 Федеральная служба по надзору в сфере
 связи, информационных технологий и
 массовых коммуникаций, Министерство
@@ -1300,9 +1312,9 @@ export default `
 перевода на русский язык направляют в
 радиочастотную службу заключение о
 возможности его одобрения или
-мотивированный отказ в его одобрении.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>На
+мотивированный отказ в его одобрении.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">На
 основе заключений органов и заинтересованных
 пользователей радиочастотная служба
 по согласованию с Федеральной службой
@@ -1319,9 +1331,9 @@ export default `
 либо отказе в его одобрении и информирует
 о принятом решении Федеральную службу
 по надзору в сфере связи, информационных
-технологий и массовых коммуникаций.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>52.
+технологий и массовых коммуникаций.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">52.
 Федеральная служба по надзору в сфере
 связи, информационных технологий и
 массовых коммуникаций организует
@@ -1329,9 +1341,9 @@ export default `
 иностранного государства и (или)
 межправительственной спутниковой
 организации сообщения об одобрении
-(неодобрении) протокола переговоров.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>53.
+(неодобрении) протокола переговоров.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">53.
 При проведении координации частотных
 присвоений для радиоэлектронных средств,
 используемых космическими системами,
@@ -1342,15 +1354,15 @@ export default `
 встречи для одобрения в порядке,
 предусмотренном пунктами 50 и 51 настоящих
 Правил для одобрения протоколов
-переговоров.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>54.
+переговоров.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">54.
 Хранение подлинников протоколов
 переговоров и их переводов на русский
 язык осуществляется радиочастотной
-службой.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>55.
+службой.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">55.
 Возмещение затрат Международного союза
 электросвязи на обработку заявок на
 регистрацию частотных присвоений для
@@ -1361,9 +1373,9 @@ export default `
 в соответствии с порядком, определенным
 Советом Международного союза электросвязи,
 и договором, заключенным радиочастотной
-службой и пользователем.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>56.
+службой и пользователем.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">56.
 Возмещение затрат Международного союза
 электросвязи на обработку заявок на
 регистрацию частотных присвоений для
@@ -1381,30 +1393,30 @@ export default `
 эксплуатирующими радиоэлектронные
 средства, проводящими научно-исследовательские,
 опытно-конструкторские и экспериментальные
-работы в целях обеспечения таких нужд.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>57.
+работы в целях обеспечения таких нужд.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">57.
 Платежи Международному союзу электросвязи
 осуществляются в установленные им сроки
 после получения счета, который выставляется
 Бюро радиосвязи Международного союза
 электросвязи в соответствии с правилами
-Международного союза электросвязи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>58.
+Международного союза электросвязи.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">58.
 В соответствии с договором, предусмотренным
 пунктом 55 настоящих Правил, радиочастотная
-служба обеспечивает:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+служба обеспечивает:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 своевременную оплату счетов Международного
 союза электросвязи на обработку заявок
 на регистрацию частотных присвоений
 для радиоэлектронных средств, используемых
 космическими системами Российской
-Федерации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+Федерации;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 возврат пользователю суммы обеспечительного
 платежа, внесенного в счет возмещения
 затрат Международного союза электросвязи
@@ -1426,9 +1438,9 @@ export default `
 технологий и массовых коммуникаций,
 или не позднее 15 календарных дней со
 дня получения этих материалов Международным
-союзом электросвязи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиочастотная
+союзом электросвязи.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиочастотная
 служба уведомляет пользователя,
 представившего материалы для заявления,
 координации и регистрации частотных
@@ -1442,9 +1454,9 @@ export default `
 электросвязи в течение 3 рабочих дней
 со дня получения радиочастотной службой
 соответствующей информации от
-Международного союза электросвязи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>59.
+Международного союза электросвязи.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">59.
 При принятии администрацией связи
 Российской Федерации решения о бесплатной
 публикации в Международном информационном
@@ -1460,16 +1472,16 @@ export default `
 числе федеральных органов исполнительной
 власти, а также для нужд обороны страны,
 безопасности государства и обеспечения
-правопорядка.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>IV.
+правопорядка.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>IV.
 Порядок научного и методического
 обеспечения<BR>работ по международно-правовой
 защите частотных присвоений<BR>для
 радиоэлектронных средств Российской
-Федерации</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>60.
+Федерации</B></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">60.
 Научное и методическое обеспечение
 работ по международно-правовой защите
 частотных присвоений для радиоэлектронных
@@ -1480,46 +1492,46 @@ export default `
 государственной политики в области
 международного распределения и
 регулирования использования радиочастотного
-спектра.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Финансирование
+спектра.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Финансирование
 указанных работ, выполняемых федеральными
 органами исполнительной власти,
 осуществляется за счет бюджетных
 ассигнований, предусмотренных этим
 органам в очередном финансовом году в
-федеральном бюджете на указанные цели.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>61.
+федеральном бюджете на указанные цели.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">61.
 Научное и методическое обеспечение
 выполнения функций администрации связи
 Российской Федерации осуществляется
 в целях решения следующих основных
-задач:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+задач:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 выполнение администрацией связи
 Российской Федерации обязательств,
 возложенных на Российскую Федерацию
 как участника международных организаций
-в области связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+в области связи;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 гармонизация законодательства Российской
 Федерации в области регулирования
 использования радиочастотного спектра
 с международными нормами и правилами
 и обеспечение защиты национальных
-интересов Российской Федерации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+интересов Российской Федерации;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 содействие во внедрении перспективных
 радиотехнологий и в реализации
 инновационных проектов с использованием
 радиочастотного спектра, геостационарной
-и других орбит спутников.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>62.
+и других орбит спутников.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">62.
 Научное и методическое обеспечение
 выполнения функций администрации связи
 Российской Федерации организует
@@ -1534,25 +1546,32 @@ export default `
 Российской Федерации о контрактной
 системе в сфере закупок товаров, работ,
 услуг для обеспечения государственных
-и муниципальных нужд.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Утверждены<BR>постановлением
+и муниципальных нужд.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утверждены<BR>постановлением
 Правительства<BR>Российской Федерации<BR>от
-14 ноября 2014 г. N 1194</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПРАВИЛА<BR>ИСПОЛЬЗОВАНИЯ
-НА ТЕРРИТОРИИ РОССИЙСКОЙ ФЕДЕРАЦИИ<BR>СПУТНИКОВЫХ
-СЕТЕЙ СВЯЗИ, НАХОДЯЩИХСЯ ПОД
-ЮРИСДИКЦИЕЙ<BR>ИНОСТРАННЫХ ГОСУДАРСТВ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
+14 ноября 2014 г. N 1194</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ПРАВИЛА
+ИСПОЛЬЗОВАНИЯ НА ТЕРРИТОРИИ РОССИЙСКОЙ
+ФЕДЕРАЦИИ<BR>СПУТНИКОВЫХ СЕТЕЙ СВЯЗИ,
+НАХОДЯЩИХСЯ ПОД ЮРИСДИКЦИЕЙ ИНОСТРАННЫХ
+ГОСУДАРСТВ</B></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Настоящие Правила устанавливают порядок
 использования на территории Российской
 Федерации спутниковых сетей связи,
 находящихся под юрисдикцией иностранных
-государств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
+государств.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Под спутниковой сетью связи, находящейся
 под юрисдикцией иностранного государства
 (далее - иностранная спутниковая система),
@@ -1562,24 +1581,24 @@ export default `
 присвоения, заявленные в Международном
 союзе электросвязи администрацией
 иностранного государства для этой
-спутниковой системы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Под
+спутниковой системы.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Под
 иностранной космической станцией
 (космическим аппаратом) понимается
 космическая станция (космический
 аппарат), принадлежащая иностранным
-юридическим и (или) физическим лицам.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Спутниковые
+юридическим и (или) физическим лицам.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Спутниковые
 системы, использующие частотные
 присвоения, заявленные в Международном
 союзе электросвязи от имени
 межправительственных спутниковых
 организаций, приравниваются к иностранным
-спутниковым системам.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Термины
+спутниковым системам.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Термины
 &quot;администрация&quot;, &quot;космическая
 станция&quot;, &quot;спутниковая линия&quot;,
 &quot;спутниковая сеть&quot;, &quot;спутниковая
@@ -1587,9 +1606,9 @@ export default `
 употребляются в тех же значениях, которые
 определены в Регламенте радиосвязи
 Международного союза электросвязи
-(далее - Регламент радиосвязи).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3.
+(далее - Регламент радиосвязи).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Использование иностранных спутниковых
 систем для создания спутниковых сетей
 (линий) в целях развития российских
@@ -1603,9 +1622,9 @@ export default `
 целях, с российскими спутниковыми
 системами и наземными радиослужбами
 должна быть завершена в соответствии
-с положениями Регламента радиосвязи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>4.
+с положениями Регламента радиосвязи.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Использование иностранных спутниковых
 систем для нужд органов государственной
 власти, нужд обороны страны, безопасности
@@ -1616,9 +1635,9 @@ export default `
 спутниковых систем по согласованию с
 федеральными органами исполнительной
 власти в пределах полномочий в
-установленной сфере деятельности.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Использование
+установленной сфере деятельности.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Использование
 иностранных космических станций
 (космических аппаратов) для организации
 на территории Российской Федерации
@@ -1631,9 +1650,9 @@ export default `
 Российской Федерации на период отсутствия
 возможности использования для этой
 цели российских космических станций
-(космических аппаратов).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>5.
+(космических аппаратов).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
 В целях защиты частотных присвоений
 спутниковых систем, заявленных Российской
 Федерацией в Международном союзе
@@ -1642,9 +1661,9 @@ export default `
 (космических аппаратов) на основании
 решений Государственной комиссии по
 радиочастотам о выделении полос
-радиочастот.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Временное
+радиочастот.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Временное
 использование иностранной космической
 станции (космического аппарата) для
 поддержания работы российской спутниковой
@@ -1663,9 +1682,9 @@ export default `
 (космическим аппаратом) с применением
 технических средств управления, не
 находящихся под юрисдикцией Российской
-Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>6.
+Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 Условия и порядок использования
 российской космической станцией
 (космическим аппаратом) частотных
@@ -1675,9 +1694,9 @@ export default `
 иностранного государства или от имени
 межправительственных спутниковых
 организаций, определяются Государственной
-комиссией по радиочастотам.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>7.
+комиссией по радиочастотам.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
 Использование иностранной спутниковой
 системы осуществляется на основании
 решения Государственной комиссии по
@@ -1698,17 +1717,17 @@ export default `
 система спутниковой связи не носит
 разведывательного характера и не может
 нанести ущерб интересам личности,
-обществу и Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>8.
+обществу и Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
 Российский оператор связи, использующий
 иностранную спутниковую систему,
 формирует российский сегмент такой
 системы и обеспечивает управление этим
 сегментом с территории Российской
-Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>9.
+Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
 Российский оператор связи, использующий
 иностранную спутниковую систему,
 формирует российский сегмент указанной
@@ -1724,9 +1743,9 @@ export default `
 территории, должен проходить через
 станцию сопряжения российского оператора
 связи, находящуюся на территории
-Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>10.
+Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.
 Во время стихийных бедствий и других
 чрезвычайных ситуаций в случаях,
 предусмотренных законодательством
@@ -1738,9 +1757,9 @@ export default `
 Российской Федерации, а также право на
 приостановление функционирования таких
 сегментов на территории Российской
-Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>11.
+Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
 Сведения об абонентских станциях
 (терминалах), не требующих регистрации
 и работающих в российском сегменте
@@ -1749,18 +1768,18 @@ export default `
 абонентов подлежат учету российскими
 операторами связи, оказывающими услуги
 связи с использованием таких
-радиоэлектронных средств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Контроль
+радиоэлектронных средств.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Контроль
 за использованием на территории
 Российской Федерации абонентских
 станций (терминалов) иностранных
 спутниковых систем осуществляется
 российскими операторами связи российских
 сегментов иностранных спутниковых
-систем.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>12.
+систем.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
 В российских спутниковых сетях связи,
 в которых используются иностранные
 космические станции (космические
@@ -1769,106 +1788,111 @@ export default `
 имеющих соответствующей лицензии
 Федеральной службы безопасности
 Российской Федерации, полученной в
-установленном порядке.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>13.
+установленном порядке.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.
 Деятельность по использованию иностранных
 спутниковых систем должна осуществляться
 с учетом требований законодательства
 Российской Федерации по обеспечению
 информационной безопасности и
-оперативно-разыскных мероприятий.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Утверждены<BR>постановлением
+оперативно-разыскных мероприятий.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утверждены<BR>постановлением
 Правительства<BR>Российской Федерации<BR>от
-14 ноября 2014 г. N 1194</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ИЗМЕНЕНИЯ,<BR>КОТОРЫЕ
-ВНОСЯТСЯ В АКТЫ ПРАВИТЕЛЬСТВА РОССИЙСКОЙ
-ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
-В&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-01.02.2000-N-88/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3><U>постановлении
-Правительства Российской Федерации от
-1 февраля 2000 г. N 88</U></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;&quot;Об
-утверждении Основных положений
-государственной политики в области
-распределения, использования и защиты
-орбитально-частотного ресурса Российской
-Федерации и Положения о государственном
-регулировании допуска и использования
-иностранных систем спутниковой связи
-и вещания в информационном
+14 ноября 2014 г. N 1194</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ИЗМЕНЕНИЯ,
+КОТОРЫЕ ВНОСЯТСЯ В АКТЫ ПРАВИТЕЛЬСТВА
+РОССИЙСКОЙ ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
+В&nbsp;постановлении Правительства
+Российской Федерации от 1 февраля 2000 г.
+N 88&nbsp;&quot;Об утверждении Основных
+положений государственной политики в
+области распределения, использования
+и защиты орбитально-частотного ресурса
+Российской Федерации и Положения о
+государственном регулировании допуска
+и использования иностранных систем
+спутниковой связи и вещания в информационном
 (телекоммуникационном) пространстве
 Российской Федерации&quot; (Собрание
 законодательства Российской Федерации,
-2000, N 6, ст. 768):</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+2000, N 6, ст. 768):</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 наименование изложить в следующей
-редакции:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;Об
+редакции:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;Об
 утверждении Основных положений
 государственной политики в области
 распределения, использования и защиты
 орбитально-частотного ресурса Российской
-Федерации&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
-абзац третий признать утратившим силу.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
+Федерации&quot;;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+абзац третий признать утратившим силу.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Подпункт 5.3.7 Положения о Федеральном
-агентстве связи, утвержденного&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-30.06.2004-N-320/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3><U>постановлением
+агентстве связи, утвержденного&nbsp;постановлением
 Правительства Российской Федерации от
-30 июня 2004 г. N 320</U></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;&quot;Об
-утверждении Положения о Федеральном
-агентстве связи&quot; (Собрание
-законодательства Российской Федерации,
-2004, N 27, ст. 2783; 2005, N 18, ст. 1682; 2007, N 24, ст.
-2923; N 41, ст. 4902; 2008, N 23, ст. 2706; N 42, ст. 4825; N
-46, ст. 5337; 2009, N 6, ст. 738; N 12, ст. 1435; 2010, N 26,
-ст. 3350; 2011, N 14, ст. 1935; 2013, N 45, ст. 5822), признать
-утратившим силу.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3.
+30 июня 2004 г. N 320&nbsp;&quot;Об утверждении
+Положения о Федеральном агентстве
+связи&quot; (Собрание законодательства
+Российской Федерации, 2004, N 27, ст. 2783;
+2005, N 18, ст. 1682; 2007, N 24, ст. 2923; N 41, ст. 4902;
+2008, N 23, ст. 2706; N 42, ст. 4825; N 46, ст. 5337; 2009, N
+6, ст. 738; N 12, ст. 1435; 2010, N 26, ст. 3350; 2011, N 14,
+ст. 1935; 2013, N 45, ст. 5822), признать утратившим
+силу.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Пункт 5 Положения о Государственной
 комиссии по радиочастотам,
-утвержденного&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-02.07.2004-N-336/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3><U>постановлением
+утвержденного&nbsp;постановлением
 Правительства Российской Федерации от
-2 июля 2004 г. N 336</U></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;&quot;Об
-утверждении Положения о Государственной
-комиссии по радиочастотам&quot; (Собрание
+2 июля 2004 г. N 336&nbsp;&quot;Об утверждении
+Положения о Государственной комиссии
+по радиочастотам&quot; (Собрание
 законодательства Российской Федерации,
 2004, N 28, ст. 2905; 2008, N 5, ст. 403), дополнить
-подпунктом &quot;х&quot; следующего содержания:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;х)
+подпунктом &quot;х&quot; следующего содержания:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;х)
 осуществление в установленном порядке
 работ по международно-правовой защите
 присвоения (назначения) радиочастот
-или радиочастотных каналов.&quot;.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>4.
+или радиочастотных каналов.&quot;.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Положение о Министерстве связи и массовых
 коммуникаций Российской Федерации,
-утвержденное&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-02.06.2008-N-418/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3><U>постановлением
+утвержденное&nbsp;постановлением
 Правительства Российской Федерации от
-2 июня 2008 г. N 418</U></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;&quot;О
-Министерстве связи и массовых коммуникаций
-Российской Федерации&quot; (Собрание
-законодательства Российской Федерации,
-2008, N 23, ст. 2708; N 42, ст. 4825; N 46, ст. 5337; 2009, N
-3, ст. 378; N 6, ст. 738; N 33, ст. 4088; 2010, N 13, ст.
-1502; N 26, ст. 3350; N 31, ст. 4251; 2011, N 3, ст. 542; N 14,
-ст. 1935; N 21, ст. 2965; N 44, ст. 6272; N 49, ст. 7283;
-2012, N 20, ст. 2540; N 39, ст. 5270; N 46, ст. 6347; 2013, N
-13, ст. 1568, 1569; N 33, ст. 4386; N 45, ст. 5822; 2014, N 30,
-ст. 4305; N 31, ст. 4414), дополнить подпунктом
-5.3.6 следующего содержания:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;5.3.6.
+2 июня 2008 г. N 418&nbsp;&quot;О Министерстве
+связи и массовых коммуникаций Российской
+Федерации&quot; (Собрание законодательства
+Российской Федерации, 2008, N 23, ст. 2708; N
+42, ст. 4825; N 46, ст. 5337; 2009, N 3, ст. 378; N 6, ст.
+738; N 33, ст. 4088; 2010, N 13, ст. 1502; N 26, ст. 3350; N
+31, ст. 4251; 2011, N 3, ст. 542; N 14, ст. 1935; N 21, ст.
+2965; N 44, ст. 6272; N 49, ст. 7283; 2012, N 20, ст. 2540; N
+39, ст. 5270; N 46, ст. 6347; 2013, N 13, ст. 1568, 1569; N 33,
+ст. 4386; N 45, ст. 5822; 2014, N 30, ст. 4305; N 31, ст.
+4414), дополнить подпунктом 5.3.6 следующего
+содержания:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;5.3.6.
 организацию работ по международно-правовой
 защите присвоения (назначения) радиочастот
 или радиочастотных каналов для
@@ -1877,61 +1901,60 @@ export default `
 администрациями связи иностранных
 государств или межправительственными
 спутниковыми организациями в установленной
-сфере деятельности;&quot;.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>5.
+сфере деятельности;&quot;.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
 Положение о Федеральной службе по
 надзору в сфере связи, информационных
 технологий и массовых коммуникаций,
-утвержденное&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-16.03.2009-N-228/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3><U>постановлением
+утвержденное&nbsp;постановлением
 Правительства Российской Федерации от
-16 марта 2009 г. N 228</U></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;&quot;О
-Федеральной службе по надзору в сфере
-связи, информационных технологий и
-массовых коммуникаций&quot; (Собрание
-законодательства Российской Федерации,
-2009, N 12, ст. 1431; 2010, N 13, ст. 1502; N 26, ст. 3350;
-2011, N 3, ст. 542; N 14, ст. 1935; N 21, ст. 2965; N 40, ст.
-5548; N 44, ст. 6272; 2012, N 20, ст. 2540; N 39, ст. 5270; N
-44, ст. 6043; 2013, N 45, ст. 5822), дополнить
-подпунктом 5.3.8 следующего содержания:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;5.3.8.
+16 марта 2009 г. N 228&nbsp;&quot;О Федеральной
+службе по надзору в сфере связи,
+информационных технологий и массовых
+коммуникаций&quot; (Собрание законодательства
+Российской Федерации, 2009, N 12, ст. 1431;
+2010, N 13, ст. 1502; N 26, ст. 3350; 2011, N 3, ст. 542; N 14,
+ст. 1935; N 21, ст. 2965; N 40, ст. 5548; N 44, ст. 6272;
+2012, N 20, ст. 2540; N 39, ст. 5270; N 44, ст. 6043; 2013, N
+45, ст. 5822), дополнить подпунктом 5.3.8
+следующего содержания:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;5.3.8.
 выполнение в установленном порядке
 работ по международно-правовой защите
 присвоения (назначения) радиочастот
-или радиочастотных каналов;&quot;.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>6.
+или радиочастотных каналов;&quot;.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 В Положении о радиочастотной службе,
-утвержденном&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-14.05.2014-N-434/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3><U>постановлением
+утвержденном&nbsp;постановлением
 Правительства Российской Федерации от
-14 мая 2014 г. N 434</U></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;&quot;О
-радиочастотной службе&quot; (Собрание
-законодательства Российской Федерации,
-2014, N 20, ст. 2542):</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+14 мая 2014 г. N 434&nbsp;&quot;О радиочастотной
+службе&quot; (Собрание законодательства
+Российской Федерации, 2014, N 20, ст. 2542):</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 подпункт &quot;д&quot; пункта 5 изложить в
-следующей редакции:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;д)
+следующей редакции:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;д)
 выполнение в установленном порядке
 работ по международно-правовой защите
 присвоения (назначения) радиочастот
-или радиочастотных каналов;&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+или радиочастотных каналов;&quot;;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 абзац второй подпункта &quot;г&quot; пункта
-7 изложить в следующей редакции:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;в
+7 изложить в следующей редакции:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;в
 выполнении работ по обеспечению
 проведения переговоров администрации
 связи Российской Федерации по координации
 радиочастот и радиочастотных каналов
-для радиоэлектронных средств;&quot;.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.11in; line-height: 107%"><BR><BR>
+для радиоэлектронных средств;&quot;.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0.11in; line-height: 150%"><BR><BR>
 </P>
 </BODY>
 </HTML>`

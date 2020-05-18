@@ -1,6 +1,6 @@
 /*eslint-disable*/
 export default `
-< !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
@@ -8,9 +8,9 @@ export default `
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
 	<META NAME="CREATED" CONTENT="20200430;160000000000000">
-	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
-	<META NAME="CHANGED" CONTENT="20200430;160000000000000">
-	<META NAME="AppVersion" CONTENT="14.0000">
+	<META NAME="CHANGEDBY" CONTENT="Учетная запись Майкрософт">
+	<META NAME="CHANGED" CONTENT="20200518;114700000000000">
+	<META NAME="AppVersion" CONTENT="15.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
 	<META NAME="LinksUpToDate" CONTENT="false">
@@ -25,32 +25,35 @@ export default `
 	</STYLE>
 </HEAD>
 <BODY LANG="ru-RU" LINK="#0000ff" DIR="LTR">
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>МИНИСТЕРСТВО
-СВЯЗИ И МАССОВЫХ КОММУНИКАЦИЙ<BR>РОССИЙСКОЙ
-ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ПРИКАЗ<BR>от
-1 декабря 2016 г. N 607</B></FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ОБ
-УТВЕРЖДЕНИИ ПРАВИЛ<BR>ОПРЕДЕЛЕНИЯ МЕСТА
-НАХОЖДЕНИЯ ПОЛЬЗОВАТЕЛЬСКОГО
-ОБОРУДОВАНИЯ<BR>(ОКОНЕЧНОГО ОБОРУДОВАНИЯ),
-С КОТОРОГО БЫЛИ ОСУЩЕСТВЛЕНЫ<BR>ВЫЗОВ
-ИЛИ ПЕРЕДАЧА СООБЩЕНИЯ О ПРОИСШЕСТВИИ
-ПО ЕДИНОМУ<BR>НОМЕРУ ВЫЗОВА ЭКСТРЕННЫХ
-ОПЕРАТИВНЫХ СЛУЖБ &quot;112&quot;, И
-ПОРЯДКА<BR>ПРЕДОСТАВЛЕНИЯ И ОБЪЕМА
-ИНФОРМАЦИИ, НЕОБХОДИМОЙ<BR>ДЛЯ ОБЕСПЕЧЕНИЯ
-РЕАГИРОВАНИЯ ПО ВЫЗОВУ ИЛИ СООБЩЕНИЮ<BR>О
-ПРОИСШЕСТВИИ ПО ЕДИНОМУ НОМЕРУ ВЫЗОВА
-ЭКСТРЕННЫХ<BR>ОПЕРАТИВНЫХ СЛУЖБ &quot;112&quot;</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">В
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Министерство
+Связи И Массовых Коммуникаций<BR>Российской
+Федерации</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%"><A NAME="_GoBack"></A>
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Приказ<BR>От
+1 Декабря 2016 Г. N 607</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Об
+Утверждении Правил<BR>Определения Места
+Нахождения Пользовательского
+Оборудования<BR>(Оконечного Оборудования),
+С Которого Были Осуществлены<BR>Вызов
+Или Передача Сообщения О Происшествии
+По Единому<BR>Номеру Вызова Экстренных
+Оперативных Служб &quot;112&quot;, И
+Порядка<BR>Предоставления И Объема
+Информации, Необходимой<BR>Для Обеспечения
+Реагирования По Вызову Или Сообщению<BR>О
+Происшествии По Единому Номеру Вызова
+Экстренных<BR>Оперативных Служб &quot;112&quot;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 соответствии с пунктом 1 статьи 52
-Федерального&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><SPAN STYLE="text-decoration: none">закона
-от 7 июля 2003 г. N 126-ФЗ</SPAN></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif">&nbsp;&quot;О
+Федерального&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN STYLE="text-decoration: none">закона
+от 7 июля 2003 г. N 126-ФЗ</SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&nbsp;&quot;О
 связи&quot; (Собрание законодательства
 Российской Федерации, 2003, N 28, ст. 2895; N
 52, ст. 5038; 2004, N 35, ст. 3607; N 45, ст. 4377; 2005, N 19,
@@ -68,73 +71,83 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 30, ст. 4229, ст. 4273; N 49, ст. 6928; 2015, N 29, ст. 4342,
 ст. 4383, ст. 4389; 2016, N 10, ст. 1316; ст. 1318; N 15, ст.
 2066; N 18; ст. 2498; N 26, ст. 3873; N 27, ст. 4213, ст.
-4221; N 28, ст. 4558) приказываю:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1.
+4221; N 28, ст. 4558) приказываю:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Утвердить прилагаемые Правила определения
 места нахождения пользовательского
 оборудования (оконечного оборудования),
 с которого были осуществлены вызов или
 передача сообщения о происшествии по
 единому номеру вызова экстренных
-оперативных служб &quot;112&quot;.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2.
+оперативных служб &quot;112&quot;.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Утвердить прилагаемый Порядок
 предоставления и объем информации,
 необходимой для обеспечения реагирования
 по вызову или сообщению о происшествии
 по единому номеру вызова экстренных
-оперативных служб &quot;112&quot;.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">3.
+оперативных служб &quot;112&quot;.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Настоящий приказ вступает в силу с 1 мая
-2017 года.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">4.
+2017 года.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Направить настоящий приказ на
 государственную регистрацию в Министерство
-юстиции Российской Федерации.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Министр<BR>Н.А.НИКИФОРОВ</FONT></FONT></FONT></FONT></P>
-<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Утверждены<BR>приказом
+юстиции Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Министр<BR>Н.А.НИКИФОРОВ</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утверждены<BR>приказом
 Министерства связи<BR>и массовых
 коммуникаций<BR>Российской Федерации<BR>от
-01.12.2016 N 607</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ПРАВИЛА<BR>ОПРЕДЕЛЕНИЯ
-МЕСТА НАХОЖДЕНИЯ ПОЛЬЗОВАТЕЛЬСКОГО
-ОБОРУДОВАНИЯ<BR>(ОКОНЕЧНОГО ОБОРУДОВАНИЯ),
-С КОТОРОГО БЫЛИ ОСУЩЕСТВЛЕНЫ<BR>ВЫЗОВ
-ИЛИ ПЕРЕДАЧА СООБЩЕНИЯ О ПРОИСШЕСТВИИ
-ПО ЕДИНОМУ<BR>НОМЕРУ ВЫЗОВА ЭКСТРЕННЫХ
-ОПЕРАТИВНЫХ СЛУЖБ &quot;112&quot;</B></FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>I.
+01.12.2016 N 607</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ПРАВИЛА
+ОПРЕДЕЛЕНИЯ МЕСТА НАХОЖДЕНИЯ
+ПОЛЬЗОВАТЕЛЬСКОГО ОБОРУДОВАНИЯ
+(ОКОНЕЧНОГО ОБОРУДОВАНИЯ), С КОТОРОГО
+БЫЛИ ОСУЩЕСТВЛЕНЫ ВЫЗОВ ИЛИ ПЕРЕДАЧА
+СООБЩЕНИЯ О ПРОИСШЕСТВИИ ПО ЕДИНОМУ
+НОМЕРУ ВЫЗОВА ЭКСТРЕННЫХ ОПЕРАТИВНЫХ
+СЛУЖБ &quot;112&quot;</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>I.
 Идентификация пользовательского
-оборудования<BR>(оконечного оборудования),
-с которого были осуществлены<BR>вызов
-или передача сообщения о происшествии
-по единому<BR>номеру вызова экстренных
-оперативных служб &quot;112&quot;</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1.
+оборудования (оконечного оборудования),
+с которого были осуществлены вызов или
+передача сообщения о происшествии по
+единому номеру вызова экстренных
+оперативных служб &quot;112&quot;</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Пользовательское оборудование (оконечное
 оборудование), с которого были осуществлены
 вызов или передача короткого текстового
 сообщения о происшествии посредством
 набора единого номера вызова экстренных
 оперативных служб &quot;112&quot; (далее -
-единый номер &quot;112&quot;), определяется:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">по
+единый номер &quot;112&quot;), определяется:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">по
 номеру вызывающего абонента, который
 был выделен ему оператором связи при
 заключении договора об оказании услуг
-связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">либо
+связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">либо
 по номеру вызывающего абонента,
 полученному оператором связи,
 обеспечивающим доступ к своей сети без
@@ -143,32 +156,32 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 сети), от оператора связи, который
 заключил договор об оказании услуг
 связи с вызывающим абонентом (далее -
-оператор домашней сети);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">либо
+оператор домашней сети);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">либо
 по номеру вызывающего абонента,
 сохраненному при перенесении абонентского
-номера;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">либо
+номера;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">либо
 по номеру, технически закрепленному за
 пользовательским оборудованием
 (оконечным оборудованием), включая
 таксофоны и оконечное оборудование
 систем экстренной связи, функционирующее
 в сети связи общего пользования (далее
-- ССОП).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2.
+- ССОП).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Техническое закрепление абонентского
 номера за абонентской станцией сети
 подвижной радиотелефонной связи либо
 подвижной спутниковой радиосвязи
 производится посредством установки в
 абонентское устройство идентификационного
-модуля.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">3.
+модуля.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Техническое закрепление абонентского
 номера за пользовательским оборудованием
 (оконечным оборудованием) сети
@@ -178,9 +191,9 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 телефонного узла связи либо посредством
 автоматической идентификации
 пользовательского оборудования
-(оконечного оборудования).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Процедуры
+(оконечного оборудования).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Процедуры
 автоматической идентификации абонентского
 устройства применяются в том числе в
 сетях фиксированного доступа, построенных
@@ -190,9 +203,9 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 оборудования пользователя (защиту сети
 от несанкционированного переноса
 оборудования пользователя) обеспечивается
-оператором связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">4.
+оператором связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Номер вызывающего абонента передается
 в центр обработки вызовов системы
 обеспечения вызова экстренных оперативных
@@ -201,18 +214,18 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 и/или абонентской телефонной сигнализации
 по протоколам информационного обмена
 при инициации вызова или отправке
-короткого текстового сообщения.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">5.
+короткого текстового сообщения.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
 Предоставление в систему обеспечения
 вызова экстренных оперативных служб
 по единому номеру &quot;112&quot; (далее -
 Система-112) информации о номере вызывающего
 абонента и информации о месте нахождения
 пользовательского оборудования
-(оконечного оборудования) осуществляется:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">для
+(оконечного оборудования) осуществляется:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 вызовов, инициированных в сетях
 фиксированной телефонной связи ССОП
 на территории субъекта Российской
@@ -221,9 +234,9 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 входит абонентский номер пользовательского
 оборудования (оконечного оборудования),
 посредством которого был инициирован
-вызов;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">для
+вызов;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 вызовов и коротких текстовых сообщений,
 инициированных в сетях подвижной
 радиотелефонной связи и подвижной
@@ -231,9 +244,9 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 Российской Федерации, оператором сети
 подвижной радиотелефонной связи, который
 обеспечил доступ к своей сети пользователя
-(далее - обслуживающая сеть);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">для
+(далее - обслуживающая сеть);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 вызовов, инициированных в сетях подвижной
 спутниковой радиосвязи на территории
 Российской Федерации, оператором связи,
@@ -241,9 +254,9 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 территории Российской Федерации,
 обеспечивающую организацию взаимодействия
 сети подвижной спутниковой радиосвязи
-с ССОП.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">6.
+с ССОП.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 Для вызовов на единый номер &quot;112&quot;,
 инициированных при отсутствии регистрации
 абонентской станции в обслуживающей
@@ -255,30 +268,30 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 предназначенного для данной лицензионной
 зоны, при наличии технической возможности.
 Номер передается по сетям связи в формате
-национального (значащего) номера.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">7.
+национального (значащего) номера.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
 Положения пункта 6 настоящих Правил
 также применимы в следующих случаях
 вызова по единому номеру &quot;112&quot; при
 отсутствии регистрации абонентской
-станции в обслуживающей сети:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">абонентом
+станции в обслуживающей сети:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">абонентом
 иной сети связи при отсутствии роумингового
 соглашения между обслуживающим оператором
 связи обслуживающей сети и оператором
 связи, с которым такой абонент заключил
-договор;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">абонентом
+договор;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">абонентом
 сети связи иностранного государства,
 в отношении которого установлено
 ограничение на пользование услугами
 связи, оказываемыми операторами связи
-на территории Российской Федерации.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">8.
+на территории Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
 Для вызовов, инициированных в выделенных
 и технологических сетях связи,
 присоединенных к ССОП (включая
@@ -291,9 +304,9 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 в телекоммуникационной подсистеме
 Системы-112 субъекта Российской Федерации
 осуществляется оператором выделенной
-либо технологической сети связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">9.
+либо технологической сети связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
 Для вызова, инициированного с
 пользовательского оборудования
 (оконечного оборудования) выделенных
@@ -301,9 +314,9 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 за которым закреплен абонентский номер
 ССОП, идентификация пользовательского
 оборудования (оконечного оборудования)
-производится по абонентскому номеру.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">10.
+производится по абонентскому номеру.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.
 Для вызова, инициированного с
 пользовательского оборудования
 (оконечного оборудования) в выделенных
@@ -354,26 +367,26 @@ N 142 (зарегистрирован в Министерстве
 сети связи, передается в качестве
 дополнительного номера вызывающего
 абонента совместно с групповым или
-серийным номером.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>II.
-Источники информации о месте
-нахождения<BR>пользовательского
-оборудования (оконечного оборудования),<BR>с
-которого были осуществлены вызов или
-передача сообщения<BR>о происшествии по
-единому номеру вызова экстренных<BR>оперативных
-служб &quot;112&quot;</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">11.
+серийным номером.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>II.
+Источники информации о месте нахождения
+пользовательского оборудования
+(оконечного оборудования), с которого
+были осуществлены вызов или передача
+сообщения о происшествии по единому
+номеру вызова экстренных оперативных
+служб &quot;112&quot;</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
 Определение места нахождения
 пользовательского оборудования
 (оконечного оборудования) производится
 информационными системами и
 инфраструктурными элементами сетей
-связи оператора обслуживающей сети.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">12.
+связи оператора обслуживающей сети.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
 Определение места нахождения абонентской
 станции абонента, который воспользовался
 услугами сети подвижной радиотелефонной
@@ -381,9 +394,9 @@ N 142 (зарегистрирован в Министерстве
 у абонента договор не заключен (роуминг),
 производится информационными системами
 и инфраструктурными элементами оператора
-гостевой сети.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">13.
+гостевой сети.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.
 Определение обслуживающей сети для
 абонентской станции производится
 техническими средствами обработки
@@ -393,9 +406,9 @@ N 142 (зарегистрирован в Министерстве
 или ЦОВ-112 по унифицированному номеру,
 однозначно идентифицирующему обслуживающую
 сеть связи (далее - идентификатор
-обслуживающей сети).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">14.
+обслуживающей сети).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14.
 Если идентификатор обслуживающей сети,
 переданный в ЦОВ-112, некорректен или не
 был передан в ЦОВ-112 обслуживающей сетью
@@ -407,34 +420,34 @@ N 142 (зарегистрирован в Министерстве
 и плана нумерации с официального сайта
 Федерального агентства связи с проверкой
 по базе данных перенесенных абонентских
-номеров.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">15.
+номеров.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">15.
 В случае роуминга определение обслуживающей
-сети может быть произведено:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">по
+сети может быть произведено:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">по
 идентификатору обслуживающей сети,
 поступившему в сообщении телефонной
-сигнализации при установлении соединения;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">по
+сигнализации при установлении соединения;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">по
 признаку, включенному в номер вызываемого
 абонента посредством адресной манипуляции
 номера вызываемого абонента исходящей
 или транзитной системой коммутации при
 установлении соединения при наличии
-технической возможности;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в
+технической возможности;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 соответствии с актуальными конфигурационными
 данными ТСМН или ЦОВ-112 на основе сведений
 о роуминговых соглашениях операторов
 связи для данного субъекта Российской
 Федерации при наличии технической
-возможности.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">16.
+возможности.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">16.
 В случае, если обслуживающая сеть не
 может быть однозначно идентифицирована
 перечисленными способами, ТСМН или
@@ -445,9 +458,9 @@ N 142 (зарегистрирован в Министерстве
 радиосети доступа на территории субъекта
 Российской Федерации, в Систему-112
 которого поступил вызов или короткое
-текстовое сообщение.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">17.
+текстовое сообщение.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">17.
 Определение места нахождения абонентской
 станции, которая не прошла регистрацию
 в сети оператора связи, производится
@@ -457,27 +470,33 @@ N 142 (зарегистрирован в Министерстве
 определения места нахождения и при
 условии, что эта информация будет
 передана в сообщениях сигнализации при
-установлении телефонного соединения.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Утвержден<BR>приказом
+установлении телефонного соединения.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утвержден<BR>приказом
 Министерства связи<BR>и массовых
 коммуникаций<BR>Российской Федерации<BR>от
-01.12.2016 N 607</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ПОРЯДОК<BR>ПРЕДОСТАВЛЕНИЯ
-И ОБЪЕМ ИНФОРМАЦИИ, НЕОБХОДИМОЙ<BR>ДЛЯ
-ОБЕСПЕЧЕНИЯ РЕАГИРОВАНИЯ ПО ВЫЗОВУ ИЛИ
-СООБЩЕНИЮ<BR>О ПРОИСШЕСТВИИ ПО ЕДИНОМУ
-НОМЕРУ ВЫЗОВА ЭКСТРЕННЫХ<BR>ОПЕРАТИВНЫХ
-СЛУЖБ &quot;112&quot;</B></FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>I.
+01.12.2016 N 607</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ПОРЯДОК
+ПРЕДОСТАВЛЕНИЯ И ОБЪЕМ ИНФОРМАЦИИ,
+НЕОБХОДИМОЙ<BR>ДЛЯ ОБЕСПЕЧЕНИЯ РЕАГИРОВАНИЯ
+ПО ВЫЗОВУ ИЛИ СООБЩЕНИЮ<BR>О ПРОИСШЕСТВИИ
+ПО ЕДИНОМУ НОМЕРУ ВЫЗОВА ЭКСТРЕННЫХ<BR>ОПЕРАТИВНЫХ
+СЛУЖБ &quot;112&quot;</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>I.
 Состав информации о месте нахождения
-пользовательского<BR>оборудования
-(оконечного оборудования), подключенного<BR>к
-сети фиксированной телефонной связи</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1.
+пользовательского оборудования
+(оконечного оборудования), подключенного
+к сети фиксированной телефонной связи</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Информация о месте нахождения
 пользовательского оборудования
 (оконечного оборудования), подключенного
@@ -490,9 +509,9 @@ N 142 (зарегистрирован в Министерстве
 в геодезическую координату выполняется
 системой обеспечения вызова экстренных
 оперативных служб по единому номеру
-&quot;112&quot; (далее - Система-112).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2.
+&quot;112&quot; (далее - Система-112).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Адрес места установки пользовательского
 оборудования (оконечного оборудования),
 с которого был осуществлен вызов или
@@ -502,18 +521,18 @@ N 142 (зарегистрирован в Министерстве
 определяется оператором связи на
 основании заключенного с абонентом
 договора об оказании услуг телефонной
-связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Допускается
+связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Допускается
 определение адреса места установки
 пользовательского оборудования
 (оконечного оборудования), находящегося
 в ведении оператора связи (переговорные
 пункты, таксофоны, в том числе универсального
 обслуживания), на основании данных
-оператора связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">3.
+оператора связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Оператор связи, с которым у абонента
 заключен договор об оказании услуг
 связи и который обеспечивает доступ
@@ -524,9 +543,9 @@ N 142 (зарегистрирован в Министерстве
 пользовательского оборудования
 (оконечного оборудования) на основе
 данных, содержащихся в договоре об
-оказании услуг связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">4.
+оказании услуг связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Адрес установки пользовательского
 оборудования (оконечного оборудования)
 предоставляется оператором связи в
@@ -534,9 +553,9 @@ N 142 (зарегистрирован в Министерстве
 информационной адресной системы (ФИАС)
 в составе следующих обязательных
 атрибутов: код улицы; код дома; уточняющий
-комментарий к адресу (при наличии).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">5.
+комментарий к адресу (при наличии).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
 Допускается в сетях фиксированной
 телефонной связи, построенных в концепции
 All-over-IP в архитектуре IMS и/или ЕРС и
@@ -553,91 +572,90 @@ VoIP сетях фиксированного радиодоступа
 (оконечного оборудования), подключенного
 к сети фиксированной телефонной связи,
 в виде двумерной геодезической координаты
-с указанием точности места нахождения.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>II.
-Состав информации о месте
-нахождения<BR>абонентской станции,
-подключенной к сети подвижной<BR>радиотелефонной
-связи</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">6.
+с указанием точности места нахождения.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>II.
+Состав информации о месте нахождения
+абонентской станции, подключенной к
+сети подвижной радиотелефонной связи</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 Информация о месте нахождения абонентской
 станции, подключенной к сети подвижной
 радиотелефонной связи, определяется в
-форме:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">двумерной
+форме:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">двумерной
 геодезической координаты абонентской
 станции с указанием точности места
-нахождения;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">унифицированного
+нахождения;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">унифицированного
 номера, однозначно определяющего сеть
 оператора подвижной радиотелефонной
 связи, который обеспечил доступ к своей
 сети пользователя (далее - идентификатор
 обслуживающей сети и обслуживающая
-сеть соответственно).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">7.
+сеть соответственно).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
 Геодезическая координата абонентской
 станции предоставляется в формате,
 обеспечивающем однозначное определение
 ее места нахождения с указанной точностью
-на территории Российской Федерации.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">8.
+на территории Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
 Идентификатор обслуживающей сети
 предоставляется в виде, обеспечивающем
 уникальную идентификацию оператора
 обслуживающей сети подвижной
 радиотелефонной связи на территории
-Российской Федерации.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>III.
+Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>III.
 Состав дополнительной информации,
-необходимой<BR>для обеспечения реагирования
-по вызову или поступившему<BR>сообщению
+необходимой для обеспечения реагирования
+по вызову или поступившему сообщению
 о происшествии по единому номеру
 вызова<BR>экстренных оперативных служб
-&quot;112&quot;</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">9.
+&quot;112&quot;</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
 Состав дополнительной информации,
 необходимой для обеспечения реагирования
 по вызову или сообщению о происшествии
 по единому номеру &quot;112&quot; (далее -
 дополнительная информация), предоставляемой
 оператором связи в Систему-112, при
-обращении абонента-гражданина:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">фамилия,
-имя, отчество (при наличии) абонента;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">адрес
+обращении абонента-гражданина:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">фамилия,
+имя, отчество (при наличии) абонента;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">адрес
 регистрации по месту жительства абонента
 (при наличии данной информации у оператора
-связи);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">год
+связи);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">год
 рождения абонента (при наличии данной
-информации у оператора связи).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">10.
+информации у оператора связи).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.
 Состав дополнительной информации,
 предоставляемой оператором связи в
 Систему-112, при обращении абонента -
-юридического лица:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">наименование
-(фирменное наименование) абонента;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">адрес
+юридического лица:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">наименование
+(фирменное наименование) абонента;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">адрес
 места нахождения или адрес фактического
-нахождения абонента.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">11.
+нахождения абонента.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
 Оператор связи, с которым у абонента
 заключен договор об оказании услуг
 связи, предоставляет дополнительную
@@ -650,23 +668,23 @@ VoIP сетях фиксированного радиодоступа
 информационных системах операторов
 связи не может быть более десяти дней
 с даты предоставления обновленных
-данных абонентом оператору связи.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>IV.
+данных абонентом оператору связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>IV.
 Обеспечение защиты информации,
-предоставляемой<BR>операторами связи в
-Систему-112</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">12.
+предоставляемой операторами связи в
+Систему-112</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
 Оператор связи не должен получать
 согласие пользователя услугами связи,
 осуществившего вызов или передачу
 сообщения о происшествии по единому
 номеру &quot;112&quot;, на обработку и
 предоставление его персональных данных
-в Систему-112.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">13.
+в Систему-112.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.
 Операторы связи должны обеспечить
 защиту сетей связи и передаваемой
 посредством этих сетей связи информации
@@ -677,9 +695,9 @@ VoIP сетях фиксированного радиодоступа
 протокола телефонной сигнализации по
 установлению телефонного соединения
 дополнительные меры защиты информации
-не требуются.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">14.
+не требуются.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14.
 Защита информации, предоставляемой
 операторами связи в центр обработки
 вызовов Системы-112 (далее - ЦОВ-112), в
@@ -698,9 +716,9 @@ VoIP сетях фиксированного радиодоступа
 система класса К1 с разграничением прав
 доступа с доступом к сети связи общего
 пользования и в соответствии
-с&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-01.11.2012-N-1119/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><SPAN STYLE="text-decoration: none">постановлением
+с&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-01.11.2012-N-1119/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN STYLE="text-decoration: none">постановлением
 Правительства Российской Федерации от
-1 ноября 2012 г. N 1119</SPAN></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif">&nbsp;&quot;Об
+1 ноября 2012 г. N 1119</SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&nbsp;&quot;Об
 утверждении требований к защите
 персональных данных при их обработке
 в информационных системах персональных
@@ -722,17 +740,17 @@ VoIP сетях фиксированного радиодоступа
 при взаимодействии Системы-112 с
 информационными системами операторов
 связи, должны обеспечивать криптографическую
-защиту по уровню не ниже уровня КС3.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">15.
+защиту по уровню не ниже уровня КС3.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">15.
 Оператор связи при передаче в Систему-112
 сведений об абонентах, ставших известными
 ему в силу исполнения договора об
 оказании услуг связи, должен обеспечивать
 их защиту в соответствии с законодательством
-Российской Федерации.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">16.
+Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">16.
 Контролируемые зоны (системы защиты
 информации) информационной системы
 оператора связи и Системы-112 разделены.
@@ -741,9 +759,9 @@ VoIP сетях фиксированного радиодоступа
 посредством физически защищенной линии
 связи, располагаемой в защищенном
 помещении (стойке), территориально в
-пределах одной из контролируемых зон.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">17.
+пределах одной из контролируемых зон.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">17.
 Для передачи информации в ЦОВ-112 оператором
 связи формируется и эксплуатируется
 VPN. Оператор связи извещает эксплуатирующую
@@ -755,9 +773,9 @@ VPN. Оператор связи извещает эксплуатирующую
 оборудования в составе ЦОВ-112 - предоставляет
 это оборудование на иных условиях в
 соответствии с законодательством
-Российской Федерации.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">18.
+Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">18.
 Оператор связи извещает эксплуатирующую
 организацию Системы-112 субъекта Российской
 Федерации о данных сертификата
@@ -765,9 +783,9 @@ VPN. Оператор связи извещает эксплуатирующую
 Организация Системы-112 субъекта Российской
 Федерации извещает оператора связи о
 данных сертификата безопасности клиента
-HTTPS.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">19.
+HTTPS.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">19.
 При применении технических средств
 обработки информации о месте нахождения
 пользовательского оборудования (далее
@@ -780,18 +798,18 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 раздельно организуется защищенное
 информационное взаимодействие ТСМН с
 информационной системой оператора
-связи и ТСМН с Системой-112.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>V.
+связи и ТСМН с Системой-112.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>V.
 Порядок предоставления информации о
-месте нахождения<BR>пользовательского
-оборудования (оконечного оборудования),<BR>с
-которого был осуществлен вызов или
-передача сообщения<BR>о происшествии по
+месте нахождения пользовательского
+оборудования (оконечного оборудования),
+с которого был осуществлен вызов или
+передача сообщения о происшествии по
 единому номеру вызова экстренных<BR>оперативных
-служб &quot;112&quot;</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">20.
+служб &quot;112&quot;</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">20.
 Оператор подвижной радиотелефонной
 связи предоставляет в ЦОВ-112 информацию
 о текущем фактическом месте нахождения
@@ -801,39 +819,39 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 экстренных оперативных служб &quot;112&quot;,
 определяемую на момент обработки
 внешнего или внутреннего запроса в
-информационной системе оператора связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">21.
+информационной системе оператора связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">21.
 Оператор подвижной радиотелефонной
 связи предоставляет в ЦОВ-112 идентификатор
 обслуживающей сети на момент инициации
 телефонного вызова по единому номеру
-&quot;112&quot;.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">22.
+&quot;112&quot;.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">22.
 Оператор сети фиксированной телефонной
 связи предоставляет в ЦОВ-112 информацию
 о месте нахождения пользовательского
 оборудования (оконечного оборудования)
 в форме адреса установки пользовательского
-оборудования (оконечного оборудования).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">23.
+оборудования (оконечного оборудования).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">23.
 Оператор связи, обеспечивающий доступ
 к своей сети абоненту, с которым заключен
 абонентский договор об оказании услуг
 связи (далее - оператор домашней сети)
 предоставляет в ЦОВ-112 дополнительную
 информацию в соответствии с пунктами
-9 и 10 настоящего Порядка.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">24.
+9 и 10 настоящего Порядка.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">24.
 Место нахождения абонентской станции
 определяется информационной системой
 оператора связи с точностью, технологически
-доступной оператору связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">25.
+доступной оператору связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">25.
 Для приведения информации о месте
 нахождения пользовательского оборудования
 (оконечного оборудования) и дополнительной
@@ -842,9 +860,9 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 с базой данных перенесенных номеров
 допускается использование операторами
 связи внешних по отношению к информационным
-системам оператора ТСМН.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">26.
+системам оператора ТСМН.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">26.
 Обеспечение автоматического контроля
 интервала времени доступности информации
 и блокировку возможности запроса на
@@ -852,9 +870,9 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 завершении оперативного реагирования
 (после закрытия карточки информационного
 обмена в Системе-112) осуществляется
-эксплуатирующей организацией Системы-112.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">27.
+эксплуатирующей организацией Системы-112.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">27.
 Оператором связи обеспечивается
 доступность информации о месте нахождения
 пользовательского оборудования
@@ -866,64 +884,64 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 времени доступности информации,
 предоставляемой по дополнительному
 запросу от ЦОВ-112, осуществляется
-оператором связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">28.
+оператором связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">28.
 Передача информации о месте нахождения
 пользовательского оборудования
 (оконечного оборудования) при установлении
 телефонного соединения может осуществляться
 по запросу от ЦОВ-112 (далее - метод &quot;pull&quot;)
 или посредством инициативной передачи
-информации (далее - метод &quot;push&quot;).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">29.
+информации (далее - метод &quot;push&quot;).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">29.
 Передача дополнительной информации,
 необходимой для обеспечения реагирования,
 осуществляется информационной системой
 оператора домашней сети по запросу от
-ЦОВ-112 (метод &quot;pull&quot;).</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>VI.
+ЦОВ-112 (метод &quot;pull&quot;).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>VI.
 Порядок передачи информации о месте
-нахождения<BR>пользовательского
-оборудования (оконечного оборудования)<BR>при
-использовании метода передачи
-информации<BR>по запросу от ЦОВ-112</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">30.
+нахождения пользовательского оборудования
+(оконечного оборудования) при использовании
+метода передачи информации по запросу
+от ЦОВ-112</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">30.
 Метод передачи оператором связи
 обслуживающей сети информации о месте
 нахождения пользовательского оборудования
 (оконечного оборудования) по запросу
 от ЦОВ-112 (далее - метод &quot;pull&quot;) является
-базовым.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">31.
+базовым.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">31.
 Информация о месте нахождения
 пользовательского оборудования
 (оконечного оборудования) при установлении
 телефонного соединения запрашивается
 из информационной системы оператора
 связи обслуживающей сети посредством
-ТСМН либо ЦОВ-112 в автоматическом режиме.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">32.
+ТСМН либо ЦОВ-112 в автоматическом режиме.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">32.
 Дополнительная информация, необходимая
 для обеспечения реагирования, запрашивается
 из информационной системы оператора
 обслуживающей сети посредством ТСМН
 либо ЦОВ-112 в автоматизированном режиме
-методом &quot;pull&quot;.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">33.
+методом &quot;pull&quot;.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">33.
 Метод &quot;pull&quot; применяется при
 установлении телефонного соединения
 и при запросе дополнительной информации,
 необходимой для обеспечения вызова
-(передачи сообщения).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">34.
+(передачи сообщения).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">34.
 Метод &quot;pull&quot; используется в любой
 фазе организации реагирования на
 обращение пользователя: от инициации
@@ -939,25 +957,25 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 передачи сообщений протокола
 информационного обмена, используемого
 для доставки короткого текстового
-сообщения.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">35.
+сообщения.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">35.
 Допускается использование единого
 физического канала для передачи
 информации о месте нахождения и
 дополнительной информации при
 взаимодействии ТСМН либо ЦОВ-112 с
 информационной системой каждого из
-операторов связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">36.
+операторов связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">36.
 Допускается использование единого
 физического канала для передачи
 информации о месте нахождения и
 дополнительной информации при
-взаимодействии ТСМН с ЦОВ-112.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">37.
+взаимодействии ТСМН с ЦОВ-112.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">37.
 Время формирования ответа от информационной
 системы оператора связи на запрос от
 ТСМН или ЦОВ-112 при первичном предоставлении
@@ -965,9 +983,9 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 месте нахождения абонентской станции,
 с которой было отправлено короткое
 текстовое сообщение на номер &quot;112&quot;,
-не должно превышать 10 секунд.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">38.
+не должно превышать 10 секунд.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">38.
 Время формирования ответа от информационной
 системы оператора домашней сети на
 запрос от ТСМН или ЦОВ-112 по предоставлению
@@ -981,33 +999,32 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 ТСМН или ЦОВ-112 формируется ответ об
 отказе в предоставлении такой информации,
 при этом время формирования такого
-ответа не должно превышать 10 секунд.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>VII.
+ответа не должно превышать 10 секунд.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>VII.
 Порядок передачи информации о месте
-нахождения<BR>пользовательского
-оборудования (оконечного оборудования)<BR>при
-установлении телефонного соединения
-при использовании<BR>метода инициативной
-передачи информации</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">39.
+нахождения пользовательского оборудования
+(оконечного оборудования) при установлении
+телефонного соединения при использовании
+метода инициативной передачи информации</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">39.
 При использовании метода инициативной
 передачи информации о месте нахождения
 (далее - метод &quot;push&quot;) информация от
 информационных систем оператора связи
 передается в ЦОВ-112 автоматически, по
 факту инициации вызова, адресованного
-на номер &quot;112&quot;.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">40.
+на номер &quot;112&quot;.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">40.
 Метод &quot;push&quot; является базовым для
 передачи идентификатора обслуживающей
 сети при установлении телефонного
 соединения пользователя подвижной
-радиотелефонной связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">41.
+радиотелефонной связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">41.
 Для обеспечения взаимосвязанной
 обработки телефонного вызова от
 пользователя сети подвижной радиотелефонной
@@ -1017,9 +1034,9 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 нахождения в первом сообщении протокола
 сигнализации SIP по установлению
 телефонного соединения либо доставке
-короткого текстового сообщения.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">42.
+короткого текстового сообщения.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">42.
 В первое сообщение по установлению
 телефонного соединения от пользователя
 сети подвижной радиотелефонной связи,
@@ -1028,9 +1045,9 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 обслуживающей сети, передаваемая
 согласованными способами в зависимости
 от типа используемой системы межстанционной
-телефонной сигнализации.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">43.
+телефонной сигнализации.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">43.
 Допускается применение метода &quot;push&quot;
 на участке от узла обслуживания вызовов
 экстренных оперативных служб (далее -
@@ -1039,9 +1056,9 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 нахождения пользовательского оборудования
 (оконечного оборудования) в Систему-112
 в случае использования конструктивно
-обособленных ТСМН.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">При
+обособленных ТСМН.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">При
 использовании метода &quot;push&quot; на участке
 от УОВЭОС до ЦОВ-112 для передачи информации
 о месте нахождения (месте установки)
@@ -1052,34 +1069,34 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 дополнительная задержка инициации
 установления соединения в исходящем
 направлении от УОВЭОС к ЦОВ-112 не превышает
-трех секунд.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Если
+трех секунд.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Если
 в течение трех секунд информация о месте
 нахождения (месте установки)
 пользовательского оборудования
 (оконечного оборудования) не была
 получена УОВЭОС от ТСМН, УОВЭОС продолжает
 установление соединения в исходящем
-направлении к ЦОВ-112.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">При
+направлении к ЦОВ-112.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">При
 этом информация о месте нахождения
 (месте установки) пользовательского
 оборудования (оконечного оборудования)
 будет получена методом &quot;pull&quot; по
 автоматизированному запросу,
 инициированному оборудованием либо
-операторским персоналом Системы-112.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>VIII.
+операторским персоналом Системы-112.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>VIII.
 Порядок передачи информации о месте
-нахождения<BR>пользовательского
-оборудования (оконечного оборудования)<BR>при
-маршрутизации коротких текстовых<BR>сообщений
-в Систему-112</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">44.
+нахождения пользовательского оборудования
+(оконечного оборудования) при маршрутизации
+коротких текстовых<BR>сообщений в
+Систему-112</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">44.
 Первичное предоставление оператором
 связи в ЦОВ-112 информации о месте
 нахождения абонентской станции, с
@@ -1087,9 +1104,9 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 текстовое сообщение на номер &quot;112&quot;,
 осуществляется совместно с передачей
 текста короткого текстового сообщения
-методом &quot;push&quot; по протоколу SIP.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">45.
+методом &quot;push&quot; по протоколу SIP.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">45.
 Оператор домашней сети обеспечивает
 маршрутизацию и передачу короткого
 текстового сообщения, адресованных на
@@ -1104,9 +1121,9 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 оператора связи зарегистрирована
 абонентская станция, с которой было
 отправлено данное короткое текстовое
-сообщение.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">46.
+сообщение.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">46.
 При отсутствии у оператора домашней
 сети технической возможности корректного
 определения ЦОВ-112 субъекта Российской
@@ -1125,32 +1142,32 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 России, МЧС России и органом исполнительной
 власти такого субъекта Российской
 Федерации в соответствии с законодательством
-Российской Федерации.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">47.
+Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">47.
 Не допускается внесение оператором
 связи изменений, в том числе информации
 о месте нахождения пользовательского
 оборудования (оконечного оборудования),
 в текст короткого текстового сообщения,
-отправленного пользователем.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">48.
+отправленного пользователем.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">48.
 Функции маршрутизации коротких текстовых
 сообщений в ЦОВ-112 могут быть реализованы
 оператором связи с использованием
 ТСКС-112, внешних по отношению к центру
 обработки коротких текстовых сообщений
-оператора связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">49.
+оператора связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">49.
 Функция маршрутизации коротких текстовых
 сообщений в ЦОВ-112 может быть реализована
 оператором связи с привлечением третьего
 лица на основании договора в соответствии
-с законодательством Российской Федерации.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">50.
+с законодательством Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">50.
 Предоставление оператором связи в
 ЦОВ-112 информации о месте нахождения
 абонентской станции, с которой было
@@ -1158,35 +1175,35 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 на номер &quot;112&quot;, зарегистрированной
 на сети обслуживающего оператора связи
 в международном роуминге, осуществляется
-при наличии технической возможности.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">51.
+при наличии технической возможности.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">51.
 Оператор сети подвижной радиотелефонной
 связи обеспечивает маршрутизацию и
 передачу коротких текстовых сообщений,
 адресованных на номер &quot;112&quot;, в ЦОВ-112
 с учетом агрегации всех полученных от
 пользователя сегментов короткого
-текстового сообщения.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>IX.
+текстового сообщения.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>IX.
 Информационные потоки и протоколы
-взаимодействия<BR>телекоммуникационной
-и информационно-коммуникационной<BR>подсистем
-Системы-112</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">52.
+взаимодействия телекоммуникационной
+и информационно-коммуникационной
+подсистем Системы-112</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">52.
 При предоставлении информации в
 Систему-112 используются следующие
-информационные потоки и интерфейсы:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">52.1.
+информационные потоки и интерфейсы:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">52.1.
 Интерфейс 1. Обеспечивает прохождение
 вызова, адресованного на номер &quot;112&quot;,
 от сети связи общего пользования на
-УОВЭОС.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">При
+УОВЭОС.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">При
 организации направления связи в сети
 с коммутацией каналов используется
 система сигнализации по общему каналу
@@ -1194,9 +1211,9 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 обслуживающей сети для вызовов от
 пользователей сетей подвижной
 радиотелефонной связи передается
-идентификатор обслуживающей сети.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">При
+идентификатор обслуживающей сети.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">При
 организации направления связи в сети
 с коммутацией пакетов информации
 используются системы сигнализации SIP
@@ -1207,92 +1224,92 @@ HTTPS.</FONT></FONT></FONT></FONT></P>
 идентификатор обслуживающей сети.
 Допускается передача информации о месте
 нахождения пользовательского оборудования
-(оконечного оборудования).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">52.2.
+(оконечного оборудования).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">52.2.
 Интерфейс 2. Допускается для обеспечения
 взаимодействия УОВЭОС с конструктивно
 обособленными ТСМН (в случае применения
 метода &quot;push&quot; для передачи информации
 о месте нахождения пользовательского
 оборудования (оконечного оборудования)
-на интерфейсе 3).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Взаимодействие
+на интерфейсе 3).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Взаимодействие
 УОВЭОС с конструктивно обособленными
 ТСМН выполняется по протоколу SIP с
 использованием процедуры ремаршрутизации
 на УОВЭОС, от конструктивно обособленных
 ТСМН к УОВЭОС передается информация о
 месте нахождения пользовательского
-оборудования (оконечного оборудования).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">В
+оборудования (оконечного оборудования).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 случае применения функций ТСМН в составе
 ЦОВ-112 данный интерфейс отсутствует,
 передача оператором связи информации
 о месте нахождения методом &quot;push&quot; на
-интерфейсе 3 не применяется.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">52.3.
+интерфейсе 3 не применяется.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">52.3.
 Интерфейс 3. Обеспечивает взаимодействие
 УОВЭОС с ЦОВ-112 и РЦОВ-112 административного
 центра субъекта Российской Федерации.
-Абонентское подключение.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Взаимодействие
+Абонентское подключение.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Взаимодействие
 УОВЭОС с ЦОВ-112 и резервным ЦОВ-112 (далее
 - РЦОВ-112) выполняется по протоколу SIP. В
 целях определения обслуживающей сети
 для вызовов от пользователей сетей
 подвижной радиотелефонной связи,
 передается идентификатор обслуживающей
-сети.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">52.4.
+сети.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">52.4.
 Интерфейс 4. Обеспечивает получение
 запроса от ЦОВ-112 (РЦОВ-112) и передачу
 сформированного ответа со стандартизированной
 структурой данных от ТСМН в ЦОВ-112
-(РЦОВ-112).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">В
+(РЦОВ-112).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 случае применения функций ТСМН в составе
-ЦОВ-112 данный интерфейс отсутствует.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Взаимодействие
+ЦОВ-112 данный интерфейс отсутствует.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Взаимодействие
 ТСМН и ЦОВ-112 выполняется по протоколу
-HTTPS (XML).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">52.5.
+HTTPS (XML).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">52.5.
 Интерфейс 5. Обеспечивает взаимодействие
 конструктивно выделенных ТСМН либо
 ЦОВ-112 с информационной системой
 операторов связи. Обеспечивает передачу
 запроса от конструктивно выделенных
-ТСМН либо ЦОВ-112 и прием ответа.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Для
+ТСМН либо ЦОВ-112 и прием ответа.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Для
 взаимодействия конструктивно выделенных
 ТСМН либо ЦОВ-112 с ИС операторов связи
-используется протокол HTTPS (XML).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">52.6.
+используется протокол HTTPS (XML).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">52.6.
 Интерфейс 6. Обеспечивает взаимодействие
 ТСКС-112, осуществляющих маршрутизацию
 коротких текстовых сообщений, с ЦОВ-112
-(РЦОВ-112).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Взаимодействие
+(РЦОВ-112).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Взаимодействие
 ТСКС-112, осуществляющих маршрутизацию
 коротких текстовых сообщений с ЦОВ-112
 (РЦОВ-112), выполняется по протоколу
 взаимодействия SIP с инкапсуляцией
 информации о месте нахождения оконечного
 оборудования пользователя в сообщение
-по инициации сессии (INVITE).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Допускается
+по инициации сессии (INVITE).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Допускается
 реализация функций ТСКС-112, осуществляющих
 маршрутизацию коротких текстовых
 сообщений, внешним по отношению к
@@ -1301,19 +1318,19 @@ HTTPS (XML).</FONT></FONT></FONT></FONT></P>
 сторонней организации, которой оператор
 связи делегировал (поручил) реализацию
 функции маршрутизации коротких текстовых
-сообщений.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>X.
+сообщений.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>X.
 Делегирование оператором связи функции
-по передаче<BR>оператором в Систему-112
-информации о месте нахождения<BR>пользовательского
-оборудования (оконечного оборудования)<BR>и
-иной информации, необходимой для
-обеспечения реагирования<BR>по вызову
-или сообщению о происшествии<BR>по единому
-номеру &quot;112&quot;</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">53.
+по передаче оператором в Систему-112
+информации о месте нахождения
+пользовательского оборудования
+(оконечного оборудования) и иной
+информации, необходимой для обеспечения
+реагирования<BR>по вызову или сообщению
+о происшествии по единому номеру &quot;112&quot;</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">53.
 Функция по предоставлению в Систему-112
 информации о месте нахождения
 пользовательского оборудования
@@ -1331,9 +1348,9 @@ HTTPS (XML).</FONT></FONT></FONT></FONT></P>
 Российской Федерации. При этом
 предоставление указанной в настоящем
 пункте информации в Систему-112
-обеспечивается оператором связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">54.
+обеспечивается оператором связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">54.
 Оператор фиксированной телефонной
 связи, передавший функцию по предоставлению
 информации о месте нахождения
@@ -1344,13 +1361,16 @@ HTTPS (XML).</FONT></FONT></FONT></FONT></P>
 Систему-112 субъекта Российской Федерации,
 или третьему лицу обязан обеспечить
 актуализацию предоставляемых данных
-не реже чем один раз в три месяца.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">55.
+не реже чем один раз в три месяца.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">55.
 Список используемых сокращений приведен
-в приложении к настоящему Порядку.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Приложение<BR>к
+в приложении к настоящему Порядку.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Приложение<BR>к
 Порядку предоставления и объему<BR>информации,
 необходимой для обеспечения<BR>реагирования
 по вызову или сообщению<BR>о происшествии
@@ -1358,52 +1378,55 @@ HTTPS (XML).</FONT></FONT></FONT></FONT></P>
 оперативных служб информации<BR>&quot;112&quot;,
 утвержденному приказом<BR>Министерства
 связи и массовых<BR>коммуникаций Российской
-Федерации<BR>от 01.12.2016 N 607</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>СПИСОК
-ИСПОЛЬЗУЕМЫХ СОКРАЩЕНИЙ</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">All-over-IP
-- All over Internet Protocol (все по Интернет-протоколу).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">IMS
+Федерации<BR>от 01.12.2016 N 607</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>СПИСОК
+ИСПОЛЬЗУЕМЫХ СОКРАЩЕНИЙ</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">All-over-IP
+- All over Internet Protocol (все по Интернет-протоколу).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">IMS
 - IP Multimedia Subsystem (подсистема передачи
-мультимедийных сообщений).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">ЕРС</FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><SPAN LANG="en-US">
-- Evolved Packet Core (</SPAN></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif">ядро</FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><SPAN LANG="en-US">
-</SPAN></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif">архитектуры</FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><SPAN LANG="en-US">
-</SPAN></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif">сети</FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><SPAN LANG="en-US">
-</SPAN></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif">беспроводной</FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><SPAN LANG="en-US">
-</SPAN></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif">связи</FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><SPAN LANG="en-US">
-System Architecture Evolution).</SPAN></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">VoIP
+мультимедийных сообщений).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ЕРС</FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US">
+- Evolved Packet Core (</SPAN></FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ядро</FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US">
+</SPAN></FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">архитектуры</FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US">
+</SPAN></FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">сети</FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US">
+</SPAN></FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">беспроводной</FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US">
+</SPAN></FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">связи</FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US">
+System Architecture Evolution).</SPAN></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">VoIP
 - Voice over IP (протокол передачи голосовой
-информации по IP-сетям).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">VPN
+информации по IP-сетям).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">VPN
 - Virtual Private Network (виртуальная частная
-сеть).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">HTTPS
+сеть).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">HTTPS
 - HyperText Transfer Protocol Secure (защищенный протокол
 передачи гипертекста, поддерживающий
 шифрование с использованием
 криптографических протоколов SSL (secure
-sockets layer) или TLS (Transport Layer Security).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><SPAN LANG="en-US">SIP
-- Session Initiation Protocol (</SPAN></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif">протокол</FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><SPAN LANG="en-US">
-</SPAN></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif">инициирования</FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><SPAN LANG="en-US">
-</SPAN></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif">сеансов</FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><SPAN LANG="en-US">).</SPAN></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><SPAN LANG="en-US">XML
-- eXtensible Markup Language (</SPAN></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif">расширяемый</FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><SPAN LANG="en-US">
-</SPAN></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif">язык</FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><SPAN LANG="en-US">
-</SPAN></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif">разметки</FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><SPAN LANG="en-US">
-</SPAN></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif">документов</FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><SPAN LANG="en-US">).</SPAN></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in"><BR><BR>
+sockets layer) или TLS (Transport Layer Security).</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US">SIP
+- Session Initiation Protocol (</SPAN></FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">протокол</FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US">
+</SPAN></FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">инициирования</FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US">
+</SPAN></FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">сеансов</FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US">).</SPAN></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US">XML
+- eXtensible Markup Language (</SPAN></FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">расширяемый</FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US">
+</SPAN></FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">язык</FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US">
+</SPAN></FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">разметки</FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US">
+</SPAN></FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">документов</FONT></FONT></FONT><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US">).</SPAN></FONT></FONT></FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in; line-height: 150%"><BR><BR>
 </P>
 </BODY>
 </HTML>`

@@ -1,6 +1,6 @@
 /*eslint-disable*/
 export default `
-< !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
@@ -8,9 +8,9 @@ export default `
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
 	<META NAME="CREATED" CONTENT="20200505;145400000000000">
-	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
-	<META NAME="CHANGED" CONTENT="20200505;145400000000000">
-	<META NAME="AppVersion" CONTENT="16.0000">
+	<META NAME="CHANGEDBY" CONTENT="Учетная запись Майкрософт">
+	<META NAME="CHANGED" CONTENT="20200518;105700000000000">
+	<META NAME="AppVersion" CONTENT="15.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
 	<META NAME="LinksUpToDate" CONTENT="false">
@@ -28,38 +28,41 @@ export default `
 	</STYLE>
 </HEAD>
 <BODY LANG="ru-RU" LINK="#0563c1" DIR="LTR">
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПРАВИТЕЛЬСТВО
-РОССИЙСКОЙ ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПОСТАНОВЛЕНИЕ<BR>от
-15 апреля 2005 г. N 222</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ОБ
-УТВЕРЖДЕНИИ ПРАВИЛ<BR>ОКАЗАНИЯ УСЛУГ
-ТЕЛЕГРАФНОЙ СВЯЗИ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Правительство
+Российской Федерации</FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%"><A NAME="_GoBack"></A>
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Постановление<BR>От
+15 Апреля 2005 Г. N 222</FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Об
+Утверждении Правил<BR>Оказания Услуг
+Телеграфной Связи</FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 соответствии со статьей 44 Федерального
 закона &quot;О связи&quot; Правительство
 Российской Федерации постановляет:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Утвердить прилагаемые Правила оказания
 услуг телеграфной связи и ввести их в
 действие с 1 мая 2005 г.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Признать утратившими силу с 1 мая 2005 г.:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Постановление
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Постановление
 Правительства Российской Федерации от
 28 августа 1997 г. N 1108 &quot;Об утверждении
 Правил предоставления услуг телеграфной
 связи&quot; (Собрание законодательства
 Российской Федерации, 1997, N 37, ст. 4299);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>пункт
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">пункт
 1 изменений и дополнений, которые вносятся
 в акты Правительства Российской Федерации
 по вопросам оказания услуг телефонной,
@@ -73,22 +76,31 @@ export default `
 связи и проводного вещания (радиофикации)&quot;
 (Собрание законодательства Российской
 Федерации, 2002, N 3, ст. 223).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Председатель
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Председатель
 Правительства<BR>Российской
 Федерации<BR>М.ФРАДКОВ</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Утверждены<BR>Постановлением
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утверждены<BR>Постановлением
 Правительства<BR>Российской Федерации<BR>от
 15 апреля 2005 г. N 222</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПРАВИЛА<BR>ОКАЗАНИЯ
-УСЛУГ ТЕЛЕГРАФНОЙ СВЯЗИ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>I.
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ПРАВИЛА
+ОКАЗАНИЯ УСЛУГ ТЕЛЕГРАФНОЙ СВЯЗИ</B></FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>I.
 Общие положения</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Настоящие Правила регулируют отношения
 между гражданами, индивидуальными
 предпринимателями, юридическими лицами
@@ -96,38 +108,38 @@ export default `
 связи, оказывающими услуги телеграфной
 связи в сети связи общего пользования
 (далее - операторы связи).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Настоящие Правила являются обязательными
 для операторов связи и пользователей.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 В настоящих Правилах используются
 следующие основные понятия:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;абонент&quot;
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;абонент&quot;
 - пользователь услуги &quot;телекс&quot;, с
 которым заключен договор об оказании
 услуги &quot;телекс&quot; при выделении для
 этих целей абонентского номера;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;адресат&quot;
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;адресат&quot;
 - пользователь, которому адресуется
 телеграмма;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;внутренняя
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;внутренняя
 телеграмма&quot; - телеграмма, передаваемая
 и адресованная в пределах территории
 Российской Федерации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;международная
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;международная
 телеграмма&quot; - телеграмма, передаваемая
 за пределы территории Российской
 Федерации, или телеграмма, адресованная
 в Российскую Федерацию и поданная за
 пределами ее территории;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;пользовательское
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;пользовательское
 оборудование (оконечное оборудование)
 сети Телекс&quot; - средства связи для
 передачи и (или) приема телеграмм в сети
@@ -135,14 +147,14 @@ export default `
 абонентским линиям и находящиеся в
 пользовании абонента (абонентская
 установка);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;телекс&quot;
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;телекс&quot;
 - временное соединение для приема и
 передачи текстовых сообщений телеграфной
 связи между пользовательским (оконечным)
 оборудованием в сети Телекс;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;международный
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;международный
 телекс&quot; - временное соединение для
 приема и передачи текстовых сообщений
 телеграфной связи между пользовательским
@@ -151,108 +163,108 @@ export default `
 Федерации, и пользовательским (оконечным)
 оборудованием сети Телекс, находящимся
 на территории другого государства;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;национальный
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;национальный
 телекс&quot; - временное соединение для
 приема и передачи текстовых сообщений
 телеграфной связи между пользовательским
 (оконечным) оборудованием в сети Телекс,
 находящимся на территории Российской
 Федерации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;отправитель&quot;
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;отправитель&quot;
 - пользователь, который подает оператору
 связи телеграмму, предназначенную для
 передачи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;пункт
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;пункт
 назначения&quot; - адрес, по которому
 доставка телеграммы осуществляется
 оператором связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;пункт
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;пункт
 подачи&quot; - пункт связи (отделение связи,
 пункт коллективного пользования и
 т.п.), в котором отправителю телеграммы
 оказываются услуги;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;пункт
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;пункт
 оказания услуг телеграфной связи&quot; -
 пункт связи, в котором совмещены функции
 пункта подачи и пункта назначения;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;телеграмма&quot;
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;телеграмма&quot;
 - текстовое сообщение, предназначенное
 для передачи средствами телеграфной
 связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>4.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Деятельность операторов связи
 осуществляется на основании лицензии,
 выдаваемой в установленном порядке.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>5.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
 Услугами телеграфной связи являются:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>услуга
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">услуга
 &quot;телеграмма&quot; - деятельность по
 приему, передаче, обработке, хранению
 и доставке адресату телеграмм;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>услуга
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">услуга
 &quot;телекс&quot; - деятельность по установлению
 временного соединения для приема и
 передачи текстовых сообщений телеграфной
 связи между пользовательским (оконечным)
 оборудованием в сети Телекс.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>6.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 Услуга &quot;телеграмма&quot; оказывается
 пользователю с учетом установленных
 настоящими Правилами ограничений на
 отдельные виды и категории телеграмм.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Оператор
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Оператор
 связи при оказании услуги &quot;телеграмма&quot;
 должен обеспечивать прием, передачу,
 обработку, хранение телеграммы, поданной
 отправителем, и ее доставку адресату.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Качество
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Качество
 оказываемых пользователю услуг должно
 соответствовать следующим требованиям:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>сроки
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">сроки
 прохождения телеграммы, уведомления о
 вручении телеграммы должны соответствовать
 срокам, установленным настоящими
 Правилами;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>телеграмма
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">телеграмма
 должна передаваться без искажения
 содержания, изменяющего ее смысл.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>7.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
 Оператор связи вправе при наличии
 необходимых лицензий оказывать услуги
 по предоставлению телеграфных каналов
 связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Услуги
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Услуги
 по предоставлению телеграфных каналов
 связи оказываются юридическим лицам и
 индивидуальным предпринимателям на
 основании соответствующего договора.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Оператор
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Оператор
 связи при оказании услуг по предоставлению
 телеграфных каналов связи должен
 обеспечивать пользователям возможность
 передачи по телеграфному каналу сообщений
 между объектами, предусмотренными в
 договоре.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>8.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
 Оператор связи обязан обеспечивать
 соблюдение тайны телеграфной связи и
 принимать все возможные совместимые с
@@ -266,15 +278,15 @@ export default `
 допускается только в случаях,
 предусмотренных законодательством
 Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Согласие
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Согласие
 пользователя-гражданина на обработку
 его персональных данных в целях
 осуществления оператором связи расчетов
 за оказанные услуги связи, а также
 рассмотрения претензий не требуется.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>9.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
 Ознакомление третьих лиц с текстовыми
 сообщениями телеграфной связи
 осуществляется только на основании
@@ -287,21 +299,21 @@ export default `
 адресатам (их уполномоченным
 представителям), если иное не предусмотрено
 федеральными законами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>10.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.
 При взаимоотношениях оператора связи
 с пользователем, возникающих при оказании
 услуг телеграфной связи на территории
 Российской Федерации, используется
 русский язык.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>11.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
 Режим работы объектов связи, предназначенных
 для оказания услуг телеграфной связи,
 устанавливается оператором связи с
 учетом следующих требований:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 прием и доставка телеграмм категорий
 &quot;правительственная&quot;, &quot;срочная&quot;
 и &quot;обыкновенная&quot; в городах
@@ -311,8 +323,8 @@ export default `
 районов и городских округах должны
 производиться в период с 8.00 часов до
 20.00 часов местного времени;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 прием и доставка телеграмм категорий
 &quot;вне категории&quot;, &quot;внеочередная&quot;,
 &quot;Президент Российской Федерации&quot;,
@@ -325,16 +337,16 @@ export default `
 округах должны производиться круглосуточно
 не менее чем в одном пункте оказания
 услуг телеграфной связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>12.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
 Информирование пользователей о времени
 оказания услуг телеграфной связи
 осуществляется оператором связи с
 указанием времени, действующего в
 часовой зоне по месту нахождения
 пользователей.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 технологических процессах передачи и
 приема телеграфных сообщений, а также
 их обработки в пределах территории
@@ -344,13 +356,13 @@ export default `
 учетно-отчетное время определяется
 международными договорами Российской
 Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Технологические
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Технологические
 процессы обработки телеграмм на
 телеграфной сети осуществляются
 круглосуточно.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>13.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.
 Оператор связи - юридическое лицо обязан
 довести до сведения пользователя
 наименование (фирменное наименование),
@@ -359,21 +371,21 @@ export default `
 организации. Оператор связи размещает
 указанную информацию в доступном для
 пользователя месте.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Оператор
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Оператор
 связи - индивидуальный предприниматель
 должен предоставить пользователю
 информацию о государственной регистрации,
 наименовании зарегистрировавшего его
 органа, адресе регистрации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Пользователю
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Пользователю
 должна быть предоставлена информация
 о номере лицензии оператора связи и
 сроке ее действия, а также о наименовании
 органа, выдавшего эту лицензию.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 пунктах оказания услуг телеграфной
 связи, включая отделения связи и пункты
 коллективного пользования, оператор
@@ -394,23 +406,23 @@ export default `
 доставки телеграмм в зависимости от
 пункта назначения), тарифы и порядок
 оплаты услуг.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14.
 Оператор связи вправе поручить другому
 лицу заключение договора об оказании
 услуг телеграфной связи и осуществление
 расчетов с пользователем за оказанные
 услуги от имени и за счет оператора
 связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>По
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">По
 договору, заключенному другими лицами
 с пользователем от имени и за счет
 оператора связи, права и обязанности
 возникают непосредственно у оператора
 связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>15.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">15.
 Во время чрезвычайных ситуаций природного
 и техногенного характера, определенных
 законодательством Российской Федерации,
@@ -420,8 +432,8 @@ export default `
 сетей и средств телеграфной связи, а
 также на приостановление или ограничение
 использования этих сетей и средств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>16.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">16.
 Оператор связи должен предоставлять
 абсолютный приоритет всем сообщениям,
 касающимся безопасности человека на
@@ -433,26 +445,26 @@ export default `
 мероприятий в области государственного
 управления, обороны страны, безопасности
 государства и обеспечения правопорядка.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>II.
-Общий порядок<BR>и условия оказания услуг
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>II.
+Общий порядок и условия оказания услуг
 телеграфной связи</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>17.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">17.
 Оператор связи оказывает пользователям
 услуги телеграфной связи на основании
 договора об оказании услуг телеграфной
 связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>18.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">18.
 Договор об оказании услуг телеграфной
 связи заключается в соответствии с
 гражданским законодательством и должен
 содержать условия, предусмотренные
 законодательством Российской Федерации
 и настоящими Правилами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>При
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">При
 оказании услуги &quot;телеграмма&quot; в
 пунктах подачи при отсутствии указанного
 договора (в письменной форме) он считается
@@ -464,194 +476,194 @@ export default `
 квитанций (форм строгой отчетности)
 устанавливаются Министерством финансов
 Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Договор
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Договор
 об оказании услуг телеграфной связи,
 заключаемый оператором связи с гражданами,
 является публичным договором.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>19.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">19.
 Оператор связи обязан заключить с
 пользователем договор об оказании услуг
 телеграфной связи, кроме случаев, когда
 он докажет отсутствие возможности
 оказать пользователю услуги телеграфной
 связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 случае уклонения оператора связи от
 заключения договора об оказании услуг
 телеграфной связи пользователь вправе
 обратиться в суд с требованием о
 понуждении заключить договор.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>20.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">20.
 Оператор связи не вправе навязывать
 пользователю включение в договор об
 оказании услуг телеграфной связи иных
 услуг, оказываемых за отдельную плату.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Пользователь
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Пользователь
 вправе отказаться от оплаты услуг, не
 предусмотренных договором, а если они
 оплачены, пользователь вправе потребовать
 от оператора связи возврата уплаченной
 суммы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Запрещается
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Запрещается
 обусловливать оказание одних услуг
 телеграфной связи обязательным оказанием
 иных услуг телеграфной связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>21.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">21.
 Пользователь вправе расторгнуть договор
 об оказании услуг телеграфной связи в
 порядке и случаях, предусмотренных
 законодательством Российской Федерации
 и договором об оказании услуг телеграфной
 связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>При
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">При
 оказании услуги &quot;телеграмма&quot; в
 пунктах подачи пользователь вправе
 отказаться от исполнения указанного
 договора при условии оплаты им оператору
 связи фактически понесенных оператором
 связи расходов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>22.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">22.
 Обязательства по договору об оказании
 услуг телеграфной связи прекращаются
 при невозможности исполнения, если это
 вызвано обстоятельством, за которое ни
 одна из сторон не отвечает.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>III.
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>III.
 Порядок оказания услуги &quot;телеграмма&quot;</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>Порядок
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>Порядок
 оказания услуги &quot;внутренняя телеграмма&quot;</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>23.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">23.
 При оказании услуги &quot;внутренняя
 телеграмма&quot; операторы связи должны
 обеспечивать:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 отправителей - прием телеграмм с целью
 передачи и доставки (вручения) адресатам;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 адресатов - доставку (вручение) телеграмм,
 поданных в их адрес отправителями.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Отправители
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Отправители
 должны обеспечивать правильное оформление
 телеграмм и оплату оказанных услуг.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>24.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">24.
 Телеграммы в зависимости от приоритета
 обработки разделяются на следующие
 категории:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;вне
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;вне
 категории&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;внеочередная&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;Президент
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;внеочередная&quot;;</FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;Президент
 Российской Федерации&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;Председатель
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;Председатель
 Правительства Российской Федерации&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;высшая
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;высшая
 правительственная&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;правительственная&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;срочная&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;обыкновенная&quot;.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>25.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;правительственная&quot;;</FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;срочная&quot;;</FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;обыкновенная&quot;.</FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">25.
 Телеграммы, имеющие особенности по
 назначению, способу оформления, подачи
 или доставки, разделяются на следующие
 виды:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;с
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;с
 уведомлением о вручении телеграфом&quot;
 (с отметкой &quot;уведомление телеграфом&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;с
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;с
 уведомлением о вручении телеграфом
 &quot;срочное&quot; (с отметкой &quot;уведомление
 телеграфом срочное&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;с
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;с
 доставкой в срок, указанный отправителем&quot;
 (с отметкой &quot;вручить (дата)&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;с
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;с
 доставкой в населенный пункт (поселение),
 не имеющий телеграфной, факсимильной
 (телефонной) связи&quot; (с отметкой &quot;почтой
 заказное&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;на
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;на
 художественном бланке&quot; (с отметкой
 &quot;люкс&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;на
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;на
 художественном бланке формата А4&quot; (с
 отметкой &quot;люкс/в&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;на
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;на
 художественном бланке детской тематики&quot;
 (с отметкой &quot;люкс/и&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;на
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;на
 художественном музыкальном бланке&quot;
 (с отметкой &quot;люкс/м&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;на
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;на
 художественном музыкальном бланке
 детской тематики&quot; (с отметкой
 &quot;люкс/м/и&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;на
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;на
 художественном бланке по случаю траура&quot;
 (с отметкой &quot;делюкс&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;заверенная
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;заверенная
 оператором связи&quot; (с отметкой
 &quot;заверенная&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;криптограмма&quot;
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;криптограмма&quot;
 (с отметкой &quot;криптограмма&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;криптограмма
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;криптограмма
 перфоленте&quot; (с отметкой &quot;криптограмма
 перфоленте&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;метео&quot;
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;метео&quot;
 (с отметкой &quot;метео&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;переводная&quot;
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;переводная&quot;
 (с отметкой &quot;переводная&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;схемная&quot;
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;схемная&quot;
 (с отметкой &quot;схема (номер)&quot;).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Телеграмма
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Телеграмма
 может иметь один или несколько видов.
 Телеграмма, не имеющая особенностей по
 назначению, способу оформления, подачи
 или доставки, ни к одному из указанных
 видов не относится (без отметки).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>26.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">26.
 Право подачи телеграмм категорий
 &quot;срочная&quot;, &quot;обыкновенная&quot; и
 телеграмм видов &quot;с уведомлением о
@@ -669,8 +681,8 @@ export default `
 &quot;на художественном бланке по случаю
 траура&quot; и &quot;заверенная оператором
 связи&quot; имеют все пользователи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>27.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">27.
 Право подачи телеграмм категорий &quot;вне
 категории&quot;, &quot;внеочередная&quot;,
 &quot;Президент Российской Федерации&quot;,
@@ -681,8 +693,8 @@ export default `
 перфоленте&quot;, &quot;метео&quot;, &quot;переводная&quot;,
 &quot;схемная&quot; имеют ограниченные группы
 пользователей.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>28.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">28.
 Право подачи и перечни лиц, за подписью
 которых подаются телеграммы категорий
 &quot;вне категории&quot;, &quot;внеочередная&quot;,
@@ -692,8 +704,8 @@ export default `
 и &quot;правительственная&quot;, определяются
 Президентом Российской Федерации и
 Правительством Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>29.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">29.
 Порядок подачи и обработки, сроки
 передачи и доставки телеграмм категорий
 &quot;вне категории&quot; и &quot;внеочередная&quot;,
@@ -706,8 +718,8 @@ export default `
 согласованию с заинтересованными
 федеральными органами исполнительной
 власти.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>30.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">30.
 Право подачи телеграмм видов &quot;криптограмма&quot;
 и &quot;криптограмма перфоленте&quot;
 предоставляется юридическим лицам и
@@ -718,8 +730,8 @@ export default `
 а также лицам, заключившим договоры на
 оказание услуг по шифрованию информации
 с указанными лицами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>31.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">31.
 Право и порядок подачи и обработки,
 передачи и доставки телеграмм видов
 &quot;криптограмма&quot; и &quot;криптограмма
@@ -729,8 +741,8 @@ export default `
 Российской Федерации по согласованию
 с заинтересованными федеральными
 органами исполнительной власти.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>32.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">32.
 Право подачи телеграммы вида &quot;схемная&quot;
 имеют юридические лица и индивидуальные
 предприниматели. Порядок подачи таких
@@ -738,8 +750,8 @@ export default `
 и присваиваемый ему номер схемы,
 определяется в договоре между оператором
 связи и отправителем.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>33.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">33.
 Телеграммы категорий &quot;Президент
 Российской Федерации&quot;, &quot;Председатель
 Правительства Российской Федерации&quot;,
@@ -748,36 +760,36 @@ export default `
 и &quot;обыкновенная&quot; подаются
 отправителями оператору связи в пунктах
 подачи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Допускается
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Допускается
 подача телеграмм иным способом, если
 это оговорено в договоре между оператором
 связи и пользователем или организацией,
 уполномоченной подавать телеграммы
 определенной группы пользователей.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>34.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">34.
 Телеграммы от организаций и учреждений,
 подписанные должностными лицами, должны
 быть заверены печатью соответствующей
 организации или печатью &quot;Для телеграмм&quot;.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 телеграммах, подписанных должностными
 лицами нескольких организаций или
 учреждений, каждая подпись заверяется
 печатью соответствующей организации
 или учреждения.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>35.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">35.
 Оператор связи может предоставлять
 следующие услуги, технологически
 связанные с услугами телеграфной связи:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 по желанию отправителя:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>выдача
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">выдача
 в срок, не превышающий 1 месяца со дня
 подачи телеграммы, копий поданных
 телеграмм, засвидетельствованных
@@ -785,79 +797,79 @@ export default `
 телеграмм&quot; (не допускается
 засвидетельствование копий, подготовленных
 отправителем);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>подтверждение
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">подтверждение
 вручения телеграммы адресату;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 по желанию адресата в срок не позднее
 1 месяца со дня получения телеграммы:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>выдача
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">выдача
 справки об адресе отправителя;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>выдача
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">выдача
 копии ранее полученной телеграммы, за
 исключением телеграмм видов &quot;с
 уведомлением о вручении телеграфом&quot;,
 &quot;с уведомлением о вручении телеграфом
 &quot;срочное&quot;, &quot;заверенная оператором
 связи&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 на основании письменного заявления
 адресата-гражданина, поданного до
 получения телеграммы или если это
 определено договором об оказании услуг
 телеграфной связи (в письменной форме):</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>сохранение
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">сохранение
 телеграммы до востребования в течение
 2 месяцев сверх установленного срока;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>досылка
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">досылка
 и доставка телеграммы по другому
 указанному адресатом адресу;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>доставка
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">доставка
 телеграммы до востребования по указанному
 адресатом полному адресу;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>регистрация
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">регистрация
 и перерегистрация условного или
 сокращенного адреса.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Стоимость
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Стоимость
 указанных услуг телеграфной связи
 определяется оператором связи
 самостоятельно.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Оператор
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Оператор
 связи по своему усмотрению и по предложению
 пользователя вправе расширять перечень
 услуг, технологически связанных с
 услугами телеграфной связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>36.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">36.
 Подаваемая отправителем телеграмма
 должна быть четко и разборчиво написана
 или напечатана на лицевой стороне
 телеграфного бланка или на светлой
 бумаге.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Допускается
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Допускается
 прием телеграмм от организаций,
 учреждений, предприятий и должностных
 лиц на их фирменных бланках, при этом
 текст самих бланков не передается.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Исправления,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Исправления,
 подчистки, вычеркивания и вставки,
 внесенные в телеграмму отправителем
 или по его просьбе оператором связи,
 должны быть заверены подписью отправителя.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>37.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">37.
 Телеграмма не должна содержать более
 300 слов. Если телеграмма состоит из
 большего количества слов, она должна
@@ -874,8 +886,8 @@ export default `
 Слова, соединяющие части многословной
 телеграммы, являются ее неотъемлемой
 частью.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>38.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">38.
 Адреса отправителей и адресатов, отметки
 о категории и виде телеграмм, пересылаемых
 в пределах территории Российской
@@ -888,13 +900,13 @@ export default `
 соответствующих республик при условии
 дублирования адресов отправителей и
 адресатов на русском языке.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>39.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">39.
 Текст телеграммы и подпись отправителя
 должны быть написаны буквами русского
 или латинского алфавита.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>40.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">40.
 Телеграммы от иностранных представительств
 (посольств, миссий, консульств и т.п.),
 адресованные в населенные пункты
@@ -902,13 +914,13 @@ export default `
 приему на любом языке. При этом текст
 должен быть написан буквами русского
 или латинского алфавита, включая адрес.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 адрес иностранных представительств
 телеграммы подаются на любом языке
 буквами русского или латинского алфавита.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>41.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">41.
 Цифры в подаваемой телеграмме могут
 быть написаны либо знаками цифр, либо
 словами. Содержащиеся в тексте телеграммы
@@ -922,69 +934,69 @@ export default `
 словами (&quot;тчк&quot;, &quot;зпт&quot;, &quot;квч&quot;
 и &quot;скб&quot; соответственно), либо
 соответствующими символьными знаками.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>42.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">42.
 Знаки &quot;вопросительный знак&quot;, &quot;тире&quot;
 (&quot;минус&quot;), &quot;плюс&quot; и &quot;дробная
 черта&quot; могут быть написаны либо
 полными словами, либо соответствующими
 символьными знаками.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Знаки
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Знаки
 &quot;номер&quot;, &quot;двоеточие&quot; и
 &quot;восклицательный знак&quot; могут быть
 написаны либо полными словами, либо
 сокращенно (&quot;нр&quot;, &quot;двтч&quot; и
 &quot;вскл&quot; соответственно).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Другие
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Другие
 знаки могут быть написаны только полными
 словами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>43.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">43.
 Знаки препинания в виде соответствующих
 символьных знаков, кроме символьного
 знака &quot;-&quot;, должны быть написаны в
 телеграммах после предыдущего слова
 (группы цифр) без интервала.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Символьный
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Символьный
 знак &quot;+&quot; (плюс) между словами, цифрами,
 группами букв, группами цифр и смешанными
 группами должен быть написан с интервалом
 между предшествующим и последующим
 словом и считаться за отдельное слово.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Все
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Все
 знаки, написанные полным или сокращенным
 словом, должны быть написаны с интервалом
 между предшествующими и последующими
 словами, цифрами и знаками.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>44.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">44.
 Телеграмма должна содержать данные,
 изложенные в следующей последовательности:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>отметка
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">отметка
 о категории телеграммы (при подаче
 телеграммы категории &quot;обыкновенная&quot;
 отметка о категории не указывается);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>отметка
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">отметка
 о виде (видах) телеграммы;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>адрес,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">адрес,
 по которому должна быть доставлена
 телеграмма, с указанием наименования
 адресата (адресатов);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>текст
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">текст
 телеграммы;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>подпись
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">подпись
 отправителя (по желанию отправителя).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 нижней части бланка подаваемой телеграммы
 (листа светлой бумаги или фирменного
 бланка, используемых вместо бланка
@@ -998,13 +1010,13 @@ export default `
 При необходимости передачи адресату
 этих данных они должны включаться
 отправителем в текст телеграммы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Подача
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Подача
 телеграмм должностными лицами
 осуществляется при предъявлении
 служебного удостоверения.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>45.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">45.
 Адрес телеграммы должен содержать все
 адресные данные, необходимые для
 обеспечения ее доставки адресату без
@@ -1012,16 +1024,16 @@ export default `
 отправителя в адрес телеграммы может
 быть дополнительно включен номер
 телефона адресата.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>46.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">46.
 В адресе телеграммы наименование
 населенного пункта (город, село, деревня
 и т.п.) указывается в именительном падеже,
 а наименование республики, края, области
 и района, на территории которых находится
 населенный пункт, - в родительном падеже.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 адресе телеграммы перед номерами
 строений, корпусов и квартир слова
 &quot;строение&quot;, &quot;корпус&quot; и &quot;квартира&quot;
@@ -1038,8 +1050,8 @@ export default `
 и &quot;д&quot; или не писать, если это не
 приведет к неопределенности или
 неточности адреса.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Номера
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Номера
 домов, строений, корпусов и квартир
 пишутся цифрами или словами. Дробные
 номера пишутся с использованием
@@ -1047,14 +1059,14 @@ export default `
 3/5) или словами (например, три дробная
 черта пять). Наименования номерных улиц
 и номерных организаций пишутся словами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 адресах организаций, размещенных в
 жилых домах, допускается указание
 дополнительных данных (например, подъезд,
 подвал, чердак и т.п.).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>47.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">47.
 Телеграмма может быть адресована в один
 или несколько адресов (многоадресная
 телеграмма). При подаче многоадресной
@@ -1066,80 +1078,80 @@ export default `
 пункт, куда следует ее доставить,
 остальные адреса указываются в тексте
 телеграммы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Допускается
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Допускается
 прием многоадресной телеграммы с одним
 текстом по списку адресов, но не более
 20 адресов в списке.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Список
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Список
 адресов должен подаваться одновременно
 с телеграммой. К каждому списку прилагается
 1 экземпляр телеграммы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Телеграмма
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Телеграмма
 в 1 адрес может быть адресована одному
 или нескольким лицам.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>48.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">48.
 Телеграммы могут быть отправлены с
 указанием:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>полного
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">полного
 адреса;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>условного
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">условного
 или сокращенного адреса;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;до
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;до
 востребования&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>номера
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">номера
 абонементного ящика;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>адреса
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">адреса
 войсковой части;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>адреса
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">адреса
 полевой почты;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>адресов
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">адресов
 морских и речных судов;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>номера
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">номера
 полученной телеграммы;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>номера
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">номера
 абонентской установки сети Телекс.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>49.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">49.
 Условный или сокращенный адрес
 определяется пользователем и регистрируется
 оператором связи, оказывающим услуги
 телеграфной связи на территории, где
 находится пользователь.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Пользователь,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Пользователь,
 имеющий условный или сокращенный адрес
 для телеграмм, обязан ежегодно
 перерегистрировать его у оператора
 связи. Процедура перерегистрации
 устанавливается оператором связи
 самостоятельно.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Доставка
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Доставка
 телеграмм, направляемых на условный
 или сокращенный адрес, не зарегистрированный
 оператором связи, не производится.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>50.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">50.
 Телеграммы принимаются от пользователей
 для передачи во все населенные пункты
 (поселения) Российской Федерации с
 учетом следующих ограничений и условий
 подачи и адресования:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>телеграммы
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">телеграммы
 категории &quot;срочная&quot; принимаются
 для передачи только в населенные пункты
 (поселения), имеющие телеграфную связь.
@@ -1150,19 +1162,19 @@ export default `
 Федеральным агентством связи и должен
 доводиться оператором связи до сведения
 пользователей в пунктах подачи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>не
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">не
 производится прием телеграмм категории
 &quot;срочная&quot; с указанием адреса полевых
 почт;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 населенные пункты, не имеющие телеграфной,
 факсимильной (телефонной) связи,
 телеграммы принимаются с обязательной
 отметкой &quot;почтой заказное&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 населенные пункты, не имеющие телеграфной,
 но имеющие факсимильную (телефонную)
 связь, телеграммы принимаются без
@@ -1175,8 +1187,8 @@ export default `
 связи и должен доводиться операторами
 связи до сведения пользователей в
 пунктах подачи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>при
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">при
 подаче телеграмм, предназначенных для
 передачи по адресу полевых почт, в
 адресной части телеграммы перед номером
@@ -1189,8 +1201,8 @@ export default `
 связи&quot; по адресу полевых почт
 допускается указывать в качестве пункта
 назначения &quot;Москва 713&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>при
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">при
 подаче телеграмм, предназначенных для
 передачи по адресу морских и речных
 судов, в адресной части телеграммы перед
@@ -1203,8 +1215,8 @@ export default `
 (для речных судов). Не подлежат приему
 телеграммы, адресованные в конечные
 пункты прибытия речных судов;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>не
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">не
 производится прием телеграмм видов &quot;с
 уведомлением о вручении телеграфом&quot;
 и &quot;с уведомлением о вручении телеграфом
@@ -1213,8 +1225,8 @@ export default `
 абонементных ящиков и населенных пунктов
 (поселений), не имеющих телеграфной
 связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>телеграммы
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">телеграммы
 вида &quot;с доставкой в срок, указанный
 отправителем&quot; принимаются только
 для передачи в населенные пункты, имеющие
@@ -1230,28 +1242,28 @@ export default `
 по адресу войсковых частей, полевых
 почт, морских и речных судов, а также на
 номер абонентской установки сети Телекс;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>не
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">не
 производится прием телеграмм на
 художественных бланках по адресу
 иностранных представительств (посольств,
 миссий, консульств и т.п.), морских и
 речных судов, полевых почт, абонентских
 установок сети Телекс;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>не
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">не
 производится прием телеграмм по адресу
 войсковых частей и полевых почт с
 индексом &quot;ЮЯ&quot;.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>51.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">51.
 Телеграмма вида &quot;заверенная оператором
 связи&quot; принимается при желании
 отправителя заверить факт, подтвержденный
 документом, и (или) заверить свою подпись,
 содержащуюся в телеграмме.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Телеграмма
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Телеграмма
 вида &quot;заверенная оператором связи&quot;
 с заверяемым фактом принимается при
 предъявлении отправителем документа
@@ -1269,19 +1281,19 @@ export default `
 текст документа (нотариально заверенной
 копии) должен быть включен отправителем
 в текст телеграммы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>На
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">На
 бланке телеграммы вида &quot;заверенная
 оператором связи&quot; делаются служебные
 отметки - выписки из документов,
 удостоверяющих личность отправителя.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Все
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Все
 заверяющие записи, сделанные оператором
 связи, включаются в текст заверенной
 телеграммы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>52.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">52.
 В случае подачи отправителем телеграмм
 видов &quot;с уведомлением о вручении
 телеграфом&quot; и &quot;с уведомлением о
@@ -1290,13 +1302,13 @@ export default `
 передается в адрес отправителя, указанный
 отправителем, только после доставки
 (вручения) телеграммы адресату.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Уведомление
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Уведомление
 о вручении телеграммы до востребования
 передается в адрес отправителя только
 после востребования телеграммы адресатом.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Уведомления
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Уведомления
 о вручении телеграмм организациям или
 должностным лицам, а также по адресу
 мест временного нахождения граждан
@@ -1308,8 +1320,8 @@ export default `
 лицу, уполномоченному на получение
 телеграмм, доставляемых в соответствующий
 адрес.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 случае непоступления уведомления о
 вручении телеграммы в течение 48 часов
 из пункта подачи должен быть направлен
@@ -1319,8 +1331,8 @@ export default `
 (о причине невручения, неотправки
 уведомления) для последующего
 соответствующего сообщения отправителю.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>53.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">53.
 При адресовании телеграмм в населенные
 пункты (поселения), имеющие только
 факсимильную (телефонную) связь, передача
@@ -1331,36 +1343,36 @@ export default `
 с обязательной обратной проверкой и
 доставкой их адресату на телеграфном
 бланке.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>54.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">54.
 Доставка адресату телеграммы осуществляется
 оператором связи на территории, где
 находится пункт назначения телеграммы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>55.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">55.
 Доставляемая адресату телеграмма должна
 иметь служебный заголовок, содержащий
 сведения о пункте подачи, номер телеграммы,
 количество слов, дату и время подачи
 телеграммы, содержание телеграммы,
 поданной отправителем.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>56.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">56.
 На доставляемой адресату телеграмме
 должен быть оттиск календарного штемпеля,
 содержащего наименование оператора
 связи и пункта связи, осуществляющего
 доставку телеграммы, и календарную
 дату.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>На
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">На
 оборотной стороне телеграммы вида
 &quot;заверенная оператором связи&quot;
 должна быть заверительная надпись с
 подписью оператора связи и печать &quot;Для
 телеграмм&quot;.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>57.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">57.
 Телеграммы категории &quot;Президент
 Российской Федерации&quot; должны
 доставляться адресатам на специальном
@@ -1375,14 +1387,14 @@ export default `
 &quot;правительственная&quot; должны
 доставляться на специальном бланке
 &quot;правительственная&quot;.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Форма
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Форма
 указанных бланков устанавливается
 Министерством цифрового развития, связи
 и массовых коммуникаций Российской
 Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>58.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">58.
 Телеграммы должны доставляться адресатам
 отпечатанными на светлой бумаге. В
 отдельных случаях при отсутствии в
@@ -1391,8 +1403,8 @@ export default `
 оформления телеграмм в отпечатанном
 виде допускается оформлять телеграммы
 в рукописном виде.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>59.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">59.
 Телеграммы видов &quot;на художественном
 бланке&quot;, &quot;на художественном бланке
 детской тематики&quot;, &quot;на художественном
@@ -1402,8 +1414,8 @@ export default `
 траура&quot; должны доставляться адресатам
 на соответствующих художественных
 бланках.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>60.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">60.
 Телеграммы, адресованные гражданам по
 месту их нахождения (жительства), должны
 вручаться лично адресату или (в его
@@ -1427,15 +1439,15 @@ export default `
 телеграммы по извещению в течение суток,
 оператор связи должен принять меры к
 повторной доставке телеграммы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>При
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">При
 наличии письменного заявления адресата
 допускается оставить телеграммы,
 адресованные гражданам по месту их
 нахождения (жительства), в абонентском
 шкафу (почтовом ящике) адресата.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>При
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">При
 согласии адресата допускается передача
 содержания телеграмм, адресованных
 гражданам по месту их нахождения
@@ -1446,16 +1458,16 @@ export default `
 вручении телеграфом &quot;срочное&quot; с
 обязательной последующей доставкой по
 адресу.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>61.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">61.
 Телеграммы до востребования выдаются
 адресату только при предъявлении
 документа, удостоверяющего личность
 адресата. Адресат имеет право востребовать
 телеграмму до востребования в течение
 30 суток со дня поступления телеграммы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>62.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">62.
 Телеграммы, адресованные организациям
 и (или) должностным лицам, а также
 направляемые по адресу полевых почт,
@@ -1471,8 +1483,8 @@ export default `
 договора между соответствующим
 юридическим лицом и оператором связи,
 осуществляющим доставку.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>63.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">63.
 Вручение телеграмм гражданам по месту
 их нахождения (жительства) или
 уполномоченным лицам в пунктах назначения
@@ -1483,8 +1495,8 @@ export default `
 граждан) должно осуществляться только
 под расписку с указанием даты и местного
 времени.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>64.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">64.
 Телеграммы категорий &quot;Президент
 Российской Федерации&quot;, &quot;Председатель
 Правительства Российской Федерации&quot;,
@@ -1498,8 +1510,8 @@ export default `
 адресатам средствами почтовой связи в
 порядке, установленном для регистрируемых
 почтовых отправлений.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>65.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">65.
 Допускается доставка и передача адресату
 содержания телеграмм категорий &quot;срочная&quot;
 и &quot;обыкновенная&quot;, за исключением
@@ -1514,8 +1526,8 @@ export default `
 договором об оказании услуг телеграфной
 связи (в письменной форме) между оператором
 связи и адресатом.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>66.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">66.
 При невозможности доставки телеграммы
 по независящим от оператора связи
 причинам об этом извещается пункт подачи
@@ -1523,106 +1535,106 @@ export default `
 для последующего сообщения отправителю,
 если отправитель указал при подаче
 телеграммы свой адрес или телефон.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>67.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">67.
 Сроки прохождения телеграмм, передаваемых
 между административными центрами
 субъектов Российской Федерации, а также
 внутри любого населенного пункта
 (поселения), имеющего телеграфную связь,
 должны составлять:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 телеграмм категорий &quot;Президент
 Российской Федерации&quot;, &quot;Председатель
 Правительства Российской Федерации&quot;
 - не более 2 часов;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 телеграмм категорий &quot;высшая
 правительственная&quot;, &quot;правительственная&quot;
 и &quot;срочная&quot; - не более 4 часов;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 телеграмм категории &quot;обыкновенная&quot;
 - не более 8 часов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Сроки
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Сроки
 прохождения телеграмм, передаваемых
 между иными населенными пунктами
 (поселениями), имеющими телеграфную
 связь, должны составлять:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 телеграмм категорий &quot;Президент
 Российской Федерации&quot;, &quot;Председатель
 Правительства Российской Федерации&quot;
 - не более 2 часов;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 телеграмм категорий &quot;высшая
 правительственная&quot;, &quot;правительственная&quot;
 и &quot;срочная&quot; - не более 4 часов;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 телеграмм категории &quot;обыкновенная&quot;
 - не более 12 часов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Сроки
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Сроки
 прохождения телеграмм, адресованных в
 населенные пункты (поселения), оборудованные
 средствами факсимильной (телефонной)
 связи, должны составлять не более 12
 часов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Сроком
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Сроком
 прохождения телеграммы является время
 с момента ее приема в пункте подачи до
 момента:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>вручения
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">вручения
 телеграммы адресату;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>вручения
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">вручения
 телеграммы уполномоченному лицу в
 пункте назначения (для телеграмм,
 адресованных организациям, а также
 направляемых по адресу войсковых частей,
 речных судов либо по месту временного
 нахождения граждан);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>передачи
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">передачи
 телеграммы в организацию почтовой связи
 (для телеграмм вида &quot;почтой заказное&quot;
 и телеграмм до востребования и с указанием
 номера абонементного ящика);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>передачи
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">передачи
 телеграммы в пункт назначения (для
 телеграмм, направленных по адресу
 полевых почт и морских судов);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>передачи
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">передачи
 телеграммы на абонентскую установку
 сети Телекс;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>передачи
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">передачи
 телеграммы по адресу электронной почты;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>передачи
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">передачи
 телеграммы адресату на факсимильную
 установку;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>передачи
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">передачи
 содержания телеграммы адресату по
 телефону;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>доставки
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">доставки
 телеграммы в почтовый ящик или абонентский
 шкаф адресата (при наличии письменного
 заявления адресата).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Срок
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Срок
 вручения отправителю уведомления о
 вручении телеграммы с отметкой
 &quot;уведомление телеграфом&quot; должен
@@ -1632,8 +1644,8 @@ export default `
 отметкой &quot;уведомление телеграфом
 срочное&quot; должен быть не более 12 часов
 с момента вручения телеграммы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 сроки прохождения телеграмм (вручения
 отправителю уведомления о вручении
 телеграммы) не включается время, в
@@ -1649,12 +1661,12 @@ export default `
 (уведомления) не могут быть доставлены
 по причинам и обстоятельствам, зависящим
 от адресата.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>Порядок
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>Порядок
 оказания услуги &quot;международная
 телеграмма&quot;</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>68.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">68.
 Оказание услуги &quot;международная
 телеграмма&quot; осуществляется путем
 передачи телеграмм в те страны, перечень
@@ -1666,8 +1678,8 @@ export default `
 установленных администрациями связи
 или международными операторами
 телеграфной связи зарубежных стран.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>69.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">69.
 Международные телеграммы принимаются
 от пользователя только в пунктах связи,
 определенных для этих целей оператором
@@ -1677,16 +1689,16 @@ export default `
 административных центрах субъектов
 Российской Федерации и административных
 центрах муниципальных районов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 пунктах связи, не осуществляющих прием
 от пользователей международных телеграмм,
 оператором связи должно обеспечиваться
 информирование пользователей о месте
 нахождения ближайшего пункта подачи
 международных телеграмм.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>70.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">70.
 В случае если это предусмотрено
 двусторонними или многосторонними
 соглашениями между администрацией
@@ -1702,72 +1714,72 @@ export default `
 предоставления услуги &quot;внутренняя
 телеграмма&quot; с учетом ограничений,
 установленных этими соглашениями.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Международные
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Международные
 телеграммы, адресованные в указанные
 страны, должны приниматься от пользователей
 во всех пунктах подачи внутренних
 телеграмм.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>71.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">71.
 Международные телеграммы подразделяются
 на следующие категории:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>телеграммы,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">телеграммы,
 относящиеся к безопасности человеческой
 жизни (с отметкой &quot;SVH&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>правительственные
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">правительственные
 телеграммы с приоритетом (с отметкой
 &quot;ETATPRIORITE&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>правительственные
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">правительственные
 телеграммы без приоритета (с отметкой
 &quot;ETAT&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>метеорологические
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">метеорологические
 телеграммы (с отметкой &quot;OBS&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>телеграммы,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">телеграммы,
 касающиеся лиц, предусмотренных
 Женевскими конвенциями от 12 августа
 1949 г. (с отметкой &quot;RCT&quot;);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>обыкновенные
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">обыкновенные
 частные телеграммы (без отметки).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Право
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Право
 подачи указанных категорий телеграмм,
 за исключением обыкновенных частных
 телеграмм, имеют пользователи или группы
 пользователей, перечни которых определены
 Уставом и Конвенцией Международного
 союза электросвязи (МСЭ).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Право
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Право
 подачи обыкновенных частных телеграмм
 имеют любые пользователи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>72.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">72.
 При оказании услуги &quot;международная
 телеграмма&quot; операторы связи должны
 обеспечивать:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 отправителей - прием телеграмм с целью
 их передачи в зарубежные страны для
 последующей доставки адресатам;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 адресатов - доставку (вручение) телеграмм,
 поступивших из зарубежных стран.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Отправитель
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Отправитель
 должен обеспечивать правильное оформление
 международных телеграмм и оплату
 оказываемых услуг.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Порядок
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Порядок
 подачи международных телеграмм,
 адресованных в зарубежные страны, и
 доставки международных телеграмм,
@@ -1778,31 +1790,31 @@ export default `
 территории Российской Федерации, с
 учетом особенностей, предусмотренных
 настоящими Правилами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>73.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">73.
 Пользователю предоставляется право
 подачи обыкновенных частных телеграмм
 следующих видов (если это не запрещено
 страной назначения):</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;на
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;на
 художественном бланке &quot;люкс&quot; (с
 отметкой LX);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;на
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;на
 художественном бланке по случаю траура&quot;
 (с отметкой LXDEUIL);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;заверенная
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;заверенная
 оператором связи&quot; (без отметки).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>74.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">74.
 Оператор связи по желанию пользователя
 должен оказывать следующие услуги,
 технологически связанные с услугами
 телеграфной связи:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 отправителю после передачи международной
 телеграммы (но не позже 2 месяцев со дня
 подачи телеграммы) - получение копии
@@ -1811,88 +1823,88 @@ export default `
 печатью &quot;Для телеграмм&quot; (не
 допускается засвидетельствование
 копии, снятой отправителем);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 адресату по письменному заявлению,
 поданному до получения международной
 телеграммы (телеграмм):</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>сохранение
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">сохранение
 международной телеграммы до востребования
 в течение 2 месяцев сверх установленного
 срока;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>досылка
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">досылка
 и доставка международной телеграммы
 (телеграмм) по другому указанному
 адресатом адресу;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>доставка
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">доставка
 международной телеграммы до востребования
 по указанному адресатом полному адресу;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>регистрация
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">регистрация
 условного (сокращенного) адреса.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>75.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">75.
 Текст международной телеграммы должен
 быть написан на любом языке, разрешенном
 страной назначения, латинскими буквами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Фамилия,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Фамилия,
 имя и адресные данные отправителя,
 указываемые после содержания международной
 телеграммы, могут быть написаны буквами
 русского или латинского алфавита.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>76.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">76.
 Международные телеграммы могут быть
 направлены, если это разрешено страной
 назначения, с указанием:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>полного
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">полного
 адреса;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>условного
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">условного
 (зарегистрированного) адреса;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;до
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&quot;до
 востребования&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>номера
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">номера
 абонементного ящика;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 адреса морских судов (через береговые
 станции зарубежных стран);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>номера
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">номера
 абонентской установки сети Телекс;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>телефонного
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">телефонного
 номера;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>номера
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">номера
 абонентской установки службы Телетекс;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>номера
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">номера
 факсимильной абонентской установки.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>77.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">77.
 Адресные данные указываются в следующей
 последовательности:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>наименование
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">наименование
 адресата (в именительном падеже);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>место
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">место
 нахождения (жительства) адресата;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>пункт
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">пункт
 назначения и название страны (должны
 быть выделены отдельной строкой адреса).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 подаваемых международных телеграммах
 написание адресных данных определяется
 отправителем. При этом адрес телеграммы
@@ -1904,8 +1916,8 @@ export default `
 принимаются с риском для отправителя,
 при этом за последствия отвечает
 отправитель.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>78.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">78.
 Международные телеграммы должны
 доставляться адресатам на бланке
 &quot;международная телеграмма&quot;. Форма
@@ -1913,60 +1925,60 @@ export default `
 устанавливается Министерством цифрового
 развития, связи и массовых коммуникаций
 Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>79.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">79.
 Сроки прохождения обыкновенных частных
 телеграмм и правительственных телеграмм
 без приоритета от пункта подачи до
 пункта назначения должны составлять:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 телеграмм, адресованных в страны Европы
 или поданных в этих странах, - не более
 12 часов;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 телеграмм, адресованных в страны Америки,
 Азии, Африки, Австралии и Океании или
 поданных в этих странах, - не более 24
 часов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Сроки
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Сроки
 прохождения телеграмм, относящихся к
 безопасности человеческой жизни,
 правительственных телеграмм с приоритетом
 и метеорологических телеграмм от пункта
 подачи до пункта назначения должны
 составлять:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 телеграмм, адресованных в страны Европы
 или поданных в этих странах, - не более
 6 часов;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>для
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">для
 телеграмм, адресованных в страны Америки,
 Азии, Африки, Австралии и Океании или
 поданных в этих странах, - не более 12
 часов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 указанные сроки не входят:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>время,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">время,
 в течение которого отделение связи в
 пункте назначения международной
 телеграммы не осуществляет доставку
 телеграмм;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>время
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">время
 пересылки международной телеграммы
 почтой или курьером в стране назначения.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>IV.
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>IV.
 Особенности оказания услуги &quot;телекс&quot;</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>80.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">80.
 Услуга &quot;телекс&quot; оказывается
 юридическим лицам и индивидуальным
 предпринимателям на основании договора
@@ -1975,8 +1987,8 @@ export default `
 номера из ресурса нумерации национальной
 сети Телекс, выделенного оператору
 связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>81.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">81.
 Оператор связи при оказании услуги
 &quot;телекс&quot; должен обеспечивать
 пользователям возможность установления
@@ -1991,24 +2003,24 @@ export default `
 Министерством цифрового развития, связи
 и массовых коммуникаций Российской
 Федерации порядке.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>V.
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>V.
 Права и обязанности оператора связи</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>82.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">82.
 Оператор связи имеет право:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>по
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">по
 своему усмотрению расширять перечень
 услуг, технологически связанных с
 услугами телеграфной связи и повышающих
 их потребительскую ценность;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>требовать
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">требовать
 от пользователя оплаты оказанных ему
 услуг телеграфной связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>83.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">83.
 Оператор связи вправе в случае нарушения
 пользователем требований, установленных
 законодательством Российской Федерации,
@@ -2026,8 +2038,8 @@ export default `
 указанный договор. При этом пользователь
 обязан возместить оператору связи
 причиненные ему убытки.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>84.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">84.
 В случае нарушения абонентом обязательств
 по оплате услуги &quot;телекс&quot;,
 установленных договором об оказании
@@ -2036,8 +2048,8 @@ export default `
 оказании такой услуги на основании
 показаний оборудования связи, учитывающего
 объем оказанной услуги.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>85.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">85.
 Оператор связи обязан оказывать
 пользователям услуги телеграфной связи
 в соответствии с законодательством
@@ -2045,57 +2057,57 @@ export default `
 Правилами, национальными стандартами,
 лицензией и договором об оказании услуг
 телеграфной связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>VI.
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>VI.
 Права и обязанности пользователей</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>86.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">86.
 Пользователь имеет право:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>передавать
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">передавать
 и (или) получать сообщения телеграфной
 связи либо отказаться от их получения,
 если иное не предусмотрено федеральными
 законами;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>отказаться
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">отказаться
 от оплаты услуг, не предусмотренных
 договором об оказании услуг телеграфной
 связи, а если они оплачены, потребовать
 от оператора связи возврата уплаченной
 суммы;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>имеет
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">имеет
 право на предоставление ему необходимой
 и достоверной информации об операторе
 связи, режиме его работы и оказываемых
 услугах.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>87.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">87.
 Пользователь обязан в полном объеме и
 в сроки, определяемые договором об
 оказании услуг телеграфной связи,
 оплачивать эти услуги.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>VII.
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>VII.
 Порядок осуществления расчетов за
-оказанные<BR>услуги телеграфной связи</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>88.
+оказанные услуги телеграфной связи</B></FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">88.
 Тарифы на услуги телеграфной связи
 устанавливаются оператором связи
 самостоятельно, если иное не предусмотрено
 законодательством Российской Федерации
 о естественных монополиях.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>89.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">89.
 Перечень услуг телеграфной связи, тарифы
 на которые регулируются государством,
 а также порядок их регулирования
 устанавливаются Правительством
 Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>90.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">90.
 Расчеты с пользователями за оказание
 услуг телеграфной связи ведет оператор
 связи, оказывающий такие услуги на
@@ -2103,56 +2115,56 @@ export default `
 им на осуществление указанных расчетов
 на основании договора об оказании услуг
 телеграфной связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>91.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">91.
 Все расчеты с пользователями за услуги
 телеграфной связи на территории
 Российской Федерации осуществляются
 в российских рублях.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>92.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">92.
 При наличии договора об оказании услуг
 телеграфной связи оплата производится
 посредством наличных или безналичных
 расчетов непосредственно после оказания
 таких услуг, а также путем внесения
 аванса или с отсрочкой платежа.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>При
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">При
 оказании услуги &quot;телеграмма&quot; в
 пунктах подачи оплата услуги производится
 непосредственно после подачи телеграммы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>93.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">93.
 Основанием для осуществления расчетов
 за услуги &quot;телекс&quot; являются условия
 договора об оказании услуги &quot;телекс&quot;
 и показания оборудования связи,
 учитывающего объем оказанных оператором
 связи услуг.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>94.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">94.
 При оказании услуги &quot;телеграмма&quot;
 (внутренней или международной) оплате
 подлежат:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>телеграфное
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">телеграфное
 сообщение с учетом количества оплачиваемых
 слов в телеграмме, категории, вида и
 страны назначения телеграммы;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>доставка
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">доставка
 (телеграфный сбор), зависящая от срока
 прохождения телеграммы и способа ее
 доставки (вручения).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Услуги,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Услуги,
 технологически связанные с услугой
 &quot;телеграмма&quot; и повышающие ее
 потребительскую ценность, оплачиваются
 сверх стоимости услуги &quot;телеграмма&quot;.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>95.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">95.
 Оплате подлежат все слова, образующие
 содержание внутренней телеграммы
 (отметки о категории и виде телеграммы,
@@ -2160,55 +2172,55 @@ export default `
 если таковой имеется, текст, подпись,
 включая слова, соединяющие части
 многословной телеграммы).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>За
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">За
 одно слово в телеграмме считается:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>каждое
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">каждое
 слово, написанное в соответствии с
 правилами грамматики и имеющее
 самостоятельный смысл, включая частицы
 и предлоги;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>каждый
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">каждый
 отдельно стоящий знак, цифра или буква;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>знак,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">знак,
 написанный полным или сокращенным
 словом;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>цифра,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">цифра,
 написанная полным словом;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>не
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">не
 разделенная символьным знаком &quot;-&quot;
 группа знаков, состоящая из цифр или
 букв, или смешанная группа.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Слова,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Слова,
 группы цифр и букв, разделенные символьным
 знаком &quot;-&quot;, считаются за отдельные
 слова.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>96.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">96.
 В количество оплачиваемых слов
 международной телеграммы включаются
 все слова, образующие содержание
 телеграммы (отметки о категории и виде
 телеграммы, адрес, текст, подпись).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>За
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">За
 одно оплачиваемое слово в международной
 телеграмме считается:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>каждое
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">каждое
 слово (группа знаков), содержащее не
 более 10 знаков и не разделенное интервалом;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>каждый
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">каждый
 отдельно стоящий знак, цифра или буква.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Слово,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Слово,
 содержащее более 10 знаков, оплачивается
 как группа слов. При этом каждые 10 знаков
 считаются за одно слово плюс одно
@@ -2217,8 +2229,8 @@ export default `
 используемый для разделения различных
 слов или групп знаков, оплачиваемым
 словом не считается.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>97.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">97.
 При расчете стоимости телеграммы вида
 &quot;схемная&quot; и многоадресной телеграммы
 (независимо от способа указания адресов)
@@ -2227,8 +2239,8 @@ export default `
 адреса, при этом количество передаваемых
 телеграмм соответствует количеству
 адресов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>98.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">98.
 В случае невозможности оказания услуг
 телеграфной связи, возникшей по вине
 пользователя, услуги подлежат оплате
@@ -2236,8 +2248,8 @@ export default `
 иное не предусмотрено законом или
 договором об оказании услуг телеграфной
 связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 случае если невозможность оказания
 услуг телеграфной связи возникла по
 обстоятельствам, за которые ни одна из
@@ -2246,61 +2258,61 @@ export default `
 понесенные этим оператором расходы,
 если иное не предусмотрено законом или
 договором.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>VIII.
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>VIII.
 Порядок предъявления и рассмотрения
-жалоб<BR>и претензий пользователей</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>99.
+жалоб и претензий пользователей</B></FONT></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">99.
 Пользователь вправе обжаловать решения
 и действия (бездействие) оператора
 связи, связанные с оказанием услуг
 телеграфной связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>100.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">100.
 Оператор связи обязан иметь книгу жалоб
 и предложений и выдавать ее по первому
 требованию пользователя.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>101.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">101.
 Рассмотрение жалоб пользователей
 осуществляется в порядке, установленном
 законодательством Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>102.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">102.
 В случае неисполнения или ненадлежащего
 исполнения обязательств, вытекающих
 из договора об оказании услуг телеграфной
 связи, пользователь до обращения в суд
 предъявляет оператору связи претензии.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>103.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">103.
 В течение месяца со дня подачи телеграммы
 предъявляются претензии по вопросам,
 связанным с недоставкой или несвоевременной
 доставкой телеграммы либо искажением
 ее текста, изменяющим смысл телеграммы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Претензии
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Претензии
 предъявляются в письменной форме и
 подлежат обязательной регистрации
 оператором связи в установленном
 порядке.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>104.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">104.
 Претензии предъявляются к оператору
 связи, заключившему договор об оказании
 услуг телеграфной связи или отказавшему
 в его заключении.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Претензии
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Претензии
 по вопросам, связанным с приемом или
 вручением (доставкой) телеграмм, могут
 предъявляться как к оператору связи,
 принявшему телеграмму, так и к оператору
 связи по месту назначения телеграммы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>105.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">105.
 К претензии прилагается копия договора
 об оказании услуг телеграфной связи
 или иного удостоверяющего факт заключения
@@ -2317,43 +2329,43 @@ export default `
 предъявления претензии о возмещении
 ущерба - о факте и размере причиненного
 ущерба.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>106.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">106.
 Претензия должна быть рассмотрена не
 позднее чем через 60 дней с даты ее
 регистрации. О результатах рассмотрения
 претензии должно быть сообщено лицу,
 предъявившему ее в письменной форме.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>107.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">107.
 При отклонении претензии полностью или
 частично либо при неполучении ответа
 в установленный для ее рассмотрения
 срок пользователь имеет право обратиться
 в суд.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>108.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">108.
 Право на предъявление претензии имеют:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>пользователь
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">пользователь
 - по обязательствам, вытекающим из
 договора об оказании услуг телеграфной
 связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>пользователь,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">пользователь,
 которому отказано в оказании услуг
 телеграфной связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>отправитель
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">отправитель
 и адресат в случаях, связанных с
 недоставкой или несвоевременной
 доставкой телеграммы либо искажением
 текста, изменившим смысл телеграммы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>IX.
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>IX.
 Ответственность сторон</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>109.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">109.
 Оператор связи несет ответственность
 перед пользователем за неисполнение
 или ненадлежащее исполнение обязательств,
@@ -2368,25 +2380,25 @@ export default `
 размерах, предусмотренных законом или
 договором об оказании услуг телеграфной
 связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>110.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">110.
 При нарушении оператором связи срока
 оказания услуг телеграфной связи и при
 обнаружении недостатков в оказании
 услуг телеграфной связи пользователь
 вправе по своему выбору потребовать:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>безвозмездного
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">безвозмездного
 устранения недостатков;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>уменьшения
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">уменьшения
 размера платы за оказанные услуги;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>повторного
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">повторного
 оказания услуг без дополнительной
 оплаты.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Если
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Если
 в установленный срок недостатки в
 оказании услуг телеграфной связи не
 устранены оператором связи или если
@@ -2394,8 +2406,8 @@ export default `
 при оказании услуг телеграфной связи,
 пользователь вправе расторгнуть договор
 об оказании услуг телеграфной связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>111.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">111.
 Оператор связи несет ответственность
 за искажение текста телеграммы, изменившее
 ее смысл, недоставку телеграммы или ее
@@ -2404,8 +2416,8 @@ export default `
 платы за телеграмму, за исключением
 телеграмм, адресованных в поселения, в
 которых отсутствует сеть электросвязи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>112.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 115%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">112.
 Оператор связи освобождается от
 ответственности за неисполнение или
 ненадлежащее исполнение обязательств,
@@ -2415,7 +2427,7 @@ export default `
 ненадлежащее исполнение произошло по
 вине пользователя либо вследствие
 действия непреодолимой силы.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.11in; line-height: 107%"><BR><BR>
+<P CLASS="western" STYLE="margin-bottom: 0.11in; line-height: 115%"><BR><BR>
 </P>
 </BODY>
 </HTML>`

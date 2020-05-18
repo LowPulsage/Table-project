@@ -1,16 +1,16 @@
 /*eslint-disable*/
 export default `
-< !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
 	<TITLE></TITLE>
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
-	<META NAME="CREATED" CONTENT="20200505;145200000000000">
-	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
-	<META NAME="CHANGED" CONTENT="20200505;145200000000000">
-	<META NAME="AppVersion" CONTENT="16.0000">
+	<META NAME="CREATED" CONTENT="20200430;154300000000000">
+	<META NAME="CHANGEDBY" CONTENT="Учетная запись Майкрософт">
+	<META NAME="CHANGED" CONTENT="20200518;114000000000000">
+	<META NAME="AppVersion" CONTENT="15.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
 	<META NAME="LinksUpToDate" CONTENT="false">
@@ -19,1692 +19,1181 @@ export default `
 	<STYLE TYPE="text/css">
 	<!--
 		@page { margin-left: 1.18in; margin-right: 0.59in; margin-top: 0.79in; margin-bottom: 0.79in }
-		P { margin-bottom: 0.14in; direction: ltr; line-height: 115%; widows: 2; orphans: 2 }
-		P.western { font-family: "Arial", serif; font-size: 10pt; so-language: en-US }
-		P.cjk { font-family: "Calibri"; font-size: 10pt }
-		P.ctl { font-family: "Times New Roman"; font-size: 10pt }
-		A:link { color: #0563c1; so-language: zxx }
+		P { margin-bottom: 0.08in; direction: ltr; widows: 2; orphans: 2 }
+		A:link { color: #0000ff; so-language: zxx }
 	-->
 	</STYLE>
 </HEAD>
-<BODY LANG="ru-RU" LINK="#0563c1" DIR="LTR">
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПРАВИТЕЛЬСТВО
-РОССИЙСКОЙ ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПОСТАНОВЛЕНИЕ<BR>от
-23 января 2006 г. N 32</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ОБ
-УТВЕРЖДЕНИИ ПРАВИЛ<BR>ОКАЗАНИЯ УСЛУГ
-СВЯЗИ ПО ПЕРЕДАЧЕ ДАННЫХ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
-соответствии с Федеральным законом &quot;О
-связи&quot; и Законом Российской Федерации
-&quot;О защите прав потребителей&quot;
-Правительство Российской Федерации
-постановляет:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Утвердить
-прилагаемые Правила оказания услуг
-связи по передаче данных и ввести их в
-действие с 1 июля 2006 г.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Председатель
-Правительства<BR>Российской
-Федерации<BR>М.ФРАДКОВ</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Утверждены<BR>Постановлением
-Правительства<BR>Российской Федерации<BR>от
-23 января 2006 г. N 32</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПРАВИЛА<BR>ОКАЗАНИЯ
-УСЛУГ СВЯЗИ ПО ПЕРЕДАЧЕ ДАННЫХ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>I.
-Общие положения</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
-Настоящие Правила регулируют отношения
-между абонентом и (или) пользователем,
-с одной стороны, и оператором связи, с
-другой стороны, при оказании услуг связи
-по передаче данных.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
-Используемые в настоящих Правилах
-понятия означают следующее:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;абонент&quot;
-- пользователь услугами связи по передаче
-данных, с которым заключен договор об
-оказании услуг связи по передаче данных
-при выделении для этих целей уникального
-кода идентификации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;абонентская
-линия&quot; - линия связи, соединяющая
-пользовательское (оконечное) оборудование
-с узлом связи сети передачи данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;абонентский
-интерфейс&quot; - технико-технологические
-параметры физических цепей, соединяющих
-средства связи с пользовательским
-(оконечным) оборудованием;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;абонентский
-терминал&quot; - пользовательское (оконечное)
-оборудование, используемое абонентом
-и (или) пользователем для подключения
-к узлу связи сети передачи данных с
-помощью абонентской линии;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;достоверность
-передачи информации&quot; - взаимнооднозначное
-соответствие пакетов информации,
-переданных пользовательским (оконечным)
-оборудованием, являющимся одной стороной
-установленного соединения по сети
-передачи данных, и принятых пользовательским
-(оконечным) оборудованием, являющимся
-другой стороной данного соединения;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;пользователь
-услугами связи по передаче данных&quot;
-- лицо, заказывающее и (или) использующее
-услуги связи по передаче данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;пакет
-информации&quot; - сообщение электросвязи,
-которое передается по сети передачи
-данных и в составе которого присутствуют
-данные, необходимые для его коммутации
-узлом связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;протокол
-передачи данных&quot; - формализованный
-набор требований к структуре пакетов
-информации и алгоритму обмена пакетами
-информации между устройствами сети
-передачи данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;предоставление
-доступа к сети передачи данных&quot; -
-совокупность действий оператора связи
-сети передачи данных по формированию
-абонентской линии и подключению с ее
-помощью пользовательского (оконечного)
-оборудования к узлу связи сети передачи
-данных или обеспечению возможности
-подключения к сети передачи данных
-пользовательского (оконечного)
-оборудования с использованием телефонного
-соединения или соединения по иной сети
-передачи данных в целях обеспечения
-возможности оказания абоненту услуг
-связи по передаче данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;предоставление
-возможности доступа к услугам связи по
-передаче данных&quot; - обеспечение одним
-оператором связи возможности получения
-его абонентом услуг связи по передаче
-данных, оказываемых другим оператором
-связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;соединение
-по сети передачи данных (сеанс связи)&quot;
-- установленное в результате вызова или
-предварительно установленное
-взаимодействие между средствами связи,
-позволяющее абоненту и (или) пользователю
-передавать и (или) принимать голосовую
-и (или) неголосовую информацию;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;техническая
-возможность предоставления доступа к
-сети передачи данных&quot; - одновременное
-наличие незадействованной монтированной
-емкости узла связи, в зоне действия
-которого запрашивается подключение
-пользовательского (оконечного)
-оборудования к сети передачи данных, и
-незадействованных линий связи, позволяющих
-сформировать абонентскую линию связи
-между узлом связи и пользовательским
-(оконечным) оборудованием;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;тарифный
-план&quot; - совокупность ценовых условий,
-на которых оператор связи предлагает
-пользоваться одной либо несколькими
-услугами связи по передаче данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&quot;узел
-связи сети передачи данных&quot; - средства
-связи, выполняющие функции систем
-коммутации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3.
-Взаимоотношения оператора связи,
-оказывающего услуги связи по передаче
-данных (далее - оператор связи), с абонентом
-и (или) пользователем, возникающие при
-оказании услуг связи по передаче данных
-на территории Российской Федерации,
-осуществляются на русском языке.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>4.
-Оператор связи обязан обеспечить
-соблюдение тайны информации, передаваемой
-по сети передачи данных.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Ограничение
-права на тайну информации, передаваемой
-по сети передачи данных, допускается
-только в случаях, предусмотренных
-федеральными законами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Сведения
-об информации, передаваемой по сети
-передачи данных, могут предоставляться
-только абонентам и (или) пользователям
-или их уполномоченным представителям,
-если иное не предусмотрено федеральными
-законами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Сведения
-об абоненте-гражданине, ставшие известными
-оператору связи в силу исполнения
-договора об оказании услуг связи по
-передаче данных (далее - договор), могут
-использоваться оператором связи для
-оказания справочных и иных информационных
-услуг или передаваться третьим лицам
-только с письменного согласия этого
-абонента, за исключением случаев,
-предусмотренных федеральными законами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Согласие
-абонента-гражданина на обработку его
-персональных данных в целях осуществления
-оператором связи расчетов за оказанные
-услуги связи, а также рассмотрения
-претензий не требуется.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>5.
-При чрезвычайных ситуациях природного
-и техногенного характера оператор связи
-в порядке, определенном законодательством
-Российской Федерации, вправе временно
-прекращать или ограничивать оказание
-услуг связи по передаче данных.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>6.
-К абонентской линии может быть подключено
-пользовательское (оконечное) оборудование
-(далее - оборудование), которое соответствует
-установленным требованиям.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Обязанность
-по предоставлению оборудования,
-подлежащего подключению к абонентской
-линии, возлагается на абонента, если
-иное не установлено договором.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>7.
-Оператор связи обеспечивает абоненту
-и (или) пользователю возможность
-пользования услугами связи по передаче
-данных 24 часа в сутки, если иное не
-установлено законодательством Российской
-Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>8.
-Услуги связи по передаче данных
-подразделяются на:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>услуги
-связи по передаче данных, за исключением
-услуг связи по передаче данных для целей
-передачи голосовой информации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>услуги
-связи по передаче данных для целей
-передачи голосовой информации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>9.
-Оператор связи вправе оказывать абоненту
-те услуги связи по передаче данных, на
-оказание которых этому оператору связи
-выдана лицензия, в соответствии с
-лицензионными условиями, предусмотренными
-в выданной оператору связи лицензии.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Оказание
-услуг связи по передаче данных может
-сопровождаться оказанием оператором
-связи иных услуг, технологически
-неразрывно связанных с услугами связи
-по передаче данных и направленных на
-повышение их потребительской ценности,
-при соблюдении требований, предусмотренных
-пунктами 31 и 32 настоящих Правил.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Перечень
-услуг, технологически неразрывно
-связанных с услугами связи по передаче
-данных и направленных на повышение их
-потребительской ценности, определяется
-оператором связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>10.
-Оператор связи обязан создавать систему
-информационно-справочного обслуживания
-в целях предоставления абоненту и (или)
-пользователю информации, связанной с
-оказанием услуг связи по передаче
-данных.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>11.
-В системе информационно-справочного
-обслуживания оказываются платные и
-бесплатные информационно-справочные
-услуги.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>12.
-Оператор связи оказывает бесплатно и
-круглосуточно следующие
-информационно-справочные услуги:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
-предоставление информации о тарифах
-на услуги связи по передаче данных, о
-территории оказания услуг связи по
-передаче данных (зоне обслуживания);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
-предоставление абоненту информации о
-состоянии его лицевого счета;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
-прием от абонента и (или) пользователя
-информации о технических неисправностях,
-препятствующих пользованию услугами
-связи по передаче данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
-предоставление информации об оказываемых
-услугах связи по передаче данных и
-необходимых разъяснений.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>13.
-Перечень бесплатных информационно-справочных
-услуг, предусмотренных в пункте 12
-настоящих Правил, не может быть сокращен.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Оказание
-бесплатных информационно-справочных
-услуг может производиться с использованием
-автоинформаторов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14.
-Оператор связи самостоятельно определяет
-перечень и время предоставляемых платных
-информационно-справочных услуг.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>15.
-Оператор связи обязан предоставлять
-гражданину, юридическому лицу либо
-индивидуальному предпринимателю
-необходимую для заключения и исполнения
-договора информацию, которая включает
-в себя:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
-наименование (фирменное наименование)
-оператора связи, перечень его филиалов,
-места их нахождения и режим работы;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
-реквизиты выданной оператору связи
-лицензии (лицензий) на осуществление
-деятельности в области оказания услуг
-связи (далее - лицензия) и лицензионные
-условия;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
-перечень услуг связи по передаче данных,
-условия и порядок их оказания, включая
-используемые абонентские интерфейсы
-и протоколы передачи данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
-диапазон значений показателей качества
-обслуживания, обеспечиваемых сетью
-передачи данных, в пределах которого
-абонент вправе установить в договоре
-необходимые ему значения;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
-перечень и описание преимуществ и
-ограничений в оказании услуг связи по
-передаче данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
-тарифы на услуги связи по передаче
-данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>ж)
-порядок, формы и системы оплаты услуг
-связи по передаче данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>з)
-номера телефонов системы
-информационно-справочного обслуживания;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>и)
-перечень услуг, технологически неразрывно
-связанных с услугами связи по передаче
-данных и направленных на повышение их
-потребительской ценности;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>к)
-указание мест, где абонент и (или)
-пользователь могут в полном объеме
-ознакомиться с настоящими Правилами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>16.
-Оператор связи обязан по требованию
-гражданина, юридического лица либо
-индивидуального предпринимателя
-предоставить ему помимо информации,
-предусмотренной пунктом 15 настоящих
-Правил, дополнительную информацию,
-связанную с оказанием услуг связи по
-передаче данных.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Указанная
-информация на русском языке (при
-необходимости на иных языках) в наглядной
-и доступной форме бесплатно доводится
-через сайт оператора связи в
-информационно-телекоммуникационной
-сети &quot;Интернет&quot; и систему
-информационно-справочного обслуживания
-до сведения гражданина, юридического
-лица либо индивидуального предпринимателя.
-По заявлению абонента направление
-информации возможно на указанный им
-адрес электронной почты или электронный
-адрес системы самообслуживания оператора
-связи, через которую абонентом
-осуществляется доступ к сведениям об
-оказываемых ему услугах связи по передаче
-данных, расчетах с оператором связи и
-иной информации (личный кабинет).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>II.
-Порядок и условия заключения договора</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>17.
-Услуги связи по передаче данных
-оказываются на основании возмездного
-договора.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>18.
-Сторонами по договору выступают
-гражданин, юридическое лицо либо
-индивидуальный предприниматель, с одной
-стороны, и оператор связи, с другой
-стороны.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>19.
-Для заключения договора заявитель
-подает оператору связи заявление в 2
-экземплярах по форме, устанавливаемой
-оператором связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Заявление
-регистрируется оператором связи. Один
-экземпляр остается у оператора связи,
-другой вручается заявителю.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Порядок
-регистрации заявлений о заключении
-договора устанавливается оператором
-связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Оператор
-связи не вправе отказать заявителю в
-приеме и рассмотрении заявления.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>20.
-Гражданин при подаче заявления о
-заключении договора предъявляет
-документ, удостоверяющий его личность.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Представитель
-юридического лица при подаче заявления
-о заключении договора предъявляет
-документ, подтверждающий его полномочия
-(доверенность или соответствующее
-решение единоличного исполнительного
-органа), а также копию свидетельства о
-государственной регистрации юридического
-лица.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Индивидуальный
-предприниматель при подаче заявления
-о заключении договора предъявляет
-документ, удостоверяющий его личность,
-а также копию свидетельства о
-государственной регистрации в качестве
-индивидуального предпринимателя.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>21.
-Оператор связи в срок, не превышающий
-1 месяца со дня регистрации заявления
-о заключении договора, осуществляет
-проверку наличия технической возможности
-предоставления доступа к сети передачи
-данных. При наличии такой технической
-возможности оператор связи заключает
-с заявителем договор.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>22.
-Договор, заключаемый с гражданином,
-является публичным договором. Договор
-заключается на неопределенный срок. По
-желанию заявителя с ним может быть
-заключен срочный договор.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>23.
-Оператор связи имеет право отказать в
-заключении договора при отсутствии
-технической возможности предоставления
-доступа к сети передачи данных. При этом
-о своем отказе оператор связи обязан
-сообщить в письменной форме заявителю
-в срок, не превышающий 10 дней с даты
-окончания проверки наличия технической
-возможности.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
-случае отказа или уклонения оператора
-связи от заключения договора заявитель
-вправе обратиться в суд с требованием
-о понуждении к заключению договора.
-Бремя доказывания отсутствия технической
-возможности предоставления доступа к
-сети передачи данных лежит на операторе
-связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>24.
-Договор заключается в письменной форме
-в 2 экземплярах, один из которых вручается
-абоненту, или путем осуществления
-конклюдентных действий.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Путем
-осуществления конклюдентных действий
-заключается срочный договор об оказании
-разовых услуг по передаче данных в
-пунктах коллективного доступа. Этот
-договор считается заключенным с момента
-осуществления абонентом и (или)
-пользователем действий, направленных
-на установление соединения по сети
-передачи данных (сеанса связи).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>24(1).
-В случае заключения срочного договора
-об оказании разовых услуг по передаче
-данных в пунктах коллективного доступа
-оператор связи осуществляет идентификацию
-пользователей и используемого ими
-оконечного оборудования.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Идентификация
-пользователя осуществляется оператором
-связи путем установления фамилии, имени,
-отчества (при наличии) пользователя,
-подтверждаемых документом, удостоверяющим
-личность, либо иным способом, обеспечивающим
-достоверное установление указанных
-сведений, в том числе с использованием
-федеральной государственной информационной
-системы &quot;Единая система идентификации
-и аутентификации в инфраструктуре,
-обеспечивающей информационно-технологическое
-взаимодействие информационных систем,
-используемых для предоставления
-государственных и муниципальных услуг
-в электронной форме&quot;, или достоверного
-установления абонентского номера,
-назначенного пользователю в соответствии
-с договором об оказании услуг подвижной
-радиотелефонной связи, заключенным с
-оператором связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Идентификация
-оконечного оборудования осуществляется
-средствами связи оператора связи путем
-определения уникального идентификатора
-оборудования сетей передачи данных.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>25.
-Оператор связи вправе поручить третьему
-лицу заключить договор от имени и за
-счет оператора связи, а также осуществлять
-расчеты с абонентом от имени оператора
-связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>По
-договору, заключенному третьим лицом
-от имени и за счет оператора связи, права
-и обязанности возникают непосредственно
-у оператора связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>26.
-В договоре должны быть указаны следующие
-данные:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
-дата и место заключения договора;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
-наименование (фирменное наименование)
-оператора связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
-реквизиты расчетного счета оператора
-связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
-реквизиты выданной оператору связи
-лицензии;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
-сведения об абоненте:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>фамилия,
-имя, отчество, дата и место рождения,
-реквизиты документа, удостоверяющего
-личность, - для гражданина;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>наименование
-(фирменное наименование), место нахождения,
-основной государственный регистрационный
-номер, индивидуальный номер налогоплательщика
-- для юридического лица;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>реквизиты
-документа, удостоверяющего личность,
-и свидетельства о государственной
-регистрации в качестве индивидуального
-предпринимателя - для индивидуального
-предпринимателя;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
-адрес установки оборудования;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>ж)
-вид (тип) оборудования;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>з)
-технические показатели, характеризующие
-качество услуг по передаче данных (в
-том числе полосу пропускания линии
-связи в сети передачи данных, потери
-пакетов информации, временные задержки
-при передаче пакетов информации,
-достоверность передачи информации);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>и)
-согласие (отказ) абонента на использование
-сведений о нем при информационно-справочном
-обслуживании;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>к)
-способ доставки счета за оказанные
-услуги связи по передаче данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>л)
-права, обязанности и ответственность
-сторон;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>м)
-обязанность оператора связи по соблюдению
-сроков и порядка устранения неисправностей,
-препятствующих пользованию услугами
-связи по передаче данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>н)
-срок действия договора.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>26(1).
-В договоре с абонентом - юридическим
-лицом либо индивидуальным предпринимателем,
-помимо данных, указанных в пункте 26
-настоящих Правил, предусматривается
-обязанность предоставления оператору
-связи юридическим лицом либо индивидуальным
-предпринимателем списка лиц, использующих
-его пользовательское (оконечное)
-оборудование, и устанавливается срок
-предоставления указанного списка, а
-также устанавливается, что указанный
-список должен быть заверен уполномоченным
-представителем юридического лица либо
-индивидуальным предпринимателем,
-содержать сведения о лицах, использующих
-его пользовательское (оконечное)
-оборудование (фамилия, имя, отчество
-(при наличии), место жительства, реквизиты
-документа, удостоверяющего личность),
-и обновляться не реже одного раза в
-квартал.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>27.
-В договоре должны быть указаны следующие
-существенные условия:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
-используемые абонентские интерфейсы
-и протоколы передачи данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
-оказываемые услуги связи по передаче
-данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
-система оплаты услуг связи по передаче
-данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
-порядок, сроки и форма расчетов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>28.
-При заключении договора в качестве
-уникального кода идентификации не
-допускается выделение номера из ресурса
-нумерации географически определяемой
-или географически не определяемой зоны
-нумерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>29.
-Оператор связи не вправе навязывать
-абоненту и (или) пользователю оказание
-иных услуг за отдельную плату.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>30.
-Оператор связи не вправе обусловливать
-оказание одних услуг связи по передаче
-данных обязательным оказанием других
-услуг.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>III.
-Порядок и условия исполнения договора</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>31.
-Оператор связи обязан:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
-оказывать абоненту и (или) пользователю
-услуги связи по передаче данных в
-соответствии с законодательством
-Российской Федерации, настоящими
-Правилами, лицензией и договором;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
-устранять в установленные сроки
-неисправности, препятствующие пользованию
-услугами связи по передаче данных.
-Информация о сроках устранения
-неисправностей, препятствующих
-пользованию услугами связи по передаче
-данных, размещается на сайте оператора
-связи в информационно-телекоммуникационной
-сети &quot;Интернет&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
-извещать абонентов и (или) пользователей
-в местах работы с абонентами и (или)
-пользователями и через свой сайт в
-информационно-телекоммуникационной
-сети &quot;Интернет&quot; об изменении тарифов
-на услуги связи по передаче данных не
-менее чем за 10 дней до введения новых
-тарифов. По заявлению абонента извещение
-возможно осуществлять через указанный
-им адрес электронной почты или электронный
-адрес личного кабинета;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
-назначать по согласованию с абонентом
-и (или) пользователем новый срок исполнения
-услуг связи по передаче данных, если
-несоблюдение срока было обусловлено
-обстоятельствами непреодолимой силы;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
-при поступлении соответствующего
-запроса от органа, осуществляющего
-оперативно-розыскную деятельность, в
-течение 3 рабочих дней со дня получения
-такого запроса направить абоненту
-запрос с требованием подтвердить
-соответствие персональных данных
-фактического пользователя сведениям,
-заявленным в договоре, с указанием даты
-прекращения оказания услуг связи в
-случае неподтверждения соответствия
-персональных данных одним или несколькими
-из следующих способов:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>путем
-отправки короткого текстового сообщения
-по сети подвижной радиотелефонной
-связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>путем
-отправки сообщения с использованием
-справочно-информационной службы
-оператора связи, в том числе автоинформатора;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>с
-использованием информационно-телекоммуникационной
-сети &quot;Интернет&quot;, в том числе путем
-отправки сообщения по электронной почте
-(при наличии адреса) либо путем отправки
-уведомления с использованием системы
-самообслуживания оператора связи, через
-которую абонентом осуществляется доступ
-к сведениям об оказываемых ему услугах
-связи по передаче данных и о расчетах
-с оператором связи, а также к иной
-информации (личный кабинет);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
-повторно информировать абонента в
-порядке, предусмотренном подпунктом
-&quot;д&quot; настоящего пункта, о сроках
-прекращения оказания услуг связи в
-случае неподтверждения соответствия
-персональных данных фактического
-пользователя сведениям, заявленным в
-договоре, не позднее чем за 3 суток до
-прекращения оказания услуг связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>ж)
-обеспечить для абонента возможность
-подтверждения соответствия персональных
-данных фактического пользователя
-сведениям, заявленным в договоре, путем
-представления оператору связи документа,
-удостоверяющего личность, а также
-использования одного из предоставляемых
-оператором связи способов (при их
-наличии), указанных в подпункте &quot;е&quot;
-пункта 32 настоящих Правил, проинформировав
-абонента о таких способах при направлении
-ему запроса в соответствии с подпунктом
-&quot;д&quot; настоящего пункта либо указав
-в запросе электронный адрес страницы
-сайта оператора связи в
-информационно-телекоммуникационной
-сети &quot;Интернет&quot;, на которой размещена
-информация о таких способах.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>32.
-Абонент обязан:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
-вносить плату за оказанные ему услуги
-связи по передаче данных и иные
-предусмотренные в договоре услуги в
-полном объеме и в определенные договором
-сроки;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
-не подключать к абонентской линии
-оборудование, которое не соответствует
-установленным требованиям;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
-сообщать оператору связи в срок, не
-превышающий 60 дней, о прекращении своего
-права владения и (или) пользования
-помещением, в котором установлено
-оборудование, а также об изменении
-соответственно фамилии (имени, отчества)
-и места жительства, наименования
-(фирменного наименования) и места
-нахождения;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
-содержать в исправном состоянии
-абонентскую линию и оборудование,
-находящиеся в помещении абонента;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
-соблюдать правила эксплуатации
-оборудования;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
-при поступлении запроса от оператора
-связи с требованием подтвердить
-соответствие персональных данных
-фактического пользователя сведениям,
-заявленным в договоре, осуществить
-подтверждение персональных данных
-путем представления оператору связи
-документа, удостоверяющего личность,
-или одним из следующих предоставляемых
-оператором связи способов:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>путем
-направления оператору связи электронного
-документа, подписанного усиленной
-квалифицированной электронной подписью,
-либо при осуществлении доступа к системе
-самообслуживания оператора связи, через
-которую абонентом осуществляется доступ
-к сведениям об оказываемых ему услугах
-связи по передаче данных и о расчетах
-с оператором связи, а также к иной
-информации (личный кабинет), с использованием
-усиленной квалифицированной электронной
-подписи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>с
-использованием федеральной государственной
-информационной системы &quot;Единая
-система идентификации и аутентификации
-в инфраструктуре, обеспечивающей
-информационно-технологическое
-взаимодействие информационных систем,
-используемых для предоставления
-государственных и муниципальных услуг
-в электронной форме&quot; при наличии
-подтвержденной учетной записи в системе.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>33.
-Абонент вправе:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
-отказаться в любое время в одностороннем
-порядке от исполнения договора при
-условии оплаты фактически понесенных
-оператором связи расходов по оказанию
-этому абоненту услуг связи по передаче
-данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
-отказаться от оплаты не предусмотренных
-договором услуг связи по передаче
-данных, предоставленных ему без его
-согласия;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
-назначать по согласованию с оператором
-связи новый срок оказания услуг связи
-по передаче данных, если несоблюдение
-сроков было обусловлено обстоятельствами
-непреодолимой силы, о которых абоненту
-было сообщено до истечения назначенного
-срока оказания услуг связи по передаче
-данных.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>34.
-С целью подключения к абонентской линии
-средств связи, обеспечивающих одновременное
-совместное использование двумя
-операторами связи одной абонентской
-линии, оператор связи обязан изменить
-схему включения работающего на отдельной
-абонентской линии оборудования при
-получении от другого оператора связи
-обращения о таком изменении, письменно
-согласованного с абонентом. При этом
-порядок и условия изменения указанной
-схемы регулируются заключенным между
-операторами связи соглашением.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>35.
-Оплата услуг связи по передаче данных
-может осуществляться по абонентской
-или повременной системе оплаты либо по
-объему принятой и (или) переданной
-информации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>36.
-Плата за предоставление оператором
-связи доступа к сети передачи данных
-взимается однократно за каждый факт
-предоставления доступа к сети передачи
-данных.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Тариф
-на предоставление оператором связи
-доступа к сети передачи данных
-устанавливается оператором связи, если
-иной порядок не предусмотрен
-законодательством Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>37.
-Единица тарификации соединения по сети
-передачи данных (сеанса связи)
-устанавливается оператором связи, но
-не может быть более 1 минуты для услуг
-связи по передаче данных для целей
-передачи голосовой информации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Учет
-продолжительности соединения по сети
-передачи данных (сеанса связи) ведется
-в соответствии с принятой оператором
-связи единицей тарификации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>38.
-Продолжительность соединения по сети
-передачи данных (сеанса связи), используемая
-для определения размера платы, при
-передаче голосовой информации
-отсчитывается с 1-й секунды после ответа
-вызываемого оборудования до момента
-отбоя вызывающего или вызываемого
-оборудования или оборудования, заменяющего
-абонента в его отсутствие, а при передаче
-неголосовой информации - с 1-го переданного
-байта. Соединение по сети передачи
-данных (сеанс связи) при передаче
-голосовой информации продолжительностью
-менее 2 секунд не учитывается в объеме
-оказанных услуг связи по передаче данных
-при повременной системе оплаты.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>39.
-Тарифы на услуги связи по передаче
-данных, в том числе тариф, используемый
-для оплаты неполной единицы тарификации,
-устанавливаются оператором связи, если
-иной порядок не установлен законодательством
-Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>40.
-Тарифы могут дифференцироваться по
-времени суток, дням недели, выходным и
-праздничным дням, по объему принятой и
-(или) переданной информации, а также в
-зависимости от расстояния между
-оборудованием, являющимся одной стороной
-установленного соединения по сети
-передачи данных (сеанса связи), и
-оборудованием, являющимся другой
-стороной данного соединения (сеанса
-связи).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>41.
-Плата за соединение по сети передачи
-данных (сеанс связи) определяется исходя
-из его продолжительности, выраженной
-в количестве единиц тарификации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>42.
-При передаче голосовой информации по
-сети передачи данных к оборудованию,
-сигнал ответа которого приравнивается
-к ответу вызываемого абонента и служит
-началом отсчета продолжительности
-соединения по сети передачи данных
-(сеанса связи), относятся:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>абонентский
-терминал с функцией автоответчика;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>иное
-оборудование, заменяющее абонента в
-его отсутствие и обеспечивающее или
-имитирующее обмен информацией.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>43.
-Оплата услуг по передаче данных
-осуществляется путем наличного или
-безналичного расчета в российских
-рублях.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Оплата
-услуг связи по передаче данных может
-производиться посредством авансового
-либо отложенного платежа или непосредственно
-после оказания таких услуг в пунктах
-коллективного доступа.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>При
-оплате услуг связи по передаче данных
-посредством авансового платежа абонент
-вносит определенную сумму на свой
-лицевой счет, с которого оператор связи
-снимает платежи за оказанные абоненту
-услуги связи по передаче данных.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>При
-оплате услуг связи по передаче данных
-посредством отложенного платежа оплата
-осуществляется по окончании расчетного
-периода. Услуги связи по передаче данных
-оплачиваются в срок, устанавливаемый
-оператором связи, при этом указанный
-срок не должен быть менее 10 дней с даты
-окончания расчетного периода. Более
-длительный срок оплаты услуг связи по
-передаче данных может быть предусмотрен
-договором.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>44.
-Основанием для выставления счета
-абоненту и (или) пользователю за
-предоставленные соединения по сети
-передачи данных (сеансы связи) являются
-данные, полученные с помощью оборудования,
-используемого оператором связи для
-учета объема оказанных услуг связи по
-передаче данных.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>45.
-Карта оплаты услуг связи по передаче
-данных содержит закодированную
-информацию, используемую для доведения
-до оператора связи сведений об оплате
-услуг связи по передаче данных, а также
-следующие сведения:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
-наименование (фирменное наименование)
-оператора связи, выпустившего карту;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
-наименование видов услуг связи по
-передаче данных, оплачиваемых с
-использованием карты;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
-размер авансового платежа, внесение
-которого подтверждает карта;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
-срок действия карты;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
-справочные (контактные) номера телефонов
-оператора связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
-правила пользования картой оплаты;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>ж)
-идентификационный номер карты.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>46.
-Абонент и (или) пользователь имеют право
-обратиться к оператору связи с требованием
-возврата средств, внесенных ими в
-качестве авансового платежа.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Оператор
-связи обязан вернуть абоненту и (или)
-пользователю неиспользованный остаток
-средств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>47.
-Расчетный период, за который выставляется
-счет за оказание услуг связи по передаче
-данных, не должен превышать 1 месяц.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>48.
-Срок оплаты услуг связи по передаче
-данных (кроме абонентской платы) не
-должен быть менее 15 дней с даты выставления
-счета. Более длительный срок оплаты
-может быть установлен в договоре.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>При
-оплате услуг связи по передаче данных
-с применением абонентской системы
-оплаты расчет за оказанные услуги связи
-по передаче данных производится не
-позднее 10 дней с даты окончания расчетного
-периода.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>49.
-Счет, выставляемый абоненту за услуги
-связи по передаче данных, является
-расчетным документом, в котором отражаются
-данные о денежных обязательствах
-абонента и который содержит:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
-реквизиты оператора связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
-сведения об абоненте;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
-расчетный период, за который выставляется
-счет;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
-номер лицевого счета абонента (при
-авансовом платеже);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
-данные о суммарной продолжительности
-соединений по сети передачи данных
-(сеансов связи) за расчетный период (при
-повременном учете);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
-общую сумму, предъявляемую к оплате;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>ж)
-размер остатка средств на лицевом счете
-(при авансовом платеже);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>з)
-дату выставления счета;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>и)
-срок оплаты счета;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>к)
-сумму, предъявляемую к оплате по каждому
-виду услуг связи по передаче данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>л)
-виды оказанных услуг связи по передаче
-данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>м)
-дату оказания каждой услуги связи по
-передаче данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>н)
-объем каждой услуги связи по передаче
-данных, оказанной абоненту.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>50.
-Оператор связи обязан обеспечить
-доставку абоненту счета для оплаты
-оказанных услуг связи по передаче данных
-в течение 5 дней с даты выставления этого
-счета.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>По
-обращению абонента оператор связи
-обязан произвести детализацию счета,
-заключающуюся в предоставлении
-дополнительной информации об оказанных
-услугах связи по передаче данных, за
-что может взиматься отдельная плата.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>51.
-Абонент и (или) пользователь вправе
-потребовать возврата средств, уплаченных
-за пользование услугами связи по передаче
-данных, за период, когда отсутствовала
-возможность воспользоваться такими
-услугами не по вине этого абонента и
-(или) пользователя.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>IV.
-Порядок и условия приостановления,<BR>изменения,
-прекращения и расторжения договора</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>52.
-В случае нарушения абонентом связанных
-с оказанием услуг связи по передаче
-данных требований, установленных
-Федеральным законом &quot;О связи&quot;,
-настоящими Правилами и договором, в том
-числе нарушения сроков оплаты оказанных
-услуг связи по передаче данных, оператор
-связи имеет право приостановить оказание
-услуг связи по передаче данных до
-устранения нарушения, уведомив об этом
-абонента.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
-случае неустранения такого нарушения
-в течение 6 месяцев с даты получения
-абонентом от оператора связи уведомления
-в письменной форме о намерении
-приостановить оказание услуг связи по
-передаче данных оператор связи в
-одностороннем порядке вправе расторгнуть
-договор.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>53.
-По письменному заявлению абонента
-оператор связи обязан без расторжения
-договора:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>приостановить
-оказание абоненту услуг связи по передаче
-данных. При этом с абонента взимается
-плата за весь период, указанный в
-заявлении, в соответствии с установленным
-для таких случаев тарифом;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>приостановить
-предоставление возможности доступа к
-услугам связи по передаче данных и (или)
-к услугам системы информационно-справочного
-обслуживания.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>54.
-Действие договора может быть приостановлено
-по письменному заявлению абонента в
-случае сдачи в наем (поднаем), аренду
-(субаренду) помещения, в том числе жилого
-помещения, в котором установлено
-оборудование, на срок действия договора
-найма (поднайма), аренды (субаренды). С
-нанимателем (поднанимателем), арендатором
-(субарендатором) помещения, в котором
-установлено оборудование, может быть
-заключен договор на срок действия
-договора найма (поднайма), аренды
-(субаренды) с выделением для этих целей
-того же уникального кода идентификации,
-что был выделен при заключении договора,
-действие которого приостанавливается.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>55.
-Внесение изменений в договор, заключенный
-в письменной форме, в том числе касающихся
-изменения абонентом системы оплаты
-услуг связи по передаче данных, оформляется
-путем заключения дополнительного
-соглашения к договору.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>56.
-В случае если внесение изменений в
-договор повлекло необходимость выполнения
-оператором связи соответствующих работ,
-эти работы подлежат оплате стороной,
-по инициативе которой были внесены
-изменения в договор.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>57.
-С письменного согласия абонента в
-договор может быть внесено изменение,
-касающееся указания в нем нового
-абонента-гражданина. При этом новым
-абонентом может стать:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>член
-семьи абонента, зарегистрированный по
-месту жительства абонента или являющийся
-участником общей собственности на
-помещение, в котором установлено
-оборудование;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>член
-семьи абонента, который на дату изменения
-договора является несовершеннолетним
-гражданином. При этом до достижения
-14-летнего возраста право на подачу
-заявления об изменении договора от
-имени несовершеннолетнего гражданина
-имеют его законные представители.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>58.
-При реорганизации или переименовании
-абонента - юридического лица (за
-исключением реорганизации в форме
-выделения или разделения) в договор
-может быть внесено изменение, касающееся
-указания в нем правопреемника или нового
-наименования абонента - юридического
-лица. При реорганизации юридического
-лица в форме выделения или разделения
-вопрос о том, с кем из правопреемников
-следует заключить договор, решается в
-соответствии с разделительным балансом.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>59.
-В случае прекращения действия договора
-прекращается исполнение оператором
-связи обязательств по обеспечению для
-абонента возможности доступа к услугам
-связи, оказываемым другим оператором
-связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>60.
-В случае прекращения у абонента права
-владения или пользования помещением,
-в котором установлено оборудование,
-договор с абонентом прекращается. При
-этом оператор связи, являющийся стороной
-этого договора, по требованию нового
-владельца указанного помещения обязан
-в течение 30 дней заключить с ним новый
-договор.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>V.
-Порядок предъявления и рассмотрения
-претензий</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>61.
-Абонент и (или) пользователь вправе
-обжаловать решения и действия (бездействие)
-оператора связи, связанные с оказанием
-услуг связи по передаче данных.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>62.
-Оператор связи обязан иметь книгу жалоб
-и предложений и выдавать ее по первому
-требованию абонента и (или) пользователя.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>63.
-Рассмотрение жалобы абонента и (или)
-пользователя осуществляется в порядке,
-установленном законодательством
-Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>64.
-При неисполнении или ненадлежащем
-исполнении оператором связи обязательств
-по оказанию услуг связи по передаче
-данных абонент и (или) пользователь до
-обращения в суд предъявляет оператору
-связи претензию.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>65.
-Претензия предъявляется в письменной
-форме и подлежит регистрации в день ее
-получения оператором связи.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Претензии
-по вопросам, связанным с отказом в
-оказании услуг связи по передаче данных,
-несвоевременным или ненадлежащим
-исполнением обязательств, вытекающих
-из договора, предъявляются в течение 6
-месяцев со дня оказания услуг связи по
-передаче данных, отказа в их оказании
-или выставления счета за оказанную
-услугу.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>К
-претензии прилагаются копия договора,
-а также иные необходимые для рассмотрения
-претензии по существу документы, в
-которых должны быть указаны сведения
-о неисполнении или ненадлежащем
-исполнении обязательств по договору,
-а в случае предъявления претензии о
-возмещении ущерба - о факте и размере
-причиненного ущерба.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>66.
-Претензия рассматривается оператором
-связи в срок не более 60 дней с даты
-регистрации претензии.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>О
-результатах рассмотрения претензии
-оператор связи должен сообщить в
-письменной форме предъявившему ее
-абоненту и (или) пользователю.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
-случае если претензия была признана
-оператором связи обоснованной, выявленные
-недостатки подлежат устранению в
-разумный срок, назначенный абонентом
-и (или) пользователем.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
-случае если оператором связи были
-признаны обоснованными требования
-абонента и (или) пользователя об уменьшении
-размера оплаты оказанных услуг связи
-по передаче данных, о возмещении расходов
-по устранению недостатков своими силами
-или третьими лицами, а также о возврате
-уплаченных за оказание услуг связи по
-передаче данных средств и возмещении
-убытков, причиненных в связи с отказом
-от предоставления услуг связи по передаче
-данных, указанные требования подлежат
-удовлетворению в 10-дневный срок с даты
-предъявления претензии.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>При
-отклонении претензии полностью или
-частично либо неполучении ответа в
-установленный для ее рассмотрения срок
-абонент и (или) пользователь имеют право
-предъявить иск в суд.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>VI.
-Ответственность сторон</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>67.
-За неисполнение или ненадлежащее
-исполнение обязательств по договору
-оператор связи несет ответственность
-перед абонентом и (или) пользователем
-в следующих случаях:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
-нарушение сроков обеспечения доступа
-к сети передачи данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
-нарушение установленных в договоре
-сроков оказания услуг связи по передаче
-данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
-неоказание услуг связи по передаче
-данных, указанных в договоре;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
-некачественное оказание услуг связи
-по передаче данных, в том числе в
-результате ненадлежащего содержания
-сети передачи данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
-нарушение тайны информации, передаваемой
-по сети передачи данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
-нарушение установленных ограничений
-на распространение сведений об
-абоненте-гражданине, ставших известными
-оператору связи в силу исполнения
-договора.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>68.
-При нарушении установленных сроков
-оказания услуг связи по передаче данных
-абонент-гражданин по своему выбору
-вправе:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
-назначить оператору связи новый срок,
-в течение которого должна быть оказана
-услуга связи по передаче данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
-поручить оказание услуг связи по передаче
-данных третьим лицам за разумную цену
-и потребовать от оператора связи
-возмещения понесенных расходов;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
-потребовать уменьшения стоимости услуги
-связи по передаче данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
-расторгнуть договор.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>69.
-В дополнение к требованиям, предъявляемым
-абонентом- гражданином в соответствии
-с пунктом 68 настоящих Правил, оператор
-связи уплачивает абоненту-гражданину
-неустойку:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>при
-нарушении сроков предоставления доступа
-к сети передачи данных - в размере 3
-процентов платы за предоставление
-доступа к сети передачи данных за каждый
-день просрочки вплоть до начала
-обеспечения доступа к сети передачи
-данных, если более высокий размер
-неустойки не указан в договоре, но не
-более размера указанной в договоре
-платы;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>при
-нарушении установленных сроков оказания
-услуг связи по передаче данных - в размере
-3 процентов стоимости услуги связи по
-передаче данных за каждый час просрочки
-вплоть до начала оказания услуги связи
-по передаче данных, если более высокий
-размер неустойки не указан в договоре,
-но не более стоимости услуги связи по
-передаче данных.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Если
-стоимость услуги связи по передаче
-данных не определена, размер неустойки
-определяется исходя из общей стоимости
-услуги связи по передаче данных,
-существовавшей в том месте, в котором
-требование абонента и (или) пользователя
-должно было быть удовлетворено оператором
-связи, на день добровольного удовлетворения
-такого требования или на день вынесения
-судебного решения, если требование
-абонента и (или) пользователя добровольно
-удовлетворено не было.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>70.
-В случае нарушения оператором связи
-установленных сроков оказания услуг
-связи по передаче данных абонент и (или)
-пользователь вправе требовать полного
-возмещения убытков, причиненных им в
-связи с нарушением указанных сроков.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>71.
-В случае неисполнения или ненадлежащего
-исполнения обязательств в соответствии
-с договором абонент и (или) пользователь
-вправе потребовать по своему выбору:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
-безвозмездного устранения недостатков
-по оказанию услуг связи по передаче
-данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
-соответствующего уменьшения стоимости
-услуг связи по передаче данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
-возмещения понесенных ими расходов по
-устранению недостатков оказанной услуги
-связи по передаче данных своими силами
-или третьими лицами.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>72.
-В случае нарушения оператором связи
-тайны информации, передаваемой по сети
-передачи данных, и требований об
-ограничении распространения сведений
-об абоненте-гражданине, ставших ему
-известными в силу исполнения договора,
-оператор связи по требованию абонента
-возмещает причиненные этими действиями
-убытки.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>73.
-В случае непредставления, неполного
-или несвоевременного представления
-информации об оказании услуг связи по
-передаче данных абонент вправе отказаться
-от исполнения договора, потребовать
-возврата уплаченных за оказанные услуги
-связи по передаче данных средств и
-возмещения понесенных убытков.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>74.
-Абонент и (или) пользователь несут
-ответственность перед оператором связи
-в следующих случаях:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
-неоплата, неполная или несвоевременная
-оплата услуг связи по передаче данных;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
-несоблюдение правил эксплуатации
-оборудования;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
-несоблюдение запрета на подключение к
-абонентской линии оборудования, не
-соответствующего установленным
-требованиям.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>75.
-В случае неоплаты, неполной или
-несвоевременной оплаты услуг связи по
-передаче данных абонент и (или) пользователь
-уплачивают оператору связи неустойку
-в размере 1 процента стоимости неоплаченных,
-оплаченных не в полном объеме или
-несвоевременно оплаченных услуг связи
-по передаче данных (если меньший размер
-не указан в договоре) за каждый день
-просрочки вплоть до дня погашения
-задолженности, но не более суммы,
-подлежащей оплате.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>76.
-В случае несоблюдения абонентом и (или)
-пользователем правил эксплуатации
-оборудования или несоблюдения запрета
-на подключение к абонентской линии
-оборудования, не соответствующего
-установленным требованиям, оператор
-связи вправе обратиться в суд с требованием
-о возмещении причиненных такими
-действиями абонента и (или) пользователя
-убытков.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>77.
-Оператор связи освобождается от
-ответственности за неисполнение или
-ненадлежащее исполнение обязательств
-по договору, если докажет, что их
-неисполнение или ненадлежащее исполнение
-произошло вследствие действия
-обстоятельств непреодолимой силы или
-по вине другой стороны.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.11in; line-height: 107%"><BR><BR>
+<BODY LANG="ru-RU" LINK="#0000ff" DIR="LTR">
+<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%"><A NAME="_GoBack"></A>
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Министерство
+Связи И Массовых Коммуникаций<BR>Российской
+Федерации</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Приказ<BR>От
+21 Марта 2016 Г. N 113</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Об
+Утверждении Требований<BR>К Построению
+Сети Связи Общего Пользования В Части
+Системы<BR>Обеспечения Тактовой Сетевой
+Синхронизации</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
+соответствии с пунктом 2 статьи 12
+Федерального&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">закона
+от 7 июля 2003 г. N 126-ФЗ</FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&nbsp;&quot;О
+связи&quot; (Собрание законодательства
+Российской Федерации, 2003, N 28, ст. 2895; N
+52, ст. 5038; 2004, N 35, ст. 3607; N 45, ст. 4377; 2005, N 19,
+ст. 1752; 2006, N 6, ст. 636; N 10, ст. 1069; N 31, ст. 3431,
+ст. 3452; 2007, N 1, ст. 8; N 7, ст. 835; 2008, N 18, ст.
+1941; 2009, N 29, ст. 3625; 2010, N 7, ст. 705; N 15, ст. 1737;
+N 27, ст. 3408; N 31, ст. 4190; 2011, N 7, ст. 901; N 9, ст.
+1205; N 25, ст. 3535; N 27, ст. 3873, ст. 3880; N 29, ст.
+4284, ст. 4291; N 30, ст. 4590; N 45, ст. 6333; N 49, ст.
+7061; N 50, ст. 7351, ст. 7366; 2012, N 31, ст. 4322, ст.
+4328; N 53, ст. 7578; 2013, N 19, ст. 2326; N 27, ст. 3450; N
+30, ст. 4062; N 43, ст. 5451; N 44, ст. 5643; N 48, ст. 6162;
+N 49, ст. 6339, ст. 6347; N 52, ст. 6961; 2014, N 6, ст. 560;
+N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
+30, ст. 4229, ст. 4273; 2015, N 29, ст. 4342, ст. 4383, ст.
+4389) приказываю:</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
+Утвердить прилагаемые Требования к
+построению сети связи общего пользования
+в части системы обеспечения тактовой
+сетевой синхронизации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
+Признать утратившим силу приказ
+Министерства связи и массовых коммуникаций
+Российской Федерации от 2 марта 2009 г. N
+31 &quot;Об утверждении Требований к
+построению сети связи общего пользования
+в части системы обеспечения тактовой
+сетевой синхронизации&quot; (зарегистрирован
+в Министерстве юстиции Российской
+Федерации 9 апреля 2009 г., регистрационный
+N 13737).</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
+Направить настоящий приказ на
+государственную регистрацию в Министерство
+юстиции Российской Федерации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Министр<BR>Н.А.НИКИФОРОВ</FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утверждены<BR>приказом
+Министерства связи<BR>и массовых
+коммуникаций<BR>Российской Федерации<BR>от
+21.03.2016 N 113</FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ТРЕБОВАНИЯ
+К ПОСТРОЕНИЮ СЕТИ СВЯЗИ ОБЩЕГО ПОЛЬЗОВАНИЯ
+В ЧАСТИ СИСТЕМЫ ОБЕСПЕЧЕНИЯ ТАКТОВОЙ
+СЕТЕВОЙ СИНХРОНИЗАЦИИ</B></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
+Настоящие Требования к построению сети
+связи общего пользования в части системы
+обеспечения тактовой сетевой синхронизации
+(далее - Требования) разработаны в целях
+обеспечения целостности, устойчивости
+функционирования и безопасности единой
+сети электросвязи Российской Федерации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
+Требования распространяются на сети
+электросвязи, входящие в сети связи
+общего пользования (далее - ССОП), а также
+технологические сети электросвязи в
+случае их присоединения к ССОП в части
+построения системы тактовой сетевой
+синхронизации (далее - ТСС).</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
+Система ТСС состоит из технических
+средств ТСС, сети ТСС, наложенной на
+сеть электросвязи, системы управления
+ТСС (далее - СУ ТСС), а также средств связи
+ССОП, являющихся потребителями сигналов
+тактовой сетевой синхронизации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">К
+техническим средствам ТСС относятся:
+первичный эталонный генератор (далее
+- ПЭГ), первичный эталонный источник
+(далее - ПЭИ), вторичный задающий генератор
+(далее - ВЗГ), местный задающий генератор
+(далее - МЗГ), распределитель сигналов
+синхронизации (далее - РСС) и преобразователь
+сигналов синхронизации (далее - ПСС).</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Сеть
+ТСС состоит из внутриузловой и межузловой
+сетей синхронизации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
+Основные понятия, используемые в
+Требованиях, приведены в Приложении N
+1 к Требованиям.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
+Сигналы синхронизации в ССОП формируются
+следующими техническими средствами
+ТСС:</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+ПЭГ;</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+ВЗГ, при синхронизации от ПЭИ или от
+встроенного приемника сигналов
+спутниковых навигационных систем
+ГЛОНАСС или ГЛОНАСС/GPS;</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
+отдельно установленным ПЭИ, который
+синхронизируется сигналами спутниковых
+навигационных систем ГЛОНАСС или
+ГЛОНАСС/GPS.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
+При возникновении аварийных ситуаций
+в сети ТСС и пропадании входных сигналов
+синхронизации ВЗГ и МЗГ должны
+переключаться в режим запоминания
+частоты и выполнять функции резервных
+источников синхронизации для аварийного
+участка сети ТСС.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Блоки
+сетевой синхронизации средств связи,
+выполняющих функции систем коммутации
+(далее - БСС), могут осуществлять функции
+резервных источников синхронизации
+для аварийного участка сети ТСС при
+соответствии их технических характеристик
+в режиме запоминания частоты требованиям,
+установленным для ВЗГ или МЗГ.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
+Сеть ТСС должна использовать сигналы
+синхронизации, сформированные источниками
+эталонного сигнала синхронизации, к
+которым относятся технические средства
+ТСС, указанные в п. 5 Требований и
+установленные в сети электросвязи
+оператора связи, или сигналы синхронизации,
+передаваемые от сетей ТСС других
+операторов связи.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
+При наличии на узле связи ПЭГ, ПЭИ, ВЗГ,
+МЗГ или БСС внутриузловая сеть ТСС
+должна строиться по схеме &quot;звезда&quot;,
+при которой основные сигналы синхронизации
+поступают на средства связи, являющиеся
+потребителями сигналов тактовой сетевой
+синхронизации, от указанных технических
+средств ТСС.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
+Во внутриузловой сети ТСС в качестве
+сигналов синхронизации должны
+использоваться сигналы частотой 2048 кГц
+или потоки со скоростью 2048 кбит/с,
+сформированные в коде HDB-3 и структурированные
+по циклам и сверхциклам для передачи
+сообщений об уровне качества (далее -
+SSM).</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.
+Межузловая сеть ТСС должна обеспечивать
+распределение основных и резервных
+сигналов синхронизации между узлами
+связи.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
+Цепи синхронизации образуются техническими
+средствами ТСС и генераторами сетевых
+элементов (далее - ГСЭ) средств связи
+синхронной цифровой иерархии (далее -
+СЦИ) или синхронного Ethernet (далее SyncE),
+соединенными последовательно линиями
+передачи.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Требования
+к передаче сигналов синхронизации в
+цепях синхронизации, включающие
+требования к сигналам межузловой сети
+ТСС, приведены в Приложении N 2 к
+Требованиям.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
+В цепях синхронизации допускается
+последовательное соединение ГСЭ в
+количестве не более 20. Для формирования
+цепи синхронизации, содержащей более
+20 ГСЭ, требуется восстановление
+качественных показателей сигналов
+синхронизации с помощью ВЗГ. Общее
+количество последовательно включенных
+элементов цепи синхронизации не должно
+превышать 60 ГСЭ и 10 ВЗГ &lt;1&gt;.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">--------------------------------</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&lt;1&gt;
+Цепь синхронизации, содержащая 60 ГСЭ и
+10 ВЗГ, является эталонной цепью
+синхронизации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
+качестве последнего ВЗГ в цепи
+синхронизации допускается использование
+МЗГ.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.
+Сеть ТСС должна получать сигналы
+синхронизации от основного и резервных
+источников синхронизации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14.
+При распределении сигналов синхронизации
+по сетям ТСС с использованием любого
+сочетания основных и резервных путей
+передачи сигналов синхронизации не
+допускается образование петель
+синхронизации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
+целях предотвращения образования петель
+синхронизации сети ТСС должны строиться
+по иерархическому принципу, при котором
+не допускается синхронизация генератора
+высокого уровня иерархии от генераторов
+более низкого уровня иерархии. Для
+обеспечения иерархического принципа
+синхронизации в информационных потоках,
+предназначенных для синхронизации,
+должна использоваться информация об
+уровнях качества, содержащаяся в
+сообщениях SSM.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">15.
+Основными характеристиками, определяющими
+качество сигналов синхронизации в сетях
+ТСС, являются параметры блуждания фазы,
+характеризующие ошибку временного
+интервала (ОВИ): максимальная ошибка
+временного интервала (МОВИ) и девиация
+временного интервала (ДВИ), а для задающих
+генераторов базовых станций сетей
+подвижной радиотелефонной связи
+стандартов GSM, UMTS, WCDMA, TD-SCDMA, CDMA 2000, WiMax
+FDD, LTE FDD и LTE TDD и передающего оборудования
+цифрового наземного телевизионного
+вещания стандартов DVB-T, DVB-T2 - предельное
+допустимое относительное отклонение
+значения тактовой частоты.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">16.
+В целях обеспечения целостности,
+устойчивости функционирования и
+безопасности единой сети электросвязи
+Российской Федерации параметры сигналов
+синхронизации в сети ТСС, указанные в
+Приложении N 3 к Требованиям, подлежат
+измерениям в ходе оценки готовности
+вводимой в эксплуатацию сети электросвязи
+(фрагмента сети электросвязи) к оказанию
+услуг связи и должны поддерживаться в
+процессе эксплуатации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Приложение
+N 1<BR>к Требованиям к построению<BR>сети
+связи общего пользования<BR>в части
+системы обеспечения<BR>тактовой сетевой
+синхронизации,<BR>утвержденным приказом
+Министерства<BR>связи и массовых
+коммуникаций<BR>Российской Федерации<BR>от
+21.03.2016 N 113</FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Справочно</FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ОСНОВНЫЕ
+ПОНЯТИЯ, ИСПОЛЬЗУЕМЫЕ В ТРЕБОВАНИЯХ К
+ПОСТРОЕНИЮ СЕТИ СВЯЗИ ОБЩЕГО ПОЛЬЗОВАНИЯ
+В ЧАСТИ СИСТЕМЫ ОБЕСПЕЧЕНИЯ ТАКТОВОЙ<BR>СЕТЕВОЙ
+СИНХРОНИЗАЦИИ</B></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
+Блок сетевой синхронизации средства
+связи, выполняющего функции системы
+коммутации (БСС) - генераторное
+оборудование, обеспечивающее выбор
+сигнала синхронизации из сигналов,
+которые могут использоваться для
+тактовой синхронизации средств связи,
+выполняющих функции систем коммутации,
+восстановление характеристик выбранного
+сигнала и синхронизацию этим сигналом
+указанного средства связи, а также
+формирование выходного сигнала
+синхронизации, предназначенного для
+синхронизации других средств связи
+ССОП.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
+Блуждание (дрейф) фазы [Wander] - медленные
+(с частотой меньшей, чем 10 Гц) изменения
+отклонений значащих моментов фазы
+сигнала относительно своего эталонного
+положения во времени.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
+Внутриузловая синхронизация [Intra-node
+Distribution] - сеть синхронизации средств
+связи, расположенных в одном узле связи,
+состоящая из технических средств ТСС
+и линий связи для передачи сигналов
+синхронизации в пределах данного узла.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
+Вторичный задающий генератор (ВЗГ)
+[SSU-T, Synchronization Supply Unit-transit]) или [SASE, Stand
+Alone Synchronization Equipment] - техническое средство
+ТСС второго уровня иерархии, выполняющее
+функции восстановления, размножения,
+резервирования и контроля входных
+сигналов синхронизации, а также резервного
+источника синхронизации (в режиме
+запоминания частоты) для фрагмента сети
+ТСС. ВЗГ может выполнять функцию источника
+эталонных сигналов синхронизации при
+наличии в его составе встроенного
+приемника сигналов спутниковых
+навигационных систем ГЛОНАСС или
+ГЛОНАСС/GPS.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
+Генератор сетевого элемента (ГСЭ) средств
+связи СЦИ [SDH Equipment Clock - SEC] - задающий
+генератор средств связи синхронной
+цифровой иерархии, отнесенный к четвертому
+уровню иерархии сети ТСС, управляющий
+формированием выходных сигналов в
+средствах связи СЦИ и обеспечивающий
+выбор сигнала синхронизации из сигналов,
+которые предназначены для использования
+в мультиплексорах СЦИ при синхронизации
+внутренних модулей, а также для
+формирования сигнала синхронизации на
+внешних выходах синхронизации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
+Генератор сетевого элемента (ГСЭ) средств
+связи, использующих технологию синхронного
+Ethernet [Timing of synchronous Ethernet equipment clock - EEC] -
+задающий генератор четвертого уровня
+иерархии, управляющий формированием
+выходных сигналов в средствах связи с
+технологией SyncE и обеспечивающий выбор
+сигнала синхронизации из сигналов,
+которые предназначены для использования
+SyncE. С помощью данного типа ГСЭ
+синхронизируются передаваемые потоки
+Gigabit Ethernet (далее - GE), а также формируются
+сигналы синхронизации на внешних выходах
+синхронизации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
+Девиация временного интервала (ДВИ)
+[Time Deviation - TDEV] - параметр блуждания фазы
+сигнала синхронизации, определяющий
+ожидаемые (наиболее вероятные) отклонения
+значащих моментов фазы в измеряемом
+сигнале относительно номинального
+значения для интервалов наблюдения
+различной длительности. Характеризует
+уровень фазовых шумов в сигнале
+синхронизации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
+Интервал наблюдения [Observation Interval] -
+промежуток времени определенной
+длительности, на котором определяются
+параметры блуждания фазы сигнала
+синхронизации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
+Источник эталонного сигнала [Reference
+oscillator] - источниками эталонного сигнала
+синхронизации, входящими в состав
+системы ТСС оператора связи, являются
+технические средства ТСС, формирующие
+сигналы синхронизации, которыми являются:
+ПЭГ, ВЗГ, при условии его синхронизации
+от встроенного приемника сигналов
+спутниковых навигационных систем
+ГЛОНАСС или ГЛОНАСС/GPS, и ПЭИ, который
+синхронизируется сигналами, получаемыми
+от спутниковых навигационных систем
+ГЛОНАСС или ГЛОНАСС/GPS. Источниками
+эталонных сигналов синхронизации также
+являются сети ТСС других операторов
+связи, сигналы синхронизации которых
+подаются на сеть ТСС операторов связи.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.
+Максимальная ошибка временного интервала
+(МОВИ) [Maximum Time Interval Error - MTIE] - параметр
+блуждания фазы сигнала синхронизации,
+определяющий максимальные значения
+отклонений значащих моментов фазы в
+измеряемом сигнале относительно
+номинального значения для интервалов
+наблюдения различной длительности и
+характеризующий частотные ошибки в
+сигнале синхронизации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
+Межузловая синхронизация [Inter-node
+Distribution] - сеть синхронизации, основанная
+на использовании для передачи сигналов
+синхронизации линий связи ССОП между
+средствами связи, расположенными на
+разных узлах связи.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
+Местный задающий генератор (МЗГ) [SSU-L,
+Synchronization Supply Unit-Local] - техническое средство
+ТСС третьего уровня иерархии, выполняющее
+функции восстановления, распределения
+сигналов синхронизации в пределах узла
+связи, а также резервного источника
+синхронизации (в режиме запоминания
+частоты) для фрагмента сети ТСС.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.
+Относительное отклонение частоты
+[Fractional Frequency Offset] - отношение разности
+между значениями реальной и номинальной
+частотами к заданной номинальной
+частоте.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14.
+Ошибка временного интервала (ОВИ) [TIE,
+Time Interval Error] - разность между измеренным
+значением временного интервала,
+производимого задающим генератором, и
+измеренным значением того же самого
+временного интервала, производимого
+эталонным задающим генератором.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">15.
+Первичный эталонный генератор (ПЭГ)
+[PRC, Primary Reference Clock] - техническое средство
+ТСС первого уровня иерархии, выполняющее
+функции формирования эталонных сигналов
+синхронизации и контроля их качества,
+выбора сигнала синхронизации от одного
+из ПЭИ, входящего в состав ПЭГ. ПЭГ
+состоит их трех ПЭИ и одного ВЗГ.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">16.
+Первичный эталонный источник (ПЭИ)
+[Primary Reference Source - PRS] - техническое средство
+ТСС, формирующее эталонные сигналы
+синхронизации с помощью квантовых
+стандартов частоты или с помощью
+сигналов, поступающих от приемников
+спутниковых навигационных систем
+ГЛОНАСС или ГЛОНАСС/GPS.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">17.
+Петля синхронизации [Synchronization Loop] -
+конфигурация участка сети синхронизации,
+при которой на вход задающего генератора
+поступает сформированный им сигнал
+синхронизации через ряд последовательно
+соединенных других задающих генераторов
+или с данного генератора непосредственно.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">18.
+Преобразователь сигналов синхронизации
+(ПСС) [Retimer] - техническое средство ТСС
+или функциональный модуль мультиплексора
+СЦИ, осуществляющий восстановление
+тактовой частоты в первичном цифровом
+тракте (далее - E1) с помощью опорного
+(внешнего или от ГСЭ) сигнала синхронизации,
+и обеспечивающий формирование
+информационного потока 2048 кбит/с с
+восстановленным значением тактовой
+частоты (E1/T).</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">19.
+Приемник сигналов навигационной
+спутниковой системы [Data sync from navigation
+satellite] - приемник, обеспечивающий прием
+сигналов от аппаратуры спутниковой
+навигации ГЛОНАСС или ГЛОНАСС/GPS с целью
+формирования сигналов синхронизации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">20.
+Приоритет [Priority] - установленная
+очередность выбора задающим генератором
+средства связи, ВЗГ, МЗГ, РСС или БСС
+сигнала для синхронизации из определенных
+пользователем входных сигналов. Первый
+приоритет является наивысшим и определяет
+основной сигнал синхронизации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">21.
+Распределитель сигналов синхронизации
+(РСС) [Synchronization Distribution Unit - SDU] - техническое
+средство ТСС, предназначенное для выбора
+сигнала синхронизации из нескольких
+входных сигналов и распределение его
+на внешние выходы синхронизации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">22.
+Сверхцикл [Multiframe] потока 2048 кбит/с -
+комбинация символов в цифровом сигнале,
+содержащая 16 циклов, пронумерованных
+от 0 до 15, и используемая для передачи
+служебной информации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">23.
+Сеть тактовой сетевой синхронизации
+(сеть ТСС) [Network timing Synchronization] - элемент
+системы ТСС, который определяет
+направления, разрешенные для приема
+сигналов синхронизации средствами
+связи. Сеть ТСС состоит из линий связи,
+по которым распределяются сигналы
+синхронизации, и технических средств
+ТСС, восстанавливающих параметры
+сигналов синхронизации, искаженных при
+их распространении по линиям связи, а
+также формирующих необходимое количество
+сигналов синхронизации для их распределения
+между средствами связи.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">24.
+Сигнал тактовой сетевой синхронизации
+[Timing Signal] - периодический сигнал тактовой
+частоты 2048 кГц или поток со скоростью
+2048 кбит/с, структурированный по циклам
+и сверхциклам, формируемый задающим
+генератором для обеспечения синхронной
+работы средств связи.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">25.
+Синхронизация [Synchronization] - процесс
+подстройки значащих моментов сигналов
+задающих генераторов средств связи для
+установления и поддержания требуемых
+временных соотношений.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">26.
+Синхронная сеть [Synchronous network] - сеть связи,
+все элементы которой работают в синхронном
+режиме с единым долговременным значением
+тактовой частоты.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">27.
+Синхронный Ethernet [Ethernet physical layer methods of
+Synchronization - SynchroEthernet, SyncE] - технология
+передачи сигнала синхронизации по сети
+электросвязи с пакетной коммутацией,
+при которой синхронизация средств связи
+производится на физическом уровне,
+путем синхронизации внутренних
+генераторов ГСЭ и потоков GE.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">28.
+Система управления ТСС (СУ ТСС) [Supervisory
+system of network timing Synchronization] - подсистема
+системы ТСС, состоящая из устройств
+контроля и управления, входящих в состав
+технических средств ТСС, центрального
+сервера управления и средств электросвязи,
+используемых для передачи сигналов
+управления и контроля, с целью обеспечения
+необходимой надежности функционирования
+системы ТСС за счет своевременного
+обнаружения и устранения возникающих
+повреждений.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">29.
+Система тактовой сетевой синхронизации
+(система ТСС) [System of network timing architecture] -
+технологическая система, предназначенная
+для формирования, распределения, приема
+и восстановления сигналов синхронизации
+в целях обеспечения целостности,
+устойчивости функционирования и
+безопасности единой сети электросвязи
+Российской Федерации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">30.
+Сообщение об уровне качества источника
+сигналов синхронизации [Synchronization Status
+Message - SSM] - кодированное значение
+установленного уровня качества источника
+синхронизации, формируемое техническими
+средствами ТСС и ГСЭ с целью передачи
+их по линиям связи в составе информационных
+потоков E1, STM-N и GE.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">31.
+Тактовая сетевая синхронизация (ТСС) -
+процесс обеспечения сигналами
+синхронизации средств связи ССОП.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">32.
+Техническое средство ТСС [Equipment of
+Synchronization] - средства связи, выполняющие
+функции формирования, преобразования
+и распределения сигнала синхронизации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">33.
+Цикл [Cycle] - наименьший интервал времени,
+характеризующий повторяемость событий
+в процессе передачи информации. В
+цифровых системах связи длительность
+цикла равна 125 мкс, что соответствует
+частоте дискретизации 8 кГц, используемой
+при кодировании речевого сигнала.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">34.
+Эталонный сигнал синхронизации [Reference
+Timing Signal] - сигнал синхронизации,
+относительное отклонение частоты
+которого на семисуточном и временных
+интервалах большей длительности не
+превышает +/- 1·10-11.</FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Приложение
+N 2<BR>к Требованиям к построению<BR>сети
+связи общего пользования<BR>в части
+системы обеспечения<BR>тактовой сетевой
+синхронизации,<BR>утвержденным приказом
+Министерства<BR>связи и массовых
+коммуникаций<BR>Российской Федерации<BR>от
+21.03.2016 N 113</FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ТРЕБОВАНИЯ
+К ПЕРЕДАЧЕ СИГНАЛОВ СИНХРОНИЗАЦИИ</B></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
+Передача сигналов синхронизации по
+системам электросвязи СЦИ осуществляется
+в линейных сигналах синхронных
+транспортных модулей (далее - STM-N, где
+N: 1, 4, 16, 64 и 256).</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
+Передача сигналов синхронизации по
+системам электросвязи плезиохронной
+цифровой иерархии (далее - ПЦИ)
+осуществляется в первичном цифровом
+тракте 2048 кбит/с.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
+Передача сигналов синхронизации по
+системам электросвязи синхронного
+Ethernet осуществляется в информационных
+потоках Gigabit Ethernet.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
+В случае использования сигналов
+синхронизации, передаваемых в тракте
+E1 СЦИ, на входе синхронизируемого
+средства связи необходимо устанавливать
+ПСС, если это средство связи не является
+выносным блоком средства связи,
+выполняющего функции системы коммутации,
+или базовых станций сетей подвижной
+радиотелефонной связи.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
+Для целей синхронизации частоты в сетях
+с пакетной коммутацией могут использоваться
+методы, основанные на передаче меток
+времени в протоколе РТР (Precision Time
+Protocol).</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
+Сигнал синхронизации, переданный по
+ПЦИ, не должен поступать в СЦИ или SyncE
+без восстановления его в ВЗГ, МЗГ или в
+БСС средств связи, выполняющих функции
+систем коммутации.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
+При использовании потоков STM-N и GE для
+синхронизации средств связи и выбора
+источников синхронизации ГСЭ необходимо
+использовать информацию об уровне
+качества, содержащуюся в сообщениях
+SSM.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Приложение
+N 3<BR>к Требованиям к построению<BR>сети
+связи общего пользования<BR>в части
+системы обеспечения<BR>тактовой сетевой
+синхронизации,<BR>утвержденным приказом
+Министерства<BR>связи и массовых
+коммуникаций<BR>Российской Федерации<BR>от
+21.03.2016 N 113</FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ТРЕБОВАНИЯ
+К ПАРАМЕТРАМ СИГНАЛОВ СИНХРОНИЗАЦИИ В
+СЕТИ ТСС</B></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
+Предельно допустимые значения параметров
+сигналов синхронизации на выходах
+средств связи СЦИ и SyncE:</FONT></FONT></FONT></P>
+<TABLE WIDTH=4369 CELLPADDING=0 CELLSPACING=0 BGCOLOR="#ffffff">
+	<COL WIDTH=1995>
+	<COL WIDTH=2374>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">МОВИ
+			(нс)</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">интервал
+			наблюдения&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 82" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;(с)</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">250</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">0,1
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 81" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 80" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;2,5</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">100<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 79" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2,5
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 78" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 77" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;20</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2000</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">20
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 76" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 75" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;2000</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">433<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 74" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>0,2
+			+ 0,01<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 73" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 72" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0><FONT COLOR="#222222">&nbsp;<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&gt;
+			2 000</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ДВИ
+			(нс)</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">интервал
+			наблюдения&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 71" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;(с)</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">0,1
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 70" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 69" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;17,14</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">0,7<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 68" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">17,14
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 67" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 66" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;100</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">58
+			+ 1,2<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 65" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>0,5
+			+ 0,0003<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 64" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">100
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 63" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 62" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;1
+			000 000</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+</TABLE>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
+Предельно допустимые значения параметров
+сигналов синхронизации на выходах ВЗГ,
+МЗГ:</FONT></FONT></FONT></P>
+<TABLE WIDTH=4369 CELLPADDING=0 CELLSPACING=0 BGCOLOR="#ffffff">
+	<COL WIDTH=1995>
+	<COL WIDTH=2374>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">МОВИ
+			(нс)</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">интервал
+			наблюдения&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 61" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;(с)</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">25</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">0,1
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 60" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 59" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;2,5</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 58" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2,5
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 57" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 56" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;200</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2000</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">200
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 55" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 54" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;2000</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">433<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 53" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>0,2
+			+ 0,01<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 52" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 51" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0><FONT COLOR="#222222">&nbsp;<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&gt;
+			2 000</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ДВИ
+			(нс)</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">интервал
+			наблюдения&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 50" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;(с)</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">0,1
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 49" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 48" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;4,3</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">0,7<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 47" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4,3
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 46" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 45" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;100</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">58
+			+ 1,2<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 44" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>0,5
+			+ 0,0003<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 43" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">100
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 42" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 41" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;1
+			000 000</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+</TABLE>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
+Предельно допустимые значения параметров
+сигналов синхронизации на выходах
+средств связи ПЦИ:</FONT></FONT></FONT></P>
+<TABLE WIDTH=4369 CELLPADDING=0 CELLSPACING=0 BGCOLOR="#ffffff">
+	<COL WIDTH=1995>
+	<COL WIDTH=2374>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">МОВИ
+			(нс)</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">интервал
+			наблюдения&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 40" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;(с)</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">732</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">0,1
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 39" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 38" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;7,3</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">100<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 37" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7,3
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 36" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 35" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;20</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2000</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">20
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 34" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 33" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;2000</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">433<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 32" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>0,2
+			+ 0,01<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 31" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 30" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0><FONT COLOR="#222222">&nbsp;<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&gt;
+			2 000</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ДВИ
+			(нс)</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">интервал
+			наблюдения&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 29" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;(с)</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">34</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">0,1
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 28" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 27" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;48</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">0,7<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 26" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">48
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 25" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 24" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;100</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1995 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">58
+			+ 1,2<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 23" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>0,5
+			+ 0,0003<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 22" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2374 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">100
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 21" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 20" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;1
+			000 000</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+</TABLE>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
+Предельно допустимые значения параметров
+сигналов синхронизации на входе цепочек
+синхронизации, которая начинается от
+ПЭГ:</FONT></FONT></FONT></P>
+<TABLE WIDTH=4369 CELLPADDING=0 CELLSPACING=0 BGCOLOR="#ffffff">
+	<COL WIDTH=1528>
+	<COL WIDTH=2841>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1528 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">МОВИ
+			(нс)</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2841 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">интервал
+			наблюдения&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 19" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;(с)</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1528 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">25</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2841 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">0,1
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 18" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 17" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;83</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1528 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">0,3<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 16" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2841 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">83
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 15" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 14" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;1000</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1528 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">300</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2841 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1000
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 13" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 12" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;30
+			000</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1528 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">0,01<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 11" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2841 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 10" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0><FONT COLOR="#222222">&nbsp;<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&gt;
+			30 000 с</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1528 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ДВИ
+			(нс)</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2841 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">интервал
+			наблюдения&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 9" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;(с)</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1528 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2841 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">0,1
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 8" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 7" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;100</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1528 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">0,03<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 6" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2841 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">100
+			&lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 5" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 4" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;1
+			000</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=1528 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">29,7
+			+ 0,0003<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 3" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2841 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P ALIGN=JUSTIFY><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1
+			000 &lt;&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_b6db777a.png" NAME="Рисунок 2" ALIGN=BOTTOM WIDTH=12 HEIGHT=15 BORDER=0>&nbsp;<IMG SRC="979a0d7261a7158e652ff7815476c235_html_f965a49f.png" NAME="Рисунок 1" ALIGN=BOTTOM WIDTH=14 HEIGHT=16 BORDER=0>&nbsp;1
+			000 000</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+</TABLE>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
+Предельно допустимое относительное
+отклонение частоты сигналов, используемых
+для синхронизации базовых станций сетей
+подвижной радиотелефонной связи
+стандартов GSM, UMTS, WCDMA, TD-SCDMA, CDMA 2000, WiMax
+FDD, LTE FDD и LTE TDD и передающего оборудования
+для цифрового наземного телевизионного
+вещания стандартов DVB-T, DVB-T2 не должно
+превышать 1,6·10-8. При заданном отклонении
+частоты сигналов синхронизации указанных
+базовых станций и передающего оборудования
+относительное отклонение частоты их
+выходных сигналов не должно превышать
+5,0·10-8.</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in; line-height: 150%"><BR><BR>
 </P>
 </BODY>
 </HTML>`

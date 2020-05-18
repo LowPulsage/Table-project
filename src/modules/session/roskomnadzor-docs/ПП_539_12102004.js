@@ -1,6 +1,6 @@
 /*eslint-disable*/
 export default `
-< !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
@@ -8,9 +8,9 @@ export default `
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
 	<META NAME="CREATED" CONTENT="20200505;145600000000000">
-	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
-	<META NAME="CHANGED" CONTENT="20200505;145700000000000">
-	<META NAME="AppVersion" CONTENT="16.0000">
+	<META NAME="CHANGEDBY" CONTENT="Учетная запись Майкрософт">
+	<META NAME="CHANGED" CONTENT="20200518;112600000000000">
+	<META NAME="AppVersion" CONTENT="15.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
 	<META NAME="LinksUpToDate" CONTENT="false">
@@ -28,37 +28,40 @@ export default `
 	</STYLE>
 </HEAD>
 <BODY LANG="ru-RU" LINK="#0563c1" DIR="LTR">
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПРАВИТЕЛЬСТВО
-РОССИЙСКОЙ ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПОСТАНОВЛЕНИЕ<BR>от
-12 октября 2004 г. N 539</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>О
-ПОРЯДКЕ РЕГИСТРАЦИИ РАДИОЭЛЕКТРОННЫХ<BR>СРЕДСТВ
-И ВЫСОКОЧАСТОТНЫХ УСТРОЙСТВ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Правительство
+Российской Федерации</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%"><A NAME="_GoBack"></A>
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Постановление<BR>От
+12 Октября 2004 Г. N 539</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">О
+Порядке Регистрации Радиоэлектронных<BR>Средств
+И Высокочастотных Устройств</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 соответствии со статьей 22 Федерального
 закона &quot;О связи&quot; Правительство
-Российской Федерации постановляет:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
-Утвердить прилагаемые:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Правила
+Российской Федерации постановляет:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
+Утвердить прилагаемые:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Правила
 регистрации радиоэлектронных средств
-и высокочастотных устройств;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>перечень
+и высокочастотных устройств;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">перечень
 радиоэлектронных средств и высокочастотных
-устройств, подлежащих регистрации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
-Установить, что:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>разрешения
+устройств, подлежащих регистрации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
+Установить, что:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">разрешения
 на эксплуатацию радиоэлектронных
 средств и высокочастотных устройств,
 на использование радиочастот или
@@ -68,9 +71,9 @@ export default `
 установленном порядке до вступления в
 силу настоящего Постановления,
 действительны до окончания указанного
-в них срока;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>радиоэлектронные
+в них срока;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">радиоэлектронные
 средства и высокочастотные устройства
 государственных органов и организаций,
 используемые для нужд органов
@@ -83,21 +86,21 @@ export default `
 служба охраны Российской Федерации,
 подлежат регистрации в Федеральной
 службе безопасности Российской Федерации
-и ее территориальных органах.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3.
-Признать утратившими силу:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>пункт
+и ее территориальных органах.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
+Признать утратившими силу:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">пункт
 5 Постановления Правительства Российской
 Федерации от 15 января 1993 г. N 30 &quot;Об
 упорядочении использования радиоэлектронных
 средств (высокочастотных устройств) на
 территории Российской Федерации&quot;
 (Собрание актов Президента и Правительства
-Российской Федерации, 1993, N 3, ст. 179);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>пункт
+Российской Федерации, 1993, N 3, ст. 179);</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">пункт
 &quot;г&quot; Постановления Правительства
 Российской Федерации от 31 июля 1998 г. N
 868 &quot;О внесении изменений в Постановление
@@ -107,9 +110,9 @@ export default `
 (высокочастотных устройств) на территории
 Российской Федерации&quot; (Собрание
 законодательства Российской Федерации,
-1998, N 32, ст. 3912);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>пункт
+1998, N 32, ст. 3912);</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">пункт
 2 Постановления Правительства Российской
 Федерации от 2 марта 2000 г. N 180 &quot;Об
 утверждении норм обеспечения боевым
@@ -125,9 +128,9 @@ export default `
 Федерации от 15 января 1993 г. N 30 &quot;Об
 упорядочении использования радиоэлектронных
 средств (высокочастотных устройств) на
-территории Российской Федерации&quot;;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>подпункт
+территории Российской Федерации&quot;;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">подпункт
 &quot;г&quot; пункта 4 Положения о государственной
 радиочастотной службе при Министерстве
 Российской Федерации по связи и
@@ -139,51 +142,61 @@ export default `
 использования радиочастот и радиоэлектронных
 средств (высокочастотных устройств)
 гражданского применения,
-утвержденных&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-25.12.2000-N-1002/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3><U>Постановлением
+утвержденных&nbsp;Постановлением
 Правительства Российской Федерации от
-25 декабря 2000 г. N 1002</U></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;&quot;О
-государственной радиочастотной службе
-при Министерстве Российской Федерации
-по связи и информатизации&quot; (Собрание
-законодательства Российской Федерации,
-2001, N 1, ст. 132);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>абзац
+25 декабря 2000 г. N 1002&nbsp;&quot;О государственной
+радиочастотной службе при Министерстве
+Российской Федерации по связи и
+информатизации&quot; (Собрание законодательства
+Российской Федерации, 2001, N 1, ст. 132);</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">абзац
 третий пункта 3 изменений, которые
 вносятся в Постановления Правительства
-Российской Федерации, утвержденные&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-06.02.2004-N-51/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3><U>Постановлением
+Российской Федерации, утвержденные&nbsp;Постановлением
 Правительства Российской Федерации от
-6 февраля 2004 г. N 51</U></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;&quot;Об
-изменении и признании утратившими силу
-некоторых постановлений Правительства
-Российской Федерации в связи с
-совершенствованием государственного
-управления в Российской Федерации&quot;
-(Собрание законодательства Российской
-Федерации, 2004, N 8, ст. 663).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Председатель
+6 февраля 2004 г. N 51&nbsp;&quot;Об изменении и
+признании утратившими силу некоторых
+постановлений Правительства Российской
+Федерации в связи с совершенствованием
+государственного управления в Российской
+Федерации&quot; (Собрание законодательства
+Российской Федерации, 2004, N 8, ст. 663).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Председатель
 Правительства<BR>Российской
-Федерации<BR>М.ФРАДКОВ</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Утверждены<BR>Постановлением
+Федерации<BR>М.ФРАДКОВ</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утверждены<BR>Постановлением
 Правительства<BR>Российской Федерации<BR>от
-12 октября 2004 г. N 539</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПРАВИЛА<BR>РЕГИСТРАЦИИ
-РАДИОЭЛЕКТРОННЫХ СРЕДСТВ<BR>И ВЫСОКОЧАСТОТНЫХ
-УСТРОЙСТВ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
+12 октября 2004 г. N 539</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ПРАВИЛА
+РЕГИСТРАЦИИ РАДИОЭЛЕКТРОННЫХ СРЕДСТВ<BR>И
+ВЫСОКОЧАСТОТНЫХ УСТРОЙСТВ</B></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Настоящие Правила устанавливают порядок
 регистрации радиоэлектронных средств
 и высокочастотных устройств гражданского
 назначения, используемых на территории
 Российской Федерации и территориях,
 находящихся под юрисдикцией Российской
-Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
+Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Под владельцем радиоэлектронных средств
 и высокочастотных устройств понимается
 лицо, у которого эти средства или
@@ -191,15 +204,15 @@ export default `
 на праве хозяйственного ведения или на
 праве оперативного управления либо на
 ином законном основании (аренда,
-безвозмездное пользование).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Под
+безвозмездное пользование).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Под
 пользователем радиоэлектронного
 средства понимается лицо, использующее
 это средство совместно с владельцем на
-основании договора.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3.
+основании договора.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Регистрация радиоэлектронных средств
 и высокочастотных устройств осуществляется
 Федеральной службой по надзору в сфере
@@ -211,9 +224,9 @@ export default `
 каналов), посредством внесения
 соответствующей записи в реестр
 зарегистрированных радиоэлектронных
-средств и высокочастотных устройств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>4.
+средств и высокочастотных устройств.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Регистрации подлежат радиоэлектронные
 средства и высокочастотные устройства,
 предусмотренные перечнем, утверждаемым
@@ -225,9 +238,9 @@ export default `
 по футболу FIFA 2018 года и Кубка конфедераций
 FIFA 2017 года или участников чемпионата
 мира по футболу FIFA 2018 года и Кубка
-конфедераций FIFA 2017 года.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Министерство
+конфедераций FIFA 2017 года.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Министерство
 цифрового развития, связи и массовых
 коммуникаций Российской Федерации не
 реже одного раза в год вносит в
@@ -241,11 +254,14 @@ FIFA 2017 года или участников чемпионата
 изменений в приложение к перечню
 радиоэлектронных средств и высокочастотных
 устройств, подлежащих регистрации,
-утвержденному&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-12.10.2004-N-539/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3><U>постановлением
+утвержденному&nbsp;постановлением
 Правительства Российской Федерации от
-12 октября 2004 г. N 539</U></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>5.
+12 октября 2004 г. N 539.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
 Настоящие Правила не распространяются
 на регистрацию радиоэлектронных средств
 и высокочастотных устройств государственных
@@ -263,22 +279,22 @@ FIFA 2017 года или участников чемпионата
 внутреннего плавания, судах смешанного
 (река - море) плавания, и бортовых
 радиостанций, используемых на воздушных
-судах.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>6.
+судах.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 Министерство цифрового развития, связи
 и массовых коммуникаций Российской
-Федерации устанавливает:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+Федерации устанавливает:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 перечень технических характеристик и
 параметров излучения радиоэлектронных
 средств и высокочастотных устройств,
 сведения о которых прилагаются к
 заявлению о регистрации этих средств
-и устройств;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+и устройств;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 требования к формированию реестра
 зарегистрированных радиоэлектронных
 средств и высокочастотных устройств и
@@ -287,13 +303,13 @@ FIFA 2017 года или участников чемпионата
 средств и высокочастотных устройств,
 а также форму выписки из реестра
 зарегистрированных радиоэлектронных
-средств и высокочастотных устройств;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+средств и высокочастотных устройств;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 формы свидетельств об образовании
-позывных сигналов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>7.
+позывных сигналов.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
 Регистрация радиоэлектронных средств
 и высокочастотных устройств осуществляется
 по заявлению владельца радиоэлектронных
@@ -320,9 +336,9 @@ FIFA 2017 года или участников чемпионата
 электронная форма) или иным способом в
 соответствии с законодательством
 Российской Федерации, подтверждающим
-факт направления заявления.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Заявление
+факт направления заявления.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Заявление
 о регистрации абонентской земной станции
 спутниковой связи, работающей через
 искусственные спутники Земли по
@@ -331,9 +347,9 @@ FIFA 2017 года или участников чемпионата
 согласия владельца станции спутниковой
 связи VSAT может быть подано оператором
 связи, в сети связи которого работает
-эта станция спутниковой связи VSAT.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>7(1).
+эта станция спутниковой связи VSAT.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7(1).
 В случае подачи заявления о регистрации
 радиоэлектронных средств и высокочастотных
 устройств в электронной форме заявителем,
@@ -343,14 +359,16 @@ FIFA 2017 года или участников чемпионата
 соответствии с Правилами использования
 простой электронной подписи при оказании
 государственных и муниципальных услуг,
-утвержденными&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-25.01.2013-N-33/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3><U>постановлением
+утвержденными&nbsp;постановлением
 Правительства Российской Федерации от
-25 января 2013 г. N 33</U></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;&quot;Об
-использовании простой электронной
-подписи при оказании государственных
-и муниципальных услуг&quot;.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>8.
+25 января 2013 г. N 33&nbsp;&quot;Об использовании
+простой электронной подписи при оказании
+государственных и муниципальных услуг&quot;.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
 Заявление о регистрации радиоэлектронных
 средств и высокочастотных устройств
 подается в территориальный орган
@@ -359,15 +377,15 @@ FIFA 2017 года или участников чемпионата
 массовых коммуникаций, на территории
 деятельности которого планируется
 использование радиоэлектронных средств
-и высокочастотных устройств, с указанием:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+и высокочастотных устройств, с указанием:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 наименования, идентификационного номера
 налогоплательщика, места нахождения и
 почтового адреса юридического лица -
-для юридического лица;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+для юридического лица;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 фамилии, имени, отчества, идентификационного
 номера налогоплательщика (при его
 наличии), места жительства, данных
@@ -375,43 +393,43 @@ FIFA 2017 года или участников чемпионата
 гражданина Российской Федерации, - для
 индивидуальных предпринимателей и
 физических лиц, не являющихся
-индивидуальными предпринимателями;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+индивидуальными предпринимателями;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 имени, фамилии, гражданства (в случае
 его наличия), места регистрации, данных
 документа, удостоверяющего личность,
 - для иностранных граждан и лиц без
-гражданства;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
+гражданства;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 типа, наименования и номера регистрируемого
 радиоэлектронного средства и
-высокочастотного устройства;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
+высокочастотного устройства;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 номера и даты разрешения на использование
 радиочастот (радиочастотных каналов)
 для радиоэлектронных средств, выданных
 на имя заявителя (в случае, если наличие
 такого разрешения предусмотрено
-законодательством Российской Федерации);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
+законодательством Российской Федерации);</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 номера и даты свидетельства об образовании
 позывного сигнала (в случае, если
 образование позывного сигнала
 предусмотрено законодательством
-Российской Федерации);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>ж)
+Российской Федерации);</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ж)
 номера и даты решения Государственной
 комиссии по радиочастотам о выделении
 полос радиочастот, на основании которого
 планируется использовать радиоэлектронные
-средства или высокочастотные устройства.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>9.
+средства или высокочастотные устройства.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
 В случае если в соответствии с решением
 о выделении полосы радиочастот и (или)
 разрешениями на использование радиочастот
@@ -424,30 +442,39 @@ FIFA 2017 года или участников чемпионата
 орган Федеральной службы по надзору в
 сфере связи, информационных технологий
 и массовых коммуникаций по месту
-регистрации заявителя.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>10.
-К заявлению прилагаются:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
-утратил силу. -&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-22.12.2011-N-1100/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3><U>Постановление
-Правительства РФ от 22.12.2011 N 1100</U></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
-утратил силу. -&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-13.10.2011-N-837/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3><U>Постановление
-Правительства РФ от 13.10.2011 N 837</U></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
-утратил силу. -&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-22.12.2011-N-1100/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3><U>Постановление
-Правительства РФ от 22.12.2011 N 1100</U></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
+регистрации заявителя.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.
+К заявлению прилагаются:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
+утратил силу. -&nbsp;Постановление
+Правительства РФ от 22.12.2011 N 1100;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
+утратил силу. -&nbsp;Постановление
+Правительства РФ от 13.10.2011 N 837;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
+утратил силу. -&nbsp;Постановление
+Правительства РФ от 22.12.2011 N 1100;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 сведения о технических характеристиках
 и параметрах излучения регистрируемых
 радиоэлектронных средств и (или)
-высокочастотных устройств;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
+высокочастотных устройств;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 копия договора оператора связи с
 абонентом, пользовательское (оконечное)
 оборудование которого работает в сети
@@ -458,24 +485,24 @@ FIFA 2017 года или участников чемпионата
 (оконечного) оборудования осуществляется
 на основании разрешения на использование
 радиочастот или радиочастотных каналов,
-выданного владельцу сети связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
+выданного владельцу сети связи;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 копия договора между владельцем
 радиоэлектронных средств и пользователем
 радиоэлектронного средства - в случае,
 если предполагается совместное
 использование радиоэлектронного
-средства;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>ж)
+средства;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ж)
 письменное согласие владельца станции
 спутниковой связи VSAT, работающей в сети
 связи оператора связи, на подачу заявления
 о регистрации этой станции спутниковой
-связи VSAT оператором связи;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>з)
+связи VSAT оператором связи;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">з)
 копия договора оператора связи с имеющим
 разрешение на использование радиочастот
 или радиочастотных каналов владельцем
@@ -486,9 +513,9 @@ FIFA 2017 года или участников чемпионата
 связи оператора связи, - в случае, если
 осуществляется регистрация станции
 спутниковой связи VSAT, работающей в Ku- и
-(или) Ka-диапазоне.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>10(1).
+(или) Ka-диапазоне.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10(1).
 Документы и информация, которые необходимы
 для принятия решения о регистрации
 радиоэлектронных средств и высокочастотных
@@ -507,18 +534,18 @@ FIFA 2017 года или участников чемпионата
 коммуникаций посредством направления
 межведомственного запроса через систему
 межведомственного электронного
-взаимодействия.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>11.
+взаимодействия.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
 Радиоэлектронное средство и (или)
 высокочастотное устройство считается
 зарегистрированным при условии наличия
 записи о нем в реестре зарегистрированных
 радиоэлектронных средств и высокочастотных
 устройств, срок действия которой не
-истек.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+истек.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 случае подачи заявления о регистрации
 радиоэлектронных средств и высокочастотных
 устройств способом, отличным от подачи
@@ -526,18 +553,18 @@ FIFA 2017 года или участников чемпионата
 орган Федеральной службы по надзору в
 сфере связи, информационных технологий
 и массовых коммуникаций не позднее 10
-рабочих дней со дня получения заявления:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>рассматривает
+рабочих дней со дня получения заявления:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">рассматривает
 представленные заявителем документы
 и вносит в установленном порядке сведения
 о зарегистрированных радиоэлектронных
 средствах и высокочастотных устройствах
 в реестр зарегистрированных радиоэлектронных
 средств и высокочастотных устройств
-либо отказывает в их регистрации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>направляет
+либо отказывает в их регистрации;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">направляет
 заявителю выписку из реестра
 зарегистрированных радиоэлектронных
 средств и высокочастотных устройств в
@@ -545,9 +572,9 @@ FIFA 2017 года или участников чемпионата
 необходимость такого направления, или
 мотивированное уведомление об отказе
 в регистрации радиоэлектронных средств
-и (или) высокочастотных устройств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
+и (или) высокочастотных устройств.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 случае подачи заявления о регистрации
 радиоэлектронных средств и (или)
 высокочастотных устройств в электронной
@@ -562,51 +589,54 @@ FIFA 2017 года или участников чемпионата
 средств и (или) высокочастотных устройств
 направляются заявителю в электронной
 форме в срок не более одного рабочего
-дня со дня подачи заявления.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>11(1).
+дня со дня подачи заявления.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11(1).
 Утратил силу с 1 сентября 2018 года.
--&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-14.12.2017-N-1547/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3><U>Постановление
-Правительства РФ от 14.12.2017 N 1547</U></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>12.
+-&nbsp;Постановление Правительства РФ от
+14.12.2017 N 1547.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
 Основанием для отказа в регистрации
 радиоэлектронных средств и высокочастотных
-устройств является:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+устройств является:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 несоответствие представляемых документов
 требованиям, установленным настоящими
-Правилами;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+Правилами;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 непредставление документов, необходимых
 для регистрации радиоэлектронных
 средств и высокочастотных устройств в
-соответствии с настоящими Правилами;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+соответствии с настоящими Правилами;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 наличие в документах, представленных
 заявителем, недостоверной или искаженной
-информации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
+информации;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 несоответствие сведений о технических
 характеристиках и параметрах излучений
 радиоэлектронных средств и высокочастотных
 устройств требованиям, установленным
 в разрешении на использование радиочастот
-или радиочастотных каналов;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
+или радиочастотных каналов;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 невыполнение заявителем условия,
 установленного в разрешении на
 использование радиочастот или
 радиочастотных каналов, в части
 предельного срока регистрации
-радиоэлектронного средства.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>13.
+радиоэлектронного средства.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.
 Срок действия записи в реестре
 зарегистрированных радиоэлектронных
 средств и высокочастотных устройств
@@ -618,9 +648,9 @@ FIFA 2017 года или участников чемпионата
 Государственной комиссии по радиочастотам
 о выделении полос радиочастот, являющихся
 основанием для регистрации радиоэлектронных
-средств и (или) высокочастотных устройств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14.
+средств и (или) высокочастотных устройств.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14.
 При совместном использовании
 радиоэлектронного средства выписка из
 реестра зарегистрированных радиоэлектронных
@@ -631,9 +661,9 @@ FIFA 2017 года или участников чемпионата
 регистрируемого радиоэлектронного
 средства, указанных заявителем в
 соответствии с подпунктом &quot;г&quot;
-пункта 10 настоящих Правил.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>15.
+пункта 10 настоящих Правил.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">15.
 Внесение изменений в запись в реестре
 зарегистрированных радиоэлектронных
 средств и высокочастотных устройств
@@ -662,27 +692,30 @@ FIFA 2017 года или участников чемпионата
 связи с истечением срока действия записи
 в реестре зарегистрированных
 радиоэлектронных средств и высокочастотных
-устройств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>15(1).
+устройств.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">15(1).
 Утратил силу с 1 сентября 2018 года.
--&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-14.12.2017-N-1547/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3><U>Постановление
-Правительства РФ от 14.12.2017 N 1547</U></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>16.
+-&nbsp;Постановление Правительства РФ от
+14.12.2017 N 1547.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">16.
 Действие регистрации радиоэлектронных
 средств и высокочастотных устройств и
 действие записи в реестре зарегистрированных
 радиоэлектронных средств и высокочастотных
 устройств прекращаются в следующих
-случаях:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+случаях:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 истечение срока действия записи в
 реестре зарегистрированных радиоэлектронных
-средств и высокочастотных устройств;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+средств и высокочастотных устройств;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 прекращение действия разрешения на
 использование радиочастот (радиочастотных
 каналов) в отношении зарегистрированного
@@ -692,37 +725,37 @@ FIFA 2017 года или участников чемпионата
 Государственной комиссии по радиочастотам
 о выделении полос радиочастот, явившегося
 основанием для регистрации радиоэлектронных
-средств и (или) высокочастотных устройств;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+средств и (или) высокочастотных устройств;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 представление заявления о прекращении
 регистрации радиоэлектронных средств
 и высокочастотных устройств владельца
 радиоэлектронных средств и (или)
 высокочастотных устройств или пользователя
-радиоэлектронного средства;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
+радиоэлектронного средства;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 обнаружение недостоверных данных в
 документах, представляемых заявителем
 для регистрации радиоэлектронных
-средств и (или) высокочастотных устройств;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
+средств и (или) высокочастотных устройств;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 выявление несоответствия технических
 характеристик, параметров излучений и
 условий использования зарегистрированных
 радиоэлектронных средств и (или)
 высокочастотных устройств сведениям,
 представленным заявителем при их
-регистрации;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
+регистрации;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 прекращение действия договоров, указанных
 в подпунктах &quot;д&quot;, &quot;е&quot; и &quot;з&quot;
-пункта 10 настоящих Правил.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>17.
+пункта 10 настоящих Правил.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">17.
 Сведения об абонентских станциях
 (терминалах), которые содержат
 радиопередающие устройства, не требующие
@@ -731,9 +764,9 @@ FIFA 2017 года или участников чемпионата
 владельцах - абонентах сетей связи
 подлежат учету операторами связи,
 оказывающими услуги связи с использованием
-таких радиоэлектронных средств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>18.
+таких радиоэлектронных средств.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">18.
 Сведения о высокочастотных устройствах
 и об их владельцах, о радиоэлектронных
 средствах и об их владельцах и пользователях
@@ -747,470 +780,476 @@ FIFA 2017 года или участников чемпионата
 устройств, государственным органам в
 соответствии с их полномочиями в случаях,
 установленных законодательством
-Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>19.
+Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">19.
 За нарушение порядка регистрации
 радиоэлектронных средств и высокочастотных
 устройств, установленного настоящими
 Правилами, виновные лица несут
 ответственность в соответствии с
 Кодексом Российской Федерации об
-административных правонарушениях.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Утвержден<BR>Постановлением
+административных правонарушениях.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утвержден<BR>Постановлением
 Правительства<BR>Российской Федерации<BR>от
-12 октября 2004 г. N 539</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПЕРЕЧЕНЬ<BR>РАДИОЭЛЕКТРОННЫХ
-СРЕДСТВ И ВЫСОКОЧАСТОТНЫХ
-УСТРОЙСТВ,<BR>ПОДЛЕЖАЩИХ РЕГИСТРАЦИИ</B></FONT></FONT></FONT></FONT></FONT></P>
+12 октября 2004 г. N 539</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ПЕРЕЧЕНЬ
+РАДИОЭЛЕКТРОННЫХ СРЕДСТВ И ВЫСОКОЧАСТОТНЫХ
+УСТРОЙСТВ, ПОДЛЕЖАЩИХ РЕГИСТРАЦИИ</B></FONT></FONT></FONT></FONT></P>
 <TABLE WIDTH=4369 CELLPADDING=0 CELLSPACING=0 BGCOLOR="#ffffff">
-	<COL WIDTH=156>
-	<COL WIDTH=2644>
-	<COL WIDTH=1569>
+	<COL WIDTH=136>
+	<COL WIDTH=2643>
+	<COL WIDTH=1590>
 	<TR VALIGN=BOTTOM>
-		<TD COLSPAN=2 WIDTH=2800 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><BR>
+		<TD COLSPAN=2 WIDTH=2779 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><BR>
 			</P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Пункты
-			приложения &lt;*&gt;</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Пункты
+			приложения &lt;*&gt;</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
-			средства фиксированной службы</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
+			средства фиксированной службы</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1,
-			1(1), 3, 7, 8, 13, 14</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
-			средства радиовещательной службы</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1,
+			1(1), 3, 7, 8, 13, 14</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
-			средства воздушной подвижной службы</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
+			средства радиовещательной службы</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>4.</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
-			средства морской подвижной службы</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>5.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
-			средства сухопутной подвижной службы</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
+			средства воздушной подвижной службы</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1,
-			1(1), 2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 24, 33</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>6.</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
-			средства любительской службы</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14,
-			19</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>7.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
+			средства морской подвижной службы</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
+			средства сухопутной подвижной службы</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1,
+			1(1), 2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 24, 33</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
+			средства любительской службы</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14,
+			19</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
 			средства службы стандартных частот
-			и сигналов времени</FONT></FONT></FONT></FONT></FONT></P>
+			и сигналов времени</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14,
-			36</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14,
+			36</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
 		<TD COLSPAN=3 WIDTH=4369 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><BR>
+			<P CLASS="western" ALIGN=JUSTIFY><BR>
 			</P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>8.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
 			средства вспомогательной службы
-			метеорологии</FONT></FONT></FONT></FONT></FONT></P>
+			метеорологии</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14,
-			36</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD COLSPAN=3 WIDTH=4369 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>9.</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
-			средства радиолокационной службы</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14,
-			36</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14,
+			36</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
 		<TD COLSPAN=3 WIDTH=4369 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><BR>
+			<P CLASS="western" ALIGN=JUSTIFY><BR>
 			</P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>10.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
-			средства радионавигационной службы</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
+			средства радиолокационной службы</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14,
-			36</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14,
+			36</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
 		<TD COLSPAN=3 WIDTH=4369 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><BR>
+			<P CLASS="western" ALIGN=JUSTIFY><BR>
 			</P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>11.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
+			средства радионавигационной службы</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14,
+			36</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=3 WIDTH=4369 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><BR>
+			</P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
 			средства радиовещательной спутниковой
-			службы</FONT></FONT></FONT></FONT></FONT></P>
+			службы</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>12.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
 			средства фиксированной спутниковой
-			службы</FONT></FONT></FONT></FONT></FONT></P>
+			службы</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>13.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
 			средства сухопутной подвижной
-			спутниковой службы</FONT></FONT></FONT></FONT></FONT></P>
+			спутниковой службы</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1,
-			14, 15</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1,
+			14, 15</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
 			средства морской подвижной спутниковой
-			службы</FONT></FONT></FONT></FONT></FONT></P>
+			службы</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1,
-			14</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1,
+			14</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>15.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">15.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
 			средства воздушной подвижной спутниковой
-			службы</FONT></FONT></FONT></FONT></FONT></P>
+			службы</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1,
-			14</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1,
+			14</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>16.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">16.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
 			средства спутниковой службы исследования
-			земли</FONT></FONT></FONT></FONT></FONT></P>
+			земли</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14,
-			36</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD COLSPAN=3 WIDTH=4369 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>17.</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
-			средства службы космических исследований</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14,
-			36</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14,
+			36</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
 		<TD COLSPAN=3 WIDTH=4369 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><BR>
+			<P CLASS="western" ALIGN=JUSTIFY><BR>
 			</P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>18.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">17.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
+			средства службы космических исследований</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14,
+			36</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=3 WIDTH=4369 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><BR>
+			</P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">18.</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
 			средства спутниковой службы
-			радиоопределения</FONT></FONT></FONT></FONT></FONT></P>
+			радиоопределения</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14,
-			36</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14,
+			36</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
 		<TD COLSPAN=3 WIDTH=4369 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><BR>
+			<P CLASS="western" ALIGN=JUSTIFY><BR>
 			</P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>19.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">19.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
 			средства радионавигационной спутниковой
-			службы</FONT></FONT></FONT></FONT></FONT></P>
+			службы</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14,
-			36</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD COLSPAN=3 WIDTH=4369 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>20.</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
-			средства службы космической эксплуатации</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14,
-			36</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14,
+			36</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
 		<TD COLSPAN=3 WIDTH=4369 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><BR>
+			<P CLASS="western" ALIGN=JUSTIFY><BR>
 			</P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>21.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">20.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
+			средства службы космической эксплуатации</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14,
+			36</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=3 WIDTH=4369 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><BR>
+			</P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">21.</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
 			средства метеорологической спутниковой
-			службы</FONT></FONT></FONT></FONT></FONT></P>
+			службы</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14,
-			36</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14,
+			36</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
 		<TD COLSPAN=3 WIDTH=4369 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><BR>
+			<P CLASS="western" ALIGN=JUSTIFY><BR>
 			</P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>22.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">22.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
-			средства радиоастрономической службы</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
+			средства радиоастрономической службы</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>23.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">23.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Высокочастотные
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Высокочастотные
 			устройства промышленного, научного,
-			медицинского и бытового применения</FONT></FONT></FONT></FONT></FONT></P>
+			медицинского и бытового применения</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>4,
-			20, 25</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4,
+			20, 25</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>24.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">24.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Радиоэлектронные
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Радиоэлектронные
 			средства любительской спутниковой
-			службы</FONT></FONT></FONT></FONT></FONT></P>
+			службы</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>25.</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Устройства
-			малого радиуса действия</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>21,
-			22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=156 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>26.</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">25.</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=2644 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Генераторы
-			шума</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Устройства
+			малого радиуса действия</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1569 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>36</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">21,
+			22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=136 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">26.</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=2643 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Генераторы
+			шума</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=1590 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">36</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
 		<TD COLSPAN=3 WIDTH=4369 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><BR>
+			<P CLASS="western" ALIGN=JUSTIFY><BR>
 			</P>
 		</TD>
 	</TR>
 </TABLE>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>--------------------------------</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&lt;*&gt;
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">--------------------------------</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&lt;*&gt;
 Изъятия отдельных типов радиоэлектронных
 средств и высокочастотных устройств
 из подлежащих регистрации радиоэлектронных
 средств (высокочастотных устройств)
 соответствующих служб приведены в
-приложении.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Приложение<BR>к
+приложении.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Приложение<BR>к
 перечню радиоэлектронных средств<BR>и
 высокочастотных устройств,<BR>подлежащих
-регистрации</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ИЗЪЯТИЯ
-ИЗ ПЕРЕЧНЯ<BR>РАДИОЭЛЕКТРОННЫХ СРЕДСТВ
-И ВЫСОКОЧАСТОТНЫХ УСТРОЙСТВ,<BR>ПОДЛЕЖАЩИХ
-РЕГИСТРАЦИИ</B></FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
+регистрации</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ИЗЪЯТИЯ
+ИЗ ПЕРЕЧНЯ РАДИОЭЛЕКТРОННЫХ СРЕДСТВ И
+ВЫСОКОЧАСТОТНЫХ УСТРОЙСТВ, ПОДЛЕЖАЩИХ
+РЕГИСТРАЦИИ</B></FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Абонентские станции (абонентские
 устройства), разрешенные в установленном
 порядке для использования на территории
@@ -1218,45 +1257,45 @@ FIFA 2017 года или участников чемпионата
 связи, а также радиоэлектронные средства,
 подключаемые к сетям подвижной радиосвязи,
 имеющие в своем составе средства связи,
-выполняющие функции систем коммутации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1(1).
+выполняющие функции систем коммутации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1(1).
 Абонентские устройства беспроводного
 доступа в информационно-телекоммуникационную
 сеть &quot;Интернет&quot; с максимальной
 мощностью излучения передатчика не
-более 100 мВт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Под
+более 100 мВт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Под
 абонентскими станциями (абонентскими
 устройствами) понимаются радиоэлектронные
 средства, находящиеся в пользовании у
-абонента.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1(2).
+абонента.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1(2).
 Абонентские земные станции, находящиеся
 в движении в рамках конкретной спутниковой
 сети связи и работающие через космические
 аппараты на геостационарной орбите в
 полосах радиочастот 29,5 - 30 ГГц и 19,7 - 20,2
-ГГц.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
+ГГц.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Станции сухопутной подвижной связи
 личного пользования диапазона 26690 -
 27410 кГц (СиБи-диапазона), за исключением
 каналов с центральными радиочастотами
 26995 кГц, 27045 кГц, 27095 кГц, 27145 кГц и 27195 кГц
 с допустимой мощностью излучения
-передатчика не более 4 Вт включительно.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3.
+передатчика не более 4 Вт включительно.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Абонентские станции фиксированного
 беспроводного доступа технологии CDMA
 (протокол IS-95) в полосах радиочастот 828
-- 837 МГц и 873 - 882 МГц.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>4.
+- 837 МГц и 873 - 882 МГц.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Бытовые СВЧ-печи и другие высокочастотные
 устройства, предназначенные для обработки
 пищевых продуктов и приготовления пищи,
@@ -1269,21 +1308,21 @@ FIFA 2017 года или участников чемпионата
 также высокочастотные устройства любого
 применения с мощностью на нагрузочном
 устройстве менее 5 Вт включительно без
-открытого излучения.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>5.
+открытого излучения.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
 Радиоэлектронные средства для обработки
 штрихкодовых этикеток и передачи
 информации, полученной с этих этикеток,
 в полосе радиочастот 433,05 - 434,79 (433,92 +/-
 0,2%) МГц с допустимой мощностью излучения
-передатчика не более 10 мВт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>6.
+передатчика не более 10 мВт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 Слуховые радиотренажеры для людей с
-дефектами слуха на радиочастотах:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>33,200
+дефектами слуха на радиочастотах:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">33,200
 МГц; 33,350 МГц; 33,450 МГц; 33,550 МГц; 33,575 МГц;
 33,600 МГц; 33,750 МГц; 33,850 МГц; 33,875 МГц; 33,900
 МГц; 34,050 МГц; 34,150 МГц; 34,175 МГц; 34,200 МГц;
@@ -1342,9 +1381,9 @@ FIFA 2017 года или участников чемпионата
 57,3875 МГц; 57,4000 МГц; 57,4125 МГц; 57,4250 МГц;
 57,4375 МГц; 57,4500 МГц; 57,4750 МГц; 57,4875 МГц;
 57,5000 МГц с допустимой мощностью излучения
-передатчика не более 10 мВт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>7.
+передатчика не более 10 мВт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
 Устройства охранной радиосигнализации
 автомашин в полосе радиочастот 26,939 -
 26,951 МГц на радиочастоте 26,945 МГц, устройства
@@ -1353,34 +1392,34 @@ FIFA 2017 года или участников чемпионата
 радиочастоте 26,960 МГц с максимальной
 мощностью излучения передатчика 2 Вт и
 максимальным коэффициентом усиления
-антенны 3 дБ.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Устройства
+антенны 3 дБ.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Устройства
 охранной радиосигнализации в полосе
 радиочастот 433,05 - 434,79 МГц с максимальной
 мощностью передатчика 5 мВт и максимальным
-коэффициентом усиления антенны 3 дБ.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Устройства
+коэффициентом усиления антенны 3 дБ.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Устройства
 охранной радиосигнализации в полосе
 радиочастот 868 - 868,2 МГц с максимальной
 мощностью передатчика 10 мВт и максимальным
-коэффициентом усиления антенны 3 дБ.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Устройства
+коэффициентом усиления антенны 3 дБ.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Устройства
 охранной радиосигнализации удаленных
 объектов в полосе радиочастот 149,95 -
 150,0625 МГц с максимальной мощностью
 передатчика 25 мВт и максимальным
-коэффициентом усиления антенны 3 дБ.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>8.
+коэффициентом усиления антенны 3 дБ.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
 Абонентские бесшнуровые телефонные
 аппараты в полосе радиочастот 30 - 41 МГц
 с допустимой мощностью излучения
-передатчика не более 10 мВт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Абонентские
+передатчика не более 10 мВт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Абонентские
 (использующие не более 1 абонентского
 номера) бесшнуровые телефонные аппараты
 в полосах радиочастот 814 - 815 МГц и 904 -
@@ -1388,9 +1427,9 @@ FIFA 2017 года или участников чемпионата
 и бесшнуровые телефонные аппараты
 технологии DECT в полосе радиочастот 1880
 - 1900 МГц с допустимой мощностью излучения
-передатчика не более 10 мВт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>9.
+передатчика не более 10 мВт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
 Устройства управления моделями (игрушками
 в воздушном пространстве, на земле, на
 воде и под водой) в полосах радиочастот
@@ -1401,50 +1440,50 @@ FIFA 2017 года или участников чемпионата
 на радиочастотах 26,995 МГц, 27,045 МГц, 27,095
 МГц, 27,145 МГц и 27,195 МГц) с максимальной
 мощностью передатчика 10 мВт и максимальным
-коэффициентом усиления антенны 3 дБ.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>10.
-Радиомикрофоны:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>на
+коэффициентом усиления антенны 3 дБ.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.
+Радиомикрофоны:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">на
 радиочастотах 165,70 МГц, 166,10 МГц, 166,50 МГц
 и 167,15 МГц с максимальной мощностью
 передатчика 20 мВт и максимальным
-коэффициентом усиления антенны 3 дБ;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+коэффициентом усиления антенны 3 дБ;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 полосах радиочастот 151 - 162,7 МГц, 163,2 -
 168,5 МГц, 174 - 230 МГц, 470 - 638 МГц и 710 - 726 МГц
 с максимальной мощностью передатчика
 5 мВт и максимальным коэффициентом
-усиления антенны 3 дБ;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>типа
+усиления антенны 3 дБ;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">типа
 &quot;Караоке&quot; в полосах радиочастот
 66 - 74 МГц, 87,5 - 92 МГц и 100 - 108 МГц с максимальной
 мощностью передатчика 10 мВт и максимальным
-коэффициентом усиления антенны 3 дБ;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>внутри
+коэффициентом усиления антенны 3 дБ;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">внутри
 закрытых помещений в полосе радиочастот
 650 - 758 МГц с максимальной мощностью
 передатчика 50 мВт и максимальным
-коэффициентом усиления антенны 3 дБ.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>11.
+коэффициентом усиления антенны 3 дБ.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
 Радиоэлектронные средства технологии
 &quot;Bluetooth&quot; в полосе радиочастот 2400 -
 2483,5 МГц с максимальной эквивалентной
 изотропно излучаемой мощностью
-передатчика не более 2,5 мВт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>12.
+передатчика не более 2,5 мВт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
 Маломощные радиостанции в полосе
 радиочастот 433,075 - 434,750 МГц с мощностью
 излучения передающих устройств не более
-10 мВт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>13.
+10 мВт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.
 Пользовательское (оконечное) оборудование
 передающее, включающее в себя приемное
 устройство, малого радиуса действия
@@ -1453,9 +1492,9 @@ FIFA 2017 года или участников чемпионата
 2400 - 2483,5 МГц, с допустимой мощностью
 излучения передатчика не более 100 мВт,
 в том числе встроенное либо входящее в
-состав других устройств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Пользовательское
+состав других устройств.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Пользовательское
 (оконечное) оборудование передающее,
 включающее в себя приемное устройство,
 малого радиуса действия стандартов
@@ -1464,9 +1503,9 @@ IEEE 802.11а, IEEE 802.11.n (Wi-Fi), работающее в полосах
 допустимой мощностью излучения
 передатчика не более 100 мВт, в том числе
 встроенное либо входящее в состав других
-устройств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Пользовательское
+устройств.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Пользовательское
 (оконечное) оборудование передающее,
 включающее в себя приемное устройство,
 работающее в полосах радиочастот 2300 -
@@ -1474,9 +1513,9 @@ IEEE 802.11а, IEEE 802.11.n (Wi-Fi), работающее в полосах
 МГц, с допустимой мощностью излучения
 передатчика не более 1 Вт, в том числе
 встроенное либо входящее в состав других
-устройств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14.
+устройств.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14.
 Радиоэлектронные средства, предназначенные
 только для приема радиоволн и не требующие
 защиты от помех со стороны других
@@ -1489,30 +1528,30 @@ IEEE 802.11а, IEEE 802.11.n (Wi-Fi), работающее в полосах
 радионавигации, включая пользовательские
 устройства радионавигационных спутниковых
 систем, не содержащие радиоизлучающих
-устройств.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>15.
+устройств.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">15.
 Абонентские приемопередатчики систем
 радиопоиска с мощностью излучения
 передающих устройств до 2 Вт, разрешенные
 в установленном порядке для использования
-на территории Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>16.
+на территории Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">16.
 Абонентские приемопередатчики поисковой
 радиосвязи и определения местоположения
 подвижных объектов &quot;NEX NET&quot; в полосе
 радиочастот 847 - 849 МГц с мощностью
 излучения передающих устройств до 0,125
-Вт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>17.
+Вт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">17.
 Портативные радиостанции в полосе
 радиочастот 446 - 446,1 МГц с мощностью
 излучения передающих устройств не более
-0,5 Вт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>18.
+0,5 Вт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">18.
 Детские радиосигнальные и радиопереговорные
 устройства, а также устройства
 радиоконтроля за ребенком в полосах
@@ -1520,66 +1559,66 @@ IEEE 802.11а, IEEE 802.11.n (Wi-Fi), работающее в полосах
 мощностью излучения передающих устройств
 до 10 мВт, а также в полосе радиочастот
 863,933 - 864,045 МГц с мощностью излучения
-передающих устройств до 2 мВт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>19.
+передающих устройств до 2 мВт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">19.
 Станции любительской службы, временно
 ввозимые на территорию Российской
-Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>20.
+Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">20.
 Высокочастотные устройства при
-использовании частот 10 кГц и ниже.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>21.
+использовании частот 10 кГц и ниже.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">21.
 Радиоэлектронные средства для обнаружения
 и спасания пострадавших от стихийных
 бедствий, работающие на радиочастоте
-457 кГц.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>22.
+457 кГц.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">22.
 Неспециализированные (любого назначения)
 оконечные устройства в полосах
-радиочастот:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>26,957
+радиочастот:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">26,957
 - 27,283 МГц, 40,660 - 40,700 МГц и 433,075 - 434,790 МГц с
 эквивалентной изотропно-излучаемой
-мощностью не более минус 17 дБВт;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2400
+мощностью не более минус 17 дБВт;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2400
 - 2483,5 МГц с эквивалентной изотропно-излучаемой
-мощностью не более минус 20 дБВт;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>864
+мощностью не более минус 20 дБВт;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">864
 - 865 МГц, 868,7 - 869,2 МГц и 5725 - 5875 МГц с
 максимальной эффективной излучаемой
-мощностью 25 мВт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>23.
+мощностью 25 мВт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">23.
 Устройства малого радиуса действия в
 сетях беспроводной передачи данных и
 другие устройства с функцией передачи
 данных с прямым расширением спектра и
-другими видами модуляции:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>используемые
+другими видами модуляции:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">используемые
 на борту воздушных судов в полосах
 радиочастот 5150 - 5250 МГц, 5250 - 5350 МГц и 5650
 - 5825 МГц с максимальной эквивалентной
 изотропно-излучаемой мощностью не более
-100 мВт;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>используемые
+100 мВт;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">используемые
 внутри закрытых помещений в полосах
 радиочастот 5150 - 5350 МГц, 5650 - 5850 МГц с
 максимальной эквивалентной
 изотропно-излучаемой мощностью не более
 200 мВт и максимальной спектральной
 плотностью эквивалентной изотропно-излучаемой
-мощности не более 10 мВт/МГц.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>24.
+мощности не более 10 мВт/МГц.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">24.
 Устройства малого радиуса действия в
 сетях беспроводной передачи данных и
 другие устройства с функцией передачи
@@ -1594,9 +1633,9 @@ IEEE 802.11а, IEEE 802.11.n (Wi-Fi), работающее в полосах
 псевдослучайному закону не более 0,4
 сек., и количестве каналов псевдослучайной
 перестройки рабочей частоты не менее
-15.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Устройства
+15.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Устройства
 малого радиуса действия, используемые
 в сетях беспроводной передачи данных,
 и другие устройства с функцией передачи
@@ -1604,23 +1643,23 @@ IEEE 802.11а, IEEE 802.11.n (Wi-Fi), работающее в полосах
 МГц, с прямым расширением спектра и
 другими видами модуляции с максимальной
 эквивалентной изотропно-излучаемой
-мощностью не более 100 мВт:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>при
+мощностью не более 100 мВт:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">при
 максимальной спектральной плотности
 эквивалентной изотропно-излучаемой
-мощности 10 мВт/МГц;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>при
+мощности 10 мВт/МГц;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">при
 максимальной спектральной плотности
 эквивалентной изотропно-излучаемой
 мощности 20 мВт/МГц вне закрытых помещений
 только для целей сбора информации
 телеметрии в составе автоматизированных
 систем контроля и учета ресурсов или
-систем охраны.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>25.
+систем охраны.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">25.
 Устройства малого радиуса действия,
 используемые в сетях беспроводной
 передачи данных, и другие устройства с
@@ -1632,134 +1671,134 @@ IEEE 802.11а, IEEE 802.11.n (Wi-Fi), работающее в полосах
 и максимальной спектральной плотности
 эквивалентной изотропно-излучаемой
 мощности 13 дБм/МГц внутри закрытых
-помещений.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>26.
+помещений.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">26.
 Индукционные устройства в полосе
-радиочастот:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>9
+радиочастот:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9
 - 59,75 кГц с максимальной напряженностью
 магнитного поля 72 дБ (мкА/м) на расстоянии
-10 м;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>59,75
+10 м;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">59,75
 - 60,25 кГц, 70 - 119 кГц, 6765 - 6795 кГц, 13,553 - 13,567
 МГц и 26,958 - 27,283 МГц с максимальной
 напряженностью магнитного поля 42 дБ
-(мкА/м) на расстоянии 10 м;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>60,25
+(мкА/м) на расстоянии 10 м;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">60,25
 - 70 кГц с максимальной напряженностью
 магнитного поля 69 дБ (мкА/м) на расстоянии
-10 м;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>119
+10 м;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">119
 - 135 кГц с максимальной напряженностью
 магнитного поля 66 дБ (мкА/м) на расстоянии
-10 м;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>135
+10 м;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">135
 - 140 кГц с максимальной напряженностью
 магнитного поля 42 дБ (мкА/м) на расстоянии
-10 м;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>140
+10 м;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">140
 - 148,5 кГц с максимальной напряженностью
 магнитного поля 37,7 дБ (мкА/м) на расстоянии
-10 м;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3155
+10 м;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3155
 - 3400 кГц с максимальной напряженностью
 магнитного поля 13,5 дБ (мкА/м) на расстоянии
 10 м для применения внутри закрытых
-помещений;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>148
+помещений;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">148
 - 5000 кГц с максимальной напряженностью
 магнитного поля минус 5 дБ (мкА/м) на
-расстоянии 10 м;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>5
+расстоянии 10 м;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5
 - 30 МГц с максимальной напряженностью
 магнитного поля минус 5 дБ (мкА/м) на
-расстоянии 10 м;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>7,4
+расстоянии 10 м;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7,4
 - 8,8 МГц с максимальной напряженностью
 магнитного поля 9 дБ (мкА/м) на расстоянии
-10 м;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>10,2
+10 м;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10,2
 - 11 МГц с максимальной напряженностью
 магнитного поля 4 дБ (мкА/м) на расстоянии
-10 м.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>27.
+10 м.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">27.
 Устройства для обнаружения передвижения
-и устройства радиосигнализации:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+и устройства радиосигнализации:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 полосе радиочастот 24,05 - 24,25 ГГц с
 максимальной эквивалентной
 изотропно-излучаемой мощностью 100 мВт
-(автомобильные и фиксированные радары);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+(автомобильные и фиксированные радары);</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 полосе радиочастот 76 - 77 ГГц с максимальной
 эквивалентной изотропно-излучаемой
-мощностью 5 дБВт (автомобильные радары);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+мощностью 5 дБВт (автомобильные радары);</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 полосе радиочастот 77 - 81 ГГц с максимальной
 спектральной плотностью эквивалентной
 изотропно-излучаемой мощности минус
 33 дБВт/МГц (автомобильные сверхширокополосные
-радары);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+радары);</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 полосе радиочастот 9200 - 9975 МГц с
 эквивалентной изотропно-излучаемой
-мощностью не более минус 17 дБВт;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+мощностью не более минус 17 дБВт;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 полосе радиочастот 10,54 - 10,56 ГГц и 2440 -
 2460 МГц с эквивалентной изотропно-излучаемой
 мощностью минус 10 дБВт (только на борту
-речных и морских судов);</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+речных и морских судов);</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 полосе радиочастот 22 - 26,65 ГГц со
 спектральной плотностью эквивалентной
 изотропно-излучаемой мощности не более
 минус 41,3 дБм/МГц (автомобильные радары
-ближнего действия).</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>28.
+ближнего действия).</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">28.
 Устройства радиочастотной идентификации
-в полосе радиочастот:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>13,553
+в полосе радиочастот:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13,553
 - 13,567 МГц с максимальной напряженностью
 магнитного поля 60 дБ (мкА/м) на расстоянии
-10 м;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>866,6
+10 м;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">866,6
 - 867,4 МГц с эффективной излучаемой
-мощностью 100 мВт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>29.
+мощностью 100 мВт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">29.
 Телематические устройства на транспорте
 в полосе радиочастот 5795 - 5815 МГц с
 эффективной излучаемой мощностью 200
-мВт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>30.
+мВт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">30.
 Беспроводное аудиооборудование в полосе
 радиочастот 863 - 865 МГц с эффективной
-излучаемой мощностью не более 10 мВт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>31.
+излучаемой мощностью не более 10 мВт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">31.
 Беспроводные аудиоприложения для
 использования внутри салонов автомобилей,
 других транспортных средств, а также
@@ -1767,21 +1806,21 @@ IEEE 802.11а, IEEE 802.11.n (Wi-Fi), работающее в полосах
 радиочастот 87,5 - 108 МГц с максимальной
 эквивалентной изотропно излучаемой
 мощностью передатчика не более минус
-43 дБм.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>32.
+43 дБм.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">32.
 Радиоэлектронные средства интеллектуальных
 систем на транспорте (ITS) в диапазоне
-радиочастот 63 - 64 ГГц.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>33.
+радиочастот 63 - 64 ГГц.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">33.
 Базовые станции сетей подвижной
 радиосвязи стандарта GSM в полосах
 радиочастот 1710 - 1785 МГц и 1805 - 1880 МГц,
 устанавливаемые на борту морских и
-воздушных судов.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>34.
+воздушных судов.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">34.
 Неспециализированные (любого назначения)
 сверхширокополосные устройства малого
 радиуса действия, работающие в полосе
@@ -1789,276 +1828,277 @@ IEEE 802.11а, IEEE 802.11.n (Wi-Fi), работающее в полосах
 излучения радиочастот не менее 500 МГц)
 и имеющие технические характеристики,
 соответствующие характеристикам,
-указанным в таблице.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>35.
+указанным в таблице.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">35.
 Персональные аварийные радиобуи
 (радиомаяки) системы КОСПАС-САРСАТ в
 полосах радиочастот 121,45 - 121,55 МГц и 406 -
 406,1 МГц, разрешенные в установленном
 порядке для использования на территории
-Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>36.
+Российской Федерации.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">36.
 Радиоэлектронные средства и высокочастотные
 устройства государственных органов и
 организаций, используемые для нужд
 органов государственной власти, для
 нужд обороны страны, безопасности
-государства и обеспечения правопорядка.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>37.
+государства и обеспечения правопорядка.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">37.
 Устройства для обнаружения и спасания
 пострадавших от снежных лавин на
 радиочастоте 457 кГц с максимальной
 напряженностью магнитного поля 7 дБ
-(мкА/м) на расстоянии 10 м.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>38.
+(мкА/м) на расстоянии 10 м.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">38.
 Активные медицинские имплантаты и
 связанное с ними дополнительное
-оборудование:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+оборудование:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 полосе радиочастот 402 - 405 МГц с максимальной
 эквивалентной изотропно-излучаемой
-мощностью минус 50 дБВт;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+мощностью минус 50 дБВт;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 полосах радиочастот 401 - 402 МГц, 405 - 406 МГц
 с максимальной эффективной излучаемой
 мощностью минус 66 дБВт либо с максимальной
 эффективной излучаемой мощностью минус
 46 дБВт при их использовании внутри
-помещений;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+помещений;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 полосе радиочастот 9 - 315 кГц с максимальной
 напряженностью магнитного поля 30 дБ
-(мкА/м) на расстоянии 10 м.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>39.
+(мкА/м) на расстоянии 10 м.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">39.
 Устройства для измерения уровней
-жидкостей:</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+жидкостей:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 полосе радиочастот 4,8 - 7 ГГц с максимальной
 мощностью излучения не более минус 60
 дБВт и эквивалентной изотропно-излучаемой
-мощностью не более минус 49 дБВт;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+мощностью не более минус 49 дБВт;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 полосе радиочастот 10,5 - 10,6 ГГц с
 эквивалентной изотропно-излучаемой
-мощностью не более минус 20 дБВт;</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в
+мощностью не более минус 20 дБВт;</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в
 полосе радиочастот 24,056 - 26,5 ГГц с
 эквивалентной изотропно-излучаемой
-мощностью не более 4 дБВт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>40.
+мощностью не более 4 дБВт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">40.
 Локаторы (измерители) нелинейностей в
 полосах радиочастот 2404 - 2472 МГц, 902 - 928
 МГц с эквивалентной изотропно-излучаемой
-мощностью не более 5,2 дБВт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>41.
+мощностью не более 5,2 дБВт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">41.
 Радиоэлектронные средства телемеханической
 системы контроля бодрствования машиниста
 в полосе радиочастот 1675 - 1725 МГц с
 максимальной мощностью передатчика 1
-мВт.</FONT></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Таблица</FONT></FONT></FONT></FONT></FONT></P>
+мВт.</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Таблица</FONT></FONT></FONT></FONT></P>
 <TABLE WIDTH=4369 CELLPADDING=0 CELLSPACING=0 BGCOLOR="#ffffff">
-	<COL WIDTH=813>
-	<COL WIDTH=1717>
-	<COL WIDTH=1839>
+	<COL WIDTH=754>
+	<COL WIDTH=1753>
+	<COL WIDTH=1862>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=813 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Полоса
-			радиочастот (МГц)</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=754 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Полоса
+			радиочастот (МГц)</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1717 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Максимальная
+		<TD WIDTH=1753 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Максимальная
 			спектральная плотность эквивалентной
-			изотропно излучаемой мощности (дБм/МГц)</FONT></FONT></FONT></FONT></FONT></P>
+			изотропно излучаемой мощности (дБм/МГц)</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1839 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Дополнительные
-			условия использования</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1862 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Дополнительные
+			условия использования</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
-		<TD WIDTH=813 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2850
-			- 3375</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=754 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2850
+			- 3375</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1717 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-57</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1753 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-57</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD ROWSPAN=18 WIDTH=1839 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>использование
+		<TD ROWSPAN=18 WIDTH=1862 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">использование
 			в закрытых помещениях (за исключением
-			воздушных судов и терминалов аэропортов)</FONT></FONT></FONT></FONT></FONT></P>
+			воздушных судов и терминалов аэропортов)</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3375
-			- 3950</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3375
+			- 3950</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-61,5</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3950
-			- 4425</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-54,5</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-61,5</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>4425
-			- 5470</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3950
+			- 4425</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-50</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>5470
-			- 6000</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-62,5</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-54,5</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>6000
-			- 8100</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4425
+			- 5470</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-47</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>8100
-			- 8625</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-65</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-50</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>8625
-			- 9150</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5470
+			- 6000</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-47</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>9150
-			- 10600</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-45</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-62,5</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2850
-			- 3375</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6000
+			- 8100</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-57</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3375
-			- 4800</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-76</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-47</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>4800
-			- 5475</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8100
+			- 8625</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-50</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>5475
-			- 6000</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-62,5</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-65</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>6000
-			- 7250</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8625
+			- 9150</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-47</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>7250
-			- 7750</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-73</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-47</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>7750
-			- 8625</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9150
+			- 10600</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-69</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>8625
-			- 9150</FONT></FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-47</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-45</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=813 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>9150
-			- 10600</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2850
+			- 3375</FONT></FONT></FONT></FONT></P>
 		</TD>
-		<TD WIDTH=1717 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-45</FONT></FONT></FONT></FONT></FONT></P>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-57</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3375
+			- 4800</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-76</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4800
+			- 5475</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-50</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5475
+			- 6000</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-62,5</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6000
+			- 7250</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-47</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7250
+			- 7750</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-73</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7750
+			- 8625</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-69</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8625
+			- 9150</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-47</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=754 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9150
+			- 10600</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=1753 VALIGN=BOTTOM BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=JUSTIFY><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-45</FONT></FONT></FONT></FONT></P>
 		</TD>
 	</TR>
 </TABLE>
-<P CLASS="western" STYLE="margin-bottom: 0.11in; line-height: 107%"><BR><BR>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in; line-height: 150%">
+<BR><BR>
 </P>
 </BODY>
 </HTML>`

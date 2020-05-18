@@ -1,6 +1,6 @@
 /*eslint-disable*/
 export default `
-< !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
@@ -8,9 +8,9 @@ export default `
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
 	<META NAME="CREATED" CONTENT="20200430;154500000000000">
-	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
-	<META NAME="CHANGED" CONTENT="20200430;154500000000000">
-	<META NAME="AppVersion" CONTENT="14.0000">
+	<META NAME="CHANGEDBY" CONTENT="Учетная запись Майкрософт">
+	<META NAME="CHANGED" CONTENT="20200518;113300000000000">
+	<META NAME="AppVersion" CONTENT="15.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
 	<META NAME="LinksUpToDate" CONTENT="false">
@@ -25,24 +25,27 @@ export default `
 	</STYLE>
 </HEAD>
 <BODY LANG="ru-RU" LINK="#0000ff" DIR="LTR">
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>МИНИСТЕРСТВО
-ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ И СВЯЗИ<BR>РОССИЙСКОЙ
-ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ПРИКАЗ<BR>от
-16 января 2008 г. N 6</B></FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ОБ
-УТВЕРЖДЕНИИ ТРЕБОВАНИЙ<BR>К СЕТЯМ
-ЭЛЕКТРОСВЯЗИ ДЛЯ ПРОВЕДЕНИЯ
-ОПЕРАТИВНО-РАЗЫСКНЫХ<BR>МЕРОПРИЯТИЙ.
-ЧАСТЬ I. ОБЩИЕ ТРЕБОВАНИЯ</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">В
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%"><A NAME="_GoBack"></A>
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Министерство
+Информационных Технологий И Связи<BR>Российской
+Федерации</FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Приказ<BR>От
+16 Января 2008 Г. N 6</FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Об
+Утверждении Требований<BR>К Сетям
+Электросвязи Для Проведения
+Оперативно-Разыскных<BR>Мероприятий.
+Часть I. Общие Требования</FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 целях реализации требований пункта 2
-статьи 64 Федерального&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><SPAN STYLE="text-decoration: none">закона
-от 7 июля 2003 г. N 126-ФЗ</SPAN></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif">&nbsp;&quot;О
+статьи 64 Федерального&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#00000a"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN STYLE="text-decoration: none">закона
+от 7 июля 2003 г. N 126-ФЗ</SPAN></FONT></FONT></FONT></A><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&nbsp;&quot;О
 связи&quot; (Собрание законодательства
 Российской Федерации, 2003, N 28, ст. 2895; N 52
 (часть I), ст. 5038; 2004, N 35, ст. 3607; N 45, ст. 4377;
@@ -52,19 +55,22 @@ export default `
 операторов связи с уполномоченными
 государственными органами, осуществляющими
 оперативно-разыскную деятельность,
-утвержденных&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-27.08.2005-N-538/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><SPAN STYLE="text-decoration: none">Постановлением
+утвержденных&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-27.08.2005-N-538/"><FONT COLOR="#00000a"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN STYLE="text-decoration: none">Постановлением
 Правительства Российской Федерации от
-27 августа 2005 г. N 538</SPAN></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif">&nbsp;(Собрание
+27 августа 2005 г. N 538</SPAN></FONT></FONT></FONT></A><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&nbsp;(Собрание
 законодательства Российской Федерации,
 2005, N 36, ст. 3704), приказываю:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Утвердить прилагаемые Требования к
 сетям электросвязи для проведения
 оперативно-разыскных мероприятий. Часть
 I. Общие требования.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Признать утратившим силу Приказ
 Министерства Российской Федерации по
 связи и информатизации от 25.07.2000 N 130 &quot;О
@@ -77,49 +83,58 @@ I. Общие требования.</FONT></FONT></FONT></FONT></P>
 Министерстве юстиции Российской
 Федерации 9 августа 2000 г., регистрационный
 N 2339) &lt;*&gt;.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">--------------------------------</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">&lt;*&gt;
-С изменениями, внесенными&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/acts/Prikaz-Minsvyazi-RF-ot-25.10.2000-N-185/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><SPAN STYLE="text-decoration: none">Приказом
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">--------------------------------</FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&lt;*&gt;
+С изменениями, внесенными&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/acts/Prikaz-Minsvyazi-RF-ot-25.10.2000-N-185/"><FONT COLOR="#00000a"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN STYLE="text-decoration: none">Приказом
 Министерства Российской Федерации по
 связи и информатизации от 25.10.2000 N
-185</SPAN></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif">&nbsp;(зарегистрирован
+185</SPAN></FONT></FONT></FONT></A><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&nbsp;(зарегистрирован
 в Минюсте России 21.11.2000, регистрационный
 N 2460).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">3.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Направить настоящий Приказ на
 государственную регистрацию в Министерство
 юстиции Российской Федерации.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">4.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Контроль за исполнением настоящего
 Приказа возложить на заместителя
 Министра информационных технологий и
 связи Российской Федерации Б.Д. Антонюка.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Министр<BR>Л.Д.РЕЙМАН</FONT></FONT></FONT></FONT></P>
-<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Утверждены<BR>Приказом<BR>Министерства
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Министр<BR>Л.Д.РЕЙМАН</FONT></FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утверждены<BR>Приказом<BR>Министерства
 информационных<BR>технологий и
 связи<BR>Российской Федерации<BR>от 16
 января 2008 г. N 6</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ТРЕБОВАНИЯ<BR>К
-СЕТЯМ ЭЛЕКТРОСВЯЗИ ДЛЯ ПРОВЕДЕНИЯ
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ТРЕБОВАНИЯ
+К СЕТЯМ ЭЛЕКТРОСВЯЗИ ДЛЯ ПРОВЕДЕНИЯ
 ОПЕРАТИВНО-РАЗЫСКНЫХ<BR>МЕРОПРИЯТИЙ.
 ЧАСТЬ 1. ОБЩИЕ ТРЕБОВАНИЯ</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Настоящие требования к сетям электросвязи
 для проведения оперативно-разыскных
 мероприятий (далее - Требования)
 распространяются на сети электросвязи,
 входящие в сеть связи общего пользования,
 и выделенные сети связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Настоящие
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Настоящие
 Требования не применяются к телеграфным
 сетям связи, в том числе сети &quot;Телекс&quot;,
 а также к сетям связи, в которых в
@@ -130,14 +145,14 @@ N 2460).</FONT></FONT></FONT></FONT></P>
 требований к сетям связи и средствам
 связи для проведения оперативно-разыскных
 мероприятий.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Сети электросвязи, за исключением сетей
 связи, предназначенных для оказания
 услуг связи по предоставлению каналов
 связи, обеспечивают возможность:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 передачи на пункт управления (далее -
 пункт управления ОРМ) уполномоченного
 государственного органа, осуществляющего
@@ -148,8 +163,8 @@ N 2460).</FONT></FONT></FONT></FONT></P>
 для установления контролируемого
 соединения и (или) передачи сообщений
 электросвязи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 передачи на пункт управления ОРМ
 информации, передаваемой в контролируемом
 соединении и (или) сообщении электросвязи,
@@ -158,23 +173,23 @@ N 2460).</FONT></FONT></FONT></FONT></P>
 с пользовательского (оконечного)
 оборудования или из присоединенной
 сети связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">В
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 случае оказания услуг связи, в процессе
 которых средствами сети связи оператора
 связи осуществляется дополнительное
 кодирование передаваемой информации,
 на пункт управления ОРМ такая информация
 передается в декодированном виде.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Информация,
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Информация,
 передаваемая в контролируемом соединении
 и (или) сообщении электросвязи, передается
 на пункт управления ОРМ во время
 установленного соединения и (или)
 передачи сообщения электросвязи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">3.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Сети связи, в которых оказание услуг
 связи осуществляется при перемещении
 абонента (пользователя услуг связи) без
@@ -189,8 +204,8 @@ N 2460).</FONT></FONT></FONT></FONT></P>
 пользовательского (оконечного)
 оборудования и передачи на пункт
 управления ОРМ такой информации.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">4.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Сети связи, предназначенные для оказания
 услуг связи по предоставлению каналов
 связи, обеспечивают возможность доступа
@@ -198,15 +213,15 @@ N 2460).</FONT></FONT></FONT></FONT></P>
 связи, указанным в запросе с пункта
 управления ОРМ, и передачи ее на пункт
 управления ОРМ.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">5.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
 Информация, относящаяся к контролируемым
 соединениям и (или) передаваемым
 сообщениям электросвязи, передается
 на пункт управления ОРМ по запросам с
 этого пункта управления ОРМ.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">6.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 Базы данных об абонентах оператора
 связи и базы данных об оказанных
 оператором связи услугах связи (базы
@@ -222,8 +237,8 @@ N 2460).</FONT></FONT></FONT></FONT></P>
 соответствии с техническими условиями,
 устанавливаемыми уполномоченным
 органом.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">7.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
 Из базы данных об абонентах оператора
 связи обеспечивается возможность
 получения информации об абоненте,
@@ -234,8 +249,8 @@ N 2460).</FONT></FONT></FONT></FONT></P>
 абонента, чьи персональные данные
 указаны в запросе пункта управления
 ОРМ.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">8.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
 Из базы данных об оказанных абонентам
 оператора связи услугах связи (базы
 данных систем расчета за оказанные
@@ -245,8 +260,8 @@ N 2460).</FONT></FONT></FONT></FONT></P>
 и (или) коду идентификации, а также по
 иным признакам, указанным в запросе
 пункта управления ОРМ.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">9.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
 В сетях связи обеспечивается исключение
 возможности обнаружения участниками
 контролируемого соединения или
@@ -257,37 +272,37 @@ N 2460).</FONT></FONT></FONT></FONT></P>
 доступа персонала, обслуживающего сеть
 связи, к информации, относящейся к
 проведению ОРМ.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">10.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10.
 Технические средства ОРМ размещаются
 на узлах связи сети связи оператора
 связи в соответствии с Планом мероприятий
 по внедрению технических средств для
 проведения оперативно-разыскных
 мероприятий.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">11.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
 Технические условия, устанавливаемые
 уполномоченным органом, должны содержать:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 местонахождение точки подключения
 технических средств ОРМ;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 местонахождение точки подключения базы
 данных об абонентах оператора связи и
 базы данных об оказанных абонентам
 оператора связи услугах связи (базы
 данных систем расчета за оказанные
 услуги связи);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 требования к линиям (каналам) связи,
 соединяющим технические средства ОРМ
 с пунктом управления ОРМ.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">12.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
 В случае применения в сети связи оператора
 связи средств связи, для которых не
 установлены требования в части выполнения
@@ -299,18 +314,24 @@ N 2460).</FONT></FONT></FONT></FONT></P>
 помещение, требования к которому
 приведены в приложении к настоящим
 Требованиям.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Приложение<BR>к
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Приложение<BR>к
 Требованиям к сетям<BR>электросвязи для
 проведения<BR>оперативно-разыскных
 мероприятий.<BR>Часть I. Общие требования</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ТРЕБОВАНИЯ<BR>К
-ТЕХНОЛОГИЧЕСКОМУ ПОМЕЩЕНИЮ,
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ТРЕБОВАНИЯ
+К ТЕХНОЛОГИЧЕСКОМУ ПОМЕЩЕНИЮ,
 ПРЕДОСТАВЛЯЕМОМУ<BR>ОПЕРАТОРОМ СВЯЗИ
 УПОЛНОМОЧЕННОМУ ОРГАНУ</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Технологическое помещение, предоставляемое
 оператором связи уполномоченному
 органу, должно соответствовать
@@ -318,8 +339,8 @@ N 2460).</FONT></FONT></FONT></FONT></P>
 технических средств ОРМ уполномоченного
 органа, которые размещаются в этом
 помещении.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 В технологическом помещении размещается
 кроссовое оборудование для подключения
 технических средств ОРМ уполномоченного
@@ -327,15 +348,15 @@ N 2460).</FONT></FONT></FONT></FONT></P>
 связи, а также, в случае наличия таксофонов
 в сети связи, обеспечивается техническая
 возможность их контроля.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Количество
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Количество
 соединительных линий и требования к
 ним определяются уполномоченным органом
 в соответствии с техническими параметрами
 технических средств ОРМ уполномоченного
 органа.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">3.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 В технологическом помещении допускается
 размещение иных средств связи и другого
 оборудования только по разрешению
@@ -343,14 +364,14 @@ N 2460).</FONT></FONT></FONT></FONT></P>
 при проведении оперативно-разыскных
 мероприятий подразделения уполномоченного
 органа.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">4.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Технологическое помещение оборудуется
 средствами, исключающими несанкционированный
 доступ персонала оператора связи и
 других лиц без разрешения представителя
 уполномоченного органа.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in"><BR><BR>
+<P STYLE="margin-bottom: 0.14in; line-height: 150%"><BR><BR>
 </P>
 </BODY>
 </HTML>`

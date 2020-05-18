@@ -1,6 +1,6 @@
 /*eslint-disable*/
 export default `
-< !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
@@ -8,9 +8,9 @@ export default `
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
 	<META NAME="CREATED" CONTENT="20200430;160100000000000">
-	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
-	<META NAME="CHANGED" CONTENT="20200430;160100000000000">
-	<META NAME="AppVersion" CONTENT="14.0000">
+	<META NAME="CHANGEDBY" CONTENT="Учетная запись Майкрософт">
+	<META NAME="CHANGED" CONTENT="20200518;114100000000000">
+	<META NAME="AppVersion" CONTENT="15.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
 	<META NAME="LinksUpToDate" CONTENT="false">
@@ -25,24 +25,27 @@ export default `
 	</STYLE>
 </HEAD>
 <BODY LANG="ru-RU" LINK="#0000ff" DIR="LTR">
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>МИНИСТЕРСТВО
-СВЯЗИ И МАССОВЫХ КОММУНИКАЦИЙ<BR>РОССИЙСКОЙ
-ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ПРИКАЗ<BR>от
-4 апреля 2016 г. N 135</B></FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ОБ
-УТВЕРЖДЕНИИ ТРЕБОВАНИЙ<BR>К ЭКСПЛУАТАЦИИ
-СЕТЕЙ СВЯЗИ И УПРАВЛЕНИЮ СЕТЯМИ СВЯЗИ<BR>В
-ЧАСТИ ИСПОЛЬЗОВАНИЯ ОПЕРАТОРАМИ СВЯЗИ
-УСЛУГ<BR>СТОРОННИХ ОРГАНИЗАЦИЙ</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">В
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%"><A NAME="_GoBack"></A>
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Министерство
+Связи И Массовых Коммуникаций<BR>Российской
+Федерации</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Приказ<BR>От
+4 Апреля 2016 Г. N 135</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Об
+Утверждении Требований<BR>К Эксплуатации
+Сетей Связи И Управлению Сетями Связи<BR>В
+Части Использования Операторами Связи
+Услуг<BR>Сторонних Организаций</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 соответствии с пунктом 2 статьи 12 и
-пунктом 3 статьи 26 Федерального&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><SPAN STYLE="text-decoration: none">закона
-от 7 июля 2003 г. N 126-ФЗ</SPAN></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif">&nbsp;&quot;О
+пунктом 3 статьи 26 Федерального&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN STYLE="text-decoration: none">закона
+от 7 июля 2003 г. N 126-ФЗ</SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&nbsp;&quot;О
 связи&quot; (Собрание законодательства
 Российской Федерации, 2003, N 28, ст. 2895; N
 52, ст. 5038; 2004, N 35, ст. 3607; N 45, ст. 4377; 2005, N 19,
@@ -61,9 +64,9 @@ N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N 30, ст. 4229, ст.
 4389; 2016, N 10, ст. 1316; N 18, ст. 2498), пунктами
 5.2.2 и 5.2.8 Положения о Министерстве связи
 и массовых коммуникаций Российской
-Федерации, утвержденного&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-02.06.2008-N-418/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><SPAN STYLE="text-decoration: none">постановлением
+Федерации, утвержденного&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-02.06.2008-N-418/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN STYLE="text-decoration: none">постановлением
 Правительства Российской Федерации от
-2 июня 2008 г. N 418</SPAN></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif">&nbsp;(Собрание
+2 июня 2008 г. N 418</SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&nbsp;(Собрание
 законодательства Российской Федерации,
 2008, N 23, ст. 2708; N 42, ст. 4825; N 46, ст. 5337; 2009, N
 3, ст. 378; N 6, ст. 738; N 33, ст. 4088; 2010, N 13, ст.
@@ -73,39 +76,51 @@ N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N 30, ст. 4229, ст.
 5001; N 39, ст. 5270; N 46, ст. 6347; 2013, N 13, ст. 1568; N
 33, ст. 4386; N 45, ст. 5822; 2014, N 30, ст. 4305; N 31, ст.
 4414; N 47, ст. 6554; 2015, N 2, ст. 491; N 24, ст. 3486; 2016,
-N 2, ст. 325; N 18, ст. 2637), приказываю:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1.
+N 2, ст. 325; N 18, ст. 2637), приказываю:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Утвердить прилагаемые Требования к
 эксплуатации сетей связи и управлению
 сетями связи в части использования
 операторами связи услуг сторонних
-организаций.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2.
+организаций.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Настоящий приказ вступает в силу по
 истечении одного года после дня его
-официального опубликования.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">3.
+официального опубликования.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Направить настоящий приказ на
 государственную регистрацию в Министерство
-юстиции Российской Федерации.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Министр<BR>Н.А.НИКИФОРОВ</FONT></FONT></FONT></FONT></P>
-<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Утверждены<BR>приказом
+юстиции Российской Федерации.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Министр<BR>Н.А.НИКИФОРОВ</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утверждены<BR>приказом
 Министерства связи<BR>и массовых
 коммуникаций<BR>Российской Федерации<BR>от
-04.04.2016 N 135</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ТРЕБОВАНИЯ<BR>К
-ЭКСПЛУАТАЦИИ СЕТЕЙ СВЯЗИ И УПРАВЛЕНИЮ
+04.04.2016 N 135</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ТРЕБОВАНИЯ
+К ЭКСПЛУАТАЦИИ СЕТЕЙ СВЯЗИ И УПРАВЛЕНИЮ
 СЕТЯМИ СВЯЗИ<BR>В ЧАСТИ ИСПОЛЬЗОВАНИЯ
-ОПЕРАТОРАМИ СВЯЗИ УСЛУГ<BR>СТОРОННИХ
-ОРГАНИЗАЦИЙ</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1.
+ОПЕРАТОРАМИ СВЯЗИ УСЛУГ СТОРОННИХ
+ОРГАНИЗАЦИЙ</B></FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Настоящие Требования к эксплуатации
 сетей связи и управлению сетями связи
 в части использования операторами связи
@@ -126,9 +141,9 @@ N 2, ст. 325; N 18, ст. 2637), приказываю:</FONT></FONT></FONT></F
 аварийных ситуаций на сетях связи (далее
 - эксплуатация сетей связи) и управлению
 сетями связи, составляющими сеть связи
-общего пользования.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2.
+общего пользования.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 К оказанию услуг и выполнению работ,
 связанных с эксплуатацией и (или)
 управлением сетью связи, в соответствии
@@ -142,9 +157,9 @@ N 2, ст. 325; N 18, ст. 2637), приказываю:</FONT></FONT></FONT></F
 настроек, включения и выключения и
 другим аналогичным действиям, которые
 могут повлиять на работоспособность
-оборудования связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">3.
+оборудования связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 На основании договора об оказании услуг
 или выполнении работ, связанных с
 эксплуатацией и (или) управлением сетью
@@ -157,16 +172,16 @@ N 2, ст. 325; N 18, ст. 2637), приказываю:</FONT></FONT></FONT></F
 (лицах без гражданства), привлекаемых
 исполнителем к оказанию таких услуг и
 выполнению таких работ, в соответствии
-с пунктами 6 и 7 настоящих Требований.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">4.
+с пунктами 6 и 7 настоящих Требований.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Сведения представляются исполнителем
 оператору связи в письменной форме,
 удостоверенные уполномоченным
 представителем исполнителя, с указанием
-даты, фамилии и инициалов, его должности.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">5.
+даты, фамилии и инициалов, его должности.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
 Оператор связи ежеквартально, не позднее
 15-го числа месяца, следующего за отчетным
 кварталом, направляет в территориальный
@@ -177,46 +192,46 @@ N 2, ст. 325; N 18, ст. 2637), приказываю:</FONT></FONT></FONT></F
 гражданах (лицах без гражданства),
 привлекаемых к оказанию услуг и (или)
 выполнению работ, связанных с эксплуатацией
-и (или) управлением его сетью связи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">6.
+и (или) управлением его сетью связи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 Сведения об иностранной организации
-должны содержать:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1)
+должны содержать:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1)
 полное наименование иностранной
 организации (буквами русского алфавита
-и буквами латинского алфавита);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2)
+и буквами латинского алфавита);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2)
 регистрацию в стране происхождения
 (страна происхождения, дата регистрации,
 регистрационный номер, наименование
 регистрирующего органа, адрес (место
-нахождения) в стране происхождения);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">3)
+нахождения) в стране происхождения);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3)
 идентификационный номер налогоплательщика
 иностранной организации в стране
 регистрации, а при его отсутствии -
 аналогичный документ, используемый в
-иностранном государстве;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">4)
+иностранном государстве;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4)
 наименование филиала или представительства
 на территории Российской Федерации
-(при наличии);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">5)
+(при наличии);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5)
 адрес (место нахождения) филиала или
 представительства на территории
 Российской Федерации (почтовый индекс,
 субъект Российской Федерации (код),
 наименование района, населенного пункта,
 улицы, номер дома, корпуса, строения,
-офиса);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">6)
+офиса);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6)
 свидетельство об аккредитации филиала
 или представительства на территории
 Российской Федерации (номер, число,
@@ -226,67 +241,67 @@ N 2, ст. 325; N 18, ст. 2637), приказываю:</FONT></FONT></FONT></F
 число, месяц, год), наименование
 уполномоченного органа, выдавшего
 разрешение, срок действия разрешения
-(число, месяц, год);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">7)
+(число, месяц, год);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7)
 перечень идентификаторов (учетных
 записей/логинов), выделенных иностранной
 организации для управления средствами
 связи как с рабочих мест, так и с
-использованием удаленного доступа.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">7.
+использованием удаленного доступа.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
 Сведения об иностранном гражданине
-(лице без гражданства) должны содержать:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1)
+(лице без гражданства) должны содержать:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1)
 фамилию, имя (буквами русского алфавита
 и буквами латинского алфавита), отчество
-(при наличии) (буквами русского алфавита);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2)
-дату рождения (день, месяц, год);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">3)
-пол;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">4)
+(при наличии) (буквами русского алфавита);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2)
+дату рождения (день, месяц, год);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3)
+пол;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4)
 гражданство (подданство) иных государств
-(при наличии);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">5)
+(при наличии);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5)
 место рождения (государство, населенный
-пункт);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">6)
+пункт);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6)
 место постоянного проживания (государство,
-населенный пункт);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">7)
+населенный пункт);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7)
 документ, удостоверяющий личность
 иностранного гражданина или лица без
 гражданства (серия, номер, дата выдачи,
-кем выдан);</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">8)
+кем выдан);</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8)
 идентификационный номер налогоплательщика
 или аналогичный документ, используемый
-в иностранном государстве;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">9)
+в иностранном государстве;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9)
 перечень идентификаторов (учетных
 записей/логинов), выделенных иностранному
 гражданину (лицу без гражданства) для
 управления средствами связи как с
 рабочих мест, так и с использованием
-удаленного доступа;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">10)
+удаленного доступа;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10)
 наличие согласия субъекта персональных
 данных на обработку его персональных
-данных.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">8.
+данных.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
 Оператор связи хранит в течение трех
 лет информацию о всех действиях со
 средствами связи, выполненных обслуживающим
@@ -294,57 +309,57 @@ N 2, ст. 325; N 18, ст. 2637), приказываю:</FONT></FONT></FONT></F
 привлеченными лицами в процессе
 эксплуатации и (или) управления сетью
 связи как с рабочих мест, так и с
-использованием удаленного доступа.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">К
+использованием удаленного доступа.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">К
 средствам связи, информация о всех
 действиях с которыми хранится оператором
 связи, относятся средства связи,
-выполняющие функции:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+выполняющие функции:</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 систем коммутации узла сети междугородной
-и международной телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+и международной телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 систем коммутации узла сети фиксированной
-зоновой телефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+зоновой телефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 систем коммутации узла сети местной
 телефонной связи монтированной емкостью
-3 000 номеров и выше;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+3 000 номеров и выше;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 систем коммутации узла сети подвижной
-радиосвязи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">д)
+радиосвязи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 систем коммутации узла сети подвижной
-радиотелефонной связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">е)
+радиотелефонной связи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 систем коммутации узла сети подвижной
-спутниковой радиосвязи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">ж)
+спутниковой радиосвязи;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ж)
 систем коммутации узла сети передачи
 данных скоростью передачи данных 10
-Гбит/с и выше;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">з)
+Гбит/с и выше;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">з)
 первичных и вторичных задающих генераторов
-систем тактовой сетевой синхронизации;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">и)
+систем тактовой сетевой синхронизации;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">и)
 систем коммутации узла обслуживания
-вызовов экстренных оперативных служб;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">к)
+вызовов экстренных оперативных служб;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">к)
 систем управления и мониторинга сетей
-электросвязи.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">9.
+электросвязи.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
 Указанная в пункте 8 настоящих Требований
 информация в электронном виде в формате,
 установленном изготовителем средства
@@ -353,8 +368,8 @@ N 2, ст. 325; N 18, ст. 2637), приказываю:</FONT></FONT></FONT></F
 возможности хранения информации в
 электронном виде предоставляется
 оператором связи по запросу органам
-федеральной службы безопасности.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in"><BR><BR>
+федеральной службы безопасности.</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; line-height: 150%"><BR><BR>
 </P>
 </BODY>
 </HTML>`

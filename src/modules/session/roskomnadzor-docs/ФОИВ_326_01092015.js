@@ -1,6 +1,6 @@
 /*eslint-disable*/
 export default `
-< !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
@@ -8,9 +8,9 @@ export default `
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
 	<META NAME="CREATED" CONTENT="20200430;155200000000000">
-	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
-	<META NAME="CHANGED" CONTENT="20200430;155200000000000">
-	<META NAME="AppVersion" CONTENT="14.0000">
+	<META NAME="CHANGEDBY" CONTENT="Учетная запись Майкрософт">
+	<META NAME="CHANGED" CONTENT="20200518;114200000000000">
+	<META NAME="AppVersion" CONTENT="15.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
 	<META NAME="LinksUpToDate" CONTENT="false">
@@ -25,29 +25,32 @@ export default `
 	</STYLE>
 </HEAD>
 <BODY LANG="ru-RU" LINK="#0000ff" DIR="LTR">
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>МИНИСТЕРСТВО
-СВЯЗИ И МАССОВЫХ КОММУНИКАЦИЙ<BR>РОССИЙСКОЙ
-ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ПРИКАЗ<BR>от
-1 сентября 2015 г. N 326</B></FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>ОБ
-УТВЕРЖДЕНИИ УСЛОВИЙ<BR>ПОДТВЕРЖДЕНИЯ
-НАЛИЧИЯ ИЛИ ОТСУТСТВИЯ ТЕХНИЧЕСКОЙ<BR>ВОЗМОЖНОСТИ
-ПРИНЯТЬ СИГНАЛ ПУТЕМ ПРИСОЕДИНЕНИЯ
-СЕТИ<BR>СВЯЗИ ОПЕРАТОРА ОБЯЗАТЕЛЬНЫХ
-ОБЩЕДОСТУПНЫХ ТЕЛЕКАНАЛОВ<BR>И (ИЛИ)
-РАДИОКАНАЛОВ К СЕТИ СВЯЗИ ОПЕРАТОРА
-СВЯЗИ,<BR>УКАЗАННОГО В ПУНКТЕ 2 СТАТЬИ
-19.2 ФЕДЕРАЛЬНОГО ЗАКОНА<BR>ОТ 7 ИЮЛЯ 2003 Г.
-N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">В
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%"><A NAME="_GoBack"></A>
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Министерство
+Связи И Массовых Коммуникаций<BR>Российской
+Федерации</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Приказ<BR>От
+1 Сентября 2015 Г. N 326</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Об
+Утверждении Условий<BR>Подтверждения
+Наличия Или Отсутствия Технической<BR>Возможности
+Принять Сигнал Путем Присоединения
+Сети<BR>Связи Оператора Обязательных
+Общедоступных Телеканалов<BR>И (Или)
+Радиоканалов К Сети Связи Оператора
+Связи,<BR>Указанного В Пункте 2 Статьи
+19.2 Федерального Закона<BR>От 7 Июля 2003 Г.
+N 126-Фз &quot;О Связи&quot;</FONT></FONT></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 соответствии с абзацем четвертым пункта
-1 статьи 19.1 Федерального&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><SPAN STYLE="text-decoration: none">закона
-от 7 июля 2003 г. N 126-ФЗ</SPAN></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif">&nbsp;&quot;О
+1 статьи 19.1 Федерального&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#00000a"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN STYLE="text-decoration: none">закона
+от 7 июля 2003 г. N 126-ФЗ</SPAN></FONT></FONT></FONT></A><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&nbsp;&quot;О
 связи&quot; (Собрание законодательства
 Российской Федерации, 2003, N 28, ст. 2895; N
 52, ст. 5038; 2004, N 35, ст. 3607; N 45, ст. 4377; 2005, N 19,
@@ -66,9 +69,9 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 подпунктом 5.2.26 подпункта 5.2 пункта 5
 Положения о Министерстве связи и массовых
 коммуникаций Российской Федерации,
-утвержденного&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-02.06.2008-N-418/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><SPAN STYLE="text-decoration: none">постановлением
+утвержденного&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-02.06.2008-N-418/"><FONT COLOR="#00000a"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN STYLE="text-decoration: none">постановлением
 Правительства Российской Федерации от
-2 июня 2008 г. N 418</SPAN></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif">&nbsp;(Собрание
+2 июня 2008 г. N 418</SPAN></FONT></FONT></FONT></A><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&nbsp;(Собрание
 законодательства Российской Федерации,
 2008, N 23, ст. 2708; N 42, ст. 4825; N 46, ст. 5337; 2009, N
 3, ст. 378; N 6, ст. 738; N 33, ст. 4088; 2010, N 13, ст.
@@ -78,8 +81,11 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 13, ст. 1568, 1569; N 33, ст. 4386; N 45, ст. 5822; 2014, N 30,
 ст. 4305; N 31, ст. 4414, N 47, ст. 6554; 2015, N 3, ст.
 491), приказываю:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Утвердить прилагаемые Условия
 подтверждения наличия или отсутствия
 технической возможности принять сигнал
@@ -87,33 +93,42 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 обязательных общедоступных телеканалов
 и (или) радиоканалов к сети связи оператора
 связи, указанного в пункте 2 статьи 19.2
-Федерального&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><SPAN STYLE="text-decoration: none">закона
-от 7 июля 2003 г. N 126-ФЗ</SPAN></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif">&nbsp;&quot;О
+Федерального&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#00000a"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN STYLE="text-decoration: none">закона
+от 7 июля 2003 г. N 126-ФЗ</SPAN></FONT></FONT></FONT></A><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&nbsp;&quot;О
 связи&quot;.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Направить настоящий приказ на
 государственную регистрацию в Министерство
 юстиции Российской Федерации.</FONT></FONT></FONT></FONT></P>
-<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Министр<BR>Н.А.НИКИФОРОВ</FONT></FONT></FONT></FONT></P>
-<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">Утверждены<BR>приказом
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Министр<BR>Н.А.НИКИФОРОВ</FONT></FONT></FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утверждены<BR>приказом
 Министерства связи<BR>и массовых
 коммуникаций<BR>Российской Федерации<BR>от
 01.09.2015 N 326</FONT></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif"><B>УСЛОВИЯ<BR>ПОДТВЕРЖДЕНИЯ
-НАЛИЧИЯ ИЛИ ОТСУТСТВИЯ ТЕХНИЧЕСКОЙ<BR>ВОЗМОЖНОСТИ
-ПРИНЯТЬ СИГНАЛ ПУТЕМ ПРИСОЕДИНЕНИЯ
-СЕТИ<BR>СВЯЗИ ОПЕРАТОРА ОБЯЗАТЕЛЬНЫХ
-ОБЩЕДОСТУПНЫХ ТЕЛЕКАНАЛОВ<BR>И (ИЛИ)
-РАДИОКАНАЛОВ К СЕТИ СВЯЗИ ОПЕРАТОРА
-СВЯЗИ,<BR>УКАЗАННОГО В ПУНКТЕ 2 СТАТЬИ
-19.2 ФЕДЕРАЛЬНОГО ЗАКОНА<BR>ОТ 7 ИЮЛЯ 2003 Г.
-N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">1.
+<P ALIGN=RIGHT STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>УСЛОВИЯ
+ПОДТВЕРЖДЕНИЯ НАЛИЧИЯ ИЛИ ОТСУТСТВИЯ
+ТЕХНИЧЕСКОЙ<BR>ВОЗМОЖНОСТИ ПРИНЯТЬ
+СИГНАЛ ПУТЕМ ПРИСОЕДИНЕНИЯ СЕТИ<BR>СВЯЗИ
+ОПЕРАТОРА ОБЯЗАТЕЛЬНЫХ ОБЩЕДОСТУПНЫХ
+ТЕЛЕКАНАЛОВ<BR>И (ИЛИ) РАДИОКАНАЛОВ К
+СЕТИ СВЯЗИ ОПЕРАТОРА СВЯЗИ,<BR>УКАЗАННОГО
+В ПУНКТЕ 2 СТАТЬИ 19.2 ФЕДЕРАЛЬНОГО
+ЗАКОНА<BR>ОТ 7 ИЮЛЯ 2003 Г. N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Настоящие Условия подтверждения наличия
 или отсутствия технической возможности
 принять сигнал путем присоединения
@@ -121,8 +136,8 @@ N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
 общедоступных телеканалов и (или)
 радиоканалов к сети связи оператора
 связи, указанного в пункте 2 статьи 19.2
-Федерального&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><SPAN STYLE="text-decoration: none">закона
-от 7 июля 2003 г. N 126-ФЗ</SPAN></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif">&nbsp;&quot;О
+Федерального&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#00000a"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN STYLE="text-decoration: none">закона
+от 7 июля 2003 г. N 126-ФЗ</SPAN></FONT></FONT></FONT></A><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&nbsp;&quot;О
 связи&quot; (далее - Условия), применяются
 к деятельности оператора связи,
 определенного Президентом Российской
@@ -143,8 +158,8 @@ N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
 на основании договоров с абонентами
 (далее - оператор обязательных общедоступных
 каналов).</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">2.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Оператор, осуществляющий эфирную
 наземную трансляцию, при присоединении
 сети связи оператора обязательных
@@ -152,8 +167,8 @@ N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
 сигнал обязательных общедоступных
 телеканалов и (или) радиоканалов в
 цифровом формате.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">3.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Техническая возможность принять сигнал
 путем присоединения сети связи оператора
 обязательных общедоступных каналов к
@@ -162,8 +177,8 @@ N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
 наличием совокупности следующих условий
 для присоединения эксплуатируемых
 такими операторами сетей связи:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 наличие в пределах зоны обслуживания
 сети связи оператора обязательных
 общедоступных каналов, на которой
@@ -177,8 +192,8 @@ N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
 осуществляющего эфирную наземную
 трансляцию, образующих точку присоединения
 сетей связи;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 достаточность мощности электроснабжения
 объекта связи, а равно наличие
 конструктивных возможностей сооружений
@@ -189,8 +204,8 @@ N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
 наземную трансляцию, образующие точку
 присоединения с сетью оператора
 обязательных общедоступных каналов.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">4.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 В случае отсутствия одного или более
 условий, указанных в пункте 3 Условий,
 считается, что техническая возможность
@@ -199,8 +214,8 @@ N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
 общедоступных каналов к сети связи
 оператора, осуществляющего эфирную
 наземную трансляцию, отсутствует.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">5.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5.
 Для определения технической возможности
 присоединения, точки присоединения
 сетей связи и параметров технических
@@ -209,8 +224,8 @@ N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
 должен представить оператору,
 осуществляющему эфирную наземную
 трансляцию, в порядке, определенном
-пунктом 4 статьи 19.1 Федерального&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><SPAN STYLE="text-decoration: none">закона
-от 7 июля 2003 г. N 126-ФЗ</SPAN></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif">&nbsp;&quot;О
+пунктом 4 статьи 19.1 Федерального&nbsp;</FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#00000a"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN STYLE="text-decoration: none">закона
+от 7 июля 2003 г. N 126-ФЗ</SPAN></FONT></FONT></FONT></A><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&nbsp;&quot;О
 связи&quot;, заявление в произвольной
 форме с указанием номера своей лицензии,
 территории, на которой обеспечивается
@@ -221,30 +236,30 @@ N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
 сведения о параметрах эксплуатируемой
 оператором обязательных общедоступных
 каналов сети связи:</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">а)
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 типе сети оператора обязательных
 общедоступных каналов в соответствии
 с имеющейся у него лицензией на оказание
 услуг связи для целей телевизионного
 вещания;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">б)
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 количестве объектов связи оператора
 обязательных общедоступных каналов, с
 которыми предполагается организовывать
 точку присоединения;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">в)
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 типе имеющихся входных интерфейсов
 оборудования оператора обязательных
 общедоступных каналов;</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">г)
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 предполагаемом месте организации точки
 присоединения сетей.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">В
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
 заявлении указывается почтовый адрес
 для отправки оператором, осуществляющим
 эфирную наземную трансляцию, уведомления
@@ -261,8 +276,8 @@ N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
 также контактная информация, необходимая
 для взаимодействия с оператором
 обязательных общедоступных каналов.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">6.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 Оператор обязательных общедоступных
 каналов вправе по согласованию с
 вещателем обязательных общедоступных
@@ -276,8 +291,8 @@ N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
 аварийно-восстановительных работ на
 сети связи оператора, осуществляющего
 эфирную наземную трансляцию.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">7.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
 Оператор, осуществляющий эфирную
 наземную трансляцию обязательных
 общедоступных каналов на средствах
@@ -297,8 +312,8 @@ N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
 заключенного между вещателем и оператором,
 осуществляющим эфирную наземную
 трансляцию.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">8.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8.
 Операторы, осуществляющие трансляцию
 обязательных общедоступных телеканалов
 и (или) радиоканалов с использованием
@@ -308,15 +323,15 @@ N 126-ФЗ &quot;О СВЯЗИ&quot;</B></FONT></FONT></FONT></FONT></P>
 дублей обязательных общедоступных
 телеканалов на соответствующей территории
 в соответствии с часовым поясом.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 100%">
-<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT COLOR="#222222"><FONT FACE="Arial, serif">9.
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.19in; margin-bottom: 0.19in; background: #ffffff; line-height: 150%">
+<FONT FACE="Times New Roman, serif"><FONT SIZE=3><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
 Оператор, осуществляющий эфирную
 наземную трансляцию, публикует информацию
 о тарифах на услуги по присоединению
 сетей связи операторов обязательных
 общедоступных каналов на своем сайте
 в сети Интернет.</FONT></FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in"><BR><BR>
+<P STYLE="margin-bottom: 0.14in; line-height: 150%"><BR><BR>
 </P>
 </BODY>
 </HTML>`

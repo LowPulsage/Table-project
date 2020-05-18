@@ -8,9 +8,9 @@ export default `
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
 	<META NAME="CREATED" CONTENT="20200505;144600000000000">
-	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
-	<META NAME="CHANGED" CONTENT="20200517;95100000000000">
-	<META NAME="AppVersion" CONTENT="16.0000">
+	<META NAME="CHANGEDBY" CONTENT="Учетная запись Майкрософт">
+	<META NAME="CHANGED" CONTENT="20200518;113000000000000">
+	<META NAME="AppVersion" CONTENT="15.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
 	<META NAME="LinksUpToDate" CONTENT="false">
@@ -28,13 +28,16 @@ export default `
 	</STYLE>
 </HEAD>
 <BODY LANG="ru-RU" LINK="#0563c1" DIR="LTR">
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in"><A NAME="_GoBack"></A>
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=3><B>РАСПОРЯЖЕНИЕ</B></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 0.38in">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=3><B>ПРЕЗИДЕНТА
-РОССИЙСКОЙ ФЕДЕРАЦИИ</B></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Распоряжение</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%"><A NAME="_GoBack"></A>
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Президента
+Российской Федерации</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
 Прекратить предварительное согласование
 в Администрации Президента Российской
 Федерации проектов постановлений и
@@ -54,8 +57,11 @@ export default `
 Федерации, предусматривающих принятие
 постановлений, распоряжений Правительства
 Российской Федерации&quot;.</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Установить, что перечни проектов
 постановлений и распоряжений Правительства
 Российской Федерации, планирующихся к
@@ -63,15 +69,18 @@ export default `
 направляются Аппаратом Правительства
 Российской Федерации в Администрацию
 Президента Российской Федерации.</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=3>Поручить
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Поручить
 помощнику Президента Российской
 Федерации, осуществляющему общее
 руководство деятельностью Экспертного
 управления Президента Российской
 Федерации:</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=3>запрашивать
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">запрашивать
 планирующиеся к рассмотрению в
 установленном порядке проекты
 постановлений и распоряжений Правительства
@@ -80,16 +89,22 @@ export default `
 государства, определенной в ежегодных
 посланиях Президента Российской
 Федерации Федеральному Собранию;</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=3>принимать
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">принимать
 участие в работе над указанными проектами
 постановлений и распоряжений Правительства
 Российской Федерации, проводимой
 Аппаратом Правительства Российской
 Федерации и федеральными органами
 исполнительной власти.</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=3>Установить,
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Установить,
 что в случае необходимости помощник
 Президента Российской Федерации,
 осуществляющий общее руководство
@@ -103,8 +118,11 @@ export default `
 Федерации, а по согласованию с Аппаратом
 Правительства Российской Федерации -
 немедленно.</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=3>3.
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Возложить на помощника Президента
 Российской Федерации - начальника
 Государственно-правового управления
@@ -119,13 +137,16 @@ export default `
 указами Президента Российской Федерации,
 названными в пункте 1 настоящего
 распоряжения.</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=3>Президент<BR>Российской
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Президент<BR>Российской
 Федерации<BR>Б.ЕЛЬЦИН</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=3>5
+<P CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5
 мая 1998 года<BR>N 160-рп</FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0.11in; line-height: 107%"><BR><BR>
+<P CLASS="western" STYLE="margin-bottom: 0in; line-height: 150%"><BR>
 </P>
 </BODY>
 </HTML>

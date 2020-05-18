@@ -1,6 +1,6 @@
 /*eslint-disable*/
 export default `
-< !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
@@ -8,9 +8,9 @@ export default `
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Инна Щербакова">
 	<META NAME="CREATED" CONTENT="20200430;155700000000000">
-	<META NAME="CHANGEDBY" CONTENT="Инна Щербакова">
-	<META NAME="CHANGED" CONTENT="20200430;155800000000000">
-	<META NAME="AppVersion" CONTENT="14.0000">
+	<META NAME="CHANGEDBY" CONTENT="Учетная запись Майкрософт">
+	<META NAME="CHANGED" CONTENT="20200518;114200000000000">
+	<META NAME="AppVersion" CONTENT="15.0000">
 	<META NAME="DocSecurity" CONTENT="0">
 	<META NAME="HyperlinksChanged" CONTENT="false">
 	<META NAME="LinksUpToDate" CONTENT="false">
@@ -25,124 +25,43 @@ export default `
 	</STYLE>
 </HEAD>
 <BODY LANG="ru-RU" LINK="#0000ff" DIR="LTR">
-<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="inherit, serif"><FONT SIZE=3><B>МИНИСТЕРСТВО
-СВЯЗИ И МАССОВЫХ КОММУНИКАЦИЙ<BR>РОССИЙСКОЙ
-ФЕДЕРАЦИИ</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="inherit, serif"><FONT SIZE=3><B>ПРИКАЗ<BR>от
-22 сентября 2015 г. N 355</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="inherit, serif"><FONT SIZE=3><B>ОБ
-УТВЕРЖДЕНИИ ПОРЯДКА<BR>ОБЕСПЕЧЕНИЯ
-ОПЕРАТОРАМИ ПОЧТОВОЙ СВЯЗИ УСЛОВИЙ
-ДОСТУПНОСТИ<BR>ДЛЯ ИНВАЛИДОВ ОБЪЕКТОВ
-ПОЧТОВОЙ СВЯЗИ И ПРЕДОСТАВЛЯЕМЫХ<BR>УСЛУГ
-ПОЧТОВОЙ СВЯЗИ</B></FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>В
-соответствии с Федеральным&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3>законом
-от 7 июля 2003 г. N 126-ФЗ</FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;&quot;О
-связи&quot; (Собрание законодательства
-Российской Федерации, 2003, N 28, ст. 2895; N
-52, ст. 5038; 2004, N 35, ст. 3607; N 45, ст. 4377; 2005, N 19,
-ст. 1752; 2006, N 6, ст. 636; N 10, ст. 1069; N 31, ст. 3431,
-ст. 3452; 2007, N 1, ст. 8; N 7, ст. 835; 2008, N 18, ст.
-1941; 2009, N 29, ст. 3625; 2010, N 7, ст. 705; N 15, ст. 1737;
-N 27, ст. 3408; N 31, ст. 4190; 2011, N 7, ст. 901; N 9, ст.
-1205; N 25, ст. 3535; N 27, ст. 3873, ст. 3880; N 29, ст.
-4284, ст. 4291; N 30, ст. 4590; N 45, ст. 6333; N 49, ст.
-7061; N 50, ст. 7351, ст. 7366; 2012, N 31, ст. 4322, ст.
-4328; N 53, ст. 7578; 2013, N 19, ст. 2326; N 27, ст. 3450; N
-30, ст. 4062; N 43, ст. 5451; N 44, ст. 5643; N 48, ст. 6162;
-N 49, ст. 6339, ст. 6347; N 52, ст. 6961; 2014, N 6, ст. 560;
-N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
-30, ст. 4229, ст. 4273; N 49, ст. 6928; 2015, N 29, ст. 4342,
-ст. 4383), Федеральным законом 24 ноября
-1995 г. N 181-ФЗ &quot;О социальной защите
-инвалидов в Российской Федерации&quot;
+<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Министерство
+Связи И Массовых Коммуникаций<BR>Российской
+Федерации</FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%"><A NAME="_GoBack"></A>
+<FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Приказ<BR>От
+22 Сентября 2015 Г. N 355</FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=5 STYLE="font-size: 20pt">Об
+Утверждении Порядка<BR>Обеспечения
+Операторами Почтовой Связи Условий
+Доступности<BR>Для Инвалидов Объектов
+Почтовой Связи И Предоставляемых<BR>Услуг
+Почтовой Связи</FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">В
+соответствии с Федеральным&nbsp;<A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/">законом
+от 7 июля 2003 г. N 126-ФЗ</A>&nbsp;&quot;О связи&quot;
 (Собрание законодательства Российской
-Федерации, 1995, N 48, ст. 4563; 1998, N 31, ст. 3803;
-1999, N 2, ст. 232; N 29, ст. 3693; 2001, N 24, ст. 2410; N 33,
-ст. 3426; N 53, ст. 5024; 2002, N 1, ст. 2; N 22, ст. 2026;
-2003, N 2, ст. 167; N 43, ст. 4108; 2004, N 35, ст. 3607; 2005,
-N 1, ст. 25; 2006, N 1, ст. 10; 2007, N 43, ст. 5084; N 49, ст.
-6070; 2008, N 9, ст. 817; N 29, ст. 3410; N 30, ст. 3616; N 52,
-ст. 6224; 2009, N 18, ст. 2152; N 30, ст. 3739; 2010, N 50, ст.
-6609; 2011, N 27, ст. 3880; N 30, ст. 4596; N 45, ст. 6329; N
-47, ст. 6608; N 49, ст. 7033; 2012, N 29, ст. 3990; N 30, ст.
-4175; N 53, ст. 7621; 2013, N 8, ст. 717; N 19, ст. 2331; N 27,
-ст. 3460, ст. 3475, ст. 3477; N 48, ст. 6160; N 52, ст.
-6986; 2014, N 26, ст. 3406; N 30, ст. 4268; N 49, ст. 6928;
-2015, N 14, ст. 2008, N 27, ст. 3967),&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-26.12.2014-N-1521/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3>постановлением
-Правительства Российской Федерации от
-26 декабря 2014 г. N 1521</FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;&quot;Об
-утверждении перечня национальных
-стандартов и сводов правил (частей таких
-стандартов и сводов правил), в результате
-применения которых на обязательной
-основе обеспечивается соблюдение
-требований Федерального закона
-&quot;Технический регламент о безопасности
-зданий и сооружений&quot; (Собрание
-законодательства Российской Федерации,
-2015, N 2, ст. 465), Положением о Министерстве
-связи и массовых коммуникаций Российской
-Федерации, утвержденным&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-02.06.2008-N-418/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3>постановлением
-Правительства Российской Федерации от
-2 июня 2008 г. N 418</FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;(Собрание
-законодательства Российской Федерации,
-2008, N 23, ст. 2708; N 42, ст. 4825; N 46, ст. 5337; 2009, N
-3, ст. 378; N 6, ст. 738; N 33, ст. 4088; 2010, N 13 ст.
-1502; N 26, ст. 3350; N 30, ст. 4099; N 31, ст. 4251; 2011, N
-2, ст. 338; N 3, ст. 542; N 14, ст. 1935; N 21, ст. 2965; N
-44, ст. 6272; N 49, ст. 7283; 2012, N 20, ст. 2540; N 37, ст.
-5001; N 39, ст. 5270; N 46, ст. 6347; 2013, N 13, ст. 1568, ст.
-1569; N 33, ст. 4386; N 45, ст. 5822; 2014, N 30, ст. 4305; N
-31, ст. 4414; N 47, ст. 6554; 2015, N 2, ст. 491), приказываю:</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
-Утвердить прилагаемый Порядок обеспечения
-операторами почтовой связи условий
-доступности для инвалидов объектов
-почтовой связи и предоставляемых услуг
-почтовой связи (далее - Порядок).</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
-Установить, что настоящий приказ вступает
-в силу с 1 января 2016 года, за исключением
-подпункта &quot;а&quot; пункта 4 и пунктов 11
-- 15 Порядка.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3.
-Установить, что подпункт &quot;а&quot; пункта
-4 Порядка вступает в силу с 1 июля 2016 года
-в отношении вновь вводимых в эксплуатацию
-или прошедших реконструкцию, модернизацию
-объектов и средств почтовой связи.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>4.
-Направить настоящий приказ на
-государственную регистрацию в Министерство
-юстиции Российской Федерации.</FONT></FONT></FONT></P>
-<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Министр<BR>Н.А.НИКИФОРОВ</FONT></FONT></FONT></P>
-<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Утвержден<BR>приказом
-Министерства связи<BR>и массовых
-коммуникаций<BR>Российской Федерации<BR>от
-22.09.2015 N 355</FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="inherit, serif"><FONT SIZE=3><B>ПОРЯДОК<BR>ОБЕСПЕЧЕНИЯ
-ОПЕРАТОРАМИ ПОЧТОВОЙ СВЯЗИ УСЛОВИЙ
-ДОСТУПНОСТИ<BR>ДЛЯ ИНВАЛИДОВ ОБЪЕКТОВ
-ПОЧТОВОЙ СВЯЗИ И ПРЕДОСТАВЛЯЕМЫХ<BR>УСЛУГ
-ПОЧТОВОЙ СВЯЗИ</B></FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>1.
-Настоящий Порядок разработан в
-соответствии со статьей 15 Федерального&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-24.11.1995-N-181-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3>закона
-от 24 ноября 1995 г. N 181-ФЗ</FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;&quot;О
+Федерации, 2003, N 28, ст. 2895; N 52, ст. 5038; 2004, N
+35, ст. 3607; N 45, ст. 4377; 2005, N 19, ст. 1752; 2006, N 6,
+ст. 636; N 10, ст. 1069; N 31, ст. 3431, ст. 3452; 2007, N 1,
+ст. 8; N 7, ст. 835; 2008, N 18, ст. 1941; 2009, N 29, ст.
+3625; 2010, N 7, ст. 705; N 15, ст. 1737; N 27, ст. 3408; N 31,
+ст. 4190; 2011, N 7, ст. 901; N 9, ст. 1205; N 25, ст. 3535;
+N 27, ст. 3873, ст. 3880; N 29, ст. 4284, ст. 4291; N 30, ст.
+4590; N 45, ст. 6333; N 49, ст. 7061; N 50, ст. 7351, ст.
+7366; 2012, N 31, ст. 4322, ст. 4328; N 53, ст. 7578; 2013, N
+19, ст. 2326; N 27, ст. 3450; N 30, ст. 4062; N 43, ст. 5451;
+N 44, ст. 5643; N 48, ст. 6162; N 49, ст. 6339, ст. 6347; N
+52, ст. 6961; 2014, N 6, ст. 560; N 14, ст. 1552; N 19, ст.
+2302; N 26, ст. 3366, ст. 3377; N 30, ст. 4229, ст. 4273; N
+49, ст. 6928; 2015, N 29, ст. 4342, ст. 4383), Федеральным
+законом 24 ноября 1995 г. N 181-ФЗ &quot;О
 социальной защите инвалидов в Российской
 Федерации&quot; (Собрание законодательства
 Российской Федерации, 1995, N 48, ст. 4563;
@@ -157,60 +76,158 @@ N 30, ст. 3616; N 52, ст. 6224; 2009, N 18, ст. 2152; N 30, ст.
 29, ст. 3990; N 30, ст. 4175; N 53, ст. 7621; 2013, N 8, ст.
 717; N 19, ст. 2331; N 27, ст. 3460, ст. 3475, ст. 3477; N
 48, ст. 6160; N 52, ст. 6986; 2014, N 26, ст. 3406; N 30, ст.
-4268; N 49, ст. 6928; 2015, N 14, ст. 2008, N 27, ст. 3967)
-(далее - Федерального закона &quot;О
-социальной защите инвалидов в Российской
-Федерации&quot;), пунктом 2 статьи 46
-Федерального&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3>закона
-от 7 июля 2003 г. N 126-ФЗ</FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;&quot;О
-связи&quot; (Собрание законодательства
-Российской Федерации, 2003, N 28, ст. 2895; N
-52, ст. 5038; 2004, N 35, ст. 3607; N 45, ст. 4377; 2005, N 19,
-ст. 1752; 2006, N 6, ст. 636; N 10, ст. 1069; N 31, ст. 3431,
-ст. 3452; 2007, N 1, ст. 8; N 7, ст. 835; 2008, N 18, ст.
-1941; 2009, N 29, ст. 3625; 2010, N 7, ст. 705; N 15, ст. 1737;
-N 27, ст. 3408; N 31, ст. 4190; 2011, N 7, ст. 901; N 9, ст.
-1205; N 25, ст. 3535; N 27, ст. 3873, ст. 3880; N 29, ст.
-4284, ст. 4291; N 30, ст. 4590; N 45, ст. 6333; N 49, ст.
-7061; N 50, ст. 7351, ст. 7366; 2012, N 31, ст. 4322, ст.
-4328; N 53, ст. 7578; 2013, N 19, ст. 2326; N 27, ст. 3450; N
-30, ст. 4062; N 43, ст. 5451; N 44, ст. 5643; N 48, ст. 6162;
-N 49, ст. 6339, ст. 6347; N 52, ст. 6961; 2014, N 6, ст. 560;
-N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
-30, ст. 4229, ст. 4273; N 49, ст. 6928; 2015, N 29, ст. 4342,
-ст. 4383) (далее - Федеральный закон &quot;О
-связи&quot;), Федеральным&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-03.05.2012-N-46-FZ/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3>законом
-от 3 мая 2012 г. N 46-ФЗ</FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;&quot;О
-ратификации Конвенции о правах инвалидов&quot;
+4268; N 49, ст. 6928; 2015, N 14, ст. 2008, N 27, ст.
+3967),&nbsp;<A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-26.12.2014-N-1521/">постановлением
+Правительства Российской Федерации от
+26 декабря 2014 г. N 1521</A>&nbsp;&quot;Об утверждении
+перечня национальных стандартов и
+сводов правил (частей таких стандартов
+и сводов правил), в результате применения
+которых на обязательной основе
+обеспечивается соблюдение требований
+Федерального закона &quot;Технический
+регламент о безопасности зданий и
+сооружений&quot; (Собрание законодательства
+Российской Федерации, 2015, N 2, ст. 465),
+Положением о Министерстве связи и
+массовых коммуникаций Российской
+Федерации, утвержденным&nbsp;<A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-02.06.2008-N-418/">постановлением
+Правительства Российской Федерации от
+2 июня 2008 г. N 418</A>&nbsp;(Собрание законодательства
+Российской Федерации, 2008, N 23, ст. 2708; N
+42, ст. 4825; N 46, ст. 5337; 2009, N 3, ст. 378; N 6, ст.
+738; N 33, ст. 4088; 2010, N 13 ст. 1502; N 26, ст. 3350; N 30,
+ст. 4099; N 31, ст. 4251; 2011, N 2, ст. 338; N 3, ст. 542; N
+14, ст. 1935; N 21, ст. 2965; N 44, ст. 6272; N 49, ст. 7283;
+2012, N 20, ст. 2540; N 37, ст. 5001; N 39, ст. 5270; N 46, ст.
+6347; 2013, N 13, ст. 1568, ст. 1569; N 33, ст. 4386; N 45, ст.
+5822; 2014, N 30, ст. 4305; N 31, ст. 4414; N 47, ст. 6554;
+2015, N 2, ст. 491), приказываю:</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
+Утвердить прилагаемый Порядок обеспечения
+операторами почтовой связи условий
+доступности для инвалидов объектов
+почтовой связи и предоставляемых услуг
+почтовой связи (далее - Порядок).</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
+Установить, что настоящий приказ вступает
+в силу с 1 января 2016 года, за исключением
+подпункта &quot;а&quot; пункта 4 и пунктов 11
+- 15 Порядка.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
+Установить, что подпункт &quot;а&quot; пункта
+4 Порядка вступает в силу с 1 июля 2016 года
+в отношении вновь вводимых в эксплуатацию
+или прошедших реконструкцию, модернизацию
+объектов и средств почтовой связи.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
+Направить настоящий приказ на
+государственную регистрацию в Министерство
+юстиции Российской Федерации.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Министр<BR>Н.А.НИКИФОРОВ</FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Утвержден<BR>приказом
+Министерства связи<BR>и массовых
+коммуникаций<BR>Российской Федерации<BR>от
+22.09.2015 N 355</FONT></FONT></P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>ПОРЯДОК
+ОБЕСПЕЧЕНИЯ ОПЕРАТОРАМИ ПОЧТОВОЙ СВЯЗИ
+УСЛОВИЙ ДОСТУПНОСТИ<BR>ДЛЯ ИНВАЛИДОВ
+ОБЪЕКТОВ ПОЧТОВОЙ СВЯЗИ И ПРЕДОСТАВЛЯЕМЫХ<BR>УСЛУГ
+ПОЧТОВОЙ СВЯЗИ</B></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">1.
+Настоящий Порядок разработан в
+соответствии со статьей 15 Федерального&nbsp;<A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-24.11.1995-N-181-FZ/">закона
+от 24 ноября 1995 г. N 181-ФЗ</A>&nbsp;&quot;О социальной
+защите инвалидов в Российской Федерации&quot;
 (Собрание законодательства Российской
-Федерации, 2012, N 19, ст. 2280),&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-26.12.2014-N-1521/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3>постановлением
-Правительства Российской Федерации от
-26 декабря 2014 г. N 1521</FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;&quot;Об
-утверждении перечня национальных
-стандартов и сводов правил (частей таких
-стандартов и сводов правил), в результате
-применения которых на обязательной
-основе обеспечивается соблюдение
-требований Федерального закона
-&quot;Технический регламент о безопасности
-зданий и сооружений&quot; (Собрание
+Федерации, 1995, N 48, ст. 4563; 1998, N 31, ст. 3803;
+1999, N 2, ст. 232; N 29, ст. 3693; 2001, N 24, ст. 2410; N 33,
+ст. 3426; N 53, ст. 5024; 2002, N 1, ст. 2; N 22, ст. 2026;
+2003, N 2, ст. 167; N 43, ст. 4108; 2004, N 35, ст. 3607; 2005,
+N 1, ст. 25; 2006, N 1, ст. 10; 2007, N 43, ст. 5084; N 49, ст.
+6070; 2008, N 9, ст. 817; N 29, ст. 3410; N 30, ст. 3616; N 52,
+ст. 6224; 2009, N 18, ст. 2152; N 30, ст. 3739; 2010, N 50, ст.
+6609; 2011, N 27, ст. 3880; N 30, ст. 4596; N 45, ст. 6329; N
+47, ст. 6608; N 49, ст. 7033; 2012, N 29, ст. 3990; N 30, ст.
+4175; N 53, ст. 7621; 2013, N 8, ст. 717; N 19, ст. 2331; N 27,
+ст. 3460, ст. 3475, ст. 3477; N 48, ст. 6160; N 52, ст.
+6986; 2014, N 26, ст. 3406; N 30, ст. 4268; N 49, ст. 6928;
+2015, N 14, ст. 2008, N 27, ст. 3967) (далее - Федерального
+закона &quot;О социальной защите инвалидов
+в Российской Федерации&quot;), пунктом 2
+статьи 46 Федерального&nbsp;<A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-07.07.2003-N-126-FZ/">закона
+от 7 июля 2003 г. N 126-ФЗ</A>&nbsp;&quot;О связи&quot;
+(Собрание законодательства Российской
+Федерации, 2003, N 28, ст. 2895; N 52, ст. 5038; 2004, N
+35, ст. 3607; N 45, ст. 4377; 2005, N 19, ст. 1752; 2006, N 6,
+ст. 636; N 10, ст. 1069; N 31, ст. 3431, ст. 3452; 2007, N 1,
+ст. 8; N 7, ст. 835; 2008, N 18, ст. 1941; 2009, N 29, ст.
+3625; 2010, N 7, ст. 705; N 15, ст. 1737; N 27, ст. 3408; N 31,
+ст. 4190; 2011, N 7, ст. 901; N 9, ст. 1205; N 25, ст. 3535;
+N 27, ст. 3873, ст. 3880; N 29, ст. 4284, ст. 4291; N 30, ст.
+4590; N 45, ст. 6333; N 49, ст. 7061; N 50, ст. 7351, ст.
+7366; 2012, N 31, ст. 4322, ст. 4328; N 53, ст. 7578; 2013, N
+19, ст. 2326; N 27, ст. 3450; N 30, ст. 4062; N 43, ст. 5451;
+N 44, ст. 5643; N 48, ст. 6162; N 49, ст. 6339, ст. 6347; N
+52, ст. 6961; 2014, N 6, ст. 560; N 14, ст. 1552; N 19, ст.
+2302; N 26, ст. 3366, ст. 3377; N 30, ст. 4229, ст. 4273; N
+49, ст. 6928; 2015, N 29, ст. 4342, ст. 4383) (далее -
+Федеральный закон &quot;О связи&quot;),
+Федеральным&nbsp;<A HREF="https://rulaws.ru/laws/Federalnyy-zakon-ot-03.05.2012-N-46-FZ/">законом
+от 3 мая 2012 г. N 46-ФЗ</A>&nbsp;&quot;О ратификации
+Конвенции о правах инвалидов&quot; (Собрание
 законодательства Российской Федерации,
-2015, N 2, ст. 465) (далее -&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-26.12.2014-N-1521/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3>постановление
+2012, N 19, ст. 2280),&nbsp;<A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-26.12.2014-N-1521/">постановлением
 Правительства Российской Федерации от
-26 декабря 2014 г. N 1521</FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>)
-и определяет порядок обеспечения
-операторами почтовой связи условий для
-беспрепятственного доступа инвалидов
-к объектам почтовой связи, предоставляющим
-населению услуги почтовой связи (далее
-- объекты почтовой связи), и условий
-доступности для инвалидов услуг почтовой
-связи, а также оказания инвалидам
-необходимой помощи в преодолении
-барьеров, мешающих получению ими услуг
-почтовой связи наравне с другими лицами.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>2.
+26 декабря 2014 г. N 1521</A>&nbsp;&quot;Об утверждении
+перечня национальных стандартов и
+сводов правил (частей таких стандартов
+и сводов правил), в результате применения
+которых на обязательной основе
+обеспечивается соблюдение требований
+Федерального закона &quot;Технический
+регламент о безопасности зданий и
+сооружений&quot; (Собрание законодательства
+Российской Федерации, 2015, N 2, ст. 465) (далее
+-&nbsp;<A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-26.12.2014-N-1521/">постановление
+Правительства Российской Федерации от
+26 декабря 2014 г. N 1521</A>) и определяет
+порядок обеспечения операторами почтовой
+связи условий для беспрепятственного
+доступа инвалидов к объектам почтовой
+связи, предоставляющим населению услуги
+почтовой связи (далее - объекты почтовой
+связи), и условий доступности для
+инвалидов услуг почтовой связи, а также
+оказания инвалидам необходимой помощи
+в преодолении барьеров, мешающих
+получению ими услуг почтовой связи
+наравне с другими лицами.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">2.
 Информирование об условиях доступности
 для инвалидов предоставляемых услуг
 почтовой связи осуществляется операторами
@@ -218,9 +235,9 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 информационно-телекоммуникационной
 сети &quot;Интернет&quot;, в информационных
 терминалах или иным доступным для
-инвалидов способом.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Последовательность
+инвалидов способом.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Последовательность
 действий работников оператора почтовой
 связи, предоставляющего услуги, в том
 числе при приеме заявлений от инвалидов
@@ -231,24 +248,24 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 связи в инструкциях (регламентах)
 предоставления услуг населению и в
 должностных инструкциях работников,
-оказывающих услуги.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>3.
+оказывающих услуги.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">3.
 Оценка соответствия уровня доступности
 для инвалидов объектов и услуг почтовой
 связи осуществляется с использованием
 следующих показателей доступности
-(далее - показатели):</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+(далее - показатели):</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 Удельный вес объектов почтовой связи,
 доступных для инвалидов, в соответствии
 с пунктом 4 настоящего Порядка, от общего
 количества объектов почтовой связи, в
 которых населению предоставляются
-услуги почтовой связи.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+услуги почтовой связи.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 Удельный вес объектов почтовой связи,
 обеспечивающих меры, согласованные с
 одним из общественных объединений
@@ -259,18 +276,18 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 к месту предоставления услуг, от общего
 количества объектов почтовой связи, в
 которых населению предоставляются
-услуги почтовой связи.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+услуги почтовой связи.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 Удельный вес объектов почтовой связи
 от общего количества объектов почтовой
 связи, доступных для инвалидов или
 обеспечивающих меры для доступа инвалидов
 к месту предоставления услуг &lt;1&gt;, в
 которых для инвалидов по зрению
-обеспечено:</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+обеспечено:</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 оснащение объектов почтовой связи
 надписями, иной текстовой и графической
 информацией, выполненной крупным
@@ -280,9 +297,9 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 почтовой связи, режиме работы объекта
 почтовой связи, почтовом индексе, режиме
 выемки простой письменной корреспонденции
-(на почтовом ящике);</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+(на почтовом ящике);</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 наличие работников оператора почтовой
 связи, на которых возложена обязанность
 по сопровождению инвалидов, имеющих
@@ -291,63 +308,63 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 пользовании пользовательским оборудованием
 и/или техническими средствами,
 используемыми при оказании услуг
-почтовой связи;</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>- допуск
-собаки-проводника при наличии
+почтовой связи;</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
+допуск собаки-проводника при наличии
 соответствующего документа, подтверждающего
-ее специальное обучение.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
+ее специальное обучение.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 Удельный вес объектов почтовой связи
 от общего количества объектов почтовой
 связи, доступных для инвалидов или
 обеспечивающих меры для доступа инвалидов
 к месту предоставления услуг &lt;1&gt;, в
-которых для инвалидов по слуху обеспечено:</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+которых для инвалидов по слуху обеспечено:</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 дублирование необходимой речевой
-информации в письменной форме;</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+информации в письменной форме;</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 наличие работников оператора почтовой
 связи, на которых возложена обязанность
 по оказанию помощи инвалидам по слуху
 при пользовании пользовательским
 оборудованием и/или техническими
 средствами, используемыми при оказании
-услуг почтовой связи.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
+услуг почтовой связи.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 Удельный вес объектов почтовой связи
 от общего количества объектов почтовой
 связи, доступных для инвалидов или
 обеспечивающих меры для доступа инвалидов
 к месту предоставления услуг &lt;1&gt;, в
 которых для инвалидов с нарушениями
-опорно-двигательного аппарата обеспечено:</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>--------------------------------</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&lt;1&gt;
+опорно-двигательного аппарата обеспечено:</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">--------------------------------</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">&lt;1&gt;
 В расчет общего количества объектов
 почтовой связи не включается количество
 объектов почтовой связи, в которых
 оказание услуг почтовой связи
 осуществляется по месту жительства
-инвалидов или в дистанционном режиме.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+инвалидов или в дистанционном режиме.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 возможность самостоятельного передвижения
 инвалидов по объекту почтовой связи в
 целях пользования общедоступными
 услугами почтовой связи (достаточная
 ширина дверных проемов в стенах,
 лестничных маршей, достаточное освещение,
-отсутствие порогов внутри помещения);</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+отсутствие порогов внутри помещения);</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 возможность беспрепятственного входа
 на объект почтовой связи и выхода из
 него (оснащение входа на объект почтовой
@@ -356,24 +373,24 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 объекта на первом этаже здания; оснащение
 лифтами, подъемниками при размещении
 объекта почтовой связи на втором этаже
-здания и выше);</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+здания и выше);</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 размещение носителей информации в
 доступном и удобном для инвалидов,
 передвигающихся на инвалидных
-кресла-колясках, месте;</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+кресла-колясках, месте;</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 размещение на вывеске объекта почтовой
 связи контактной информации для обращения
 за оказанием услуг почтовой связи по
 приему и доставке письменной
 корреспонденции, посылок, почтовых
 переводов денежных на дому или
-дистанционным способом;</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+дистанционным способом;</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 наличие работников оператора почтовой
 связи, на которых возложена обязанность
 по сопровождению инвалидов, имеющих
@@ -382,9 +399,9 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 оказанию помощи инвалидам при пользовании
 пользовательским оборудованием и/или
 техническими средствами, используемыми
-при оказании услуг почтовой связи.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
+при оказании услуг почтовой связи.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 Удельный вес объектов почтовой связи,
 обеспечивающих услуги почтовой связи
 по приему и доставке письменной
@@ -393,17 +410,17 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 жительства инвалидов или в дистанционном
 режиме, от общего количества объектов
 почтовой связи, в которых населению
-предоставляются услуги почтовой связи.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>ж)
+предоставляются услуги почтовой связи.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ж)
 Удельный вес объектов почтовой связи,
 обеспечивающих прием почтовых отправлений
 для слепых для пересылки на бесплатной
 основе, от общего числа объектов почтовой
 связи, оказывающих населению универсальные
-услуги почтовой связи.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>з)
+услуги почтовой связи.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">з)
 Удельный вес введенных в отчетном
 периоде в эксплуатацию, прошедших
 капитальный ремонт, реконструкцию,
@@ -413,33 +430,33 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 числа введенных в отчетном периоде в
 эксплуатацию, прошедших капитальный
 ремонт, реконструкцию, модернизацию
-объектов почтовой связи.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>4.
+объектов почтовой связи.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">4.
 Операторы почтовой связи обеспечивают
 следующие условия доступности для
 инвалидов объектов почтовой связи и
-услуг почтовой связи:</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>а)
+услуг почтовой связи:</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">а)
 возможность самостоятельного передвижения
 по объекту почтовой связи, входа на
 объект почтовой связи и выхода из него
-посредством:</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+посредством:</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 оснащения входа на объект почтовой
 связи и выхода из объекта почтовой связи
 пандусами, оборудованными поручнями,
 в случае размещения объекта на первом
-этаже здания;</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+этаже здания;</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 оснащения лифтами, подъемниками при
 размещении объекта почтовой связи на
-втором этаже здания и выше;</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+втором этаже здания и выше;</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 обеспечение достаточной шириной дверных
 проемов в стенах, лестничных маршей и
 площадок для передвижения кресел-колясок
@@ -454,11 +471,11 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 обеспечивается соблюдение требований
 Федерального закона &quot;Технический
 регламент о безопасности зданий и
-сооружений&quot;, утвержденного&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-26.12.2014-N-1521/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3>постановлением
+сооружений&quot;, утвержденного&nbsp;<A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-26.12.2014-N-1521/">постановлением
 Правительства Российской Федерации от
-26 декабря 2014 г. N 1521</FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>);</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+26 декабря 2014 г. N 1521</A>);</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 достаточное освещение (в соответствии
 с требованиями Свода правил &quot;СП
 59.13330.2012 &quot;Доступность зданий и сооружений
@@ -471,27 +488,27 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 соблюдение требований Федерального
 закона &quot;Технический регламент о
 безопасности зданий и сооружений&quot;,
-утвержденного&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-26.12.2014-N-1521/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3>постановлением
+утвержденного&nbsp;<A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-26.12.2014-N-1521/">постановлением
 Правительства Российской Федерации от
-26 декабря 2014 г. N 1521</FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>);</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
-отсутствие порогов внутри помещения;</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>б)
+26 декабря 2014 г. N 1521</A>);</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
+отсутствие порогов внутри помещения;</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">б)
 содействие инвалиду при входе на объект
 почтовой связи для получения услуг
-почтовой связи и выходе из него;</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>в)
+почтовой связи и выходе из него;</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">в)
 сопровождение инвалидов, имеющих стойкие
 расстройства функции зрения и
 самостоятельного передвижения, и
 оказание им помощи на объектах, на
 которых оказываются услуги почтовой
-связи;</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>г)
+связи;</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">г)
 оснащение объектов почтовой связи
 надписями, иной текстовой и графической
 информацией, выполненной крупным
@@ -501,17 +518,17 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 почтовой связи, режиме работы объекта
 почтовой связи, почтовом индексе, режиме
 выемки простой письменной корреспонденции
-(на почтовом ящике);</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>д)
+(на почтовом ящике);</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">д)
 предоставление работниками оператора
-почтовой связи:</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+почтовой связи:</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 информации об услугах почтовой связи
-инвалидам иными доступными им способами;</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+инвалидам иными доступными им способами;</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 содействия инвалидам при пользовании
 пользовательским оборудованием
 (оконечным оборудованием) и/или
@@ -519,42 +536,41 @@ N 14, ст. 1552; N 19, ст. 2302; N 26, ст. 3366, ст. 3377; N
 при оказании услуг почтовой связи, в
 том числе в случае, если работа на таком
 оборудовании для инвалида затруднена
-и невозможна;</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>е)
+и невозможна;</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">е)
 дублирование необходимой для инвалидов
 речевой и зрительной информации об
 условиях оказания услуг почтовой связи
 в доступной для инвалидов форме с учетом
-ограничений их жизнедеятельности;</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>ж)
+ограничений их жизнедеятельности;</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">ж)
 допуск собаки-проводника при наличии
 документа, подтверждающего ее специальное
 обучение и выдаваемого по форме,
-утвержденной&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/acts/Prikaz-Mintruda-Rossii-ot-22.06.2015-N-386n/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3>приказом
+утвержденной&nbsp;<A HREF="https://rulaws.ru/acts/Prikaz-Mintruda-Rossii-ot-22.06.2015-N-386n/">приказом
 Министерства труда и социальной защиты
 Российской Федерации от 22 июня 2015 г. N
-386н</FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>&nbsp;(зарегистрирован
-Министерством юстиции Российской
-Федерации 21 июля 2015 г., регистрационный
-N 38115);</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>з)
+386н</A>&nbsp;(зарегистрирован Министерством
+юстиции Российской Федерации 21 июля
+2015 г., регистрационный N 38115);</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">з)
 надлежащее размещение оборудования и
 носителей информации, необходимых для
 обеспечения беспрепятственного доступа
 инвалидов к объектам и услугам почтовой
 связи с учетом ограничений их
-жизнедеятельности;</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>и)
+жизнедеятельности;</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">и)
 оказание иной необходимой инвалидам
 помощи в преодолении барьеров, мешающих
 получению ими услуг наравне с другими
-лицами.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>5. На
+лицами.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">5. На
 объектах почтовой связи, которые
 невозможно полностью приспособить для
 нужд инвалидов (до проведения их
@@ -572,9 +588,9 @@ N 38115);</FONT></FONT></FONT></P>
 поселения, муниципального района,
 городского округа, меры для обеспечения
 доступа инвалидов к месту предоставления
-услуг.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>На
+услуг.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">На
 вывеске отделений почтовой связи,
 осуществляющих предоставление услуг
 почтовой связи по месту жительства
@@ -591,9 +607,9 @@ N 38115);</FONT></FONT></FONT></P>
 корреспонденции, посылок, почтовых
 переводов денежных средств по месту
 жительства инвалидов или в дистанционном
-режиме.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>6.
+режиме.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">6.
 Перечень объектов почтовой связи, в
 которых соблюдены условия доступности
 для инвалидов услуг почтовой связи,
@@ -608,9 +624,9 @@ N 38115);</FONT></FONT></FONT></P>
 подлежат размещению на официальном
 сайте оператора почтовой связи в
 информационно-телекоммуникационной
-сети &quot;Интернет&quot;.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>7.
+сети &quot;Интернет&quot;.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">7.
 Операторы почтовой связи осуществляют
 меры по обеспечению проектирования,
 строительства и приемки с 1 июля 2016 года
@@ -632,11 +648,11 @@ N 38115);</FONT></FONT></FONT></P>
 соблюдение требований Федерального
 закона &quot;Технический регламент о
 безопасности зданий и сооружений&quot;,
-утвержденного&nbsp;</FONT></FONT></FONT><A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-26.12.2014-N-1521/"><FONT COLOR="#1b6dfd"><FONT FACE="Arial, serif"><FONT SIZE=3>постановлением
+утвержденного&nbsp;<A HREF="https://rulaws.ru/goverment/Postanovlenie-Pravitelstva-RF-ot-26.12.2014-N-1521/">постановлением
 Правительства Российской Федерации от
-26 декабря 2014 г. N 1521</FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>8. На
+26 декабря 2014 г. N 1521</A>.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">8. На
 арендуемых объектах, которые невозможно
 полностью приспособить к потребностям
 инвалидов, операторы почтовой связи
@@ -652,9 +668,9 @@ N 38115);</FONT></FONT></FONT></P>
 письменной корреспонденции, посылок,
 почтовых переводов денежных средств
 по месту жительства инвалидов или в
-дистанционном режиме.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>9.
+дистанционном режиме.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">9.
 Операторы почтовой связи осуществляют
 инструктирование или обучение
 специалистов, работающих с инвалидами,
@@ -662,9 +678,9 @@ N 38115);</FONT></FONT></FONT></P>
 доступности для них объектов, на которых
 оказываются услуги почтовой связи в
 соответствии с законодательством
-Российской Федерации.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>10. В
+Российской Федерации.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">10. В
 целях определения мер по поэтапному
 повышению уровня условий доступности
 для инвалидов объектов и услуг почтовой
@@ -675,34 +691,34 @@ N 38115);</FONT></FONT></FONT></P>
 инвалидов объекта и предоставляемых
 на нем услуг почтовой связи (далее -
 обследование и паспортизация, Паспорт
-доступности соответственно).</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>11.
+доступности соответственно).</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">11.
 Паспорт доступности содержит следующие
 разделы, которые заполняются оператором
 почтовой связи по мере проведения
 обследования объекта и принятия
-управленческих решений:</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>- оценка
-соответствия уровня доступности для
-инвалидов объектов почтовой связи и
-имеющихся недостатков в обеспечении
+управленческих решений:</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
+оценка соответствия уровня доступности
+для инвалидов объектов почтовой связи
+и имеющихся недостатков в обеспечении
 условий их доступности для инвалидов
 с использованием показателей,
 предусмотренных пунктом 3 настоящего
-Порядка;</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>- оценка
-соответствия уровня доступности для
-инвалидов предоставляемых услуг почтовой
-связи и имеющихся недостатков в
-обеспечении условий их доступности для
-инвалидов с использованием показателей,
-предусмотренных пунктом 3 настоящего
-Порядка;</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>-
+Порядка;</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
+оценка соответствия уровня доступности
+для инвалидов предоставляемых услуг
+почтовой связи и имеющихся недостатков
+в обеспечении условий их доступности
+для инвалидов с использованием
+показателей, предусмотренных пунктом
+3 настоящего Порядка;</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">-
 краткая характеристика объекта почтовой
 связи и предоставляемых на нем услуг
 почтовой связи, предлагаемые решения
@@ -710,17 +726,17 @@ N 38115);</FONT></FONT></FONT></P>
 для приведения объекта почтовой связи
 и порядка предоставления на нем услуг
 почтовой связи в соответствие с
-законодательством Российской Федерации.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>12.
+законодательством Российской Федерации.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">12.
 Операторами почтовой связи утверждается
 состав комиссии по проведению обследования
 и паспортизации (далее - Комиссия),
 план-график проведения обследования и
 паспортизации, а также организуется
-работа комиссии.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Комиссией
+работа комиссии.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Комиссией
 по результатам обследования объектов
 почтовой связи оценивается степень
 доступности объектов и услуг почтовой
@@ -733,23 +749,23 @@ N 38115);</FONT></FONT></FONT></P>
 организационного, технического и
 управленческого характера для приведения
 объектов и предоставляемых услуг к
-требованиям доступности.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>13.
+требованиям доступности.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">13.
 Паспорт доступности для инвалидов
 объекта и услуг почтовой связи,
 разработанный Комиссией, утверждается
-руководством оператора почтовой связи.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>Организации
+руководством оператора почтовой связи.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">Организации
 федеральной почтовой связи в 10-ти дневный
 срок после утверждения Паспортов
 доступности направляют в федеральный
 орган исполнительной власти в области
 связи сведения, указанные в пункте 12
-Порядка.</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 100%">
-<FONT COLOR="#222222"><FONT FACE="Arial, serif"><FONT SIZE=3>14. С
+Порядка.</FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.14in; background: #ffffff; line-height: 150%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt">14. С
 использованием показателей, предусмотренных
 пунктом 3 настоящего Порядка, а также
 на основании представленных сведений
@@ -772,6 +788,6 @@ N 38115);</FONT></FONT></FONT></P>
 и утверждает план мероприятий (&quot;дорожную
 карту&quot;) повышения значений показателей
 доступностей для инвалидов объектов и
-услуг почтовой связи.</FONT></FONT></FONT></P>
+услуг почтовой связи.</FONT></FONT></P>
 </BODY>
 </HTML>`

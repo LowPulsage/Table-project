@@ -1,3 +1,4 @@
+/*eslint-disable*/
 import React from 'react'
 import {
   SET_SELECECTED_EXEL,
@@ -32,8 +33,9 @@ export const setSelectedExcelName = selectedExcelFileName => {
 export const setFragmentForSearching = payload => ({ type: SET_IS_CLICK, payload })
 
 export const selectFolder = type => {
+  debugger
   return dispatch => {
-    if (type === 'metrologiya' || type === 'roskomnadzor' || type === 'ORB-others' || type === 'ORB-FZ') {
+    if (type === 'metrologiya' || type === 'roskomnadzor' || type === 'orb-others' || type === 'orb-fz') {
       const excel = require(`./excel-file-${type}.js`) || {}
       const doc = require(`./${type}-files.js`) || {}
 

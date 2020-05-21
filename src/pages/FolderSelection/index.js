@@ -17,14 +17,14 @@ const FolderSelection = () => {
           <img src={folder} alt='folder-roskomnadzor' />
         </Card>
       </Link>
-      <Link to='ORB-others' className='folder'>
+      <Link to='orb-others' className='folder'>
         <Card title='ОРВ-другие'>
-          <img src={folder} alt='folder-ORB-others' />
+          <img src={folder} alt='folder-orb-others' />
         </Card>
       </Link>
-      <Link to='ORB-FZ' className='folder'>
+      <Link to='orb-fz' className='folder'>
         <Card title='ОРВ-ФЗ'>
-          <img src={folder} alt='folder-ORB-FZ' />
+          <img src={folder} alt='folder-orb-fz' />
         </Card>
       </Link>
     </div>

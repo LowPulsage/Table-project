@@ -1,6 +1,6 @@
 /*eslint-disable*/
 export default `
-< !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
@@ -388,9 +388,6 @@ export default `
 <P CLASS="western" STYLE="margin-bottom: 0.17in; line-height: 150%"><BR><BR>
 </P>
 <P CLASS="western" STYLE="margin-bottom: 0.17in; line-height: 150%"><BR><BR>
-</P>
-<P CLASS="western" STYLE="margin-bottom: 0.17in; line-height: 150%"><IMG SRC="c21afac0348fd6f7da3e079f39c7dfe4_html_60d67f2b.gif" ALIGN=LEFT>
-<BR><BR>
 </P>
 </BODY>
 </HTML>`

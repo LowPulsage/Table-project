@@ -33,7 +33,7 @@ export const setFragmentForSearching = payload => ({ type: SET_IS_CLICK, payload
 
 export const selectFolder = type => {
   return dispatch => {
-    if (type === 'metrologiya' || type === 'roskomnadzor') {
+    if (type === 'metrologiya' || type === 'roskomnadzor' || type === 'ORB-others' || type === 'ORB-FZ') {
       const excel = require(`./excel-file-${type}.js`) || {}
       const doc = require(`./${type}-files.js`) || {}
 

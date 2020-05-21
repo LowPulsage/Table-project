@@ -17,6 +17,16 @@ const FolderSelection = () => {
           <img src={folder} alt='folder-roskomnadzor' />
         </Card>
       </Link>
+      <Link to='ORB-others' className='folder'>
+        <Card title='ОРВ-другие'>
+          <img src={folder} alt='folder-ORB-others' />
+        </Card>
+      </Link>
+      <Link to='ORB-FZ' className='folder'>
+        <Card title='ОРВ-ФЗ'>
+          <img src={folder} alt='folder-ORB-FZ' />
+        </Card>
+      </Link>
     </div>
   )
 }

@@ -11,7 +11,7 @@ const FilesSelection = () => {
       <div className='FilesSelection-header'>
         <Breadcrumb>
           <Breadcrumb.Item><Link to='/'><HomeOutlined /></Link></Breadcrumb.Item>
-          <Breadcrumb.Item>Cходные положения</Breadcrumb.Item>
+          <Breadcrumb.Item>Исходные положения</Breadcrumb.Item>
         </Breadcrumb>
       </div>
       <FSDocumentsList />

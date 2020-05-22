@@ -33,7 +33,7 @@ const MainPage = () => {
       <div className='header'>
         <Breadcrumb>
           <Breadcrumb.Item><Link to='/'><HomeOutlined /></Link></Breadcrumb.Item>
-          <Breadcrumb.Item><Link to={`/${params.type}`}>Cходные положения</Link></Breadcrumb.Item>
+          <Breadcrumb.Item><Link to={`/${params.type}`}>Исходные положения</Link></Breadcrumb.Item>
           <Breadcrumb.Item>{selectedWordName}</Breadcrumb.Item>
           <Breadcrumb.Item>{selectedExcelName}</Breadcrumb.Item>
         </Breadcrumb>

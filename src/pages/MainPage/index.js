@@ -46,7 +46,7 @@ const MainPage = () => {
           </Card>
         </div>
         <div className='Mainpage-source'>
-          <Card title='Сходные положения'>
+          <Card title='Исходные положения'>
             <Source />
           </Card>
         </div>

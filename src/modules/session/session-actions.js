@@ -33,7 +33,6 @@ export const setSelectedExcelName = selectedExcelFileName => {
 export const setFragmentForSearching = payload => ({ type: SET_IS_CLICK, payload })
 
 export const selectFolder = type => {
-  debugger
   return dispatch => {
     if (type === 'metrologiya' || type === 'roskomnadzor' || type === 'orb-others' || type === 'orb-fz' || type === 'sanPins') {
       const excel = require(`./excel-file-${type}.js`) || {}

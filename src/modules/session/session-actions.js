@@ -34,7 +34,8 @@ export const setFragmentForSearching = payload => ({ type: SET_IS_CLICK, payload
 
 export const selectFolder = type => {
   return dispatch => {
-    if (type === 'metrologiya' || type === 'roskomnadzor' || type === 'orb-others' || type === 'orb-fz' || type === 'sanPins') {
+    if (type === 'metrologiya' || type === 'roskomnadzor' || type === 'orb-others' || type === 'orb-fz' || type === 'sanPin-TkYP'
+      || type === 'sanPin-YT' || type === 'sanPin-SPpOBT') {
       const excel = require(`./excel-file-${type}.js`) || {}
       const doc = require(`./${type}-files.js`) || {}
 

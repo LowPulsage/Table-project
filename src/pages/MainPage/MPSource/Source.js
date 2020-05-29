@@ -20,20 +20,36 @@ const Source = () => {
 
   const nameFunc = (propValue, name) => {
     if (!propValue) return <div style={{ color: 'red' }}>0.00</div>
-    const currentValue = Number((Number(propValue.replace('%', '')) / 100))
+    // const currentValue = Number((Number(propValue.replace('%', '')) / 100))
+    const currentValue = Number(propValue.replace('%', ''))
+
+    const red = 'red', green = 'green', blue = 'aqua', yellow = 'yellow'
+    
     switch (name) {
       case 'Жаккар':
-        if (currentValue <= 0.45) {
-          return <div style={{ color: 'red', fontSize: '12px' }}>{currentValue.toFixed(2)}</div>
-        } else if (currentValue > 0.45 && currentValue <= 0.65) {
-          return <div style={{ color: 'yellow', fontSize: '12px' }}>{currentValue.toFixed(2)}</div>
-        } else if (currentValue > 0.66 && currentValue <= 0.96) {
-          return <div style={{ color: 'green', fontSize: '12px' }}>{currentValue.toFixed(2)}</div>
-        } else return <div style={{ color: 'aqua', fontSize: '12px' }}>{currentValue.toFixed(2)}</div>
+        if (currentValue <= 45) {
+          return <div style={{ color: red, fontSize: '12px' }}>{(currentValue / 100).toFixed(2)}</div>
+        } else if (currentValue > 45 && currentValue <= 65) {
+          return <div style={{ color: yellow, fontSize: '12px' }}>{(currentValue / 100).toFixed(2)}</div>
+        } else if (currentValue > 65 && currentValue <= 96.6) {
+          return <div style={{ color: green, fontSize: '12px' }}>{(currentValue / 100).toFixed(2)}</div>
+        } else return <div style={{ color: blue, fontSize: '12px' }}>{(currentValue / 100).toFixed(2)}</div>
       case 'Минимум':
-        break;
+        if (currentValue <= 65) {
+          return <div style={{ color: red, fontSize: '12px' }}>{(currentValue / 100).toFixed(2)}</div>
+        } else if (currentValue > 65 && currentValue <= 80) {
+          return <div style={{ color: yellow, fontSize: '12px' }}>{(currentValue / 100).toFixed(2)}</div>
+        } else if (currentValue > 80 && currentValue <= 98) {
+          return <div style={{ color: green, fontSize: '12px' }}>{(currentValue / 100).toFixed(2)}</div>
+        } else return <div style={{ color: blue, fontSize: '12px' }}>{(currentValue / 100).toFixed(2)}</div>
       case 'Косинус':
-        break
+        if (currentValue <= 90) {
+          return <div style={{ color: red, fontSize: '12px' }}>{(currentValue / 100).toFixed(2)}</div>
+        } else if (currentValue > 90 && currentValue <= 93) {
+          return <div style={{ color: yellow, fontSize: '12px' }}>{(currentValue / 100).toFixed(2)}</div>
+        } else if (currentValue > 93 && currentValue <= 99) {
+          return <div style={{ color: green, fontSize: '12px' }}>{(currentValue / 100).toFixed(2)}</div>
+        } else return <div style={{ color: blue, fontSize: '12px' }}>{(currentValue / 100).toFixed(2)}</div>
       default:
         break;
     }

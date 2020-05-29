@@ -157,27 +157,6 @@ __________ 2020 г. №______</FONT></FONT></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.17in; line-height: 150%; widows: 0; orphans: 0">
 <BR><BR>
 </P>
-<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.17in; line-height: 150%; widows: 0; orphans: 0">
-<BR><BR>
-</P>
-<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.17in; line-height: 150%; widows: 0; orphans: 0">
-<BR><BR>
-</P>
-<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.17in; line-height: 150%; widows: 0; orphans: 0">
-<BR><BR>
-</P>
-<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.17in; line-height: 150%; widows: 0; orphans: 0">
-<BR><BR>
-</P>
-<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.17in; line-height: 150%; widows: 0; orphans: 0">
-<BR><BR>
-</P>
-<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.17in; line-height: 150%; widows: 0; orphans: 0">
-<BR><BR>
-</P>
-<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.17in; line-height: 150%; widows: 0; orphans: 0">
-<BR><BR>
-</P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.17in; line-height: 150%; widows: 0; orphans: 0">
 <FONT SIZE=4><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><SPAN LANG="en-US"><B>I</B></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 10pt"><B>.
 САНИТАРНЫЕ ПРАВИЛА</B></FONT></FONT></FONT></P>

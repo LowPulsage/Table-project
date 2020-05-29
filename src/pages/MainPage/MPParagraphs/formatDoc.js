@@ -1,14 +1,14 @@
 /* eslint-disable */
 export default (docHtml, docName, allDocsFragments) => {
-  // стиснув, щоб по ньому можна було шукати
   let formatted = docHtml.replace(/(?:\r\n|\r|\n)/g, ' ')
+  formatted = formatted.replace(/ALIGN=JUSTIFY/g, 'class=western')
   const ids = []
 
   const wrapElement = fr => { // side effect function
     const pos = formatted.indexOf(fr)
 
-    if (ids.includes(fr)) return // щоб не врапити фрагмент, який уже заврапили
-    if (pos < 1) return // якщо індекс не знайдено, тоді робимо нічого
+    if (ids.includes(fr)) return
+    if (pos < 1) return
     ids.push(fr)
 
     const symbolsBeforeWrapperFr = formatted.slice(0, pos)
@@ -17,10 +17,10 @@ export default (docHtml, docName, allDocsFragments) => {
 
     formatted = `${symbolsBeforeWrapperFr}${newWrappedFr}${symbolsAfterWrapperFr}`
   }
-  debugger
+
   const fragments = allDocsFragments[docName] || []
 
-  fragments.forEach(fr => { // Переписати на .reduce, щоб позбутись side-effect function
+  fragments.forEach(fr => {
     const frToCut = 27
     const frCutted = fr['Фрагмент 1'].slice(0, frToCut) // "Настоящий Порядок разработан в соответствии с подп"
     wrapElement(frCutted)

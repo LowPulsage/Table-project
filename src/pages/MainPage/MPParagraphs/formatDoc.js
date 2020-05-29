@@ -3,9 +3,11 @@ export default (docHtml, docName, allDocsFragments) => {
   let formatted = docHtml.replace(/(?:\r\n|\r|\n)/g, ' ')
   formatted = formatted.replace(/ALIGN=JUSTIFY/g, 'class=western')
   const ids = []
-
+  const countObj = {}
   const wrapElement = fr => { // side effect function
     const pos = formatted.indexOf(fr)
+    if (!countObj[fr]) { countObj[fr] = 0 }
+    countObj[fr]++
 
     if (ids.includes(fr)) return
     if (pos < 1) return
@@ -26,5 +28,5 @@ export default (docHtml, docName, allDocsFragments) => {
     wrapElement(frCutted)
   })
 
-  return { formatted, ids }
+  return { formatted, countObj, ids }
 }

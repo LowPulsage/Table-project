@@ -17,7 +17,8 @@ const MPParagraphs = () => {
     if (selectedWordFileName && type) {
       // todo: recheck place. Maybe move some logic to actions?
       const documentOne = require(`modules/session/${type}-docs/${selectedWordFileName}.js`)
-      const { formatted, ids } = formatDoc(documentOne?.default, selectedWordFileName, allDocsFragments)
+      const { formatted, ids, countObj } = formatDoc(documentOne?.default, selectedWordFileName, allDocsFragments)
+
       setHtml({ __html: formatted })
       setTimeout(() => {
         ids.forEach(i => {
@@ -26,8 +27,15 @@ const MPParagraphs = () => {
           if (node) {
             const parent = node.closest('.western')
             if (parent) {
+              let child = document.createElement('div')
+              child.textContent = `${countObj[i]}`
+              child.style.cssText = 'color: darkgray; margin-left: 15px; position: absolute; right: -18px; top: calc(50% - 10px)'
               parent.classList.add('new-green')
+              parent.classList.add('counter-' + countObj[i])
+              debugger
               parent.id = name
+              parent.style.cssText = 'display: flex; flex-direction: row; position: relative'
+              parent.appendChild(child)
             }
           }
         })

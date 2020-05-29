@@ -23,7 +23,7 @@ export default (docHtml, docName, allDocsFragments) => {
   const fragments = allDocsFragments[docName] || []
 
   fragments.forEach(fr => {
-    const frToCut = 27
+    const frToCut = 63
     const frCutted = fr['Фрагмент 1'].slice(0, frToCut) // "Настоящий Порядок разработан в соответствии с подп"
     wrapElement(frCutted)
   })

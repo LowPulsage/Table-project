@@ -20,10 +20,9 @@ const Source = () => {
 
   const nameFunc = (propValue, name) => {
     if (!propValue) return <div style={{ color: 'red' }}>0.00</div>
-    // const currentValue = Number((Number(propValue.replace('%', '')) / 100))
     const currentValue = Number(propValue.replace('%', ''))
 
-    const red = 'red', green = 'green', blue = 'aqua', yellow = 'yellow'
+    const red = 'red', green = '#b5b207', blue = '#1446a3', yellow = '#ffa500'
     
     switch (name) {
       case 'Жаккар':
@@ -53,14 +52,6 @@ const Source = () => {
       default:
         break;
     }
-    // const currentValue = Number((Number(propValue.replace('%', '')) / 100))
-    // if (currentValue > 0 && currentValue <= 0.33) {
-    //   return <div style={{ color: 'red', fontSize: '12px' }}>{currentValue.toFixed(2)}</div>
-    // } else if (currentValue > 0.33 && currentValue <= 0.66) {
-    //   return <div style={{ color: 'grey', fontSize: '12px' }}>{currentValue.toFixed(2)}</div>
-    // } else if (currentValue > 0.66) {
-    //   return <div style={{ color: 'green', fontSize: '12px' }}>{currentValue.toFixed(2)}</div>
-    // }
   }
 
   return (

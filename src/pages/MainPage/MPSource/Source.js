@@ -9,12 +9,15 @@ const Source = () => {
   const fragmentForSearching = useSelector(state => state.source.fragmentForSearching)
   const allDocsFragments = useSelector(state => state.source.allDocsFragments)
   const [arr, setArr] = useState([])
-
+  // const [percents, setPercents] = useState([])
 
   useEffect(() => {
     if (fragmentForSearching) {
       const arr = allDocsFragments[selectedWordFileName] || []
       setArr(arr.filter(i => i['Фрагмент 1'].includes(fragmentForSearching)))
+      // setPercents(arr.map(p => p))
+      // console.log(percents[0] ? percents[0]['Жаккар'] : percents[0])
+      // console.log(arr, 'array')
     }
   }, [fragmentForSearching])
 
@@ -53,7 +56,6 @@ const Source = () => {
         break;
     }
   }
-
   return (
     <div className='Source-root'>
       <div className='sourse-all-text'>

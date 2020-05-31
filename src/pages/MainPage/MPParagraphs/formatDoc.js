@@ -12,7 +12,6 @@ export default (docHtml, docName, allDocsFragments) => {
     if (ids.includes(fr)) return
     if (pos < 1) return
     ids.push(fr)
-
     const symbolsBeforeWrapperFr = formatted.slice(0, pos)
     const newWrappedFr = `<span name=${fr.replace(/ /g, '_')}>${fr}</span>`
     const symbolsAfterWrapperFr = formatted.slice(pos + fr.length)

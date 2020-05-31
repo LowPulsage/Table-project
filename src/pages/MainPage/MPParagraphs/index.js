@@ -29,10 +29,9 @@ const MPParagraphs = () => {
             if (parent) {
               let child = document.createElement('div')
               child.textContent = `${countObj[i]}`
-              child.style.cssText = 'color: darkgray; margin-left: 15px; position: absolute; right: -18px; top: calc(50% - 10px)'
+              child.style.cssText = 'color: darkgray; margin-left: 15px; position: absolute; right: -18px; top: calc(50% - 15px)'
               parent.classList.add('new-green')
               parent.classList.add('counter-' + countObj[i])
-              debugger
               parent.id = name
               parent.style.cssText = 'display: flex; flex-direction: row; position: relative'
               parent.appendChild(child)
@@ -59,7 +58,6 @@ const MPParagraphs = () => {
       if (node) node.classList.add('active-fragment')
     }
   }
-
   return (
     <div
       dangerouslySetInnerHTML={htmlObj}

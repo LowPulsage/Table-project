@@ -7,6 +7,7 @@ import React, { useEffect } from 'react'
 import { Breadcrumb, Card } from 'antd'
 import Source from './MPSource/Source'
 import './index.styl'
+import Ruler from './MPRuller/Ruler'
 
 const MainPage = () => {
   const selectedExcelName = useSelector(state => state.source.selectedExcelFileName)
@@ -38,7 +39,9 @@ const MainPage = () => {
           <Breadcrumb.Item>{selectedExcelName}</Breadcrumb.Item>
         </Breadcrumb>
       </div>
-
+      <div className='MainPage-ruler'>
+        <Ruler />
+      </div>
       <div className='content'>
         <div className='Mainpage-paragraphs'>
           <Card title='Исходный файл'>

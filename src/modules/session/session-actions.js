@@ -5,6 +5,7 @@ import {
   SET_SELECTED_WORD,
   SELECT_FOLDER,
   SET_IS_CLICK,
+  SET_ALL_NODE_RULER
 } from 'modules/session/session-constants'
 import { notification } from 'antd'
 
@@ -34,8 +35,7 @@ export const setFragmentForSearching = payload => ({ type: SET_IS_CLICK, payload
 
 export const selectFolder = type => {
   return dispatch => {
-    if (type === 'metrologiya' || type === 'roskomnadzor' || type === 'orb-others' || type === 'orb-fz' || type === 'sanPin-TkYP'
-      || type === 'sanPin-YT' || type === 'sanPin-SPpOBT') {
+    if (type === 'sanPin-TkYP' || type === 'sanPin-YT' || type === 'sanPin-SPpOBT') {
       const excel = require(`./excel-file-${type}.js`) || {}
       const doc = require(`./${type}-files.js`) || {}
 
@@ -59,3 +59,5 @@ export const selectFolder = type => {
     }
   }
 }
+
+export const setAllNodeRuler = allNodeRuler => ({type: SET_ALL_NODE_RULER, allNodeRuler})

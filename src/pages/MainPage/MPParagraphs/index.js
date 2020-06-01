@@ -97,7 +97,7 @@ const MPParagraphs = () => {
               parent.classList.add('new-green')
               // class below should include next styles
               parent.classList.add('counter') // display: flex; flex-direction: row; position: relative; 
-              child.style.cssText = 'color: darkgray; margin-left: 15px; position: absolute; right: -18px; top: calc(50% - 15px)'
+              child.style.cssText = 'color: darkgray; margin-left: 15px; position: absolute; right: -25px; top: calc(50% - 15px)'
               // add dynamic class name for color
               parent.currentColor = selectedColor
               parent.classList.add(selectedColor)

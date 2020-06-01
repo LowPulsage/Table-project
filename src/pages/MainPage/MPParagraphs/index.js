@@ -9,7 +9,7 @@ const nameFunc = (propValue, name) => {
   if (!propValue) return 'red'
   const currentValue = propValue
 
-  const red = 'red', green = '#b5b207', blue = '#1446a3', yellow = '#ffa500'
+  const red = 'red', green = '#54B24E', blue = '#1446a3', yellow = '#ffa500'
 
   switch (name) {
     case 'Жаккар':
@@ -127,7 +127,7 @@ const MPParagraphs = () => {
                 // node = anchor
                 newTest1.push({
                   id: item.id ? item.id : newAnchor,
-                  color: item.currentColor || 'greyColor',
+                  color: item.currentColor || 'whiteColor',
                   anchor: window.location.pathname + "?word=" + selectedWordFileName + "&excel=" + selectedExcelFileName + "#" + item.id ? item.id : newAnchor
                 })
               }

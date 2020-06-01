@@ -20,10 +20,7 @@ const Ruler = () => {
     <div className='Ruler-root' style={{ position: 'relative' }}>
       {nodes && nodes.map(i => (
         i.id.includes('anchorid') ? <a href={`#${i.id}`} className={`seperator ${i.color}`}></a> :
-          <Tooltip title={i.id} key={i.id}>
             <a href={`#${i.id}`} className={`seperator ${i.color}`}></a>
-          </Tooltip>
-
       ))}
     </div>
   )

@@ -41,7 +41,7 @@ const Source = () => {
     if (!propValue) return <div style={{ color: 'red' }}>0.00</div>
     const currentValue = Number(propValue.replace('%', ''))
 
-    const red = 'red', green = '#b5b207', blue = '#1446a3', yellow = '#ffa500'
+    const red = 'red', green = '#54B24E', blue = '#1446a3', yellow = '#ffa500'
 
     switch (name) {
       case 'Жаккар':

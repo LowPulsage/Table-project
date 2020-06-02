@@ -1,5 +1,5 @@
 /*eslint-disable*/
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import './index.styl'
 import { useSelector } from 'react-redux'
 
@@ -14,6 +14,10 @@ const Ruler = () => {
       setSelectedSeperator(e.target.classList[2])
     }
   }
+
+  useEffect(() => {
+    let initialPos = ''
+  }, ['e.target.classList[2]'])
 
   return (
     <div className='Ruler-root' style={{ position: 'relative' }} onClick={handleClickOnSeperator}>

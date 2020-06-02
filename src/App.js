@@ -5,7 +5,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter>
       <Layout className='wrapper'>
         <Switch>
           {authorized.map(i => <Route exact key={i.path} path={i.path} component={i.component} />)}

@@ -9,7 +9,7 @@ const nameFunc = (propValue, name) => {
   if (!propValue) return 'red'
   const currentValue = propValue
 
-  const red = 'red', green = '#54B24E', blue = '#1446a3', yellow = '#ffa500'
+  const red = '#81e4ff', yellow = '#00caff', green = '#0089f8', blue = '#006ac8'
 
   switch (name) {
     case 'Жаккар':

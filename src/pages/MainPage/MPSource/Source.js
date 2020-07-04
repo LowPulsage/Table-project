@@ -7,6 +7,7 @@ import './index.styl'
 const Source = () => {
   const selectedWordFileName = useSelector(state => state.source.selectedWordFileName)
   const fragmentForSearching = useSelector(state => state.source.fragmentForSearching)
+  const fragmentForSearchingList = useSelector(state => state.source.fragmentForSearchingList)
   const allDocsFragments = useSelector(state => state.source.allDocsFragments)
   const [arr, setArr] = useState([])
   const [percents, setPercents] = useState([])
@@ -14,28 +15,11 @@ const Source = () => {
   useEffect(() => {
     if (fragmentForSearching) {
       const tempArr = allDocsFragments[selectedWordFileName] || []
-      const filterArr = tempArr.filter(i => i['Фрагмент 1'].includes(fragmentForSearching)) // исходные положения 
+      const filterArr = tempArr.filter(i => fragmentForSearchingList.includes(i['Фрагмент 1'])) // исходные положения 
       setArr(filterArr)
       setPercents(tempArr.map(p => p))
-      let jakkar = [percents[0] ? percents[0]['Жаккар'] : percents[0]]
-      let minimum = [percents[0] ? percents[0]['Минимум'] : percents[0]]
-      let cosinus = [percents[0] ? percents[0]['Косинус'] : percents[0]]
     }
   }, [fragmentForSearching])
-
-  // useEffect(() => {
-  //   const myFunction = () => {
-  //     var winScroll = document.querySelector('.Mainpage-paragraphs').scrollTop
-  //     var height = document.querySelector('.Mainpage-paragraphs').scrollHeight -  document.querySelector('.Mainpage-paragraphs').clientHeight;
-  //     var scrolled = (winScroll / height) * 100;
-  //     document.getElementById("progressBar").style.left = scrolled + "%";
-  //   }
-  //   document.querySelector('.Mainpage-paragraphs').addEventListener('scroll', myFunction);
-  //   return () => {
-  //     document.querySelector('.Mainpage-paragraphs').removeEventListener('scroll', myFunction)
-  //   }
-  // }, [])
-
 
   const nameFunc = (propValue, name) => {
     if (!propValue) return <div style={{ color: '#81e4ff' }}>0.00</div>
@@ -72,6 +56,7 @@ const Source = () => {
         break;
     }
   }
+
 
   return (
     <div className='Source-root'>

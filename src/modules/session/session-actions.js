@@ -5,7 +5,8 @@ import {
   SET_SELECTED_WORD,
   SELECT_FOLDER,
   SET_IS_CLICK,
-  SET_ALL_NODE_RULER
+  SET_ALL_NODE_RULER,
+  SET_IS_CLICK_LIST
 } from 'modules/session/session-constants'
 import { notification } from 'antd'
 
@@ -32,10 +33,11 @@ export const setSelectedExcelName = selectedExcelFileName => {
 }
 
 export const setFragmentForSearching = payload => ({ type: SET_IS_CLICK, payload })
+export const setFragmentForSearchingList = payload => ({type: SET_IS_CLICK_LIST, payload})
 
 export const selectFolder = type => {
   return dispatch => {
-    if (type === 'sanPin-TkYP' || type === 'sanPin-YT' || type === 'sanPin-SPpOBT') {
+    if (type === 'sanPin-SPpOBT' || type === 'sanPin-YT' || type === 'sanPin-TkYP') {
       const excel = require(`./excel-file-${type}.js`) || {}
       const doc = require(`./${type}-files.js`) || {}
 

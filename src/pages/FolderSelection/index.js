@@ -7,19 +7,19 @@ import './index.styl'
 const FolderSelection = () => {
   return (
     <div className='FolderSelection-documentList'>
-      <Link to='sanPin-TkYP' className='folder'>
-        <Card title='СанПин ТкУП'>
-          <img src={folder} alt='folder-sanPin-TkYP' />
+      <Link to='sanPin-SPpOBT' className='folder'>
+        <Card title='СПпОВТ'>
+          <img src={folder} alt='folder-sanPin-SPpOBT' />
         </Card>
       </Link>
       <Link to='sanPin-YT' className='folder'>
-        <Card title='СанПин УТ'>
+        <Card title='Санпин-Ут'>
           <img src={folder} alt='folder-sanPin-YT' />
         </Card>
       </Link>
-      <Link to='sanPin-SPpOBT' className='folder'>
-        <Card title='СанПин СПпОВТ'>
-          <img src={folder} alt='folder-sanPin-SPpOBT' />
+      <Link to='sanPin-TkYP' className='folder'>
+        <Card title='Санпин-ТкУП'>
+          <img src={folder} alt='folder-sanPin-TkYP' />
         </Card>
       </Link>
     </div>

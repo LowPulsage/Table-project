@@ -15,7 +15,6 @@ const MainPage = () => {
   const type = useSelector(state => state.source.type)
   const dispatch = useDispatch()
   const params = useParams()
-
   useEffect(() => {
     if (!type) {
       dispatch(selectFolder(params.type))
@@ -35,7 +34,10 @@ const MainPage = () => {
         <Breadcrumb>
           <Breadcrumb.Item><Link to='/'><HomeOutlined /></Link></Breadcrumb.Item>
           <Breadcrumb.Item><Link to={`/${params.type}`}>Исходные положения</Link></Breadcrumb.Item>
-          <Breadcrumb.Item>{selectedWordName}</Breadcrumb.Item>
+          <Breadcrumb.Item>{
+            selectedWordName
+          }
+          </Breadcrumb.Item>
           <Breadcrumb.Item>{selectedExcelName}</Breadcrumb.Item>
         </Breadcrumb>
       </div>

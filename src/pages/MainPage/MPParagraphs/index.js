@@ -1,6 +1,7 @@
 /*eslint-disable*/
-import { setFragmentForSearching, setAllNodeRuler } from 'modules/session/session-actions'
+import { setFragmentForSearching, setFragmentForSearchingList, setAllNodeRuler } from 'modules/session/session-actions'
 import { useSelector, useDispatch } from 'react-redux'
+import { Skeleton } from 'antd'
 import React, { useState, useEffect } from 'react'
 import formatDoc from './formatDoc'
 import './index.styl'
@@ -42,6 +43,7 @@ const nameFunc = (propValue, name) => {
 }
 
 const MPParagraphs = () => {
+  const [loading, setLoading] = useState(true)
   const selectedWordFileName = useSelector(state => state.source.selectedWordFileName)
   const selectedExcelFileName = useSelector(state => state.source.selectedExcelFileName)
   const fragmentForSearching = useSelector(state => state.source.fragmentForSearching)
@@ -51,6 +53,7 @@ const MPParagraphs = () => {
   const dipatch = useDispatch()
 
   useEffect(() => {
+    setLoading(true);
     if (selectedWordFileName && type) {
       // todo: recheck place. Maybe move some logic to actions?
       const documentOne = require(`modules/session/${type}-docs/${selectedWordFileName}.js`)
@@ -69,7 +72,7 @@ const MPParagraphs = () => {
               Минимум: Number(item['Минимум'].replace('%', ''))
             }
             ))
-            filterArr = filterArr.reduce((prev, current) => {
+            filterArr = filterArr.splice(0, 4000).reduce((prev, current) => {
               return ({
                 Жаккар: prev['Жаккар'] > current['Жаккар'] ? prev['Жаккар'] : current['Жаккар'],
                 Косинус: prev['Косинус'] > current['Косинус'] ? prev['Косинус'] : current['Косинус'],
@@ -89,21 +92,34 @@ const MPParagraphs = () => {
           }
           const name = i.replace(/ /g, '_')
           const node = document.querySelector(`span[name='${name}']`)
+
           if (node) {
             const parent = node.closest('.western')
             if (parent) {
-              let child = document.createElement('div')
-              child.textContent = `${countObj[i]}`
-              parent.classList.add('new-green')
-              // class below should include next styles
-              parent.classList.add('counter') // display: flex; flex-direction: row; position: relative; 
-              child.style.cssText = 'color: darkgray; margin-left: 15px; position: absolute; right: -25px; top: calc(50% - 15px)'
-              // add dynamic class name for color
-              parent.currentColor = selectedColor
-              parent.classList.add(selectedColor)
-              // parent.style.cssText = `border-color: ${selectedColor}`
-              parent.id = name
-              parent.appendChild(child)
+              if (countObj[i].length > 1) {
+                countObj[i] = i;
+              }
+              if (parent.classList.contains('counter')) {
+                parent.children[1].textContent = Number(parent.children[1].innerHTML) + Number(countObj[i])
+              } else {
+                let child = document.createElement('div')
+                if (countObj[i].length > 1) {
+                  countObj[i] = i;
+                }
+                child.textContent = countObj[i]
+                // console.log('child.textContent', child.textContent);
+                parent.classList.add('new-green')
+                // class below should include next styles
+                parent.classList.add('counter') // display: flex; flex-direction: row; position: relative; 
+                child.style.cssText = 'color: darkgray; margin-left: 15px; position: absolute; right: -25px; top: calc(50% - 15px)'
+                // add dynamic class name for color
+                parent.currentColor = selectedColor
+                parent.classList.add(selectedColor)
+                // parent.style.cssText = `border-color: ${selectedColor}`
+                parent.id = name
+                parent.appendChild(child)
+              }
+
             }
           }
         })
@@ -116,7 +132,7 @@ const MPParagraphs = () => {
             const newTest1 = []
             for (let i = 0, l = allNode.length; i < l; i++) {
               const item = allNode[i]
-              if (i % 5 === 1 || item.currentColor) {
+              if (i % 2 === 1 || item.currentColor) {
                 const newAnchor = 'anchorid=' + i
                 if (!item.id) {
                   const anchorNode = document.createElement('a')
@@ -132,30 +148,8 @@ const MPParagraphs = () => {
                 })
               }
             }
+            setLoading(false);
             dipatch(setAllNodeRuler(newTest1))
-            // move redux
-            // newTest1
-            // return
-            // const newTest1 = allNode.map(item => {
-            //   // seperator.classList.add('seperator')
-            //   const obj = {
-            //     id: item.id
-            //   }
-            //   if (item.currentColor) {
-            //     return {
-            //       ...obj,
-            //       color: item.currentColor
-            //       // anchor: 'href', window.location.pathname + "?word=" + selectedWordFileName + "&excel=" + selectedExcelFileName + "#" + item.id
-            //     }
-            //     seperator.setAttribute('href', window.location.pathname + "?word=" + selectedWordFileName + "&excel=" + selectedExcelFileName + "#" + item.id)
-            //     seperator.classList.add(item.currentColor)
-            //   } else {
-            //     return { ...obj, color: 'greyColor' }
-            //     seperator.classList.add('greyColor')
-            //   }
-            //   rootRuller.appendChild(seperator)
-            // })
-            // dispatch(setAllNodesRuler(newTest1))
           }
         }
       }, 0)
@@ -165,6 +159,15 @@ const MPParagraphs = () => {
   const selectFragment = e => {
     const parentNode = e.target.closest('p[id]') || {}
     const newId = parentNode.id
+    const chidrenList = parentNode.children?.[0].children?.[0]?.children
+    const fragmentForSearchingList = []
+    if (chidrenList) {
+      for (const currentNode of chidrenList) {
+        fragmentForSearchingList.push(currentNode.innerText.replace(/_/g, ' '))
+      }
+    }
+
+    dipatch(setFragmentForSearchingList(fragmentForSearchingList))
     if (newId) {
       dipatch(setFragmentForSearching(newId))
 
@@ -178,13 +181,18 @@ const MPParagraphs = () => {
       if (node) node.classList.add('active-fragment')
     }
   }
+
   return (
-    <div
-      dangerouslySetInnerHTML={htmlObj}
-      className='Paragraphs-root'
-      onClick={selectFragment}
-    />
+    <div>
+      {!htmlObj.__html ? <Skeleton active /> :
+        <div
+          dangerouslySetInnerHTML={htmlObj}
+          className='Paragraphs-root'
+          onClick={selectFragment}
+        />}
+    </div>
   )
+
 }
 
 export default MPParagraphs

@@ -10,8 +10,6 @@ const nameFunc = (propValue, name) => {
   if (!propValue) return 'red'
   const currentValue = propValue
 
-  const red = '#81e4ff', yellow = '#00caff', green = '#0089f8', blue = '#006ac8'
-
   switch (name) {
     case 'Жаккар':
       if (currentValue <= 45) {
@@ -159,11 +157,11 @@ const MPParagraphs = () => {
   const selectFragment = e => {
     const parentNode = e.target.closest('p[id]') || {}
     const newId = parentNode.id
-    const chidrenList = parentNode.children?.[0].children?.[0]?.children
+    const chidrenList = parentNode.children?.[0]?.children?.[0]?.getElementsByTagName('span')
     const fragmentForSearchingList = []
     if (chidrenList) {
       for (const currentNode of chidrenList) {
-        fragmentForSearchingList.push(currentNode.innerText.replace(/_/g, ' '))
+        fragmentForSearchingList.push(currentNode.getAttribute('name')?.replace(/_/g, ' '))
       }
     }
 
